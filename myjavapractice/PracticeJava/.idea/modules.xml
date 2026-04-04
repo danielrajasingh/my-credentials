@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../The-Complete-Coding-Interview-Guide-in-Java-master/CodingInterview/CodingInterview.iml" filepath="$PROJECT_DIR$/../The-Complete-Coding-Interview-Guide-in-Java-master/CodingInterview/CodingInterview.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeJava.iml" filepath="$PROJECT_DIR$/PracticeJava.iml" />
     </modules>
   </component>

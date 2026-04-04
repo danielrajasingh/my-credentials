@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RRSP & TFSA Investment Report</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f4f6f8;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+        }
+        button {
+            padding: 10px;
+            width: 100%;
+            background: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .result {
+            margin-top: 15px;
+            background: #e9f5ff;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>💰 Investment Report</h2>
+
+    <label>Monthly Salary ($)</label>
+    <input type="number" id="salary" placeholder="e.g. 8500">
+
+    <label>RRSP Investment ($ / month)</label>
+    <input type="number" id="rrsp" placeholder="e.g. 500">
+
+    <label>TFSA Investment ($ / month)</label>
+    <input type="number" id="tfsa" placeholder="e.g. 500">
+
+    <button onclick="calculate()">Generate Report</button>
+
+    <div class="result" id="output"></div>
+</div>
+
+<script>
+function calculate() {
+    let salary = parseFloat(document.getElementById("salary").value) || 0;
+    let rrsp = parseFloat(document.getElementById("rrsp").value) || 0;
+    let tfsa = parseFloat(document.getElementById("tfsa").value) || 0;
+
+    let taxRate = 0.30;
+    let annualReturn = 0.08; // 8% growth assumption
+    let years = 10;
+
+    // Monthly
+    let monthlyRefund = rrsp * taxRate;
+    let monthlyInvestment = rrsp + tfsa;
+    let monthlyEffective = monthlyInvestment - monthlyRefund;
+
+    // Yearly
+    let yearlyRRSP = rrsp * 12;
+    let yearlyTFSA = tfsa * 12;
+    let yearlyRefund = yearlyRRSP * taxRate;
+    let yearlyInvestment = yearlyRRSP + yearlyTFSA;
+    let yearlyEffective = yearlyInvestment - yearlyRefund;
+
+    // Future Value Calculation (Compound)
+    function futureValue(monthly, rate, years) {
+        let months = years * 12;
+        let monthlyRate = rate / 12;
+        let fv = 0;
+
+        for (let i = 0; i < months; i++) {
+            fv = (fv + monthly) * (1 + monthlyRate);
+        }
+        return fv;
+    }
+
+    let futureWealth = futureValue(monthlyInvestment, annualReturn, years);
+
+    // Without investing (loss)
+    let noInvestmentLoss = futureWealth;
+
+    document.getElementById("output").innerHTML = `
+    <b>📊 MONTHLY</b><br>
+    RRSP Refund: $${monthlyRefund.toFixed(2)}<br>
+    Invested: $${monthlyInvestment.toFixed(2)}<br>
+    Effective Cost: $${monthlyEffective.toFixed(2)}<br><br>
+
+    <b>📅 YEARLY</b><br>
+    RRSP Invested: $${yearlyRRSP.toFixed(2)}<br>
+    TFSA Invested: $${yearlyTFSA.toFixed(2)}<br>
+    Tax Refund: $${yearlyRefund.toFixed(2)}<br>
+    Total Invested: $${yearlyInvestment.toFixed(2)}<br>
+    Effective Cost: $${yearlyEffective.toFixed(2)}<br><br>
+
+    <b>📈 10-YEAR PROJECTION (8% Return)</b><br>
+    Future Wealth: <b>$${futureWealth.toFixed(2)}</b><br><br>
+
+    <b>⚠️ IF YOU DO NOTHING</b><br>
+    Lost Wealth Opportunity: <b>$${noInvestmentLoss.toFixed(2)}</b><br><br>
+
+    <b>💡 BENEFITS</b><br>
+    ✔ Tax savings every year ($${yearlyRefund.toFixed(0)})<br>
+    ✔ Compound growth (wealth builds automatically)<br>
+    ✔ TFSA = tax-free future withdrawals<br>
+    ✔ RRSP = immediate tax reduction<br>
+    `;
+}
+</script>
+
+</body>
+</html>
