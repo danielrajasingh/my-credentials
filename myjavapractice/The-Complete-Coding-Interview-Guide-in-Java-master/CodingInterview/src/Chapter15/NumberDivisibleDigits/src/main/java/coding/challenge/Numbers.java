@@ -1,5 +1,5 @@
 package Chapter15.NumberDivisibleDigits.src.main.java.coding.challenge;
- 
+
 public final class Numbers {
 
     private Numbers() {
