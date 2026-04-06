@@ -1,4 +1,4 @@
-package Chapter13.DirectedGraphPath.src.main.java.coding.challenge;
+package Chapter13.DirectedGraphPath.src.main.java.coding.challenge01;
 
 import java.util.*;
 

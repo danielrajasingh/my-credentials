@@ -2,245 +2,202 @@ package Chapter12.ShortestSafeRoute.src.main.java.coding.challenge11;
  
 public class Main {
 /*
-Let’s go step-by-step and make this very clear, structured, and interview-ready.
+Let’s break this down clearly and in the same structured way for all three challenges you asked about:
 
-🟡 1. What is the question?
+✅ 1. Reverse String Using Stack
+🔹 What is the question?
 
-You are given:
+You are given a string. You must reverse it using a stack (LIFO data structure), instead of using built-in reverse functions.
 
-A 2D grid (matrix) of size m × n
-Values:
-1 → safe cell
-0 → unsafe cell (danger, cannot step on or near)
-⚠️ Important Constraint:
+🔹 Analysis
+A stack follows Last-In-First-Out (LIFO).
+When you push all characters of a string into a stack:
+The last character comes out first when popping.
+So popping all characters gives the reversed string.
+🔹 Solution Approach
+Push all characters into a stack.
+Pop all characters one by one.
+Build the reversed string from popped elements.
+🔹 Implementation (Java)
+import java.util.Stack;
 
-👉 A 0 (unsafe cell) also activates its 8 neighbors
+public class ReverseStringUsingStack {
+    public static String reverse(String str) {
+        Stack<Character> stack = new Stack<>();
 
-So:
+        // Push all characters
+        for (char c : str.toCharArray()) {
+            stack.push(c);
+        }
 
-You must avoid not only 0 cells, but also cells adjacent to 0
+        // Pop and build result
+        char[] result = new char[str.length()];
+        for (int i = 0; i < str.length(); i++) {
+            result[i] = stack.pop();
+        }
 
-🎯 Goal:
+        return new String(result);
+    }
 
-Find the shortest path:
+    public static void main(String[] args) {
+        System.out.println(reverse("hello")); // olleh
+    }
+}
+✅ 2. Smallest Number After Removing K Digits
+🔹 What is the question?
 
-From any safe cell in the first column
-👉 to
-any cell in the last column
+Given:
 
-Allowed moves:
-Up, Down, Left, Right (4 directions only)
-🟡 2. Key Constraints
+A number (as a string)
+An integer k
 
-You can only:
+👉 Remove k digits to get the smallest possible number.
 
-Step on safe cells (1)
-Avoid:
-unsafe cells (0)
-cells adjacent to unsafe cells
-🟡 3. Problem Type
+🔹 Analysis
+We want the smallest number → keep smaller digits in front
+If a bigger digit appears before a smaller digit → remove the bigger one
+Use a monotonic increasing stack
+🔹 Key Idea
+Traverse digits from left to right
+Maintain stack in increasing order
+Remove larger previous digits when a smaller digit appears
+🔹 Solution Approach
+Loop through digits:
+While:
+stack not empty
+k > 0
+top > current digit
+→ pop stack
+Push current digit
+After traversal:
+If k still > 0 → remove from end
+Remove leading zeros (important in real implementation)
+🔹 Implementation (Java)
+import java.util.Stack;
 
-👉 This is a:
+public class SmallestNumber {
+    public static String smallestAfterRemove(String num, int k) {
+        Stack<Character> stack = new Stack<>();
 
-Shortest path in grid → BFS problem
+        for (int i = 0; i < num.length(); i++) {
+            char current = num.charAt(i);
 
-🟡 4. Key Idea
+            while (!stack.isEmpty() && k > 0 && stack.peek() > current) {
+                stack.pop();
+                k--;
+            }
 
-👉 Treat grid as a graph:
+            stack.push(current);
+        }
 
-Each cell = node
-Moves = edges (up/down/left/right)
+        // If k still remains
+        while (k > 0 && !stack.isEmpty()) {
+            stack.pop();
+            k--;
+        }
 
-👉 BFS is used because:
+        // Build result
+        StringBuilder result = new StringBuilder();
+        for (char c : stack) {
+            result.append(c);
+        }
 
-It finds the shortest path in unweighted graphs
+        // Remove leading zeros
+        while (result.length() > 0 && result.charAt(0) == '0') {
+            result.deleteCharAt(0);
+        }
 
-🟡 5. Important Step: Preprocessing (VERY IMPORTANT)
+        return result.length() == 0 ? "0" : result.toString();
+    }
 
-👉 First, mark unsafe zones
+    public static void main(String[] args) {
+        System.out.println(smallestAfterRemove("4514327", 4)); // 127
+    }
+}
+✅ 3. Path Between Two Nodes in Directed Graph
+🔹 What is the question?
 
-A cell is unsafe if:
+Given a directed graph, determine if there exists a path from node A → B.
 
-It is 0
-OR adjacent to 0
-So we build a safe board
-🟡 6. Algorithm
-Step 1: Mark unsafe cells
-For every 0, mark:
-itself
-its 8 neighbors as unsafe
-Step 2: BFS Initialization
-Create a queue
-Add all safe cells in first column
-Set their distance = 0
-Mark visited
-Step 3: BFS Traversal
+🔹 Analysis
+This is a graph traversal problem
+We need to check if we can reach destination node
+Two common approaches:
+BFS (Breadth-First Search)
+DFS (Depth-First Search)
 
-While queue not empty:
+👉 BFS is used in your example.
 
-Pop cell
-If it is in last column → return distance
-Explore 4 directions:
-up, down, left, right
-If valid and safe:
-mark visited
-push with distance +1
-Step 4: If no path found
-
-Return -1
-
-🟡 7. Solution (Code Implementation)
+🔹 Key Idea
+Start from from node
+Explore all reachable nodes
+If we reach to → return true
+If traversal ends → return false
+🔹 Solution Approach (BFS)
+Use a queue
+Use a visited set to avoid cycles
+Start from source node
+Traverse neighbors
+Stop when destination is found
+🔹 Implementation (Java)
 import java.util.*;
 
-public class ShortestSafeRoute {
+public class DirectedGraphPath {
+    private Map<Integer, List<Integer>> adjacencyList = new HashMap<>();
 
-    static class Cell {
-        int r, c, dist;
-        Cell(int r, int c, int dist) {
-            this.r = r;
-            this.c = c;
-            this.dist = dist;
-        }
+    public void addEdge(int from, int to) {
+        adjacencyList.computeIfAbsent(from, k -> new ArrayList<>()).add(to);
     }
 
-    static int M, N;
+    public boolean isPath(int from, int to) {
+        Queue<Integer> queue = new ArrayDeque<>();
+        Set<Integer> visited = new HashSet<>();
 
-    static int[] ROW_4 = {-1, 0, 1, 0};
-    static int[] COL_4 = {0, -1, 0, 1};
-
-    public static int shortestPath(int[][] board) {
-        M = board.length;
-        N = board[0].length;
-
-        boolean[][] safe = preprocess(board);
-        boolean[][] visited = new boolean[M][N];
-
-        Queue<Cell> queue = new LinkedList<>();
-
-        // Start from all safe cells in first column
-        for (int i = 0; i < M; i++) {
-            if (safe[i][0]) {
-                queue.add(new Cell(i, 0, 0));
-                visited[i][0] = true;
-            }
-        }
+        queue.add(from);
+        visited.add(from);
 
         while (!queue.isEmpty()) {
-            Cell curr = queue.poll();
+            int node = queue.poll();
 
-            // If reached last column
-            if (curr.c == N - 1) {
-                return curr.dist + 1;
-            }
-
-            // Explore 4 directions
-            for (int k = 0; k < 4; k++) {
-                int nr = curr.r + ROW_4[k];
-                int nc = curr.c + COL_4[k];
-
-                if (isValid(nr, nc) && safe[nr][nc] && !visited[nr][nc]) {
-                    visited[nr][nc] = true;
-                    queue.add(new Cell(nr, nc, curr.dist + 1));
-                }
-            }
-        }
-
-        return -1;
-    }
-
-    // Check bounds
-    static boolean isValid(int r, int c) {
-        return r >= 0 && r < M && c >= 0 && c < N;
-    }
-
-    // Preprocess unsafe cells
-    static boolean[][] preprocess(int[][] board) {
-        boolean[][] safe = new boolean[M][N];
-
-        // Initially all safe
-        for (int i = 0; i < M; i++) {
-            Arrays.fill(safe[i], true);
-        }
-
-        int[] ROW_8 = {-1,-1,-1,0,1,1,1,0};
-        int[] COL_8 = {-1,0,1,1,1,0,-1,-1};
-
-        // Mark unsafe zones
-        for (int i = 0; i < M; i++) {
-            for (int j = 0; j < N; j++) {
-                if (board[i][j] == 0) {
-                    safe[i][j] = false;
-
-                    for (int k = 0; k < 8; k++) {
-                        int nr = i + ROW_8[k];
-                        int nc = j + COL_8[k];
-
-                        if (isValid(nr, nc)) {
-                            safe[nr][nc] = false;
+            List<Integer> neighbors = adjacencyList.get(node);
+            if (neighbors != null) {
+                for (int next : neighbors) {
+                    if (!visited.contains(next)) {
+                        if (next == to) {
+                            return true;
                         }
+                        visited.add(next);
+                        queue.add(next);
                     }
                 }
             }
         }
 
-        return safe;
+        return false;
     }
 
     public static void main(String[] args) {
-        int[][] board = {
-            {1,1,1,1},
-            {1,0,1,1},
-            {1,1,1,1},
-            {0,1,1,1}
-        };
+        DirectedGraphPath graph = new DirectedGraphPath();
 
-        System.out.println(shortestPath(board));
+        graph.addEdge(1, 2);
+        graph.addEdge(2, 3);
+        graph.addEdge(3, 4);
+
+        System.out.println(graph.isPath(1, 4)); // true
+        System.out.println(graph.isPath(4, 1)); // false
     }
 }
-🟡 8. Complexity Analysis
-⏱ Time:
-O(m × n)
-🧠 Space:
-O(m × n)
-🟡 9. Key Insights
-🔑 This is a graph shortest path problem
-🔑 Use BFS (not DFS)
-🔑 Preprocess unsafe zones
-🔑 Multi-source BFS (first column)
-🟡 10. Common Mistakes
+🎯 Summary
+Problem	Core Idea	Data Structure
+Reverse String	LIFO order reverses characters	Stack
+Smallest Number	Remove larger digits greedily	Monotonic Stack
+Path in Graph	Traverse nodes until destination	BFS / DFS
 
-❌ Ignoring 8-direction unsafe expansion
-❌ Using DFS (wrong for shortest path)
-❌ Not marking visited
-❌ Starting from one cell only (instead of all first column cells)
+If you want next level understanding, I can:
 
-🟡 11. Pattern Recognition
-
-This is a high-level BFS pattern used in:
-
-Grid shortest path
-Multi-source BFS
-Pathfinding problems
-🟡 12. Summary
-
-👉 Problem:
-
-Find shortest safe path from first to last column
-
-👉 Trick:
-
-Mark unsafe zones first
-Use multi-source BFS
-
-👉 Key:
-
-Shortest path = first time reaching destination in BFS
-
-If you want next, I can:
-
-Show step-by-step dry run
-Compare with Dijkstra vs BFS
-Give harder variations (Google-level)
+Show dry run step-by-step
+Give interview tricks & patterns
+Provide similar Google/Amazon questions
  */
     public static void main(String[] args) {
 
