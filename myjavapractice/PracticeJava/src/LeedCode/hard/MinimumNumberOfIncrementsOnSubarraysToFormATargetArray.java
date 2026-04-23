@@ -1,1 +1,1 @@
-package hard;public class MinimumNumberOfIncrementsOnSubarraysToFormATargetArray{public static void main(String[]args){System.out.println("MinimumNumberOfIncrementsOnSubarraysToFormATargetArray works\n");}}
+package hard;public class MinimumNumberOfIncrementsOnSubarraysToFormATargetArray{public static void solve(){System.out.println("MinimumNumberOfIncrementsOnSubarraysToFormATargetArray implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class MinimumNumberOfFlipsToMakeTheBinaryStringAlternating{public static void main(String[]args){System.out.println("MinimumNumberOfFlipsToMakeTheBinaryStringAlternating works\n");}}
+package medium;public class MinimumNumberOfFlipsToMakeTheBinaryStringAlternating{public static void solve(){System.out.println("MinimumNumberOfFlipsToMakeTheBinaryStringAlternating implementation");}public static void main(String[]args){solve();}}

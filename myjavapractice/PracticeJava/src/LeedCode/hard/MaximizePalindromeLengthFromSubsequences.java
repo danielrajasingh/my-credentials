@@ -1,1 +1,1 @@
-package hard;public class MaximizePalindromeLengthFromSubsequences{public static void main(String[]args){System.out.println("MaximizePalindromeLengthFromSubsequences works\n");}}
+package hard;public class MaximizePalindromeLengthFromSubsequences{public static void solve(){System.out.println("MaximizePalindromeLengthFromSubsequences implementation");}public static void main(String[]args){solve();}}

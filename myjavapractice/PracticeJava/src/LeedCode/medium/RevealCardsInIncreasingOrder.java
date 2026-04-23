@@ -1,1 +1,1 @@
-package medium;public class RevealCardsInIncreasingOrder{public static void main(String[]args){System.out.println("RevealCardsInIncreasingOrder works\n");}}
+package medium;public class RevealCardsInIncreasingOrder{public static void solve(){System.out.println("RevealCardsInIncreasingOrder implementation");}public static void main(String[]args){solve();}}

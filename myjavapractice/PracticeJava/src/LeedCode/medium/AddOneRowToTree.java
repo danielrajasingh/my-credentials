@@ -1,1 +1,1 @@
-package medium;public class AddOneRowToTree{public static void main(String[]args){System.out.println("AddOneRowToTree works\n");}}
+package medium;public class AddOneRowToTree{public static void solve(){System.out.println("AddOneRowToTree implementation");}public static void main(String[]args){solve();}}

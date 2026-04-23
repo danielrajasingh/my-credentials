@@ -1,1 +1,1 @@
-package hard;public class TheNumberOfFullRoundsYouHavePlayed{public static void main(String[]args){System.out.println("TheNumberOfFullRoundsYouHavePlayed works\n");}}
+package hard;public class TheNumberOfFullRoundsYouHavePlayed{public static void solve(){System.out.println("TheNumberOfFullRoundsYouHavePlayed implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class LongestHappyString{public static void main(String[]args){System.out.println("LongestHappyString works\n");}}
+package hard;public class LongestHappyString{public static void solve(){System.out.println("LongestHappyString implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class TheKThLexicographicalStringOfAllHappyStringsOfLengthN{public static void main(String[]args){System.out.println("TheKThLexicographicalStringOfAllHappyStringsOfLengthN works\n");}}
+package hard;public class TheKThLexicographicalStringOfAllHappyStringsOfLengthN{public static void solve(){System.out.println("TheKThLexicographicalStringOfAllHappyStringsOfLengthN implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class CherryPickupIi{public static void main(String[]args){System.out.println("CherryPickupIi works\n");}}
+package medium;public class CherryPickupIi{public static void solve(){System.out.println("CherryPickupIi implementation");}public static void main(String[]args){solve();}}

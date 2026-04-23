@@ -1,1 +1,1 @@
-package hard;public class ReverseSubarrayToMaximizeArrayValue{public static void main(String[]args){System.out.println("ReverseSubarrayToMaximizeArrayValue works\n");}}
+package hard;public class ReverseSubarrayToMaximizeArrayValue{public static void solve(){System.out.println("ReverseSubarrayToMaximizeArrayValue implementation");}public static void main(String[]args){solve();}}

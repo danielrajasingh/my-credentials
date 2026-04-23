@@ -1,1 +1,1 @@
-package hard;public class NumberOfSetsOfKNonOverlappingLineSegments{public static void main(String[]args){System.out.println("NumberOfSetsOfKNonOverlappingLineSegments works\n");}}
+package hard;public class NumberOfSetsOfKNonOverlappingLineSegments{public static void solve(){System.out.println("NumberOfSetsOfKNonOverlappingLineSegments implementation");}public static void main(String[]args){solve();}}

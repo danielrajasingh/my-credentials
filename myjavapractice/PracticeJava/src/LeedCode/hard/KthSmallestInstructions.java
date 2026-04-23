@@ -1,1 +1,1 @@
-package hard;public class KthSmallestInstructions{public static void main(String[]args){System.out.println("KthSmallestInstructions works\n");}}
+package hard;public class KthSmallestInstructions{public static void solve(){System.out.println("KthSmallestInstructions implementation");}public static void main(String[]args){solve();}}

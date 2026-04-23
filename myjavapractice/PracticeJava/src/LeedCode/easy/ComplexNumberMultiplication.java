@@ -1,1 +1,1 @@
-package easy;public class ComplexNumberMultiplication{public static void main(String[]args){System.out.println("ComplexNumberMultiplication works\n");}}
+package easy;public class ComplexNumberMultiplication{public static void solve(){System.out.println("ComplexNumberMultiplication implementation");}public static void main(String[]args){solve();}}

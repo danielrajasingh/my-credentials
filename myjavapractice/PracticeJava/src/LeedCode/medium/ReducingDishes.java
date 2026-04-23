@@ -1,1 +1,1 @@
-package medium;public class ReducingDishes{public static void main(String[]args){System.out.println("ReducingDishes works\n");}}
+package medium;public class ReducingDishes{public static void solve(){System.out.println("ReducingDishes implementation");}public static void main(String[]args){solve();}}

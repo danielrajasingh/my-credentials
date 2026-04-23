@@ -1,1 +1,1 @@
-package medium;public class EliminationGame{public static void main(String[]args){System.out.println("EliminationGame works\n");}}
+package medium;public class EliminationGame{public static void solve(){System.out.println("EliminationGame implementation");}public static void main(String[]args){solve();}}

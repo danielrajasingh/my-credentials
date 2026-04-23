@@ -1,1 +1,1 @@
-package medium;public class DetermineColorOfAChessboardSquare{public static void main(String[]args){System.out.println("DetermineColorOfAChessboardSquare works\n");}}
+package medium;public class DetermineColorOfAChessboardSquare{public static void solve(){System.out.println("DetermineColorOfAChessboardSquare implementation");}public static void main(String[]args){solve();}}

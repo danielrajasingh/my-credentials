@@ -1,1 +1,1 @@
-package hard;public class FindIfPathExistsInGraph{public static void main(String[]args){System.out.println("FindIfPathExistsInGraph works\n");}}
+package hard;public class FindIfPathExistsInGraph{public static void solve(){System.out.println("FindIfPathExistsInGraph implementation");}public static void main(String[]args){solve();}}

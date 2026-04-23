@@ -1,1 +1,1 @@
-package medium;public class MergeTripletsToFormTargetTriplet{public static void main(String[]args){System.out.println("MergeTripletsToFormTargetTriplet works\n");}}
+package medium;public class MergeTripletsToFormTargetTriplet{public static void solve(){System.out.println("MergeTripletsToFormTargetTriplet implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class IntegerToEnglishWords{public static void main(String[]args){System.out.println("IntegerToEnglishWords works\n");}}
+package hard;public class IntegerToEnglishWords{public static void solve(){System.out.println("IntegerToEnglishWords implementation");}public static void main(String[]args){solve();}}

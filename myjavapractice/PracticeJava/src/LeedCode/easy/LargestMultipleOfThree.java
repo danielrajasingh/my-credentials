@@ -1,1 +1,1 @@
-package easy;public class LargestMultipleOfThree{public static void main(String[]args){System.out.println("LargestMultipleOfThree works\n");}}
+package easy;public class LargestMultipleOfThree{public static void solve(){System.out.println("LargestMultipleOfThree implementation");}public static void main(String[]args){solve();}}

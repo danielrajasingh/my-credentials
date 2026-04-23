@@ -1,1 +1,1 @@
-package easy;public class NumberOfWaysOfCuttingAPizza{public static void main(String[]args){System.out.println("NumberOfWaysOfCuttingAPizza works\n");}}
+package easy;public class NumberOfWaysOfCuttingAPizza{public static void solve(){System.out.println("NumberOfWaysOfCuttingAPizza implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class FlippingAnImage{public static void main(String[]args){System.out.println("FlippingAnImage works\n");}}
+package medium;public class FlippingAnImage{public static void solve(){System.out.println("FlippingAnImage implementation");}public static void main(String[]args){solve();}}

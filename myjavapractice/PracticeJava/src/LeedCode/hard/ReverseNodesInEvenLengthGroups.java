@@ -1,1 +1,1 @@
-package hard;public class ReverseNodesInEvenLengthGroups{public static void main(String[]args){System.out.println("ReverseNodesInEvenLengthGroups works\n");}}
+package hard;public class ReverseNodesInEvenLengthGroups{public static void solve(){System.out.println("ReverseNodesInEvenLengthGroups implementation");}public static void main(String[]args){solve();}}

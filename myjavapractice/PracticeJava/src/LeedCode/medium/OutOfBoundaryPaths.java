@@ -1,1 +1,1 @@
-package medium;public class OutOfBoundaryPaths{public static void main(String[]args){System.out.println("OutOfBoundaryPaths works\n");}}
+package medium;public class OutOfBoundaryPaths{public static void solve(){System.out.println("OutOfBoundaryPaths implementation");}public static void main(String[]args){solve();}}

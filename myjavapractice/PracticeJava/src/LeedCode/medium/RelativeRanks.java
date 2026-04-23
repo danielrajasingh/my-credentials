@@ -1,1 +1,1 @@
-package medium;public class RelativeRanks{public static void main(String[]args){System.out.println("RelativeRanks works\n");}}
+package medium;public class RelativeRanks{public static void solve(){System.out.println("RelativeRanks implementation");}public static void main(String[]args){solve();}}

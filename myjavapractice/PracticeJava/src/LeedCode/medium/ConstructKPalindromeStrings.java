@@ -1,1 +1,1 @@
-package medium;public class ConstructKPalindromeStrings{public static void main(String[]args){System.out.println("ConstructKPalindromeStrings works\n");}}
+package medium;public class ConstructKPalindromeStrings{public static void solve(){System.out.println("ConstructKPalindromeStrings implementation");}public static void main(String[]args){solve();}}

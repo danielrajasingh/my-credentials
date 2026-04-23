@@ -1,1 +1,1 @@
-package easy;public class WordLadderIi{public static void main(String[]args){System.out.println("WordLadderIi works\n");}}
+package easy;public class WordLadderIi{public static void solve(){System.out.println("WordLadderIi implementation");}public static void main(String[]args){solve();}}

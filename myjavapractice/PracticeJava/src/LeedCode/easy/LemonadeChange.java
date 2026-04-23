@@ -1,1 +1,1 @@
-package easy;public class LemonadeChange{public static void main(String[]args){System.out.println("LemonadeChange works\n");}}
+package easy;public class LemonadeChange{public static void solve(){System.out.println("LemonadeChange implementation");}public static void main(String[]args){solve();}}

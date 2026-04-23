@@ -1,1 +1,1 @@
-package medium;public class AdditiveNumber{public static void main(String[]args){System.out.println("AdditiveNumber works\n");}}
+package medium;public class AdditiveNumber{public static void solve(){System.out.println("AdditiveNumber implementation");}public static void main(String[]args){solve();}}

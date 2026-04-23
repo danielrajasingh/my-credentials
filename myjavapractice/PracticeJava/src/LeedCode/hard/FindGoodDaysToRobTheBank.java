@@ -1,1 +1,1 @@
-package hard;public class FindGoodDaysToRobTheBank{public static void main(String[]args){System.out.println("FindGoodDaysToRobTheBank works\n");}}
+package hard;public class FindGoodDaysToRobTheBank{public static void solve(){System.out.println("FindGoodDaysToRobTheBank implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class CrawlerLogFolder{public static void main(String[]args){System.out.println("CrawlerLogFolder works\n");}}
+package hard;public class CrawlerLogFolder{public static void solve(){System.out.println("CrawlerLogFolder implementation");}public static void main(String[]args){solve();}}

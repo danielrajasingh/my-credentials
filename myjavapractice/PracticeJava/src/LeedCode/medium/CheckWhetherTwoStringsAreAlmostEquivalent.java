@@ -1,1 +1,1 @@
-package medium;public class CheckWhetherTwoStringsAreAlmostEquivalent{public static void main(String[]args){System.out.println("CheckWhetherTwoStringsAreAlmostEquivalent works\n");}}
+package medium;public class CheckWhetherTwoStringsAreAlmostEquivalent{public static void solve(){System.out.println("CheckWhetherTwoStringsAreAlmostEquivalent implementation");}public static void main(String[]args){solve();}}

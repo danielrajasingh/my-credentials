@@ -1,1 +1,1 @@
-package medium;public class NumberOfEnclaves{public static void main(String[]args){System.out.println("NumberOfEnclaves works\n");}}
+package medium;public class NumberOfEnclaves{public static void solve(){System.out.println("NumberOfEnclaves implementation");}public static void main(String[]args){solve();}}

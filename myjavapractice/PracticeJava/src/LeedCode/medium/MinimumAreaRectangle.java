@@ -1,1 +1,1 @@
-package medium;public class MinimumAreaRectangle{public static void main(String[]args){System.out.println("MinimumAreaRectangle works\n");}}
+package medium;public class MinimumAreaRectangle{public static void solve(){System.out.println("MinimumAreaRectangle implementation");}public static void main(String[]args){solve();}}

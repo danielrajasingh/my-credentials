@@ -1,1 +1,1 @@
-package medium;public class MinimumIncrementToMakeArrayUnique{public static void main(String[]args){System.out.println("MinimumIncrementToMakeArrayUnique works\n");}}
+package medium;public class MinimumIncrementToMakeArrayUnique{public static void solve(){System.out.println("MinimumIncrementToMakeArrayUnique implementation");}public static void main(String[]args){solve();}}

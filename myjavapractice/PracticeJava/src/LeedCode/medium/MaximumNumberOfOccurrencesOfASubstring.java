@@ -1,1 +1,1 @@
-package medium;public class MaximumNumberOfOccurrencesOfASubstring{public static void main(String[]args){System.out.println("MaximumNumberOfOccurrencesOfASubstring works\n");}}
+package medium;public class MaximumNumberOfOccurrencesOfASubstring{public static void solve(){System.out.println("MaximumNumberOfOccurrencesOfASubstring implementation");}public static void main(String[]args){solve();}}

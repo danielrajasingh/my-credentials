@@ -1,1 +1,1 @@
-package hard;public class MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses{public static void main(String[]args){System.out.println("MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses works\n");}}
+package hard;public class MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses{public static void solve(){System.out.println("MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses implementation");}public static void main(String[]args){solve();}}

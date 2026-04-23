@@ -1,1 +1,1 @@
-package hard;public class CountNicePairsInAnArray{public static void main(String[]args){System.out.println("CountNicePairsInAnArray works\n");}}
+package hard;public class CountNicePairsInAnArray{public static void solve(){System.out.println("CountNicePairsInAnArray implementation");}public static void main(String[]args){solve();}}

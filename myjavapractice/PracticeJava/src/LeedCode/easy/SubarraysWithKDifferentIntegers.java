@@ -1,1 +1,1 @@
-package easy;public class SubarraysWithKDifferentIntegers{public static void main(String[]args){System.out.println("SubarraysWithKDifferentIntegers works\n");}}
+package easy;public class SubarraysWithKDifferentIntegers{public static void solve(){System.out.println("SubarraysWithKDifferentIntegers implementation");}public static void main(String[]args){solve();}}

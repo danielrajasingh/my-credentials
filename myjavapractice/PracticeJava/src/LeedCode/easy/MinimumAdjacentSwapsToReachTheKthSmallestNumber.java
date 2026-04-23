@@ -1,1 +1,1 @@
-package easy;public class MinimumAdjacentSwapsToReachTheKthSmallestNumber{public static void main(String[]args){System.out.println("MinimumAdjacentSwapsToReachTheKthSmallestNumber works\n");}}
+package easy;public class MinimumAdjacentSwapsToReachTheKthSmallestNumber{public static void solve(){System.out.println("MinimumAdjacentSwapsToReachTheKthSmallestNumber implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class CellsWithOddValuesInAMatrix{public static void main(String[]args){System.out.println("CellsWithOddValuesInAMatrix works\n");}}
+package medium;public class CellsWithOddValuesInAMatrix{public static void solve(){System.out.println("CellsWithOddValuesInAMatrix implementation");}public static void main(String[]args){solve();}}

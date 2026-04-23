@@ -1,1 +1,1 @@
-package hard;public class ReformatDate{public static void main(String[]args){System.out.println("ReformatDate works\n");}}
+package hard;public class ReformatDate{public static void solve(){System.out.println("ReformatDate implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class SplitAStringIntoTheMaxNumberOfUniqueSubstrings{public static void main(String[]args){System.out.println("SplitAStringIntoTheMaxNumberOfUniqueSubstrings works\n");}}
+package medium;public class SplitAStringIntoTheMaxNumberOfUniqueSubstrings{public static void solve(){System.out.println("SplitAStringIntoTheMaxNumberOfUniqueSubstrings implementation");}public static void main(String[]args){solve();}}

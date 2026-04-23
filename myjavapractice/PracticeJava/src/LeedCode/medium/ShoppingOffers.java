@@ -1,1 +1,1 @@
-package medium;public class ShoppingOffers{public static void main(String[]args){System.out.println("ShoppingOffers works\n");}}
+package medium;public class ShoppingOffers{public static void solve(){System.out.println("ShoppingOffers implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class MinimumCostToMoveChipsToTheSamePosition{public static void main(String[]args){System.out.println("MinimumCostToMoveChipsToTheSamePosition works\n");}}
+package medium;public class MinimumCostToMoveChipsToTheSamePosition{public static void solve(){System.out.println("MinimumCostToMoveChipsToTheSamePosition implementation");}public static void main(String[]args){solve();}}

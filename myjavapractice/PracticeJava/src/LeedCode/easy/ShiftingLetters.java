@@ -1,1 +1,1 @@
-package easy;public class ShiftingLetters{public static void main(String[]args){System.out.println("ShiftingLetters works\n");}}
+package easy;public class ShiftingLetters{public static void solve(){System.out.println("ShiftingLetters implementation");}public static void main(String[]args){solve();}}

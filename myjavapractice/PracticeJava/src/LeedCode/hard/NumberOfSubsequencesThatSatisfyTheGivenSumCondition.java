@@ -1,1 +1,1 @@
-package hard;public class NumberOfSubsequencesThatSatisfyTheGivenSumCondition{public static void main(String[]args){System.out.println("NumberOfSubsequencesThatSatisfyTheGivenSumCondition works\n");}}
+package hard;public class NumberOfSubsequencesThatSatisfyTheGivenSumCondition{public static void solve(){System.out.println("NumberOfSubsequencesThatSatisfyTheGivenSumCondition implementation");}public static void main(String[]args){solve();}}

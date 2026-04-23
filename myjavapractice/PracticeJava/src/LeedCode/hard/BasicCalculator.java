@@ -1,1 +1,1 @@
-package hard;public class BasicCalculator{public static void main(String[]args){System.out.println("BasicCalculator works\n");}}
+package hard;public class BasicCalculator{public static void solve(){System.out.println("BasicCalculator implementation");}public static void main(String[]args){solve();}}

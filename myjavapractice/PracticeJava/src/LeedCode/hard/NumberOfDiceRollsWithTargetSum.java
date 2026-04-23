@@ -1,1 +1,1 @@
-package hard;public class NumberOfDiceRollsWithTargetSum{public static void main(String[]args){System.out.println("NumberOfDiceRollsWithTargetSum works\n");}}
+package hard;public class NumberOfDiceRollsWithTargetSum{public static void solve(){System.out.println("NumberOfDiceRollsWithTargetSum implementation");}public static void main(String[]args){solve();}}

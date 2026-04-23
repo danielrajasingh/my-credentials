@@ -1,1 +1,1 @@
-package easy;public class MaximumAlternatingSubsequenceSum{public static void main(String[]args){System.out.println("MaximumAlternatingSubsequenceSum works\n");}}
+package easy;public class MaximumAlternatingSubsequenceSum{public static void solve(){System.out.println("MaximumAlternatingSubsequenceSum implementation");}public static void main(String[]args){solve();}}

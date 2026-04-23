@@ -1,1 +1,1 @@
-package medium;public class DistinctSubsequencesIi{public static void main(String[]args){System.out.println("DistinctSubsequencesIi works\n");}}
+package medium;public class DistinctSubsequencesIi{public static void solve(){System.out.println("DistinctSubsequencesIi implementation");}public static void main(String[]args){solve();}}

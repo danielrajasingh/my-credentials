@@ -1,1 +1,1 @@
-package easy;public class TheKWeakestRowsInAMatrix{public static void main(String[]args){System.out.println("TheKWeakestRowsInAMatrix works\n");}}
+package easy;public class TheKWeakestRowsInAMatrix{public static void solve(){System.out.println("TheKWeakestRowsInAMatrix implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class WaterAndJugProblem{public static void main(String[]args){System.out.println("WaterAndJugProblem works\n");}}
+package hard;public class WaterAndJugProblem{public static void solve(){System.out.println("WaterAndJugProblem implementation");}public static void main(String[]args){solve();}}

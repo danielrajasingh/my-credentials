@@ -1,1 +1,1 @@
-package hard;public class RepeatedStringMatch{public static void main(String[]args){System.out.println("RepeatedStringMatch works\n");}}
+package hard;public class RepeatedStringMatch{public static void solve(){System.out.println("RepeatedStringMatch implementation");}public static void main(String[]args){solve();}}

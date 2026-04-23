@@ -1,1 +1,1 @@
-package medium;public class CountBinarySubstrings{public static void main(String[]args){System.out.println("CountBinarySubstrings works\n");}}
+package medium;public class CountBinarySubstrings{public static void solve(){System.out.println("CountBinarySubstrings implementation");}public static void main(String[]args){solve();}}

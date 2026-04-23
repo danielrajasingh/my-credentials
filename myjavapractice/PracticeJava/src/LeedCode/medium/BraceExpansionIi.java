@@ -1,1 +1,1 @@
-package medium;public class BraceExpansionIi{public static void main(String[]args){System.out.println("BraceExpansionIi works\n");}}
+package medium;public class BraceExpansionIi{public static void solve(){System.out.println("BraceExpansionIi implementation");}public static void main(String[]args){solve();}}

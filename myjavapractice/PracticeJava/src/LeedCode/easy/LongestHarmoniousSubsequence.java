@@ -1,1 +1,1 @@
-package easy;public class LongestHarmoniousSubsequence{public static void main(String[]args){System.out.println("LongestHarmoniousSubsequence works\n");}}
+package easy;public class LongestHarmoniousSubsequence{public static void solve(){System.out.println("LongestHarmoniousSubsequence implementation");}public static void main(String[]args){solve();}}

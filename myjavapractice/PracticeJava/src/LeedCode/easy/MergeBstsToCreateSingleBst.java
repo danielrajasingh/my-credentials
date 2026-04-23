@@ -1,1 +1,1 @@
-package easy;public class MergeBstsToCreateSingleBst{public static void main(String[]args){System.out.println("MergeBstsToCreateSingleBst works\n");}}
+package easy;public class MergeBstsToCreateSingleBst{public static void solve(){System.out.println("MergeBstsToCreateSingleBst implementation");}public static void main(String[]args){solve();}}

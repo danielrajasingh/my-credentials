@@ -1,1 +1,1 @@
-package easy;public class GridIllumination{public static void main(String[]args){System.out.println("GridIllumination works\n");}}
+package easy;public class GridIllumination{public static void solve(){System.out.println("GridIllumination implementation");}public static void main(String[]args){solve();}}

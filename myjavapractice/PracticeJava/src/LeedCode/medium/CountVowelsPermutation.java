@@ -1,1 +1,1 @@
-package medium;public class CountVowelsPermutation{public static void main(String[]args){System.out.println("CountVowelsPermutation works\n");}}
+package medium;public class CountVowelsPermutation{public static void solve(){System.out.println("CountVowelsPermutation implementation");}public static void main(String[]args){solve();}}

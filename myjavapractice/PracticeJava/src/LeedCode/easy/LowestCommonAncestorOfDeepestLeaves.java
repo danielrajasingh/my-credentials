@@ -1,1 +1,1 @@
-package easy;public class LowestCommonAncestorOfDeepestLeaves{public static void main(String[]args){System.out.println("LowestCommonAncestorOfDeepestLeaves works\n");}}
+package easy;public class LowestCommonAncestorOfDeepestLeaves{public static void solve(){System.out.println("LowestCommonAncestorOfDeepestLeaves implementation");}public static void main(String[]args){solve();}}

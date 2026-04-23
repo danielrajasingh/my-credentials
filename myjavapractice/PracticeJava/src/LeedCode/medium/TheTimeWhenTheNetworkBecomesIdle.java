@@ -1,1 +1,1 @@
-package medium;public class TheTimeWhenTheNetworkBecomesIdle{public static void main(String[]args){System.out.println("TheTimeWhenTheNetworkBecomesIdle works\n");}}
+package medium;public class TheTimeWhenTheNetworkBecomesIdle{public static void solve(){System.out.println("TheTimeWhenTheNetworkBecomesIdle implementation");}public static void main(String[]args){solve();}}

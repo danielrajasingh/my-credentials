@@ -1,1 +1,1 @@
-package medium;public class SmallestGoodBase{public static void main(String[]args){System.out.println("SmallestGoodBase works\n");}}
+package medium;public class SmallestGoodBase{public static void solve(){System.out.println("SmallestGoodBase implementation");}public static void main(String[]args){solve();}}

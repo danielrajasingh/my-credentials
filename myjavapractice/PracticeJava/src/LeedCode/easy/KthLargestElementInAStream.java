@@ -1,1 +1,1 @@
-package easy;public class KthLargestElementInAStream{public static void main(String[]args){System.out.println("KthLargestElementInAStream works\n");}}
+package easy;public class KthLargestElementInAStream{public static void solve(){System.out.println("KthLargestElementInAStream implementation");}public static void main(String[]args){solve();}}

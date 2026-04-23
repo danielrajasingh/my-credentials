@@ -1,1 +1,1 @@
-package medium;public class BinaryTreeTilt{public static void main(String[]args){System.out.println("BinaryTreeTilt works\n");}}
+package medium;public class BinaryTreeTilt{public static void solve(){System.out.println("BinaryTreeTilt implementation");}public static void main(String[]args){solve();}}

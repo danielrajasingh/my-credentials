@@ -1,1 +1,1 @@
-package medium;public class GetBiggestThreeRhombusSumsInAGrid{public static void main(String[]args){System.out.println("GetBiggestThreeRhombusSumsInAGrid works\n");}}
+package medium;public class GetBiggestThreeRhombusSumsInAGrid{public static void solve(){System.out.println("GetBiggestThreeRhombusSumsInAGrid implementation");}public static void main(String[]args){solve();}}

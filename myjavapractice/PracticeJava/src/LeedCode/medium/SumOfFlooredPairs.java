@@ -1,1 +1,1 @@
-package medium;public class SumOfFlooredPairs{public static void main(String[]args){System.out.println("SumOfFlooredPairs works\n");}}
+package medium;public class SumOfFlooredPairs{public static void solve(){System.out.println("SumOfFlooredPairs implementation");}public static void main(String[]args){solve();}}

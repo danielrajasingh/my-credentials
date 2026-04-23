@@ -1,1 +1,1 @@
-package easy;public class BinarySearchTreeToGreaterSumTree{public static void main(String[]args){System.out.println("BinarySearchTreeToGreaterSumTree works\n");}}
+package easy;public class BinarySearchTreeToGreaterSumTree{public static void solve(){System.out.println("BinarySearchTreeToGreaterSumTree implementation");}public static void main(String[]args){solve();}}

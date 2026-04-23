@@ -1,1 +1,1 @@
-package medium;public class ShortestPathWithAlternatingColors{public static void main(String[]args){System.out.println("ShortestPathWithAlternatingColors works\n");}}
+package medium;public class ShortestPathWithAlternatingColors{public static void solve(){System.out.println("ShortestPathWithAlternatingColors implementation");}public static void main(String[]args){solve();}}

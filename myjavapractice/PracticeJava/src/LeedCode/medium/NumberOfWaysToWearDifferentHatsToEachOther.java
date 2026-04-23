@@ -1,1 +1,1 @@
-package medium;public class NumberOfWaysToWearDifferentHatsToEachOther{public static void main(String[]args){System.out.println("NumberOfWaysToWearDifferentHatsToEachOther works\n");}}
+package medium;public class NumberOfWaysToWearDifferentHatsToEachOther{public static void solve(){System.out.println("NumberOfWaysToWearDifferentHatsToEachOther implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class DistributeCandiesToPeople{public static void main(String[]args){System.out.println("DistributeCandiesToPeople works\n");}}
+package medium;public class DistributeCandiesToPeople{public static void solve(){System.out.println("DistributeCandiesToPeople implementation");}public static void main(String[]args){solve();}}

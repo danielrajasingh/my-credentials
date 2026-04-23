@@ -1,1 +1,1 @@
-package medium;public class FormLargestIntegerWithDigitsThatAddUpToTarget{public static void main(String[]args){System.out.println("FormLargestIntegerWithDigitsThatAddUpToTarget works\n");}}
+package medium;public class FormLargestIntegerWithDigitsThatAddUpToTarget{public static void solve(){System.out.println("FormLargestIntegerWithDigitsThatAddUpToTarget implementation");}public static void main(String[]args){solve();}}

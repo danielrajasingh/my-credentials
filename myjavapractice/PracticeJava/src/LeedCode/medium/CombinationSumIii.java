@@ -1,1 +1,1 @@
-package medium;public class CombinationSumIii{public static void main(String[]args){System.out.println("CombinationSumIii works\n");}}
+package medium;public class CombinationSumIii{public static void solve(){System.out.println("CombinationSumIii implementation");}public static void main(String[]args){solve();}}

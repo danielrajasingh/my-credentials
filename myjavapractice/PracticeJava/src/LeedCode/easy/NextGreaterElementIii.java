@@ -1,1 +1,1 @@
-package easy;public class NextGreaterElementIii{public static void main(String[]args){System.out.println("NextGreaterElementIii works\n");}}
+package easy;public class NextGreaterElementIii{public static void solve(){System.out.println("NextGreaterElementIii implementation");}public static void main(String[]args){solve();}}

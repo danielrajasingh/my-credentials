@@ -1,1 +1,1 @@
-package medium;public class CheckIfStringIsTransformableWithSubstringSortOperations{public static void main(String[]args){System.out.println("CheckIfStringIsTransformableWithSubstringSortOperations works\n");}}
+package medium;public class CheckIfStringIsTransformableWithSubstringSortOperations{public static void solve(){System.out.println("CheckIfStringIsTransformableWithSubstringSortOperations implementation");}public static void main(String[]args){solve();}}

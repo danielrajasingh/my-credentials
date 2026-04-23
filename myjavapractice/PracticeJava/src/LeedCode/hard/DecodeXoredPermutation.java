@@ -1,1 +1,1 @@
-package hard;public class DecodeXoredPermutation{public static void main(String[]args){System.out.println("DecodeXoredPermutation works\n");}}
+package hard;public class DecodeXoredPermutation{public static void solve(){System.out.println("DecodeXoredPermutation implementation");}public static void main(String[]args){solve();}}

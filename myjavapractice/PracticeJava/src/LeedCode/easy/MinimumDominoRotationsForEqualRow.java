@@ -1,1 +1,1 @@
-package easy;public class MinimumDominoRotationsForEqualRow{public static void main(String[]args){System.out.println("MinimumDominoRotationsForEqualRow works\n");}}
+package easy;public class MinimumDominoRotationsForEqualRow{public static void solve(){System.out.println("MinimumDominoRotationsForEqualRow implementation");}public static void main(String[]args){solve();}}

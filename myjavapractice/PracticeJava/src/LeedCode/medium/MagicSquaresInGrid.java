@@ -1,1 +1,1 @@
-package medium;public class MagicSquaresInGrid{public static void main(String[]args){System.out.println("MagicSquaresInGrid works\n");}}
+package medium;public class MagicSquaresInGrid{public static void solve(){System.out.println("MagicSquaresInGrid implementation");}public static void main(String[]args){solve();}}

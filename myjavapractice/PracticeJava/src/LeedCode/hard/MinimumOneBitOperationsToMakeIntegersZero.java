@@ -1,1 +1,1 @@
-package hard;public class MinimumOneBitOperationsToMakeIntegersZero{public static void main(String[]args){System.out.println("MinimumOneBitOperationsToMakeIntegersZero works\n");}}
+package hard;public class MinimumOneBitOperationsToMakeIntegersZero{public static void solve(){System.out.println("MinimumOneBitOperationsToMakeIntegersZero implementation");}public static void main(String[]args){solve();}}

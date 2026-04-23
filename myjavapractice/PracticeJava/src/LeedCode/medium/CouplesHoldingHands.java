@@ -1,1 +1,1 @@
-package medium;public class CouplesHoldingHands{public static void main(String[]args){System.out.println("CouplesHoldingHands works\n");}}
+package medium;public class CouplesHoldingHands{public static void solve(){System.out.println("CouplesHoldingHands implementation");}public static void main(String[]args){solve();}}

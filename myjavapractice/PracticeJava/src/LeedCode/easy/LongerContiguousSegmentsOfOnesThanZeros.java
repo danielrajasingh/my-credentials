@@ -1,1 +1,1 @@
-package easy;public class LongerContiguousSegmentsOfOnesThanZeros{public static void main(String[]args){System.out.println("LongerContiguousSegmentsOfOnesThanZeros works\n");}}
+package easy;public class LongerContiguousSegmentsOfOnesThanZeros{public static void solve(){System.out.println("LongerContiguousSegmentsOfOnesThanZeros implementation");}public static void main(String[]args){solve();}}

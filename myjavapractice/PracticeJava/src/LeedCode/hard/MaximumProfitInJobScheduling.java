@@ -1,1 +1,1 @@
-package hard;public class MaximumProfitInJobScheduling{public static void main(String[]args){System.out.println("MaximumProfitInJobScheduling works\n");}}
+package hard;public class MaximumProfitInJobScheduling{public static void solve(){System.out.println("MaximumProfitInJobScheduling implementation");}public static void main(String[]args){solve();}}

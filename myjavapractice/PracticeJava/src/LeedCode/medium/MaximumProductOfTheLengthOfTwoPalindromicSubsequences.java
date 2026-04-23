@@ -1,1 +1,1 @@
-package medium;public class MaximumProductOfTheLengthOfTwoPalindromicSubsequences{public static void main(String[]args){System.out.println("MaximumProductOfTheLengthOfTwoPalindromicSubsequences works\n");}}
+package medium;public class MaximumProductOfTheLengthOfTwoPalindromicSubsequences{public static void solve(){System.out.println("MaximumProductOfTheLengthOfTwoPalindromicSubsequences implementation");}public static void main(String[]args){solve();}}

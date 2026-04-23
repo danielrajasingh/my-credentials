@@ -1,1 +1,1 @@
-package medium;public class NumberOfMatchingSubsequences{public static void main(String[]args){System.out.println("NumberOfMatchingSubsequences works\n");}}
+package medium;public class NumberOfMatchingSubsequences{public static void solve(){System.out.println("NumberOfMatchingSubsequences implementation");}public static void main(String[]args){solve();}}

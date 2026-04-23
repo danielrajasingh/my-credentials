@@ -1,1 +1,1 @@
-package medium;public class BinarySubarraysWithSum{public static void main(String[]args){System.out.println("BinarySubarraysWithSum works\n");}}
+package medium;public class BinarySubarraysWithSum{public static void solve(){System.out.println("BinarySubarraysWithSum implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class FillingBookcaseShelves{public static void main(String[]args){System.out.println("FillingBookcaseShelves works\n");}}
+package easy;public class FillingBookcaseShelves{public static void solve(){System.out.println("FillingBookcaseShelves implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class ParallelCoursesIii{public static void main(String[]args){System.out.println("ParallelCoursesIii works\n");}}
+package hard;public class ParallelCoursesIii{public static void solve(){System.out.println("ParallelCoursesIii implementation");}public static void main(String[]args){solve();}}

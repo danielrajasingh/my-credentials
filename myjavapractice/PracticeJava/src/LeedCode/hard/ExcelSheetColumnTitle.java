@@ -1,1 +1,1 @@
-package hard;public class ExcelSheetColumnTitle{public static void main(String[]args){System.out.println("ExcelSheetColumnTitle works\n");}}
+package hard;public class ExcelSheetColumnTitle{public static void solve(){System.out.println("ExcelSheetColumnTitle implementation");}public static void main(String[]args){solve();}}

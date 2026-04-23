@@ -1,1 +1,1 @@
-package medium;public class NumberOfWaysToStayInTheSamePlaceAfterSomeSteps{public static void main(String[]args){System.out.println("NumberOfWaysToStayInTheSamePlaceAfterSomeSteps works\n");}}
+package medium;public class NumberOfWaysToStayInTheSamePlaceAfterSomeSteps{public static void solve(){System.out.println("NumberOfWaysToStayInTheSamePlaceAfterSomeSteps implementation");}public static void main(String[]args){solve();}}

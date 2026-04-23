@@ -1,1 +1,1 @@
-package medium;public class ConvertBinaryNumberInALinkedListToInteger{public static void main(String[]args){System.out.println("ConvertBinaryNumberInALinkedListToInteger works\n");}}
+package medium;public class ConvertBinaryNumberInALinkedListToInteger{public static void solve(){System.out.println("ConvertBinaryNumberInALinkedListToInteger implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class ExclusiveTimeOfFunctions{public static void main(String[]args){System.out.println("ExclusiveTimeOfFunctions works\n");}}
+package medium;public class ExclusiveTimeOfFunctions{public static void solve(){System.out.println("ExclusiveTimeOfFunctions implementation");}public static void main(String[]args){solve();}}

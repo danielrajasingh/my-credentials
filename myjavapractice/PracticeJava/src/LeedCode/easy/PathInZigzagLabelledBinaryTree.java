@@ -1,1 +1,1 @@
-package easy;public class PathInZigzagLabelledBinaryTree{public static void main(String[]args){System.out.println("PathInZigzagLabelledBinaryTree works\n");}}
+package easy;public class PathInZigzagLabelledBinaryTree{public static void solve(){System.out.println("PathInZigzagLabelledBinaryTree implementation");}public static void main(String[]args){solve();}}

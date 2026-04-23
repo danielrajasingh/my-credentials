@@ -1,1 +1,1 @@
-package hard;public class TilingARectangleWithTheFewestSquares{public static void main(String[]args){System.out.println("TilingARectangleWithTheFewestSquares works\n");}}
+package hard;public class TilingARectangleWithTheFewestSquares{public static void solve(){System.out.println("TilingARectangleWithTheFewestSquares implementation");}public static void main(String[]args){solve();}}

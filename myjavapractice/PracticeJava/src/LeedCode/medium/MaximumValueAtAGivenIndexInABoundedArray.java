@@ -1,1 +1,1 @@
-package medium;public class MaximumValueAtAGivenIndexInABoundedArray{public static void main(String[]args){System.out.println("MaximumValueAtAGivenIndexInABoundedArray works\n");}}
+package medium;public class MaximumValueAtAGivenIndexInABoundedArray{public static void solve(){System.out.println("MaximumValueAtAGivenIndexInABoundedArray implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class PathWithMaximumGold{public static void main(String[]args){System.out.println("PathWithMaximumGold works\n");}}
+package medium;public class PathWithMaximumGold{public static void solve(){System.out.println("PathWithMaximumGold implementation");}public static void main(String[]args){solve();}}

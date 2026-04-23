@@ -1,1 +1,1 @@
-package medium;public class XorOperationInAnArray{public static void main(String[]args){System.out.println("XorOperationInAnArray works\n");}}
+package medium;public class XorOperationInAnArray{public static void solve(){System.out.println("XorOperationInAnArray implementation");}public static void main(String[]args){solve();}}

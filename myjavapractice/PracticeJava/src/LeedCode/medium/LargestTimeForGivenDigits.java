@@ -1,1 +1,1 @@
-package medium;public class LargestTimeForGivenDigits{public static void main(String[]args){System.out.println("LargestTimeForGivenDigits works\n");}}
+package medium;public class LargestTimeForGivenDigits{public static void solve(){System.out.println("LargestTimeForGivenDigits implementation");}public static void main(String[]args){solve();}}

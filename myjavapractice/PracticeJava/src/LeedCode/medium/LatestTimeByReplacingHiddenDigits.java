@@ -1,1 +1,1 @@
-package medium;public class LatestTimeByReplacingHiddenDigits{public static void main(String[]args){System.out.println("LatestTimeByReplacingHiddenDigits works\n");}}
+package medium;public class LatestTimeByReplacingHiddenDigits{public static void solve(){System.out.println("LatestTimeByReplacingHiddenDigits implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class GrumpyBookstoreOwner{public static void main(String[]args){System.out.println("GrumpyBookstoreOwner works\n");}}
+package hard;public class GrumpyBookstoreOwner{public static void solve(){System.out.println("GrumpyBookstoreOwner implementation");}public static void main(String[]args){solve();}}

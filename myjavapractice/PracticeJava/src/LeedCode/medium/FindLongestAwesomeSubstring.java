@@ -1,1 +1,1 @@
-package medium;public class FindLongestAwesomeSubstring{public static void main(String[]args){System.out.println("FindLongestAwesomeSubstring works\n");}}
+package medium;public class FindLongestAwesomeSubstring{public static void solve(){System.out.println("FindLongestAwesomeSubstring implementation");}public static void main(String[]args){solve();}}

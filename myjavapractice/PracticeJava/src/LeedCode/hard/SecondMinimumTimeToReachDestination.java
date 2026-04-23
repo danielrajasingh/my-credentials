@@ -1,1 +1,1 @@
-package hard;public class SecondMinimumTimeToReachDestination{public static void main(String[]args){System.out.println("SecondMinimumTimeToReachDestination works\n");}}
+package hard;public class SecondMinimumTimeToReachDestination{public static void solve(){System.out.println("SecondMinimumTimeToReachDestination implementation");}public static void main(String[]args){solve();}}

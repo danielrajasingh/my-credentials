@@ -1,1 +1,1 @@
-package hard;public class MinimumCostHomecomingOfARobotInAGrid{public static void main(String[]args){System.out.println("MinimumCostHomecomingOfARobotInAGrid works\n");}}
+package hard;public class MinimumCostHomecomingOfARobotInAGrid{public static void solve(){System.out.println("MinimumCostHomecomingOfARobotInAGrid implementation");}public static void main(String[]args){solve();}}

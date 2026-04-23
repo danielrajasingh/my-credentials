@@ -1,1 +1,1 @@
-package hard;public class CheckIfNumbersAreAscendingInASentence{public static void main(String[]args){System.out.println("CheckIfNumbersAreAscendingInASentence works\n");}}
+package hard;public class CheckIfNumbersAreAscendingInASentence{public static void solve(){System.out.println("CheckIfNumbersAreAscendingInASentence implementation");}public static void main(String[]args){solve();}}

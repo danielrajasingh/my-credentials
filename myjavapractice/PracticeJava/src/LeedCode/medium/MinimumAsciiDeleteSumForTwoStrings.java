@@ -1,1 +1,1 @@
-package medium;public class MinimumAsciiDeleteSumForTwoStrings{public static void main(String[]args){System.out.println("MinimumAsciiDeleteSumForTwoStrings works\n");}}
+package medium;public class MinimumAsciiDeleteSumForTwoStrings{public static void solve(){System.out.println("MinimumAsciiDeleteSumForTwoStrings implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class CheckIfItIsAStraightLine{public static void main(String[]args){System.out.println("CheckIfItIsAStraightLine works\n");}}
+package hard;public class CheckIfItIsAStraightLine{public static void solve(){System.out.println("CheckIfItIsAStraightLine implementation");}public static void main(String[]args){solve();}}

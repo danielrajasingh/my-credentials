@@ -1,1 +1,1 @@
-package easy;public class ArrangingCoins{public static void main(String[]args){System.out.println("ArrangingCoins works\n");}}
+package easy;public class ArrangingCoins{public static void solve(){System.out.println("ArrangingCoins implementation");}public static void main(String[]args){solve();}}

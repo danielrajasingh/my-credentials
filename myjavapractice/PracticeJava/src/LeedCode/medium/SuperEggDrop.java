@@ -1,1 +1,1 @@
-package medium;public class SuperEggDrop{public static void main(String[]args){System.out.println("SuperEggDrop works\n");}}
+package medium;public class SuperEggDrop{public static void solve(){System.out.println("SuperEggDrop implementation");}public static void main(String[]args){solve();}}

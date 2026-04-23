@@ -1,1 +1,1 @@
-package medium;public class DeleteLeavesWithAGivenValue{public static void main(String[]args){System.out.println("DeleteLeavesWithAGivenValue works\n");}}
+package medium;public class DeleteLeavesWithAGivenValue{public static void solve(){System.out.println("DeleteLeavesWithAGivenValue implementation");}public static void main(String[]args){solve();}}

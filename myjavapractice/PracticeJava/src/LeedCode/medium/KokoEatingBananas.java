@@ -1,1 +1,1 @@
-package medium;public class KokoEatingBananas{public static void main(String[]args){System.out.println("KokoEatingBananas works\n");}}
+package medium;public class KokoEatingBananas{public static void solve(){System.out.println("KokoEatingBananas implementation");}public static void main(String[]args){solve();}}

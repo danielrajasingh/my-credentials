@@ -1,1 +1,1 @@
-package medium;public class LastMomentBeforeAllAntsFallOutOfAPlank{public static void main(String[]args){System.out.println("LastMomentBeforeAllAntsFallOutOfAPlank works\n");}}
+package medium;public class LastMomentBeforeAllAntsFallOutOfAPlank{public static void solve(){System.out.println("LastMomentBeforeAllAntsFallOutOfAPlank implementation");}public static void main(String[]args){solve();}}

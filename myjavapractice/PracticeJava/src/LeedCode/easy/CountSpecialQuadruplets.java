@@ -1,1 +1,1 @@
-package easy;public class CountSpecialQuadruplets{public static void main(String[]args){System.out.println("CountSpecialQuadruplets works\n");}}
+package easy;public class CountSpecialQuadruplets{public static void solve(){System.out.println("CountSpecialQuadruplets implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class MaskingPersonalInformation{public static void main(String[]args){System.out.println("MaskingPersonalInformation works\n");}}
+package hard;public class MaskingPersonalInformation{public static void solve(){System.out.println("MaskingPersonalInformation implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class CanYouEatYourFavoriteCandyOnYourFavoriteDay{public static void main(String[]args){System.out.println("CanYouEatYourFavoriteCandyOnYourFavoriteDay works\n");}}
+package easy;public class CanYouEatYourFavoriteCandyOnYourFavoriteDay{public static void solve(){System.out.println("CanYouEatYourFavoriteCandyOnYourFavoriteDay implementation");}public static void main(String[]args){solve();}}

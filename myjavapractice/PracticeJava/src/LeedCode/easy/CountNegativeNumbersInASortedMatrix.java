@@ -1,1 +1,1 @@
-package easy;public class CountNegativeNumbersInASortedMatrix{public static void main(String[]args){System.out.println("CountNegativeNumbersInASortedMatrix works\n");}}
+package easy;public class CountNegativeNumbersInASortedMatrix{public static void solve(){System.out.println("CountNegativeNumbersInASortedMatrix implementation");}public static void main(String[]args){solve();}}

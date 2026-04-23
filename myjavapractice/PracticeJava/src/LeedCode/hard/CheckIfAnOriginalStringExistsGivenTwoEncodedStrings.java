@@ -1,1 +1,1 @@
-package hard;public class CheckIfAnOriginalStringExistsGivenTwoEncodedStrings{public static void main(String[]args){System.out.println("CheckIfAnOriginalStringExistsGivenTwoEncodedStrings works\n");}}
+package hard;public class CheckIfAnOriginalStringExistsGivenTwoEncodedStrings{public static void solve(){System.out.println("CheckIfAnOriginalStringExistsGivenTwoEncodedStrings implementation");}public static void main(String[]args){solve();}}

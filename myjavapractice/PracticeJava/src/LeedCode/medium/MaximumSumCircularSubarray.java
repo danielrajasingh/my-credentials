@@ -1,1 +1,1 @@
-package medium;public class MaximumSumCircularSubarray{public static void main(String[]args){System.out.println("MaximumSumCircularSubarray works\n");}}
+package medium;public class MaximumSumCircularSubarray{public static void solve(){System.out.println("MaximumSumCircularSubarray implementation");}public static void main(String[]args){solve();}}

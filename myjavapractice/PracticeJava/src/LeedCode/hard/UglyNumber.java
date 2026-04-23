@@ -1,1 +1,1 @@
-package hard;public class UglyNumber{public static void main(String[]args){System.out.println("UglyNumber works\n");}}
+package hard;public class UglyNumber{public static void solve(){System.out.println("UglyNumber implementation");}public static void main(String[]args){solve();}}

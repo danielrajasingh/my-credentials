@@ -1,1 +1,1 @@
-package easy;public class RangeFrequencyQueries{public static void main(String[]args){System.out.println("RangeFrequencyQueries works\n");}}
+package easy;public class RangeFrequencyQueries{public static void solve(){System.out.println("RangeFrequencyQueries implementation");}public static void main(String[]args){solve();}}

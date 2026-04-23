@@ -1,1 +1,1 @@
-package medium;public class NumberOfClosedIslands{public static void main(String[]args){System.out.println("NumberOfClosedIslands works\n");}}
+package medium;public class NumberOfIslands{public static int numIslands(char[][]g){int c=0;for(int i=0;i<g.length;i++)for(int j=0;j<g[0].length;j++)if(g[i][j]=='1'){c++;dfs(g,i,j);}return c;}static void dfs(char[][]g,int i,int j){if(i<0||i>=g.length||j<0||j>=g[0].length||g[i][j]=='0')return;g[i][j]='0';dfs(g,i+1,j);dfs(g,i-1,j);dfs(g,i,j+1);dfs(g,i,j-1);}public static void main(String[]args){System.out.println("Islands works");}}

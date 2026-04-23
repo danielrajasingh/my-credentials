@@ -1,1 +1,1 @@
-package medium;public class SubarraySumsDivisibleByK{public static void main(String[]args){System.out.println("SubarraySumsDivisibleByK works\n");}}
+package medium;public class SubarraySumsDivisibleByK{public static void solve(){System.out.println("SubarraySumsDivisibleByK implementation");}public static void main(String[]args){solve();}}

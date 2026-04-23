@@ -1,1 +1,1 @@
-package medium;public class NumberOfRectanglesThatCanFormTheLargestSquare{public static void main(String[]args){System.out.println("NumberOfRectanglesThatCanFormTheLargestSquare works\n");}}
+package medium;public class NumberOfRectanglesThatCanFormTheLargestSquare{public static void solve(){System.out.println("NumberOfRectanglesThatCanFormTheLargestSquare implementation");}public static void main(String[]args){solve();}}

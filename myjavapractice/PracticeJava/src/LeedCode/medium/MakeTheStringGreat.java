@@ -1,1 +1,1 @@
-package medium;public class MakeTheStringGreat{public static void main(String[]args){System.out.println("MakeTheStringGreat works\n");}}
+package medium;public class MakeTheStringGreat{public static void solve(){System.out.println("MakeTheStringGreat implementation");}public static void main(String[]args){solve();}}

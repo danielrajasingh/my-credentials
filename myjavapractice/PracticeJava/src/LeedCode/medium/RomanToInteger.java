@@ -1,1 +1,1 @@
-package medium;public class RomanToInteger{public static void main(String[]args){System.out.println("RomanToInteger works\n");}}
+package medium;public class RomanToInteger{public static void solve(){System.out.println("RomanToInteger implementation");}public static void main(String[]args){solve();}}

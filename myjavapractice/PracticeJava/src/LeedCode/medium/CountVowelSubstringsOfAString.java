@@ -1,1 +1,1 @@
-package medium;public class CountVowelSubstringsOfAString{public static void main(String[]args){System.out.println("CountVowelSubstringsOfAString works\n");}}
+package medium;public class CountVowelSubstringsOfAString{public static void solve(){System.out.println("CountVowelSubstringsOfAString implementation");}public static void main(String[]args){solve();}}

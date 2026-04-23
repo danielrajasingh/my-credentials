@@ -1,1 +1,1 @@
-package medium;public class SurfaceAreaOf3dShapes{public static void main(String[]args){System.out.println("SurfaceAreaOf3dShapes works\n");}}
+package medium;public class SurfaceAreaOf3dShapes{public static void solve(){System.out.println("SurfaceAreaOf3dShapes implementation");}public static void main(String[]args){solve();}}

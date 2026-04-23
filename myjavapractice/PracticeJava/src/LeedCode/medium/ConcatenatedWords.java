@@ -1,1 +1,1 @@
-package medium;public class ConcatenatedWords{public static void main(String[]args){System.out.println("ConcatenatedWords works\n");}}
+package medium;public class ConcatenatedWords{public static void solve(){System.out.println("ConcatenatedWords implementation");}public static void main(String[]args){solve();}}

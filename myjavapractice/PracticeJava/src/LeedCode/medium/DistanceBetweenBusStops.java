@@ -1,1 +1,1 @@
-package medium;public class DistanceBetweenBusStops{public static void main(String[]args){System.out.println("DistanceBetweenBusStops works\n");}}
+package medium;public class DistanceBetweenBusStops{public static void solve(){System.out.println("DistanceBetweenBusStops implementation");}public static void main(String[]args){solve();}}

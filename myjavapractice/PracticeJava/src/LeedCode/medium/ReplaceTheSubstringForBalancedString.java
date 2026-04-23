@@ -1,1 +1,1 @@
-package medium;public class ReplaceTheSubstringForBalancedString{public static void main(String[]args){System.out.println("ReplaceTheSubstringForBalancedString works\n");}}
+package medium;public class ReplaceTheSubstringForBalancedString{public static void solve(){System.out.println("ReplaceTheSubstringForBalancedString implementation");}public static void main(String[]args){solve();}}

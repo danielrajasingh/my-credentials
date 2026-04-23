@@ -1,1 +1,1 @@
-package medium;public class MinimumDistanceToTypeAWordUsingTwoFingers{public static void main(String[]args){System.out.println("MinimumDistanceToTypeAWordUsingTwoFingers works\n");}}
+package medium;public class MinimumDistanceToTypeAWordUsingTwoFingers{public static void solve(){System.out.println("MinimumDistanceToTypeAWordUsingTwoFingers implementation");}public static void main(String[]args){solve();}}

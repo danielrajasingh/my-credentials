@@ -1,1 +1,1 @@
-package medium;public class SmallestStringWithSwaps{public static void main(String[]args){System.out.println("SmallestStringWithSwaps works\n");}}
+package medium;public class SmallestStringWithSwaps{public static void solve(){System.out.println("SmallestStringWithSwaps implementation");}public static void main(String[]args){solve();}}

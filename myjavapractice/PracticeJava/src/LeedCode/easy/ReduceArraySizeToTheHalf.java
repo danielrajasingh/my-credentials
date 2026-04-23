@@ -1,1 +1,1 @@
-package easy;public class ReduceArraySizeToTheHalf{public static void main(String[]args){System.out.println("ReduceArraySizeToTheHalf works\n");}}
+package easy;public class ReduceArraySizeToTheHalf{public static void solve(){System.out.println("ReduceArraySizeToTheHalf implementation");}public static void main(String[]args){solve();}}

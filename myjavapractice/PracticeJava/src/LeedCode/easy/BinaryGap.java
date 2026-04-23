@@ -1,1 +1,1 @@
-package easy;public class BinaryGap{public static void main(String[]args){System.out.println("BinaryGap works\n");}}
+package easy;public class BinaryGap{public static void solve(){System.out.println("BinaryGap implementation");}public static void main(String[]args){solve();}}

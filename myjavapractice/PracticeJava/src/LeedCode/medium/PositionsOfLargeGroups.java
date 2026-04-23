@@ -1,1 +1,1 @@
-package medium;public class PositionsOfLargeGroups{public static void main(String[]args){System.out.println("PositionsOfLargeGroups works\n");}}
+package medium;public class PositionsOfLargeGroups{public static void solve(){System.out.println("PositionsOfLargeGroups implementation");}public static void main(String[]args){solve();}}

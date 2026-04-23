@@ -1,1 +1,1 @@
-package medium;public class EscapeALargeMaze{public static void main(String[]args){System.out.println("EscapeALargeMaze works\n");}}
+package medium;public class EscapeALargeMaze{public static void solve(){System.out.println("EscapeALargeMaze implementation");}public static void main(String[]args){solve();}}

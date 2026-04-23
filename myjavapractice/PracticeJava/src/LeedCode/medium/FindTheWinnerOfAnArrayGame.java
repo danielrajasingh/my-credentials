@@ -1,1 +1,1 @@
-package medium;public class FindTheWinnerOfAnArrayGame{public static void main(String[]args){System.out.println("FindTheWinnerOfAnArrayGame works\n");}}
+package medium;public class FindTheWinnerOfAnArrayGame{public static void solve(){System.out.println("FindTheWinnerOfAnArrayGame implementation");}public static void main(String[]args){solve();}}

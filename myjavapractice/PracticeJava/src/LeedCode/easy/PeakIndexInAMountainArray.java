@@ -1,1 +1,1 @@
-package easy;public class PeakIndexInAMountainArray{public static void main(String[]args){System.out.println("PeakIndexInAMountainArray works\n");}}
+package easy;public class PeakIndexInAMountainArray{public static void solve(){System.out.println("PeakIndexInAMountainArray implementation");}public static void main(String[]args){solve();}}

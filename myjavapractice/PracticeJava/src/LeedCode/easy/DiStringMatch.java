@@ -1,1 +1,1 @@
-package easy;public class DiStringMatch{public static void main(String[]args){System.out.println("DiStringMatch works\n");}}
+package easy;public class DiStringMatch{public static void solve(){System.out.println("DiStringMatch implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class DesignAuthenticationManager{public static void main(String[]args){System.out.println("DesignAuthenticationManager works\n");}}
+package medium;public class DesignAuthenticationManager{public static void solve(){System.out.println("DesignAuthenticationManager implementation");}public static void main(String[]args){solve();}}

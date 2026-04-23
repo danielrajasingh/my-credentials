@@ -1,1 +1,1 @@
-package medium;public class PartitionArrayIntoThreePartsWithEqualSum{public static void main(String[]args){System.out.println("PartitionArrayIntoThreePartsWithEqualSum works\n");}}
+package medium;public class PartitionArrayIntoThreePartsWithEqualSum{public static void solve(){System.out.println("PartitionArrayIntoThreePartsWithEqualSum implementation");}public static void main(String[]args){solve();}}

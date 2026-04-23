@@ -1,1 +1,1 @@
-package medium;public class SortIntegersByTheNumberOf1Bits{public static void main(String[]args){System.out.println("SortIntegersByTheNumberOf1Bits works\n");}}
+package medium;public class SortIntegersByTheNumberOf1Bits{public static void solve(){System.out.println("SortIntegersByTheNumberOf1Bits implementation");}public static void main(String[]args){solve();}}

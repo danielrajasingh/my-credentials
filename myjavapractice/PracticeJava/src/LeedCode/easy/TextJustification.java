@@ -1,1 +1,1 @@
-package easy;public class TextJustification{public static void main(String[]args){System.out.println("TextJustification works\n");}}
+package easy;public class TextJustification{public static void solve(){System.out.println("TextJustification implementation");}public static void main(String[]args){solve();}}

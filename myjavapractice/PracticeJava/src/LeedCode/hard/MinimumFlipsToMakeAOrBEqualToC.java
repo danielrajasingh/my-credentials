@@ -1,1 +1,1 @@
-package hard;public class MinimumFlipsToMakeAOrBEqualToC{public static void main(String[]args){System.out.println("MinimumFlipsToMakeAOrBEqualToC works\n");}}
+package hard;public class MinimumFlipsToMakeAOrBEqualToC{public static void solve(){System.out.println("MinimumFlipsToMakeAOrBEqualToC implementation");}public static void main(String[]args){solve();}}

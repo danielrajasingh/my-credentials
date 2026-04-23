@@ -1,1 +1,1 @@
-package hard;public class MaximumHeightByStackingCuboids{public static void main(String[]args){System.out.println("MaximumHeightByStackingCuboids works\n");}}
+package hard;public class MaximumHeightByStackingCuboids{public static void solve(){System.out.println("MaximumHeightByStackingCuboids implementation");}public static void main(String[]args){solve();}}

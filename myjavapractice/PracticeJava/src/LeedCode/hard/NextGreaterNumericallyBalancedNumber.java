@@ -1,1 +1,1 @@
-package hard;public class NextGreaterNumericallyBalancedNumber{public static void main(String[]args){System.out.println("NextGreaterNumericallyBalancedNumber works\n");}}
+package hard;public class NextGreaterNumericallyBalancedNumber{public static void solve(){System.out.println("NextGreaterNumericallyBalancedNumber implementation");}public static void main(String[]args){solve();}}

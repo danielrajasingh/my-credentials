@@ -1,1 +1,1 @@
-package medium;public class MaximumStudentsTakingExam{public static void main(String[]args){System.out.println("MaximumStudentsTakingExam works\n");}}
+package medium;public class MaximumStudentsTakingExam{public static void solve(){System.out.println("MaximumStudentsTakingExam implementation");}public static void main(String[]args){solve();}}

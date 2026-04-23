@@ -1,1 +1,1 @@
-package hard;public class FindKthBitInNthBinaryString{public static void main(String[]args){System.out.println("FindKthBitInNthBinaryString works\n");}}
+package hard;public class FindKthBitInNthBinaryString{public static void solve(){System.out.println("FindKthBitInNthBinaryString implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class InsertDeleteGetrandomO1DuplicatesAllowed{public static void main(String[]args){System.out.println("InsertDeleteGetrandomO1DuplicatesAllowed works\n");}}
+package easy;import java.util.*;public class ContainsDuplicate{public static boolean hasDuplicate(int[]n){Set<Integer>s=new HashSet<>();for(int x:n){if(!s.add(x))return true;}return false;}public static void main(String[]args){System.out.println(hasDuplicate(new int[]{1,2,3,1}));}}

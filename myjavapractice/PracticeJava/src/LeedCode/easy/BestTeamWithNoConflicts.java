@@ -1,1 +1,1 @@
-package easy;public class BestTeamWithNoConflicts{public static void main(String[]args){System.out.println("BestTeamWithNoConflicts works\n");}}
+package easy;public class BestTeamWithNoConflicts{public static void solve(){System.out.println("BestTeamWithNoConflicts implementation");}public static void main(String[]args){solve();}}

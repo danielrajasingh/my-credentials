@@ -1,1 +1,1 @@
-package easy;public class SetIntersectionSizeAtLeastTwo{public static void main(String[]args){System.out.println("SetIntersectionSizeAtLeastTwo works\n");}}
+package easy;public class SetIntersectionSizeAtLeastTwo{public static void solve(){System.out.println("SetIntersectionSizeAtLeastTwo implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class MinimumNumberOfSwapsToMakeTheBinaryStringAlternating{public static void main(String[]args){System.out.println("MinimumNumberOfSwapsToMakeTheBinaryStringAlternating works\n");}}
+package hard;public class MinimumNumberOfSwapsToMakeTheBinaryStringAlternating{public static void solve(){System.out.println("MinimumNumberOfSwapsToMakeTheBinaryStringAlternating implementation");}public static void main(String[]args){solve();}}

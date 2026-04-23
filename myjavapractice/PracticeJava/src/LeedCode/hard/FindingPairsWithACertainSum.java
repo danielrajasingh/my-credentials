@@ -1,1 +1,1 @@
-package hard;public class FindingPairsWithACertainSum{public static void main(String[]args){System.out.println("FindingPairsWithACertainSum works\n");}}
+package hard;public class FindingPairsWithACertainSum{public static void solve(){System.out.println("FindingPairsWithACertainSum implementation");}public static void main(String[]args){solve();}}

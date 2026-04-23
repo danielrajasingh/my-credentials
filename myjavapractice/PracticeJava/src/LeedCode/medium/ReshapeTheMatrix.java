@@ -1,1 +1,1 @@
-package medium;public class ReshapeTheMatrix{public static void main(String[]args){System.out.println("ReshapeTheMatrix works\n");}}
+package medium;public class ReshapeTheMatrix{public static void solve(){System.out.println("ReshapeTheMatrix implementation");}public static void main(String[]args){solve();}}

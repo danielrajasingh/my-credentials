@@ -1,1 +1,1 @@
-package easy;public class FindPivotIndex{public static void main(String[]args){System.out.println("FindPivotIndex works\n");}}
+package easy;public class FindPivotIndex{public static void solve(){System.out.println("FindPivotIndex implementation");}public static void main(String[]args){solve();}}

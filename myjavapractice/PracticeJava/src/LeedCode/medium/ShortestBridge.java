@@ -1,1 +1,1 @@
-package medium;public class ShortestBridge{public static void main(String[]args){System.out.println("ShortestBridge works\n");}}
+package medium;public class ShortestBridge{public static void solve(){System.out.println("ShortestBridge implementation");}public static void main(String[]args){solve();}}

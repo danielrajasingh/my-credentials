@@ -1,1 +1,1 @@
-package easy;public class NumberOfOrdersInTheBacklog{public static void main(String[]args){System.out.println("NumberOfOrdersInTheBacklog works\n");}}
+package easy;public class NumberOfOrdersInTheBacklog{public static void solve(){System.out.println("NumberOfOrdersInTheBacklog implementation");}public static void main(String[]args){solve();}}

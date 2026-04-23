@@ -1,1 +1,1 @@
-package medium;public class LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit{public static void main(String[]args){System.out.println("LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit works\n");}}
+package medium;public class LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit{public static void solve(){System.out.println("LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit implementation");}public static void main(String[]args){solve();}}

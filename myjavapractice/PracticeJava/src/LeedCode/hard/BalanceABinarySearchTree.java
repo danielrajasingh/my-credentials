@@ -1,1 +1,1 @@
-package hard;public class BalanceABinarySearchTree{public static void main(String[]args){System.out.println("BalanceABinarySearchTree works\n");}}
+package hard;public class BalanceABinarySearchTree{public static void solve(){System.out.println("BalanceABinarySearchTree implementation");}public static void main(String[]args){solve();}}

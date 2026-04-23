@@ -1,1 +1,1 @@
-package hard;public class MinimumFallingPathSumIi{public static void main(String[]args){System.out.println("MinimumFallingPathSumIi works\n");}}
+package hard;public class MinimumFallingPathSumIi{public static void solve(){System.out.println("MinimumFallingPathSumIi implementation");}public static void main(String[]args){solve();}}

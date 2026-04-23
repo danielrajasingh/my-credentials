@@ -1,1 +1,1 @@
-package medium;public class FindLargestValueInEachTreeRow{public static void main(String[]args){System.out.println("FindLargestValueInEachTreeRow works\n");}}
+package medium;public class FindLargestValueInEachTreeRow{public static void solve(){System.out.println("FindLargestValueInEachTreeRow implementation");}public static void main(String[]args){solve();}}

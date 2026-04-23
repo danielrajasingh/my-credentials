@@ -1,1 +1,1 @@
-package medium;public class SlidingPuzzle{public static void main(String[]args){System.out.println("SlidingPuzzle works\n");}}
+package medium;public class SlidingPuzzle{public static void solve(){System.out.println("SlidingPuzzle implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class JewelsAndStones{public static void main(String[]args){System.out.println("JewelsAndStones works\n");}}
+package medium;public class JewelsAndStones{public static void solve(){System.out.println("JewelsAndStones implementation");}public static void main(String[]args){solve();}}

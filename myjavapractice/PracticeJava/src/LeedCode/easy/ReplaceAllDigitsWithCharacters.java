@@ -1,1 +1,1 @@
-package easy;public class ReplaceAllDigitsWithCharacters{public static void main(String[]args){System.out.println("ReplaceAllDigitsWithCharacters works\n");}}
+package easy;public class ReplaceAllDigitsWithCharacters{public static void solve(){System.out.println("ReplaceAllDigitsWithCharacters implementation");}public static void main(String[]args){solve();}}

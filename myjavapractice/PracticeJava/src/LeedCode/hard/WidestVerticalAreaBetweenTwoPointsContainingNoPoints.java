@@ -1,1 +1,1 @@
-package hard;public class WidestVerticalAreaBetweenTwoPointsContainingNoPoints{public static void main(String[]args){System.out.println("WidestVerticalAreaBetweenTwoPointsContainingNoPoints works\n");}}
+package hard;public class WidestVerticalAreaBetweenTwoPointsContainingNoPoints{public static void solve(){System.out.println("WidestVerticalAreaBetweenTwoPointsContainingNoPoints implementation");}public static void main(String[]args){solve();}}

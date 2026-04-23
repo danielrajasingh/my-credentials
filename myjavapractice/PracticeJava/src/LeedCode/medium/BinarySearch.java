@@ -1,1 +1,1 @@
-package medium;public class BinarySearch{public static void main(String[]args){System.out.println("BinarySearch works\n");}}
+package medium;public class BinarySearch{public static void solve(){System.out.println("BinarySearch implementation");}public static void main(String[]args){solve();}}

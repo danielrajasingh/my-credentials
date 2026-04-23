@@ -1,1 +1,1 @@
-package medium;public class MaxChunksToMakeSortedIi{public static void main(String[]args){System.out.println("MaxChunksToMakeSortedIi works\n");}}
+package medium;public class MaxChunksToMakeSortedIi{public static void solve(){System.out.println("MaxChunksToMakeSortedIi implementation");}public static void main(String[]args){solve();}}

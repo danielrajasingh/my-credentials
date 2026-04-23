@@ -1,1 +1,1 @@
-package medium;public class MaximumDifferenceBetweenNodeAndAncestor{public static void main(String[]args){System.out.println("MaximumDifferenceBetweenNodeAndAncestor works\n");}}
+package medium;public class MaximumDifferenceBetweenNodeAndAncestor{public static void solve(){System.out.println("MaximumDifferenceBetweenNodeAndAncestor implementation");}public static void main(String[]args){solve();}}

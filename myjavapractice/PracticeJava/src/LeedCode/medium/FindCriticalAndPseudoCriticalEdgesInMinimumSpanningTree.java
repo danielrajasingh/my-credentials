@@ -1,1 +1,1 @@
-package medium;public class FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree{public static void main(String[]args){System.out.println("FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree works\n");}}
+package medium;public class FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree{public static void solve(){System.out.println("FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree implementation");}public static void main(String[]args){solve();}}

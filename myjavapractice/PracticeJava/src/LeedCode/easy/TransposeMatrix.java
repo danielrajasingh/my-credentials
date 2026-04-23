@@ -1,1 +1,1 @@
-package easy;public class TransposeMatrix{public static void main(String[]args){System.out.println("TransposeMatrix works\n");}}
+package easy;public class TransposeMatrix{public static void solve(){System.out.println("TransposeMatrix implementation");}public static void main(String[]args){solve();}}

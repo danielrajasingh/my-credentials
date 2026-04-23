@@ -1,1 +1,1 @@
-package easy;public class RestoreIpAddresses{public static void main(String[]args){System.out.println("RestoreIpAddresses works\n");}}
+package easy;public class RestoreIpAddresses{public static void solve(){System.out.println("RestoreIpAddresses implementation");}public static void main(String[]args){solve();}}

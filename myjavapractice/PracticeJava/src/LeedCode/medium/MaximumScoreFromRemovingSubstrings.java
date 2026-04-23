@@ -1,1 +1,1 @@
-package medium;public class MaximumScoreFromRemovingSubstrings{public static void main(String[]args){System.out.println("MaximumScoreFromRemovingSubstrings works\n");}}
+package medium;public class MaximumScoreFromRemovingSubstrings{public static void solve(){System.out.println("MaximumScoreFromRemovingSubstrings implementation");}public static void main(String[]args){solve();}}

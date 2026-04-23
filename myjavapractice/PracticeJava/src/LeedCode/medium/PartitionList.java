@@ -1,1 +1,1 @@
-package medium;public class PartitionList{public static void main(String[]args){System.out.println("PartitionList works\n");}}
+package medium;public class PartitionList{public static void solve(){System.out.println("PartitionList implementation");}public static void main(String[]args){solve();}}

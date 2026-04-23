@@ -1,1 +1,1 @@
-package medium;public class CarFleetIi{public static void main(String[]args){System.out.println("CarFleetIi works\n");}}
+package medium;public class CarFleetIi{public static void solve(){System.out.println("CarFleetIi implementation");}public static void main(String[]args){solve();}}

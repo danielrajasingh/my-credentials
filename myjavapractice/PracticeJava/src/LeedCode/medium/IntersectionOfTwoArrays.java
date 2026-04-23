@@ -1,1 +1,1 @@
-package medium;public class IntersectionOfTwoArrays{public static void main(String[]args){System.out.println("IntersectionOfTwoArrays works\n");}}
+package medium;public class IntersectionOfTwoArrays{public static void solve(){System.out.println("IntersectionOfTwoArrays implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class TimeBasedKeyValueStore{public static void main(String[]args){System.out.println("TimeBasedKeyValueStore works\n");}}
+package hard;public class TimeBasedKeyValueStore{public static void solve(){System.out.println("TimeBasedKeyValueStore implementation");}public static void main(String[]args){solve();}}

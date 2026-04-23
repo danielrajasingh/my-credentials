@@ -1,1 +1,1 @@
-package easy;public class RecoverTheOriginalArray{public static void main(String[]args){System.out.println("RecoverTheOriginalArray works\n");}}
+package easy;public class RecoverTheOriginalArray{public static void solve(){System.out.println("RecoverTheOriginalArray implementation");}public static void main(String[]args){solve();}}

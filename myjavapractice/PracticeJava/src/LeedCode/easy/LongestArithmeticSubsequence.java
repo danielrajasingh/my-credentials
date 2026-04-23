@@ -1,1 +1,1 @@
-package easy;public class LongestArithmeticSubsequence{public static void main(String[]args){System.out.println("LongestArithmeticSubsequence works\n");}}
+package easy;public class LongestArithmeticSubsequence{public static void solve(){System.out.println("LongestArithmeticSubsequence implementation");}public static void main(String[]args){solve();}}

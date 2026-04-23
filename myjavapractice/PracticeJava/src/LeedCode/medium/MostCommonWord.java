@@ -1,1 +1,1 @@
-package medium;public class MostCommonWord{public static void main(String[]args){System.out.println("MostCommonWord works\n");}}
+package medium;public class MostCommonWord{public static void solve(){System.out.println("MostCommonWord implementation");}public static void main(String[]args){solve();}}

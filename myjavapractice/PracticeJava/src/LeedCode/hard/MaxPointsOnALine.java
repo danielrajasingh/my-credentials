@@ -1,1 +1,1 @@
-package hard;public class MaxPointsOnALine{public static void main(String[]args){System.out.println("MaxPointsOnALine works\n");}}
+package hard;public class MaxPointsOnALine{public static void solve(){System.out.println("MaxPointsOnALine implementation");}public static void main(String[]args){solve();}}

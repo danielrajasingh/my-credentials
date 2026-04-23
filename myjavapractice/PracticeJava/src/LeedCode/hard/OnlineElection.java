@@ -1,1 +1,1 @@
-package hard;public class OnlineElection{public static void main(String[]args){System.out.println("OnlineElection works\n");}}
+package hard;public class OnlineElection{public static void solve(){System.out.println("OnlineElection implementation");}public static void main(String[]args){solve();}}

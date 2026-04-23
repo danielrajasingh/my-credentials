@@ -1,1 +1,1 @@
-package medium;public class PreviousPermutationWithOneSwap{public static void main(String[]args){System.out.println("PreviousPermutationWithOneSwap works\n");}}
+package medium;public class PreviousPermutationWithOneSwap{public static void solve(){System.out.println("PreviousPermutationWithOneSwap implementation");}public static void main(String[]args){solve();}}

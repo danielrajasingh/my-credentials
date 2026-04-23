@@ -1,1 +1,1 @@
-package medium;public class SummaryRanges{public static void main(String[]args){System.out.println("SummaryRanges works\n");}}
+package medium;public class SummaryRanges{public static void solve(){System.out.println("SummaryRanges implementation");}public static void main(String[]args){solve();}}

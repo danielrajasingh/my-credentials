@@ -1,1 +1,1 @@
-package hard;public class FindTheKthLargestIntegerInTheArray{public static void main(String[]args){System.out.println("FindTheKthLargestIntegerInTheArray works\n");}}
+package hard;public class FindTheKthLargestIntegerInTheArray{public static void solve(){System.out.println("FindTheKthLargestIntegerInTheArray implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class RedistributeCharactersToMakeAllStringsEqual{public static void main(String[]args){System.out.println("RedistributeCharactersToMakeAllStringsEqual works\n");}}
+package easy;public class RedistributeCharactersToMakeAllStringsEqual{public static void solve(){System.out.println("RedistributeCharactersToMakeAllStringsEqual implementation");}public static void main(String[]args){solve();}}

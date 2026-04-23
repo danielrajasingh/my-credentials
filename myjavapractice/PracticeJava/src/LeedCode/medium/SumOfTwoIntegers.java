@@ -1,1 +1,1 @@
-package medium;public class SumOfTwoIntegers{public static void main(String[]args){System.out.println("SumOfTwoIntegers works\n");}}
+package medium;public class SumOfTwoIntegers{public static void solve(){System.out.println("SumOfTwoIntegers implementation");}public static void main(String[]args){solve();}}

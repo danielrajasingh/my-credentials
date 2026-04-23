@@ -1,1 +1,1 @@
-package easy;public class LongPressedName{public static void main(String[]args){System.out.println("LongPressedName works\n");}}
+package easy;public class LongPressedName{public static void solve(){System.out.println("LongPressedName implementation");}public static void main(String[]args){solve();}}

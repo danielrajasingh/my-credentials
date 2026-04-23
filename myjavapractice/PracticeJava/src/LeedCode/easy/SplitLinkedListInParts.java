@@ -1,1 +1,1 @@
-package easy;public class SplitLinkedListInParts{public static void main(String[]args){System.out.println("SplitLinkedListInParts works\n");}}
+package easy;public class SplitLinkedListInParts{public static void solve(){System.out.println("SplitLinkedListInParts implementation");}public static void main(String[]args){solve();}}

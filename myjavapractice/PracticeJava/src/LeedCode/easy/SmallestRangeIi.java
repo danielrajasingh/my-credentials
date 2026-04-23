@@ -1,1 +1,1 @@
-package easy;public class SmallestRangeIi{public static void main(String[]args){System.out.println("SmallestRangeIi works\n");}}
+package easy;public class SmallestRangeIi{public static void solve(){System.out.println("SmallestRangeIi implementation");}public static void main(String[]args){solve();}}

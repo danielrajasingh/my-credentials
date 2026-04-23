@@ -1,1 +1,1 @@
-package medium;public class PizzaWith3nSlices{public static void main(String[]args){System.out.println("PizzaWith3nSlices works\n");}}
+package medium;public class PizzaWith3nSlices{public static void solve(){System.out.println("PizzaWith3nSlices implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class FindInMountainArray{public static void main(String[]args){System.out.println("FindInMountainArray works\n");}}
+package medium;public class FindInMountainArray{public static void solve(){System.out.println("FindInMountainArray implementation");}public static void main(String[]args){solve();}}

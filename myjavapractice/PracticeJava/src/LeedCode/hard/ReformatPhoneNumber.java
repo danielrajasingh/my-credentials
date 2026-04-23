@@ -1,1 +1,1 @@
-package hard;public class ReformatPhoneNumber{public static void main(String[]args){System.out.println("ReformatPhoneNumber works\n");}}
+package hard;public class ReformatPhoneNumber{public static void solve(){System.out.println("ReformatPhoneNumber implementation");}public static void main(String[]args){solve();}}

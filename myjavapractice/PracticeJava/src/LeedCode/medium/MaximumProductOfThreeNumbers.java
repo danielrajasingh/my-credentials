@@ -1,1 +1,1 @@
-package medium;public class MaximumProductOfThreeNumbers{public static void main(String[]args){System.out.println("MaximumProductOfThreeNumbers works\n");}}
+package medium;public class MaximumProductOfThreeNumbers{public static void solve(){System.out.println("MaximumProductOfThreeNumbers implementation");}public static void main(String[]args){solve();}}

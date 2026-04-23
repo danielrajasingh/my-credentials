@@ -1,1 +1,1 @@
-package medium;public class FindRightInterval{public static void main(String[]args){System.out.println("FindRightInterval works\n");}}
+package medium;public class FindRightInterval{public static void solve(){System.out.println("FindRightInterval implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class RemoveCoveredIntervals{public static void main(String[]args){System.out.println("RemoveCoveredIntervals works\n");}}
+package medium;public class RemoveCoveredIntervals{public static void solve(){System.out.println("RemoveCoveredIntervals implementation");}public static void main(String[]args){solve();}}

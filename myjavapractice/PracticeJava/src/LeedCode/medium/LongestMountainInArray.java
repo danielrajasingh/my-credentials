@@ -1,1 +1,1 @@
-package medium;public class LongestMountainInArray{public static void main(String[]args){System.out.println("LongestMountainInArray works\n");}}
+package medium;public class LongestMountainInArray{public static void solve(){System.out.println("LongestMountainInArray implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class DecodedStringAtIndex{public static void main(String[]args){System.out.println("DecodedStringAtIndex works\n");}}
+package easy;public class DecodedStringAtIndex{public static void solve(){System.out.println("DecodedStringAtIndex implementation");}public static void main(String[]args){solve();}}

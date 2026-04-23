@@ -1,1 +1,1 @@
-package medium;public class RelativeSortArray{public static void main(String[]args){System.out.println("RelativeSortArray works\n");}}
+package medium;public class RelativeSortArray{public static void solve(){System.out.println("RelativeSortArray implementation");}public static void main(String[]args){solve();}}

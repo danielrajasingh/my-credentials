@@ -1,1 +1,1 @@
-package medium;public class SumOfAbsoluteDifferencesInASortedArray{public static void main(String[]args){System.out.println("SumOfAbsoluteDifferencesInASortedArray works\n");}}
+package medium;public class SumOfAbsoluteDifferencesInASortedArray{public static void solve(){System.out.println("SumOfAbsoluteDifferencesInASortedArray implementation");}public static void main(String[]args){solve();}}

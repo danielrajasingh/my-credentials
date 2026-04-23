@@ -1,1 +1,1 @@
-package hard;public class UncommonWordsFromTwoSentences{public static void main(String[]args){System.out.println("UncommonWordsFromTwoSentences works\n");}}
+package hard;public class UncommonWordsFromTwoSentences{public static void solve(){System.out.println("UncommonWordsFromTwoSentences implementation");}public static void main(String[]args){solve();}}

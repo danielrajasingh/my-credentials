@@ -1,1 +1,1 @@
-package hard;public class WalkingRobotSimulationIi{public static void main(String[]args){System.out.println("WalkingRobotSimulationIi works\n");}}
+package hard;public class WalkingRobotSimulationIi{public static void solve(){System.out.println("WalkingRobotSimulationIi implementation");}public static void main(String[]args){solve();}}

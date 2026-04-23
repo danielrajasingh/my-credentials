@@ -1,1 +1,1 @@
-package hard;public class ConstrainedSubsequenceSum{public static void main(String[]args){System.out.println("ConstrainedSubsequenceSum works\n");}}
+package hard;public class ConstrainedSubsequenceSum{public static void solve(){System.out.println("ConstrainedSubsequenceSum implementation");}public static void main(String[]args){solve();}}

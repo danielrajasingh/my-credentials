@@ -1,1 +1,1 @@
-package hard;public class RestoreTheArrayFromAdjacentPairs{public static void main(String[]args){System.out.println("RestoreTheArrayFromAdjacentPairs works\n");}}
+package hard;public class RestoreTheArrayFromAdjacentPairs{public static void solve(){System.out.println("RestoreTheArrayFromAdjacentPairs implementation");}public static void main(String[]args){solve();}}

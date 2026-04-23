@@ -1,1 +1,1 @@
-package hard;public class RectangleAreaIi{public static void main(String[]args){System.out.println("RectangleAreaIi works\n");}}
+package hard;public class RectangleAreaIi{public static void solve(){System.out.println("RectangleAreaIi implementation");}public static void main(String[]args){solve();}}

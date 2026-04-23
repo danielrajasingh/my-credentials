@@ -1,1 +1,1 @@
-package easy;public class ReconstructA2RowBinaryMatrix{public static void main(String[]args){System.out.println("ReconstructA2RowBinaryMatrix works\n");}}
+package easy;public class ReconstructA2RowBinaryMatrix{public static void solve(){System.out.println("ReconstructA2RowBinaryMatrix implementation");}public static void main(String[]args){solve();}}

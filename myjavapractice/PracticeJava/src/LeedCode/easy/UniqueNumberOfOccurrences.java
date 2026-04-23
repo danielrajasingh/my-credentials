@@ -1,1 +1,1 @@
-package easy;public class UniqueNumberOfOccurrences{public static void main(String[]args){System.out.println("UniqueNumberOfOccurrences works\n");}}
+package easy;public class UniqueNumberOfOccurrences{public static void solve(){System.out.println("UniqueNumberOfOccurrences implementation");}public static void main(String[]args){solve();}}

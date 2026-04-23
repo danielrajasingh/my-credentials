@@ -1,1 +1,1 @@
-package medium;public class SecondMinimumNodeInABinaryTree{public static void main(String[]args){System.out.println("SecondMinimumNodeInABinaryTree works\n");}}
+package medium;public class SecondMinimumNodeInABinaryTree{public static void solve(){System.out.println("SecondMinimumNodeInABinaryTree implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class BeautifulArrangementIi{public static void main(String[]args){System.out.println("BeautifulArrangementIi works\n");}}
+package easy;public class BeautifulArrangementIi{public static void solve(){System.out.println("BeautifulArrangementIi implementation");}public static void main(String[]args){solve();}}

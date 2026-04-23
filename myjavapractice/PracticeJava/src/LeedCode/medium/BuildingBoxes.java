@@ -1,1 +1,1 @@
-package medium;public class BuildingBoxes{public static void main(String[]args){System.out.println("BuildingBoxes works\n");}}
+package medium;public class BuildingBoxes{public static void solve(){System.out.println("BuildingBoxes implementation");}public static void main(String[]args){solve();}}

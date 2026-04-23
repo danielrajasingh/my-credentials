@@ -1,1 +1,1 @@
-package hard;public class StrangePrinterIi{public static void main(String[]args){System.out.println("StrangePrinterIi works\n");}}
+package hard;public class StrangePrinterIi{public static void solve(){System.out.println("StrangePrinterIi implementation");}public static void main(String[]args){solve();}}

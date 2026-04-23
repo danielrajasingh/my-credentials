@@ -1,1 +1,1 @@
-package medium;public class MinimumDegreeOfAConnectedTrioInAGraph{public static void main(String[]args){System.out.println("MinimumDegreeOfAConnectedTrioInAGraph works\n");}}
+package medium;public class MinimumDegreeOfAConnectedTrioInAGraph{public static void solve(){System.out.println("MinimumDegreeOfAConnectedTrioInAGraph implementation");}public static void main(String[]args){solve();}}

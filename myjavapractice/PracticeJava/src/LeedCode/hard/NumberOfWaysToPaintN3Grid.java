@@ -1,1 +1,1 @@
-package hard;public class NumberOfWaysToPaintN3Grid{public static void main(String[]args){System.out.println("NumberOfWaysToPaintN3Grid works\n");}}
+package hard;public class NumberOfWaysToPaintN3Grid{public static void solve(){System.out.println("NumberOfWaysToPaintN3Grid implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints{public static void main(String[]args){System.out.println("FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints works\n");}}
+package hard;public class FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints{public static void solve(){System.out.println("FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints implementation");}public static void main(String[]args){solve();}}

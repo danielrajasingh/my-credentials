@@ -1,1 +1,1 @@
-package medium;public class NumberOfBoomerangs{public static void main(String[]args){System.out.println("NumberOfBoomerangs works\n");}}
+package medium;public class NumberOfBoomerangs{public static void solve(){System.out.println("NumberOfBoomerangs implementation");}public static void main(String[]args){solve();}}

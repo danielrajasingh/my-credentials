@@ -1,1 +1,1 @@
-package hard;public class AverageWaitingTime{public static void main(String[]args){System.out.println("AverageWaitingTime works\n");}}
+package hard;public class AverageWaitingTime{public static void solve(){System.out.println("AverageWaitingTime implementation");}public static void main(String[]args){solve();}}

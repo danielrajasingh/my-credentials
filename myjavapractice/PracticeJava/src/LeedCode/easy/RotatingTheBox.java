@@ -1,1 +1,1 @@
-package easy;public class RotatingTheBox{public static void main(String[]args){System.out.println("RotatingTheBox works\n");}}
+package easy;public class RotatingTheBox{public static void solve(){System.out.println("RotatingTheBox implementation");}public static void main(String[]args){solve();}}

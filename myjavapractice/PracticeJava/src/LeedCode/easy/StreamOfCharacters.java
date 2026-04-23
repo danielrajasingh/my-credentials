@@ -1,1 +1,1 @@
-package easy;public class StreamOfCharacters{public static void main(String[]args){System.out.println("StreamOfCharacters works\n");}}
+package easy;public class StreamOfCharacters{public static void solve(){System.out.println("StreamOfCharacters implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class CountOddNumbersInAnIntervalRange{public static void main(String[]args){System.out.println("CountOddNumbersInAnIntervalRange works\n");}}
+package hard;public class CountOddNumbersInAnIntervalRange{public static void solve(){System.out.println("CountOddNumbersInAnIntervalRange implementation");}public static void main(String[]args){solve();}}

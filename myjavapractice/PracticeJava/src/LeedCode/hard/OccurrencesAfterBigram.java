@@ -1,1 +1,1 @@
-package hard;public class OccurrencesAfterBigram{public static void main(String[]args){System.out.println("OccurrencesAfterBigram works\n");}}
+package hard;public class OccurrencesAfterBigram{public static void solve(){System.out.println("OccurrencesAfterBigram implementation");}public static void main(String[]args){solve();}}

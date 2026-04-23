@@ -1,1 +1,1 @@
-package medium;public class NumberOfVisiblePeopleInAQueue{public static void main(String[]args){System.out.println("NumberOfVisiblePeopleInAQueue works\n");}}
+package medium;public class NumberOfVisiblePeopleInAQueue{public static void solve(){System.out.println("NumberOfVisiblePeopleInAQueue implementation");}public static void main(String[]args){solve();}}

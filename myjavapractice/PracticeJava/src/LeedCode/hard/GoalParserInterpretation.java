@@ -1,1 +1,1 @@
-package hard;public class GoalParserInterpretation{public static void main(String[]args){System.out.println("GoalParserInterpretation works\n");}}
+package hard;public class GoalParserInterpretation{public static void solve(){System.out.println("GoalParserInterpretation implementation");}public static void main(String[]args){solve();}}

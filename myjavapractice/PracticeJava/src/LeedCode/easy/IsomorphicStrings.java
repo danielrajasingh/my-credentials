@@ -1,1 +1,1 @@
-package easy;public class IsomorphicStrings{public static void main(String[]args){System.out.println("IsomorphicStrings works\n");}}
+package easy;public class IsomorphicStrings{public static void solve(){System.out.println("IsomorphicStrings implementation");}public static void main(String[]args){solve();}}

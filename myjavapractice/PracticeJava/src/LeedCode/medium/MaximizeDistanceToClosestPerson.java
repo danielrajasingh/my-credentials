@@ -1,1 +1,1 @@
-package medium;public class MaximizeDistanceToClosestPerson{public static void main(String[]args){System.out.println("MaximizeDistanceToClosestPerson works\n");}}
+package medium;public class MaximizeDistanceToClosestPerson{public static void solve(){System.out.println("MaximizeDistanceToClosestPerson implementation");}public static void main(String[]args){solve();}}

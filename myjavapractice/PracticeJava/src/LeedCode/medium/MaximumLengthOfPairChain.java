@@ -1,1 +1,1 @@
-package medium;public class MaximumLengthOfPairChain{public static void main(String[]args){System.out.println("MaximumLengthOfPairChain works\n");}}
+package medium;public class MaximumLengthOfPairChain{public static void solve(){System.out.println("MaximumLengthOfPairChain implementation");}public static void main(String[]args){solve();}}

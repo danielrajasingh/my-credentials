@@ -1,1 +1,1 @@
-package easy;public class CheckIfMoveIsLegal{public static void main(String[]args){System.out.println("CheckIfMoveIsLegal works\n");}}
+package easy;public class CheckIfMoveIsLegal{public static void solve(){System.out.println("CheckIfMoveIsLegal implementation");}public static void main(String[]args){solve();}}

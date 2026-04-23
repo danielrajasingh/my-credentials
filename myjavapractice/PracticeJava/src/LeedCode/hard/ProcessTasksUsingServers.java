@@ -1,1 +1,1 @@
-package hard;public class ProcessTasksUsingServers{public static void main(String[]args){System.out.println("ProcessTasksUsingServers works\n");}}
+package hard;public class ProcessTasksUsingServers{public static void solve(){System.out.println("ProcessTasksUsingServers implementation");}public static void main(String[]args){solve();}}

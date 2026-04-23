@@ -1,1 +1,1 @@
-package hard;public class Ipo{public static void main(String[]args){System.out.println("Ipo works\n");}}
+package hard;public class Ipo{public static void solve(){System.out.println("Ipo implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class TheNumberOfWeakCharactersInTheGame{public static void main(String[]args){System.out.println("TheNumberOfWeakCharactersInTheGame works\n");}}
+package medium;public class TheNumberOfWeakCharactersInTheGame{public static void solve(){System.out.println("TheNumberOfWeakCharactersInTheGame implementation");}public static void main(String[]args){solve();}}

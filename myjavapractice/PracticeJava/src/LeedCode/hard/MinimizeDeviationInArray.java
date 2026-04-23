@@ -1,1 +1,1 @@
-package hard;public class MinimizeDeviationInArray{public static void main(String[]args){System.out.println("MinimizeDeviationInArray works\n");}}
+package hard;public class MinimizeDeviationInArray{public static void solve(){System.out.println("MinimizeDeviationInArray implementation");}public static void main(String[]args){solve();}}

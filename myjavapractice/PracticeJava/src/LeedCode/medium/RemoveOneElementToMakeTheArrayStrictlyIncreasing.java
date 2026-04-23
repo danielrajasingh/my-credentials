@@ -1,1 +1,1 @@
-package medium;public class RemoveOneElementToMakeTheArrayStrictlyIncreasing{public static void main(String[]args){System.out.println("RemoveOneElementToMakeTheArrayStrictlyIncreasing works\n");}}
+package medium;public class RemoveOneElementToMakeTheArrayStrictlyIncreasing{public static void solve(){System.out.println("RemoveOneElementToMakeTheArrayStrictlyIncreasing implementation");}public static void main(String[]args){solve();}}

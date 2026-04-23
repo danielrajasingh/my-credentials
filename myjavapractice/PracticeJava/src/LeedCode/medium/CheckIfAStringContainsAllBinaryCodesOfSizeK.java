@@ -1,1 +1,1 @@
-package medium;public class CheckIfAStringContainsAllBinaryCodesOfSizeK{public static void main(String[]args){System.out.println("CheckIfAStringContainsAllBinaryCodesOfSizeK works\n");}}
+package medium;public class CheckIfAStringContainsAllBinaryCodesOfSizeK{public static void solve(){System.out.println("CheckIfAStringContainsAllBinaryCodesOfSizeK implementation");}public static void main(String[]args){solve();}}

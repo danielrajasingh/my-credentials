@@ -1,1 +1,1 @@
-package medium;public class SumOfAllSubsetXorTotals{public static void main(String[]args){System.out.println("SumOfAllSubsetXorTotals works\n");}}
+package medium;public class SumOfAllSubsetXorTotals{public static void solve(){System.out.println("SumOfAllSubsetXorTotals implementation");}public static void main(String[]args){solve();}}

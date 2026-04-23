@@ -1,1 +1,1 @@
-package medium;public class EncodeAndDecodeTinyurl{public static void main(String[]args){System.out.println("EncodeAndDecodeTinyurl works\n");}}
+package medium;public class EncodeAndDecodeTinyurl{public static void solve(){System.out.println("EncodeAndDecodeTinyurl implementation");}public static void main(String[]args){solve();}}

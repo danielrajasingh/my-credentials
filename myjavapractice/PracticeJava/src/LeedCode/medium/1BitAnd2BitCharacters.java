@@ -1,1 +1,1 @@
-package medium;public class 1BitAnd2BitCharacters{public static void main(String[]args){System.out.println("1BitAnd2BitCharacters works\n");}}
+package medium;public class 1BitAnd2BitCharacters{public static void solve(){System.out.println("1BitAnd2BitCharacters implementation");}public static void main(String[]args){solve();}}

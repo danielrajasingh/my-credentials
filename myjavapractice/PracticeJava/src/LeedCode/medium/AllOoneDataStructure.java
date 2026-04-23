@@ -1,1 +1,1 @@
-package medium;public class AllOoneDataStructure{public static void main(String[]args){System.out.println("AllOoneDataStructure works\n");}}
+package medium;public class AllOoneDataStructure{public static void solve(){System.out.println("AllOoneDataStructure implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class ReplaceWords{public static void main(String[]args){System.out.println("ReplaceWords works\n");}}
+package medium;public class ReplaceWords{public static void solve(){System.out.println("ReplaceWords implementation");}public static void main(String[]args){solve();}}

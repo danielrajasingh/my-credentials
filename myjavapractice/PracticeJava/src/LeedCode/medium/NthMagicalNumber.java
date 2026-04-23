@@ -1,1 +1,1 @@
-package medium;public class NthMagicalNumber{public static void main(String[]args){System.out.println("NthMagicalNumber works\n");}}
+package medium;public class NthMagicalNumber{public static void solve(){System.out.println("NthMagicalNumber implementation");}public static void main(String[]args){solve();}}

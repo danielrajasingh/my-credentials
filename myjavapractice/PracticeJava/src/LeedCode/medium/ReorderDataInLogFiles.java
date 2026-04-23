@@ -1,1 +1,1 @@
-package medium;public class ReorderDataInLogFiles{public static void main(String[]args){System.out.println("ReorderDataInLogFiles works\n");}}
+package medium;public class ReorderDataInLogFiles{public static void solve(){System.out.println("ReorderDataInLogFiles implementation");}public static void main(String[]args){solve();}}

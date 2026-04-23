@@ -1,1 +1,1 @@
-package medium;public class TransformToChessboard{public static void main(String[]args){System.out.println("TransformToChessboard works\n");}}
+package medium;public class TransformToChessboard{public static void solve(){System.out.println("TransformToChessboard implementation");}public static void main(String[]args){solve();}}

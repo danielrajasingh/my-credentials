@@ -1,1 +1,1 @@
-package easy;public class PairsOfSongsWithTotalDurationsDivisibleBy60{public static void main(String[]args){System.out.println("PairsOfSongsWithTotalDurationsDivisibleBy60 works\n");}}
+package easy;public class PairsOfSongsWithTotalDurationsDivisibleBy60{public static void solve(){System.out.println("PairsOfSongsWithTotalDurationsDivisibleBy60 implementation");}public static void main(String[]args){solve();}}

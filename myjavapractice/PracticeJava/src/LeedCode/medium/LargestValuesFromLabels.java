@@ -1,1 +1,1 @@
-package medium;public class LargestValuesFromLabels{public static void main(String[]args){System.out.println("LargestValuesFromLabels works\n");}}
+package medium;public class LargestValuesFromLabels{public static void solve(){System.out.println("LargestValuesFromLabels implementation");}public static void main(String[]args){solve();}}

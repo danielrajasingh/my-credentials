@@ -1,1 +1,1 @@
-package easy;public class NonNegativeIntegersWithoutConsecutiveOnes{public static void main(String[]args){System.out.println("NonNegativeIntegersWithoutConsecutiveOnes works\n");}}
+package easy;public class NonNegativeIntegersWithoutConsecutiveOnes{public static void solve(){System.out.println("NonNegativeIntegersWithoutConsecutiveOnes implementation");}public static void main(String[]args){solve();}}

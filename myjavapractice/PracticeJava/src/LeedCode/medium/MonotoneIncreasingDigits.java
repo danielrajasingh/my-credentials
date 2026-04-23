@@ -1,1 +1,1 @@
-package medium;public class MonotoneIncreasingDigits{public static void main(String[]args){System.out.println("MonotoneIncreasingDigits works\n");}}
+package medium;public class MonotoneIncreasingDigits{public static void solve(){System.out.println("MonotoneIncreasingDigits implementation");}public static void main(String[]args){solve();}}

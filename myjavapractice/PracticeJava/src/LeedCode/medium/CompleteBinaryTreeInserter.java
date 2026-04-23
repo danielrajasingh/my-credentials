@@ -1,1 +1,1 @@
-package medium;public class CompleteBinaryTreeInserter{public static void main(String[]args){System.out.println("CompleteBinaryTreeInserter works\n");}}
+package medium;public class CompleteBinaryTreeInserter{public static void solve(){System.out.println("CompleteBinaryTreeInserter implementation");}public static void main(String[]args){solve();}}

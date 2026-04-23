@@ -1,1 +1,1 @@
-package hard;public class FindSmallestLetterGreaterThanTarget{public static void main(String[]args){System.out.println("FindSmallestLetterGreaterThanTarget works\n");}}
+package hard;public class FindSmallestLetterGreaterThanTarget{public static void solve(){System.out.println("FindSmallestLetterGreaterThanTarget implementation");}public static void main(String[]args){solve();}}

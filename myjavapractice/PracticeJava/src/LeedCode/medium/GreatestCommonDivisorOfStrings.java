@@ -1,1 +1,1 @@
-package medium;public class GreatestCommonDivisorOfStrings{public static void main(String[]args){System.out.println("GreatestCommonDivisorOfStrings works\n");}}
+package medium;public class GreatestCommonDivisorOfStrings{public static void solve(){System.out.println("GreatestCommonDivisorOfStrings implementation");}public static void main(String[]args){solve();}}

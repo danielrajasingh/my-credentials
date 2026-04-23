@@ -1,1 +1,1 @@
-package hard;public class MaximumProfitOfOperatingACentennialWheel{public static void main(String[]args){System.out.println("MaximumProfitOfOperatingACentennialWheel works\n");}}
+package hard;public class MaximumProfitOfOperatingACentennialWheel{public static void solve(){System.out.println("MaximumProfitOfOperatingACentennialWheel implementation");}public static void main(String[]args){solve();}}

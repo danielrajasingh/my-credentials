@@ -1,1 +1,1 @@
-package easy;public class KthSmallestProductOfTwoSortedArrays{public static void main(String[]args){System.out.println("KthSmallestProductOfTwoSortedArrays works\n");}}
+package easy;public class KthSmallestProductOfTwoSortedArrays{public static void solve(){System.out.println("KthSmallestProductOfTwoSortedArrays implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class MinimumAbsoluteDifferenceInBst{public static void main(String[]args){System.out.println("MinimumAbsoluteDifferenceInBst works\n");}}
+package easy;public class MinimumAbsoluteDifferenceInBst{public static void solve(){System.out.println("MinimumAbsoluteDifferenceInBst implementation");}public static void main(String[]args){solve();}}

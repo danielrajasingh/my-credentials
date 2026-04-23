@@ -1,1 +1,1 @@
-package easy;public class DinnerPlateStacks{public static void main(String[]args){System.out.println("DinnerPlateStacks works\n");}}
+package easy;public class DinnerPlateStacks{public static void solve(){System.out.println("DinnerPlateStacks implementation");}public static void main(String[]args){solve();}}

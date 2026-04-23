@@ -1,1 +1,1 @@
-package medium;public class BestSightseeingPair{public static void main(String[]args){System.out.println("BestSightseeingPair works\n");}}
+package medium;public class BestSightseeingPair{public static void solve(){System.out.println("BestSightseeingPair implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class MaximumWidthOfBinaryTree{public static void main(String[]args){System.out.println("MaximumWidthOfBinaryTree works\n");}}
+package medium;public class MaximumWidthOfBinaryTree{public static void solve(){System.out.println("MaximumWidthOfBinaryTree implementation");}public static void main(String[]args){solve();}}

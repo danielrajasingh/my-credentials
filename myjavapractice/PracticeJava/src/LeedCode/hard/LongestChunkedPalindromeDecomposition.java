@@ -1,1 +1,1 @@
-package hard;public class LongestChunkedPalindromeDecomposition{public static void main(String[]args){System.out.println("LongestChunkedPalindromeDecomposition works\n");}}
+package hard;public class LongestChunkedPalindromeDecomposition{public static void solve(){System.out.println("LongestChunkedPalindromeDecomposition implementation");}public static void main(String[]args){solve();}}

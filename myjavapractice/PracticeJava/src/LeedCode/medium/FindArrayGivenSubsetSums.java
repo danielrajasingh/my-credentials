@@ -1,1 +1,1 @@
-package medium;public class FindArrayGivenSubsetSums{public static void main(String[]args){System.out.println("FindArrayGivenSubsetSums works\n");}}
+package medium;public class FindArrayGivenSubsetSums{public static void solve(){System.out.println("FindArrayGivenSubsetSums implementation");}public static void main(String[]args){solve();}}

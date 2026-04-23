@@ -1,1 +1,1 @@
-package medium;public class MaximumFruitsHarvestedAfterAtMostKSteps{public static void main(String[]args){System.out.println("MaximumFruitsHarvestedAfterAtMostKSteps works\n");}}
+package medium;public class MaximumFruitsHarvestedAfterAtMostKSteps{public static void solve(){System.out.println("MaximumFruitsHarvestedAfterAtMostKSteps implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class FindAllPeopleWithSecret{public static void main(String[]args){System.out.println("FindAllPeopleWithSecret works\n");}}
+package easy;public class FindAllPeopleWithSecret{public static void solve(){System.out.println("FindAllPeopleWithSecret implementation");}public static void main(String[]args){solve();}}

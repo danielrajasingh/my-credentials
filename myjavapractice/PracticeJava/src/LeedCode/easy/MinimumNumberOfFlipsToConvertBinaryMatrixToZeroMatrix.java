@@ -1,1 +1,1 @@
-package easy;public class MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix{public static void main(String[]args){System.out.println("MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix works\n");}}
+package easy;public class MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix{public static void solve(){System.out.println("MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix implementation");}public static void main(String[]args){solve();}}

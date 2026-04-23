@@ -1,1 +1,1 @@
-package easy;public class NumberOfStudentsUnableToEatLunch{public static void main(String[]args){System.out.println("NumberOfStudentsUnableToEatLunch works\n");}}
+package easy;public class NumberOfStudentsUnableToEatLunch{public static void solve(){System.out.println("NumberOfStudentsUnableToEatLunch implementation");}public static void main(String[]args){solve();}}

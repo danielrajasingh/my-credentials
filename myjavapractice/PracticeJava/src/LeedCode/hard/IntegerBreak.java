@@ -1,1 +1,1 @@
-package hard;public class IntegerBreak{public static void main(String[]args){System.out.println("IntegerBreak works\n");}}
+package hard;public class IntegerBreak{public static void solve(){System.out.println("IntegerBreak implementation");}public static void main(String[]args){solve();}}

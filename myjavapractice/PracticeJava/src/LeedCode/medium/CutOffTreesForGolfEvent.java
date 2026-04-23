@@ -1,1 +1,1 @@
-package medium;public class CutOffTreesForGolfEvent{public static void main(String[]args){System.out.println("CutOffTreesForGolfEvent works\n");}}
+package medium;public class CutOffTreesForGolfEvent{public static void solve(){System.out.println("CutOffTreesForGolfEvent implementation");}public static void main(String[]args){solve();}}

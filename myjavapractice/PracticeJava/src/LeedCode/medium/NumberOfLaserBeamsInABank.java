@@ -1,1 +1,1 @@
-package medium;public class NumberOfLaserBeamsInABank{public static void main(String[]args){System.out.println("NumberOfLaserBeamsInABank works\n");}}
+package medium;public class NumberOfLaserBeamsInABank{public static void solve(){System.out.println("NumberOfLaserBeamsInABank implementation");}public static void main(String[]args){solve();}}

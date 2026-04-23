@@ -1,1 +1,1 @@
-package hard;public class MinimumElementsToAddToFormAGivenSum{public static void main(String[]args){System.out.println("MinimumElementsToAddToFormAGivenSum works\n");}}
+package hard;public class MinimumElementsToAddToFormAGivenSum{public static void solve(){System.out.println("MinimumElementsToAddToFormAGivenSum implementation");}public static void main(String[]args){solve();}}

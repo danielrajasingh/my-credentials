@@ -1,1 +1,1 @@
-package medium;public class StickersToSpellWord{public static void main(String[]args){System.out.println("StickersToSpellWord works\n");}}
+package medium;public class StickersToSpellWord{public static void solve(){System.out.println("StickersToSpellWord implementation");}public static void main(String[]args){solve();}}

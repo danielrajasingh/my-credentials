@@ -1,1 +1,1 @@
-package medium;public class FindTheDistanceValueBetweenTwoArrays{public static void main(String[]args){System.out.println("FindTheDistanceValueBetweenTwoArrays works\n");}}
+package medium;public class FindTheDistanceValueBetweenTwoArrays{public static void solve(){System.out.println("FindTheDistanceValueBetweenTwoArrays implementation");}public static void main(String[]args){solve();}}

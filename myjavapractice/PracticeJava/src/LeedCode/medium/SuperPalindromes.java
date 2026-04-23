@@ -1,1 +1,1 @@
-package medium;public class SuperPalindromes{public static void main(String[]args){System.out.println("SuperPalindromes works\n");}}
+package medium;public class SuperPalindromes{public static void solve(){System.out.println("SuperPalindromes implementation");}public static void main(String[]args){solve();}}

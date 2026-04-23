@@ -1,1 +1,1 @@
-package easy;public class LongestAbsoluteFilePath{public static void main(String[]args){System.out.println("LongestAbsoluteFilePath works\n");}}
+package easy;public class LongestAbsoluteFilePath{public static void solve(){System.out.println("LongestAbsoluteFilePath implementation");}public static void main(String[]args){solve();}}

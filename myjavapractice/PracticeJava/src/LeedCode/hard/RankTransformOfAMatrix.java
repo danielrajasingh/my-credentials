@@ -1,1 +1,1 @@
-package hard;public class RankTransformOfAMatrix{public static void main(String[]args){System.out.println("RankTransformOfAMatrix works\n");}}
+package hard;public class RankTransformOfAMatrix{public static void solve(){System.out.println("RankTransformOfAMatrix implementation");}public static void main(String[]args){solve();}}

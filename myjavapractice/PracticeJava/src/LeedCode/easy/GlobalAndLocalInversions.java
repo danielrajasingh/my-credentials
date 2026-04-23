@@ -1,1 +1,1 @@
-package easy;public class GlobalAndLocalInversions{public static void main(String[]args){System.out.println("GlobalAndLocalInversions works\n");}}
+package easy;public class GlobalAndLocalInversions{public static void solve(){System.out.println("GlobalAndLocalInversions implementation");}public static void main(String[]args){solve();}}

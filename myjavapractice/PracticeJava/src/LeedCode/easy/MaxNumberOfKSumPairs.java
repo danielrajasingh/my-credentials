@@ -1,1 +1,1 @@
-package easy;public class MaxNumberOfKSumPairs{public static void main(String[]args){System.out.println("MaxNumberOfKSumPairs works\n");}}
+package easy;public class MaxNumberOfKSumPairs{public static void solve(){System.out.println("MaxNumberOfKSumPairs implementation");}public static void main(String[]args){solve();}}

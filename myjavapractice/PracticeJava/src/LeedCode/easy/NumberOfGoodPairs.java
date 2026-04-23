@@ -1,1 +1,1 @@
-package easy;public class NumberOfGoodPairs{public static void main(String[]args){System.out.println("NumberOfGoodPairs works\n");}}
+package easy;public class NumberOfGoodPairs{public static void solve(){System.out.println("NumberOfGoodPairs implementation");}public static void main(String[]args){solve();}}

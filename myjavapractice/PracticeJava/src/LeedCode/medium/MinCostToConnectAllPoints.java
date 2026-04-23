@@ -1,1 +1,1 @@
-package medium;public class MinCostToConnectAllPoints{public static void main(String[]args){System.out.println("MinCostToConnectAllPoints works\n");}}
+package medium;public class MinCostToConnectAllPoints{public static void solve(){System.out.println("MinCostToConnectAllPoints implementation");}public static void main(String[]args){solve();}}

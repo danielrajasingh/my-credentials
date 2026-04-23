@@ -1,1 +1,1 @@
-package hard;public class MaximumNumberOfGroupsGettingFreshDonuts{public static void main(String[]args){System.out.println("MaximumNumberOfGroupsGettingFreshDonuts works\n");}}
+package hard;public class MaximumNumberOfGroupsGettingFreshDonuts{public static void solve(){System.out.println("MaximumNumberOfGroupsGettingFreshDonuts implementation");}public static void main(String[]args){solve();}}

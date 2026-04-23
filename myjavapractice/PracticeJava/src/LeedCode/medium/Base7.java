@@ -1,1 +1,1 @@
-package medium;public class Base7{public static void main(String[]args){System.out.println("Base7 works\n");}}
+package medium;public class Base7{public static void solve(){System.out.println("Base7 implementation");}public static void main(String[]args){solve();}}

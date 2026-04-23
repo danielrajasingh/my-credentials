@@ -1,1 +1,1 @@
-package medium;public class WateringPlants{public static void main(String[]args){System.out.println("WateringPlants works\n");}}
+package medium;public class WateringPlants{public static void solve(){System.out.println("WateringPlants implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class MinimumNumberOfSwapsToMakeTheStringBalanced{public static void main(String[]args){System.out.println("MinimumNumberOfSwapsToMakeTheStringBalanced works\n");}}
+package hard;public class MinimumNumberOfSwapsToMakeTheStringBalanced{public static void solve(){System.out.println("MinimumNumberOfSwapsToMakeTheStringBalanced implementation");}public static void main(String[]args){solve();}}

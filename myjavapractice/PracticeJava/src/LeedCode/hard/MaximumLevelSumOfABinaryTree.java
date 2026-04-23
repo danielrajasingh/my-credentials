@@ -1,1 +1,1 @@
-package hard;public class MaximumLevelSumOfABinaryTree{public static void main(String[]args){System.out.println("MaximumLevelSumOfABinaryTree works\n");}}
+package hard;public class MaximumLevelSumOfABinaryTree{public static void solve(){System.out.println("MaximumLevelSumOfABinaryTree implementation");}public static void main(String[]args){solve();}}

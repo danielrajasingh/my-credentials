@@ -1,1 +1,1 @@
-package medium;public class ReverseWordsInAStringIii{public static void main(String[]args){System.out.println("ReverseWordsInAStringIii works\n");}}
+package medium;public class ReverseWordsInAStringIii{public static void solve(){System.out.println("ReverseWordsInAStringIii implementation");}public static void main(String[]args){solve();}}

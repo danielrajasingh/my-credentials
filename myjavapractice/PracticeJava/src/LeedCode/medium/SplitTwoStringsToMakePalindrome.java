@@ -1,1 +1,1 @@
-package medium;public class SplitTwoStringsToMakePalindrome{public static void main(String[]args){System.out.println("SplitTwoStringsToMakePalindrome works\n");}}
+package medium;public class SplitTwoStringsToMakePalindrome{public static void solve(){System.out.println("SplitTwoStringsToMakePalindrome implementation");}public static void main(String[]args){solve();}}

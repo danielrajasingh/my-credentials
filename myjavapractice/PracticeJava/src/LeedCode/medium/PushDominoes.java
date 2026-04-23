@@ -1,1 +1,1 @@
-package medium;public class PushDominoes{public static void main(String[]args){System.out.println("PushDominoes works\n");}}
+package medium;public class PushDominoes{public static void solve(){System.out.println("PushDominoes implementation");}public static void main(String[]args){solve();}}

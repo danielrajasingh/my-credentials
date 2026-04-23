@@ -1,1 +1,1 @@
-package medium;public class ArrayWithElementsNotEqualToAverageOfNeighbors{public static void main(String[]args){System.out.println("ArrayWithElementsNotEqualToAverageOfNeighbors works\n");}}
+package medium;public class ArrayWithElementsNotEqualToAverageOfNeighbors{public static void solve(){System.out.println("ArrayWithElementsNotEqualToAverageOfNeighbors implementation");}public static void main(String[]args){solve();}}

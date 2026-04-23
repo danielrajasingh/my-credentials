@@ -1,1 +1,1 @@
-package easy;public class MaximumUnitsOnATruck{public static void main(String[]args){System.out.println("MaximumUnitsOnATruck works\n");}}
+package easy;public class MaximumUnitsOnATruck{public static void solve(){System.out.println("MaximumUnitsOnATruck implementation");}public static void main(String[]args){solve();}}

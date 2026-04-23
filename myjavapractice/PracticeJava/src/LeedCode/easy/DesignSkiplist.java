@@ -1,1 +1,1 @@
-package easy;public class DesignSkiplist{public static void main(String[]args){System.out.println("DesignSkiplist works\n");}}
+package easy;public class DesignSkiplist{public static void solve(){System.out.println("DesignSkiplist implementation");}public static void main(String[]args){solve();}}

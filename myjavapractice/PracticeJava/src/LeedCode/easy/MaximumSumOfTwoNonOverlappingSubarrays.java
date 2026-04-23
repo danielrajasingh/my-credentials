@@ -1,1 +1,1 @@
-package easy;public class MaximumSumOfTwoNonOverlappingSubarrays{public static void main(String[]args){System.out.println("MaximumSumOfTwoNonOverlappingSubarrays works\n");}}
+package easy;public class MaximumSumOfTwoNonOverlappingSubarrays{public static void solve(){System.out.println("MaximumSumOfTwoNonOverlappingSubarrays implementation");}public static void main(String[]args){solve();}}

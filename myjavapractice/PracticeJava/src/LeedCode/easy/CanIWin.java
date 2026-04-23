@@ -1,1 +1,1 @@
-package easy;public class CanIWin{public static void main(String[]args){System.out.println("CanIWin works\n");}}
+package easy;public class CanIWin{public static void solve(){System.out.println("CanIWin implementation");}public static void main(String[]args){solve();}}

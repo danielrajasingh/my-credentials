@@ -1,1 +1,1 @@
-package easy;public class CountLargestGroup{public static void main(String[]args){System.out.println("CountLargestGroup works\n");}}
+package easy;public class CountLargestGroup{public static void solve(){System.out.println("CountLargestGroup implementation");}public static void main(String[]args){solve();}}

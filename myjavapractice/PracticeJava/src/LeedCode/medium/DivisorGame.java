@@ -1,1 +1,1 @@
-package medium;public class DivisorGame{public static void main(String[]args){System.out.println("DivisorGame works\n");}}
+package medium;public class DivisorGame{public static void solve(){System.out.println("DivisorGame implementation");}public static void main(String[]args){solve();}}

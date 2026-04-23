@@ -1,1 +1,1 @@
-package medium;public class BullsAndCows{public static void main(String[]args){System.out.println("BullsAndCows works\n");}}
+package medium;public class BullsAndCows{public static void solve(){System.out.println("BullsAndCows implementation");}public static void main(String[]args){solve();}}

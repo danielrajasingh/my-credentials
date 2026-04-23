@@ -1,1 +1,1 @@
-package hard;public class ReverseVowelsOfAString{public static void main(String[]args){System.out.println("ReverseVowelsOfAString works\n");}}
+package hard;public class ReverseVowelsOfAString{public static void solve(){System.out.println("ReverseVowelsOfAString implementation");}public static void main(String[]args){solve();}}

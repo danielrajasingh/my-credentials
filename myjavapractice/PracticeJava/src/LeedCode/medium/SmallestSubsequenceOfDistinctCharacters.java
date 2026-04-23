@@ -1,1 +1,1 @@
-package medium;public class SmallestSubsequenceOfDistinctCharacters{public static void main(String[]args){System.out.println("SmallestSubsequenceOfDistinctCharacters works\n");}}
+package medium;public class SmallestSubsequenceOfDistinctCharacters{public static void solve(){System.out.println("SmallestSubsequenceOfDistinctCharacters implementation");}public static void main(String[]args){solve();}}

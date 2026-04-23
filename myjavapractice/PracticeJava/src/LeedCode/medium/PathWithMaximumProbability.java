@@ -1,1 +1,1 @@
-package medium;public class PathWithMaximumProbability{public static void main(String[]args){System.out.println("PathWithMaximumProbability works\n");}}
+package medium;public class PathWithMaximumProbability{public static void solve(){System.out.println("PathWithMaximumProbability implementation");}public static void main(String[]args){solve();}}

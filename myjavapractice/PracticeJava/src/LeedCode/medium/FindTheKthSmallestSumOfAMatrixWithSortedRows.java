@@ -1,1 +1,1 @@
-package medium;public class FindTheKthSmallestSumOfAMatrixWithSortedRows{public static void main(String[]args){System.out.println("FindTheKthSmallestSumOfAMatrixWithSortedRows works\n");}}
+package medium;public class FindTheKthSmallestSumOfAMatrixWithSortedRows{public static void solve(){System.out.println("FindTheKthSmallestSumOfAMatrixWithSortedRows implementation");}public static void main(String[]args){solve();}}

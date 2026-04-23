@@ -1,1 +1,1 @@
-package easy;public class PartitionArrayIntoTwoArraysToMinimizeSumDifference{public static void main(String[]args){System.out.println("PartitionArrayIntoTwoArraysToMinimizeSumDifference works\n");}}
+package easy;public class PartitionArrayIntoTwoArraysToMinimizeSumDifference{public static void solve(){System.out.println("PartitionArrayIntoTwoArraysToMinimizeSumDifference implementation");}public static void main(String[]args){solve();}}

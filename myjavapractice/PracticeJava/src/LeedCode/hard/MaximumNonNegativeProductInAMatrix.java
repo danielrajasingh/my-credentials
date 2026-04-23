@@ -1,1 +1,1 @@
-package hard;public class MaximumNonNegativeProductInAMatrix{public static void main(String[]args){System.out.println("MaximumNonNegativeProductInAMatrix works\n");}}
+package hard;public class MaximumNonNegativeProductInAMatrix{public static void solve(){System.out.println("MaximumNonNegativeProductInAMatrix implementation");}public static void main(String[]args){solve();}}

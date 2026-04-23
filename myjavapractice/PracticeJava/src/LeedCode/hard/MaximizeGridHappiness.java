@@ -1,1 +1,1 @@
-package hard;public class MaximizeGridHappiness{public static void main(String[]args){System.out.println("MaximizeGridHappiness works\n");}}
+package hard;public class MaximizeGridHappiness{public static void solve(){System.out.println("MaximizeGridHappiness implementation");}public static void main(String[]args){solve();}}

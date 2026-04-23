@@ -1,1 +1,1 @@
-package medium;public class CountUniqueCharactersOfAllSubstringsOfAGivenString{public static void main(String[]args){System.out.println("CountUniqueCharactersOfAllSubstringsOfAGivenString works\n");}}
+package medium;public class CountUniqueCharactersOfAllSubstringsOfAGivenString{public static void solve(){System.out.println("CountUniqueCharactersOfAllSubstringsOfAGivenString implementation");}public static void main(String[]args){solve();}}

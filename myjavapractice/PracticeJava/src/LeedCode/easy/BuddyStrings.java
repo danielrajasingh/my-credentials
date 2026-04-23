@@ -1,1 +1,1 @@
-package easy;public class BuddyStrings{public static void main(String[]args){System.out.println("BuddyStrings works\n");}}
+package easy;public class BuddyStrings{public static void solve(){System.out.println("BuddyStrings implementation");}public static void main(String[]args){solve();}}

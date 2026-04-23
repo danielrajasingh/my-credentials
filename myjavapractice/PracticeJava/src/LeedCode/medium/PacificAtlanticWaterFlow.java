@@ -1,1 +1,1 @@
-package medium;public class PacificAtlanticWaterFlow{public static void main(String[]args){System.out.println("PacificAtlanticWaterFlow works\n");}}
+package medium;public class PacificAtlanticWaterFlow{public static void solve(){System.out.println("PacificAtlanticWaterFlow implementation");}public static void main(String[]args){solve();}}

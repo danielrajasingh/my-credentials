@@ -1,1 +1,1 @@
-package hard;public class TheEarliestAndLatestRoundsWherePlayersCompete{public static void main(String[]args){System.out.println("TheEarliestAndLatestRoundsWherePlayersCompete works\n");}}
+package hard;public class TheEarliestAndLatestRoundsWherePlayersCompete{public static void solve(){System.out.println("TheEarliestAndLatestRoundsWherePlayersCompete implementation");}public static void main(String[]args){solve();}}

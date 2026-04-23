@@ -1,1 +1,1 @@
-package easy;public class CountNodesWithTheHighestScore{public static void main(String[]args){System.out.println("CountNodesWithTheHighestScore works\n");}}
+package easy;public class CountNodesWithTheHighestScore{public static void solve(){System.out.println("CountNodesWithTheHighestScore implementation");}public static void main(String[]args){solve();}}

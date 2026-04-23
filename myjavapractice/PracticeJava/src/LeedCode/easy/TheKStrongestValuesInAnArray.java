@@ -1,1 +1,1 @@
-package easy;public class TheKStrongestValuesInAnArray{public static void main(String[]args){System.out.println("TheKStrongestValuesInAnArray works\n");}}
+package easy;public class TheKStrongestValuesInAnArray{public static void solve(){System.out.println("TheKStrongestValuesInAnArray implementation");}public static void main(String[]args){solve();}}

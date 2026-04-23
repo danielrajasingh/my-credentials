@@ -1,1 +1,1 @@
-package medium;public class MaxConsecutiveOnes{public static void main(String[]args){System.out.println("MaxConsecutiveOnes works\n");}}
+package medium;public class MaxConsecutiveOnes{public static void solve(){System.out.println("MaxConsecutiveOnes implementation");}public static void main(String[]args){solve();}}

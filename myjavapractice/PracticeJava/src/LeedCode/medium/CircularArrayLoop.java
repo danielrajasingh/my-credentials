@@ -1,1 +1,1 @@
-package medium;public class CircularArrayLoop{public static void main(String[]args){System.out.println("CircularArrayLoop works\n");}}
+package medium;public class CircularArrayLoop{public static void solve(){System.out.println("CircularArrayLoop implementation");}public static void main(String[]args){solve();}}

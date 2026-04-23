@@ -1,1 +1,1 @@
-package hard;public class MinimumSuffixFlips{public static void main(String[]args){System.out.println("MinimumSuffixFlips works\n");}}
+package hard;public class MinimumSuffixFlips{public static void solve(){System.out.println("MinimumSuffixFlips implementation");}public static void main(String[]args){solve();}}

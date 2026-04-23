@@ -1,1 +1,1 @@
-package easy;public class ComplementOfBase10Integer{public static void main(String[]args){System.out.println("ComplementOfBase10Integer works\n");}}
+package easy;public class ComplementOfBase10Integer{public static void solve(){System.out.println("ComplementOfBase10Integer implementation");}public static void main(String[]args){solve();}}

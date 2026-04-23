@@ -1,1 +1,1 @@
-package easy;public class 3sumWithMultiplicity{public static void main(String[]args){System.out.println("3sumWithMultiplicity works\n");}}
+package easy;public class 3sumWithMultiplicity{public static void solve(){System.out.println("3sumWithMultiplicity implementation");}public static void main(String[]args){solve();}}

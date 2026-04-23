@@ -1,1 +1,1 @@
-package medium;public class RotateFunction{public static void main(String[]args){System.out.println("RotateFunction works\n");}}
+package medium;public class RotateFunction{public static void solve(){System.out.println("RotateFunction implementation");}public static void main(String[]args){solve();}}

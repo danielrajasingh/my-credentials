@@ -1,1 +1,1 @@
-package medium;public class MinimumTimeToMakeRopeColorful{public static void main(String[]args){System.out.println("MinimumTimeToMakeRopeColorful works\n");}}
+package medium;public class MinimumTimeToMakeRopeColorful{public static void solve(){System.out.println("MinimumTimeToMakeRopeColorful implementation");}public static void main(String[]args){solve();}}

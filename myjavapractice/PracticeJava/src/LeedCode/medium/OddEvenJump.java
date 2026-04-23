@@ -1,1 +1,1 @@
-package medium;public class OddEvenJump{public static void main(String[]args){System.out.println("OddEvenJump works\n");}}
+package medium;public class OddEvenJump{public static void solve(){System.out.println("OddEvenJump implementation");}public static void main(String[]args){solve();}}

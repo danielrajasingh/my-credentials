@@ -1,1 +1,1 @@
-package hard;public class MinimumAbsoluteSumDifference{public static void main(String[]args){System.out.println("MinimumAbsoluteSumDifference works\n");}}
+package hard;public class MinimumAbsoluteSumDifference{public static void solve(){System.out.println("MinimumAbsoluteSumDifference implementation");}public static void main(String[]args){solve();}}

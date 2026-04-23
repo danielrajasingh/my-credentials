@@ -1,1 +1,1 @@
-package medium;public class ArrayNesting{public static void main(String[]args){System.out.println("ArrayNesting works\n");}}
+package medium;public class ArrayNesting{public static void solve(){System.out.println("ArrayNesting implementation");}public static void main(String[]args){solve();}}

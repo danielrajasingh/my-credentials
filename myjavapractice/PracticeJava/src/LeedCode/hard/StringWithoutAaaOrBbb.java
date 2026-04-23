@@ -1,1 +1,1 @@
-package hard;public class StringWithoutAaaOrBbb{public static void main(String[]args){System.out.println("StringWithoutAaaOrBbb works\n");}}
+package hard;public class StringWithoutAaaOrBbb{public static void solve(){System.out.println("StringWithoutAaaOrBbb implementation");}public static void main(String[]args){solve();}}

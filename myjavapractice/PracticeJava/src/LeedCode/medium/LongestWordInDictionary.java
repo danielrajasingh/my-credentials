@@ -1,1 +1,1 @@
-package medium;public class LongestWordInDictionary{public static void main(String[]args){System.out.println("LongestWordInDictionary works\n");}}
+package medium;public class LongestWordInDictionary{public static void solve(){System.out.println("LongestWordInDictionary implementation");}public static void main(String[]args){solve();}}

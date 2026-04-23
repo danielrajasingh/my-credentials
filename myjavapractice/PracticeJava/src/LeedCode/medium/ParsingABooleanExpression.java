@@ -1,1 +1,1 @@
-package medium;public class ParsingABooleanExpression{public static void main(String[]args){System.out.println("ParsingABooleanExpression works\n");}}
+package medium;public class ParsingABooleanExpression{public static void solve(){System.out.println("ParsingABooleanExpression implementation");}public static void main(String[]args){solve();}}

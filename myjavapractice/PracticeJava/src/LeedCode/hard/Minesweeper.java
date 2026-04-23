@@ -1,1 +1,1 @@
-package hard;public class Minesweeper{public static void main(String[]args){System.out.println("Minesweeper works\n");}}
+package hard;public class Minesweeper{public static void solve(){System.out.println("Minesweeper implementation");}public static void main(String[]args){solve();}}

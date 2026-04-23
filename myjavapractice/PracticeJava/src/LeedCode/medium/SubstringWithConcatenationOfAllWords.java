@@ -1,1 +1,1 @@
-package medium;public class SubstringWithConcatenationOfAllWords{public static void main(String[]args){System.out.println("SubstringWithConcatenationOfAllWords works\n");}}
+package medium;public class SubstringWithConcatenationOfAllWords{public static void solve(){System.out.println("SubstringWithConcatenationOfAllWords implementation");}public static void main(String[]args){solve();}}

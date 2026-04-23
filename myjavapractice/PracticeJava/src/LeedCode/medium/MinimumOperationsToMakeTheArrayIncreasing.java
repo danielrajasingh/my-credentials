@@ -1,1 +1,1 @@
-package medium;public class MinimumOperationsToMakeTheArrayIncreasing{public static void main(String[]args){System.out.println("MinimumOperationsToMakeTheArrayIncreasing works\n");}}
+package medium;public class MinimumOperationsToMakeTheArrayIncreasing{public static void solve(){System.out.println("MinimumOperationsToMakeTheArrayIncreasing implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class AllPossibleFullBinaryTrees{public static void main(String[]args){System.out.println("AllPossibleFullBinaryTrees works\n");}}
+package medium;public class AllPossibleFullBinaryTrees{public static void solve(){System.out.println("AllPossibleFullBinaryTrees implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class PathCrossing{public static void main(String[]args){System.out.println("PathCrossing works\n");}}
+package medium;public class PathCrossing{public static void solve(){System.out.println("PathCrossing implementation");}public static void main(String[]args){solve();}}

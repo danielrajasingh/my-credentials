@@ -1,1 +1,1 @@
-package easy;public class DesignCircularQueue{public static void main(String[]args){System.out.println("DesignCircularQueue works\n");}}
+package easy;public class DesignCircularQueue{public static void solve(){System.out.println("DesignCircularQueue implementation");}public static void main(String[]args){solve();}}

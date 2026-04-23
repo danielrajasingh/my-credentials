@@ -1,1 +1,1 @@
-package hard;public class KInversePairsArray{public static void main(String[]args){System.out.println("KInversePairsArray works\n");}}
+package hard;public class KInversePairsArray{public static void solve(){System.out.println("KInversePairsArray implementation");}public static void main(String[]args){solve();}}

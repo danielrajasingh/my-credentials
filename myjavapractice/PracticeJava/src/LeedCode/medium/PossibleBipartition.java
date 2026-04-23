@@ -1,1 +1,1 @@
-package medium;public class PossibleBipartition{public static void main(String[]args){System.out.println("PossibleBipartition works\n");}}
+package medium;public class PossibleBipartition{public static void solve(){System.out.println("PossibleBipartition implementation");}public static void main(String[]args){solve();}}

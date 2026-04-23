@@ -1,1 +1,1 @@
-package medium;public class MaximumMatrixSum{public static void main(String[]args){System.out.println("MaximumMatrixSum works\n");}}
+package medium;public class MaximumMatrixSum{public static void solve(){System.out.println("MaximumMatrixSum implementation");}public static void main(String[]args){solve();}}

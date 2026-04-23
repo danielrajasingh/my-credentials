@@ -1,1 +1,1 @@
-package medium;public class CanConvertStringInKMoves{public static void main(String[]args){System.out.println("CanConvertStringInKMoves works\n");}}
+package medium;public class CanConvertStringInKMoves{public static void solve(){System.out.println("CanConvertStringInKMoves implementation");}public static void main(String[]args){solve();}}

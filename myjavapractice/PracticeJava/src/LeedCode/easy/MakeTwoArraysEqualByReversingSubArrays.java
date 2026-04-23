@@ -1,1 +1,1 @@
-package easy;public class MakeTwoArraysEqualByReversingSubArrays{public static void main(String[]args){System.out.println("MakeTwoArraysEqualByReversingSubArrays works\n");}}
+package easy;public class MakeTwoArraysEqualByReversingSubArrays{public static void solve(){System.out.println("MakeTwoArraysEqualByReversingSubArrays implementation");}public static void main(String[]args){solve();}}

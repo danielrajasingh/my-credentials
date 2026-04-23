@@ -1,1 +1,1 @@
-package medium;public class NumbersWithRepeatedDigits{public static void main(String[]args){System.out.println("NumbersWithRepeatedDigits works\n");}}
+package medium;public class NumbersWithRepeatedDigits{public static void solve(){System.out.println("NumbersWithRepeatedDigits implementation");}public static void main(String[]args){solve();}}

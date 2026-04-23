@@ -1,1 +1,1 @@
-package easy;public class StrongPasswordChecker{public static void main(String[]args){System.out.println("StrongPasswordChecker works\n");}}
+package easy;public class StrongPasswordChecker{public static void solve(){System.out.println("StrongPasswordChecker implementation");}public static void main(String[]args){solve();}}

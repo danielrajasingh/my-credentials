@@ -1,1 +1,1 @@
-package easy;public class FractionAdditionAndSubtraction{public static void main(String[]args){System.out.println("FractionAdditionAndSubtraction works\n");}}
+package easy;public class FractionAdditionAndSubtraction{public static void solve(){System.out.println("FractionAdditionAndSubtraction implementation");}public static void main(String[]args){solve();}}

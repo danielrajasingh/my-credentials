@@ -1,1 +1,1 @@
-package easy;public class LargestPlusSign{public static void main(String[]args){System.out.println("LargestPlusSign works\n");}}
+package easy;public class LargestPlusSign{public static void solve(){System.out.println("LargestPlusSign implementation");}public static void main(String[]args){solve();}}

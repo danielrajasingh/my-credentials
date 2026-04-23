@@ -1,1 +1,1 @@
-package medium;public class MinimumNumberOfWorkSessionsToFinishTheTasks{public static void main(String[]args){System.out.println("MinimumNumberOfWorkSessionsToFinishTheTasks works\n");}}
+package medium;public class MinimumNumberOfWorkSessionsToFinishTheTasks{public static void solve(){System.out.println("MinimumNumberOfWorkSessionsToFinishTheTasks implementation");}public static void main(String[]args){solve();}}

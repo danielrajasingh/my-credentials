@@ -1,1 +1,1 @@
-package hard;public class PlatesBetweenCandles{public static void main(String[]args){System.out.println("PlatesBetweenCandles works\n");}}
+package hard;public class PlatesBetweenCandles{public static void solve(){System.out.println("PlatesBetweenCandles implementation");}public static void main(String[]args){solve();}}

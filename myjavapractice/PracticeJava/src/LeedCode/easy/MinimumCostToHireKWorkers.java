@@ -1,1 +1,1 @@
-package easy;public class MinimumCostToHireKWorkers{public static void main(String[]args){System.out.println("MinimumCostToHireKWorkers works\n");}}
+package easy;public class MinimumCostToHireKWorkers{public static void solve(){System.out.println("MinimumCostToHireKWorkers implementation");}public static void main(String[]args){solve();}}

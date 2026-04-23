@@ -1,1 +1,1 @@
-package easy;public class MinimumAbsoluteDifference{public static void main(String[]args){System.out.println("MinimumAbsoluteDifference works\n");}}
+package easy;public class MinimumAbsoluteDifference{public static void solve(){System.out.println("MinimumAbsoluteDifference implementation");}public static void main(String[]args){solve();}}

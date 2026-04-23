@@ -1,1 +1,1 @@
-package hard;public class ClosestRoom{public static void main(String[]args){System.out.println("ClosestRoom works\n");}}
+package hard;public class ClosestRoom{public static void solve(){System.out.println("ClosestRoom implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class VowelSpellchecker{public static void main(String[]args){System.out.println("VowelSpellchecker works\n");}}
+package easy;public class VowelSpellchecker{public static void solve(){System.out.println("VowelSpellchecker implementation");}public static void main(String[]args){solve();}}

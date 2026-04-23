@@ -1,1 +1,1 @@
-package easy;public class FairCandySwap{public static void main(String[]args){System.out.println("FairCandySwap works\n");}}
+package easy;public class FairCandySwap{public static void solve(){System.out.println("FairCandySwap implementation");}public static void main(String[]args){solve();}}

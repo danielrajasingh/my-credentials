@@ -1,1 +1,1 @@
-package easy;public class QueriesOnNumberOfPointsInsideACircle{public static void main(String[]args){System.out.println("QueriesOnNumberOfPointsInsideACircle works\n");}}
+package easy;public class QueriesOnNumberOfPointsInsideACircle{public static void solve(){System.out.println("QueriesOnNumberOfPointsInsideACircle implementation");}public static void main(String[]args){solve();}}

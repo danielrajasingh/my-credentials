@@ -1,1 +1,1 @@
-package easy;public class MiniParser{public static void main(String[]args){System.out.println("MiniParser works\n");}}
+package easy;public class MiniParser{public static void solve(){System.out.println("MiniParser implementation");}public static void main(String[]args){solve();}}

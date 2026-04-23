@@ -1,1 +1,1 @@
-package medium;public class CustomSortString{public static void main(String[]args){System.out.println("CustomSortString works\n");}}
+package medium;public class CustomSortString{public static void solve(){System.out.println("CustomSortString implementation");}public static void main(String[]args){solve();}}

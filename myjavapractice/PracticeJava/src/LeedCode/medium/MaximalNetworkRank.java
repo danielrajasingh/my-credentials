@@ -1,1 +1,1 @@
-package medium;public class MaximalNetworkRank{public static void main(String[]args){System.out.println("MaximalNetworkRank works\n");}}
+package medium;public class MaximalNetworkRank{public static void solve(){System.out.println("MaximalNetworkRank implementation");}public static void main(String[]args){solve();}}

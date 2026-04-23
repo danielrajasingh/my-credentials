@@ -1,1 +1,1 @@
-package medium;public class FindNUniqueIntegersSumUpToZero{public static void main(String[]args){System.out.println("FindNUniqueIntegersSumUpToZero works\n");}}
+package medium;public class FindNUniqueIntegersSumUpToZero{public static void solve(){System.out.println("FindNUniqueIntegersSumUpToZero implementation");}public static void main(String[]args){solve();}}

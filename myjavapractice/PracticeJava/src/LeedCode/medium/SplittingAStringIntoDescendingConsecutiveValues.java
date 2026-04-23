@@ -1,1 +1,1 @@
-package medium;public class SplittingAStringIntoDescendingConsecutiveValues{public static void main(String[]args){System.out.println("SplittingAStringIntoDescendingConsecutiveValues works\n");}}
+package medium;public class SplittingAStringIntoDescendingConsecutiveValues{public static void solve(){System.out.println("SplittingAStringIntoDescendingConsecutiveValues implementation");}public static void main(String[]args){solve();}}

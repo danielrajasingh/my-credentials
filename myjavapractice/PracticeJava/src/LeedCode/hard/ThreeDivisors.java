@@ -1,1 +1,1 @@
-package hard;public class ThreeDivisors{public static void main(String[]args){System.out.println("ThreeDivisors works\n");}}
+package hard;public class ThreeDivisors{public static void solve(){System.out.println("ThreeDivisors implementation");}public static void main(String[]args){solve();}}

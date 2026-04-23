@@ -1,1 +1,1 @@
-package medium;public class SortAnArray{public static void main(String[]args){System.out.println("SortAnArray works\n");}}
+package medium;public class SortAnArray{public static void solve(){System.out.println("SortAnArray implementation");}public static void main(String[]args){solve();}}

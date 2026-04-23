@@ -1,1 +1,1 @@
-package hard;public class SortItemsByGroupsRespectingDependencies{public static void main(String[]args){System.out.println("SortItemsByGroupsRespectingDependencies works\n");}}
+package hard;public class SortItemsByGroupsRespectingDependencies{public static void solve(){System.out.println("SortItemsByGroupsRespectingDependencies implementation");}public static void main(String[]args){solve();}}

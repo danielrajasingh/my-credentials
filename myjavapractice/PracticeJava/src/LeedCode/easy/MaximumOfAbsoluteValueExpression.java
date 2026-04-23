@@ -1,1 +1,1 @@
-package easy;public class MaximumOfAbsoluteValueExpression{public static void main(String[]args){System.out.println("MaximumOfAbsoluteValueExpression works\n");}}
+package easy;public class MaximumOfAbsoluteValueExpression{public static void solve(){System.out.println("MaximumOfAbsoluteValueExpression implementation");}public static void main(String[]args){solve();}}

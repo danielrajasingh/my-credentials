@@ -1,1 +1,1 @@
-package hard;public class SumOfDistancesInTree{public static void main(String[]args){System.out.println("SumOfDistancesInTree works\n");}}
+package hard;public class SumOfDistancesInTree{public static void solve(){System.out.println("SumOfDistancesInTree implementation");}public static void main(String[]args){solve();}}

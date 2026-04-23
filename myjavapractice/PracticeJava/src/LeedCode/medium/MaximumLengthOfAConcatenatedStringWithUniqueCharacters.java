@@ -1,1 +1,1 @@
-package medium;public class MaximumLengthOfAConcatenatedStringWithUniqueCharacters{public static void main(String[]args){System.out.println("MaximumLengthOfAConcatenatedStringWithUniqueCharacters works\n");}}
+package medium;public class MaximumLengthOfAConcatenatedStringWithUniqueCharacters{public static void solve(){System.out.println("MaximumLengthOfAConcatenatedStringWithUniqueCharacters implementation");}public static void main(String[]args){solve();}}

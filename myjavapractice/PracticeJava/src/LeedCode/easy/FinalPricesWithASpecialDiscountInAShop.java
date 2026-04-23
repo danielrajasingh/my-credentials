@@ -1,1 +1,1 @@
-package easy;public class FinalPricesWithASpecialDiscountInAShop{public static void main(String[]args){System.out.println("FinalPricesWithASpecialDiscountInAShop works\n");}}
+package easy;public class FinalPricesWithASpecialDiscountInAShop{public static void solve(){System.out.println("FinalPricesWithASpecialDiscountInAShop implementation");}public static void main(String[]args){solve();}}

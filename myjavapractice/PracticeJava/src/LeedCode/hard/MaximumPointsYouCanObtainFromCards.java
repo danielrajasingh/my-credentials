@@ -1,1 +1,1 @@
-package hard;public class MaximumPointsYouCanObtainFromCards{public static void main(String[]args){System.out.println("MaximumPointsYouCanObtainFromCards works\n");}}
+package hard;public class MaximumPointsYouCanObtainFromCards{public static void solve(){System.out.println("MaximumPointsYouCanObtainFromCards implementation");}public static void main(String[]args){solve();}}

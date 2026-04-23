@@ -1,1 +1,1 @@
-package medium;public class ReversePrefixOfWord{public static void main(String[]args){System.out.println("ReversePrefixOfWord works\n");}}
+package medium;public class ReversePrefixOfWord{public static void solve(){System.out.println("ReversePrefixOfWord implementation");}public static void main(String[]args){solve();}}

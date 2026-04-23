@@ -1,1 +1,1 @@
-package easy;public class RingsAndRods{public static void main(String[]args){System.out.println("RingsAndRods works\n");}}
+package easy;public class RingsAndRods{public static void solve(){System.out.println("RingsAndRods implementation");}public static void main(String[]args){solve();}}

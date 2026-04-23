@@ -1,1 +1,1 @@
-package hard;public class SmallestRangeI{public static void main(String[]args){System.out.println("SmallestRangeI works\n");}}
+package hard;public class SmallestRangeI{public static void solve(){System.out.println("SmallestRangeI implementation");}public static void main(String[]args){solve();}}

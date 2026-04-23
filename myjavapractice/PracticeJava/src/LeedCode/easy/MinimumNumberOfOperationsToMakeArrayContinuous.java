@@ -1,1 +1,1 @@
-package easy;public class MinimumNumberOfOperationsToMakeArrayContinuous{public static void main(String[]args){System.out.println("MinimumNumberOfOperationsToMakeArrayContinuous works\n");}}
+package easy;public class MinimumNumberOfOperationsToMakeArrayContinuous{public static void solve(){System.out.println("MinimumNumberOfOperationsToMakeArrayContinuous implementation");}public static void main(String[]args){solve();}}

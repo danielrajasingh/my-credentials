@@ -1,1 +1,1 @@
-package medium;public class MapSumPairs{public static void main(String[]args){System.out.println("MapSumPairs works\n");}}
+package medium;public class MapSumPairs{public static void solve(){System.out.println("MapSumPairs implementation");}public static void main(String[]args){solve();}}

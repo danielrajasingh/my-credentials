@@ -1,1 +1,1 @@
-package easy;public class RearrangeSpacesBetweenWords{public static void main(String[]args){System.out.println("RearrangeSpacesBetweenWords works\n");}}
+package easy;public class RearrangeSpacesBetweenWords{public static void solve(){System.out.println("RearrangeSpacesBetweenWords implementation");}public static void main(String[]args){solve();}}

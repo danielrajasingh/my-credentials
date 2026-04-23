@@ -1,1 +1,1 @@
-package hard;public class MaximumNumberOfNonOverlappingSubstrings{public static void main(String[]args){System.out.println("MaximumNumberOfNonOverlappingSubstrings works\n");}}
+package hard;public class MaximumNumberOfNonOverlappingSubstrings{public static void solve(){System.out.println("MaximumNumberOfNonOverlappingSubstrings implementation");}public static void main(String[]args){solve();}}

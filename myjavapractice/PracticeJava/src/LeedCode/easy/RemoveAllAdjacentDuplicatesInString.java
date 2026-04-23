@@ -1,1 +1,1 @@
-package easy;public class RemoveAllAdjacentDuplicatesInString{public static void main(String[]args){System.out.println("RemoveAllAdjacentDuplicatesInString works\n");}}
+package easy;public class RemoveDuplicates{public static int removeDuplicates(int[]n){int k=1;for(int i=1;i<n.length;i++)if(n[i]!=n[i-1])n[k++]=n[i];return k;}public static void main(String[]args){System.out.println(removeDuplicates(new int[]{1,1,2}));}}

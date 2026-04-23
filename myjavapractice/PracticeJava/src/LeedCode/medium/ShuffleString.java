@@ -1,1 +1,1 @@
-package medium;public class ShuffleString{public static void main(String[]args){System.out.println("ShuffleString works\n");}}
+package medium;public class ShuffleString{public static void solve(){System.out.println("ShuffleString implementation");}public static void main(String[]args){solve();}}

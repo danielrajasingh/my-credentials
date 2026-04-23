@@ -1,1 +1,1 @@
-package easy;public class FindCommonCharacters{public static void main(String[]args){System.out.println("FindCommonCharacters works\n");}}
+package easy;public class FindCommonCharacters{public static void solve(){System.out.println("FindCommonCharacters implementation");}public static void main(String[]args){solve();}}

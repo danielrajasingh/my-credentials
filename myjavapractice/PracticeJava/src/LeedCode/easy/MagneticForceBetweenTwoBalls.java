@@ -1,1 +1,1 @@
-package easy;public class MagneticForceBetweenTwoBalls{public static void main(String[]args){System.out.println("MagneticForceBetweenTwoBalls works\n");}}
+package easy;public class MagneticForceBetweenTwoBalls{public static void solve(){System.out.println("MagneticForceBetweenTwoBalls implementation");}public static void main(String[]args){solve();}}

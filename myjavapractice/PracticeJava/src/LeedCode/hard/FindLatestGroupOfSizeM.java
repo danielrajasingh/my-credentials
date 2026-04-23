@@ -1,1 +1,1 @@
-package hard;public class FindLatestGroupOfSizeM{public static void main(String[]args){System.out.println("FindLatestGroupOfSizeM works\n");}}
+package hard;public class FindLatestGroupOfSizeM{public static void solve(){System.out.println("FindLatestGroupOfSizeM implementation");}public static void main(String[]args){solve();}}

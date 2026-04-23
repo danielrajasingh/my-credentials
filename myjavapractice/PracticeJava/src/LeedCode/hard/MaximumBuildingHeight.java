@@ -1,1 +1,1 @@
-package hard;public class MaximumBuildingHeight{public static void main(String[]args){System.out.println("MaximumBuildingHeight works\n");}}
+package hard;public class MaximumBuildingHeight{public static void solve(){System.out.println("MaximumBuildingHeight implementation");}public static void main(String[]args){solve();}}

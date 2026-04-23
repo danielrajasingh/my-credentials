@@ -1,1 +1,1 @@
-package medium;public class DisplayTableOfFoodOrdersInARestaurant{public static void main(String[]args){System.out.println("DisplayTableOfFoodOrdersInARestaurant works\n");}}
+package medium;public class DisplayTableOfFoodOrdersInARestaurant{public static void solve(){System.out.println("DisplayTableOfFoodOrdersInARestaurant implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class BulbSwitcher{public static void main(String[]args){System.out.println("BulbSwitcher works\n");}}
+package hard;public class BulbSwitcher{public static void solve(){System.out.println("BulbSwitcher implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class CountDifferentPalindromicSubsequences{public static void main(String[]args){System.out.println("CountDifferentPalindromicSubsequences works\n");}}
+package medium;public class CountDifferentPalindromicSubsequences{public static void solve(){System.out.println("CountDifferentPalindromicSubsequences implementation");}public static void main(String[]args){solve();}}

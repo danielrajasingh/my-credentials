@@ -1,1 +1,1 @@
-package hard;public class RangeModule{public static void main(String[]args){System.out.println("RangeModule works\n");}}
+package hard;public class RangeModule{public static void solve(){System.out.println("RangeModule implementation");}public static void main(String[]args){solve();}}

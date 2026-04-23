@@ -1,1 +1,1 @@
-package hard;public class ConvertToBase2{public static void main(String[]args){System.out.println("ConvertToBase2 works\n");}}
+package hard;public class ConvertToBase2{public static void solve(){System.out.println("ConvertToBase2 implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class SnakesAndLadders{public static void main(String[]args){System.out.println("SnakesAndLadders works\n");}}
+package medium;public class SnakesAndLadders{public static void solve(){System.out.println("SnakesAndLadders implementation");}public static void main(String[]args){solve();}}

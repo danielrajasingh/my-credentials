@@ -1,1 +1,1 @@
-package easy;public class ToLowerCase{public static void main(String[]args){System.out.println("ToLowerCase works\n");}}
+package easy;public class ToLowerCase{public static void solve(){System.out.println("ToLowerCase implementation");}public static void main(String[]args){solve();}}

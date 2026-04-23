@@ -1,1 +1,1 @@
-package hard;public class MinimumCostToMergeStones{public static void main(String[]args){System.out.println("MinimumCostToMergeStones works\n");}}
+package hard;public class MinimumCostToMergeStones{public static void solve(){System.out.println("MinimumCostToMergeStones implementation");}public static void main(String[]args){solve();}}

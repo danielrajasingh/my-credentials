@@ -1,1 +1,1 @@
-package medium;public class PerfectRectangle{public static void main(String[]args){System.out.println("PerfectRectangle works\n");}}
+package medium;public class PerfectRectangle{public static void solve(){System.out.println("PerfectRectangle implementation");}public static void main(String[]args){solve();}}

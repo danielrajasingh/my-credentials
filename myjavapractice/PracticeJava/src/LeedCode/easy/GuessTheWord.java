@@ -1,1 +1,1 @@
-package easy;public class GuessTheWord{public static void main(String[]args){System.out.println("GuessTheWord works\n");}}
+package easy;public class GuessTheWord{public static void solve(){System.out.println("GuessTheWord implementation");}public static void main(String[]args){solve();}}

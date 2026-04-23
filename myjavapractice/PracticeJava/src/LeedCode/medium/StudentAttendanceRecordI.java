@@ -1,1 +1,1 @@
-package medium;public class StudentAttendanceRecordI{public static void main(String[]args){System.out.println("StudentAttendanceRecordI works\n");}}
+package medium;public class StudentAttendanceRecordI{public static void solve(){System.out.println("StudentAttendanceRecordI implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class LongestPalindrome{public static void main(String[]args){System.out.println("LongestPalindrome works\n");}}
+package medium;public class LongestPalindrome{public static void solve(){System.out.println("LongestPalindrome implementation");}public static void main(String[]args){solve();}}

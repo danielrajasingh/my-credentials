@@ -1,1 +1,1 @@
-package medium;public class CyclicallyRotatingAGrid{public static void main(String[]args){System.out.println("CyclicallyRotatingAGrid works\n");}}
+package medium;public class CyclicallyRotatingAGrid{public static void solve(){System.out.println("CyclicallyRotatingAGrid implementation");}public static void main(String[]args){solve();}}

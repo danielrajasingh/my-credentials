@@ -1,1 +1,1 @@
-package hard;public class EmployeeImportance{public static void main(String[]args){System.out.println("EmployeeImportance works\n");}}
+package hard;public class EmployeeImportance{public static void solve(){System.out.println("EmployeeImportance implementation");}public static void main(String[]args){solve();}}

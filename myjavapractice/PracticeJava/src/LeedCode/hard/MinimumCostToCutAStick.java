@@ -1,1 +1,1 @@
-package hard;public class MinimumCostToCutAStick{public static void main(String[]args){System.out.println("MinimumCostToCutAStick works\n");}}
+package hard;public class MinimumCostToCutAStick{public static void solve(){System.out.println("MinimumCostToCutAStick implementation");}public static void main(String[]args){solve();}}

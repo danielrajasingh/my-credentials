@@ -1,1 +1,1 @@
-package medium;public class AddMinimumNumberOfRungs{public static void main(String[]args){System.out.println("AddMinimumNumberOfRungs works\n");}}
+package medium;public class AddMinimumNumberOfRungs{public static void solve(){System.out.println("AddMinimumNumberOfRungs implementation");}public static void main(String[]args){solve();}}

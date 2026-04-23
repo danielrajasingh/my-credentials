@@ -1,1 +1,1 @@
-package hard;public class NearestExitFromEntranceInMaze{public static void main(String[]args){System.out.println("NearestExitFromEntranceInMaze works\n");}}
+package hard;public class NearestExitFromEntranceInMaze{public static void solve(){System.out.println("NearestExitFromEntranceInMaze implementation");}public static void main(String[]args){solve();}}

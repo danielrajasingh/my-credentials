@@ -1,1 +1,1 @@
-package easy;public class PrintBinaryTree{public static void main(String[]args){System.out.println("PrintBinaryTree works\n");}}
+package easy;public class PrintBinaryTree{public static void solve(){System.out.println("PrintBinaryTree implementation");}public static void main(String[]args){solve();}}

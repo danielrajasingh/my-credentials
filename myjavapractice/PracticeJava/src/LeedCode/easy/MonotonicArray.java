@@ -1,1 +1,1 @@
-package easy;public class MonotonicArray{public static void main(String[]args){System.out.println("MonotonicArray works\n");}}
+package easy;public class MonotonicArray{public static void solve(){System.out.println("MonotonicArray implementation");}public static void main(String[]args){solve();}}

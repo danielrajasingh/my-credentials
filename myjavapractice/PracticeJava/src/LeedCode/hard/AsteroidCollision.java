@@ -1,1 +1,1 @@
-package hard;public class AsteroidCollision{public static void main(String[]args){System.out.println("AsteroidCollision works\n");}}
+package hard;public class AsteroidCollision{public static void solve(){System.out.println("AsteroidCollision implementation");}public static void main(String[]args){solve();}}

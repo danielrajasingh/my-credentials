@@ -1,1 +1,1 @@
-package hard;public class RangeSumOfSortedSubarraySums{public static void main(String[]args){System.out.println("RangeSumOfSortedSubarraySums works\n");}}
+package hard;public class RangeSumOfSortedSubarraySums{public static void solve(){System.out.println("RangeSumOfSortedSubarraySums implementation");}public static void main(String[]args){solve();}}

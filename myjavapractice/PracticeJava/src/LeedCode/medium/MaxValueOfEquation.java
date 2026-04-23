@@ -1,1 +1,1 @@
-package medium;public class MaxValueOfEquation{public static void main(String[]args){System.out.println("MaxValueOfEquation works\n");}}
+package medium;public class MaxValueOfEquation{public static void solve(){System.out.println("MaxValueOfEquation implementation");}public static void main(String[]args){solve();}}

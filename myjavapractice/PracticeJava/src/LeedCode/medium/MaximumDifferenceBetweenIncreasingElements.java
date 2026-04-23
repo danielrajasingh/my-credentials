@@ -1,1 +1,1 @@
-package medium;public class MaximumDifferenceBetweenIncreasingElements{public static void main(String[]args){System.out.println("MaximumDifferenceBetweenIncreasingElements works\n");}}
+package medium;public class MaximumDifferenceBetweenIncreasingElements{public static void solve(){System.out.println("MaximumDifferenceBetweenIncreasingElements implementation");}public static void main(String[]args){solve();}}

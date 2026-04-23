@@ -1,1 +1,1 @@
-package easy;public class NumberOfWonderfulSubstrings{public static void main(String[]args){System.out.println("NumberOfWonderfulSubstrings works\n");}}
+package easy;public class NumberOfWonderfulSubstrings{public static void solve(){System.out.println("NumberOfWonderfulSubstrings implementation");}public static void main(String[]args){solve();}}

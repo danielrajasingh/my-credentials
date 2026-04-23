@@ -1,1 +1,1 @@
-package hard;public class FirstDayWhereYouHaveBeenInAllTheRooms{public static void main(String[]args){System.out.println("FirstDayWhereYouHaveBeenInAllTheRooms works\n");}}
+package hard;public class FirstDayWhereYouHaveBeenInAllTheRooms{public static void solve(){System.out.println("FirstDayWhereYouHaveBeenInAllTheRooms implementation");}public static void main(String[]args){solve();}}

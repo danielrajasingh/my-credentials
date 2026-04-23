@@ -1,1 +1,1 @@
-package hard;public class RangeSumQueryImmutable{public static void main(String[]args){System.out.println("RangeSumQueryImmutable works\n");}}
+package hard;public class RangeSumQueryImmutable{public static void solve(){System.out.println("RangeSumQueryImmutable implementation");}public static void main(String[]args){solve();}}

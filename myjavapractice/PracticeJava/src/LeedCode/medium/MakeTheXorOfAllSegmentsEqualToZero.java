@@ -1,1 +1,1 @@
-package medium;public class MakeTheXorOfAllSegmentsEqualToZero{public static void main(String[]args){System.out.println("MakeTheXorOfAllSegmentsEqualToZero works\n");}}
+package medium;public class MakeTheXorOfAllSegmentsEqualToZero{public static void solve(){System.out.println("MakeTheXorOfAllSegmentsEqualToZero implementation");}public static void main(String[]args){solve();}}

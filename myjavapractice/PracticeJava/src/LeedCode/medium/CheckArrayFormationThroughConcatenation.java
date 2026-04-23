@@ -1,1 +1,1 @@
-package medium;public class CheckArrayFormationThroughConcatenation{public static void main(String[]args){System.out.println("CheckArrayFormationThroughConcatenation works\n");}}
+package medium;public class CheckArrayFormationThroughConcatenation{public static void solve(){System.out.println("CheckArrayFormationThroughConcatenation implementation");}public static void main(String[]args){solve();}}

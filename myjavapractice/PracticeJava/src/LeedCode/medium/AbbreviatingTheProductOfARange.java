@@ -1,1 +1,1 @@
-package medium;public class AbbreviatingTheProductOfARange{public static void main(String[]args){System.out.println("AbbreviatingTheProductOfARange works\n");}}
+package medium;public class AbbreviatingTheProductOfARange{public static void solve(){System.out.println("AbbreviatingTheProductOfARange implementation");}public static void main(String[]args){solve();}}

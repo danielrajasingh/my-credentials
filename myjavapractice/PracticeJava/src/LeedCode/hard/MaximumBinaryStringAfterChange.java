@@ -1,1 +1,1 @@
-package hard;public class MaximumBinaryStringAfterChange{public static void main(String[]args){System.out.println("MaximumBinaryStringAfterChange works\n");}}
+package hard;public class MaximumBinaryStringAfterChange{public static void solve(){System.out.println("MaximumBinaryStringAfterChange implementation");}public static void main(String[]args){solve();}}

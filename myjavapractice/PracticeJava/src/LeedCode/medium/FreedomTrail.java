@@ -1,1 +1,1 @@
-package medium;public class FreedomTrail{public static void main(String[]args){System.out.println("FreedomTrail works\n");}}
+package medium;public class FreedomTrail{public static void solve(){System.out.println("FreedomTrail implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class BuildArrayFromPermutation{public static void main(String[]args){System.out.println("BuildArrayFromPermutation works\n");}}
+package medium;public class BuildArrayFromPermutation{public static void solve(){System.out.println("BuildArrayFromPermutation implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class RemovePalindromicSubsequences{public static void main(String[]args){System.out.println("RemovePalindromicSubsequences works\n");}}
+package easy;public class RemovePalindromicSubsequences{public static void solve(){System.out.println("RemovePalindromicSubsequences implementation");}public static void main(String[]args){solve();}}

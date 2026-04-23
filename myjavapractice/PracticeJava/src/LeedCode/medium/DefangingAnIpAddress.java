@@ -1,1 +1,1 @@
-package medium;public class DefangingAnIpAddress{public static void main(String[]args){System.out.println("DefangingAnIpAddress works\n");}}
+package medium;public class DefangingAnIpAddress{public static void solve(){System.out.println("DefangingAnIpAddress implementation");}public static void main(String[]args){solve();}}

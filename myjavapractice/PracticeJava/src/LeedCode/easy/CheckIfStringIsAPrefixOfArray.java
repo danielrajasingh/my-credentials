@@ -1,1 +1,1 @@
-package easy;public class CheckIfStringIsAPrefixOfArray{public static void main(String[]args){System.out.println("CheckIfStringIsAPrefixOfArray works\n");}}
+package easy;public class CheckIfStringIsAPrefixOfArray{public static void solve(){System.out.println("CheckIfStringIsAPrefixOfArray implementation");}public static void main(String[]args){solve();}}

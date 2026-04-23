@@ -1,1 +1,1 @@
-package hard;public class MinimumNumbersOfFunctionCallsToMakeTargetArray{public static void main(String[]args){System.out.println("MinimumNumbersOfFunctionCallsToMakeTargetArray works\n");}}
+package hard;public class MinimumNumbersOfFunctionCallsToMakeTargetArray{public static void solve(){System.out.println("MinimumNumbersOfFunctionCallsToMakeTargetArray implementation");}public static void main(String[]args){solve();}}

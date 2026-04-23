@@ -1,1 +1,1 @@
-package easy;public class LargestNumberAtLeastTwiceOfOthers{public static void main(String[]args){System.out.println("LargestNumberAtLeastTwiceOfOthers works\n");}}
+package easy;public class LargestNumberAtLeastTwiceOfOthers{public static void solve(){System.out.println("LargestNumberAtLeastTwiceOfOthers implementation");}public static void main(String[]args){solve();}}

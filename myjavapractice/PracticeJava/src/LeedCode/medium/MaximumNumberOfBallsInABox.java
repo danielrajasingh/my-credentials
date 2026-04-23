@@ -1,1 +1,1 @@
-package medium;public class MaximumNumberOfBallsInABox{public static void main(String[]args){System.out.println("MaximumNumberOfBallsInABox works\n");}}
+package medium;public class MaximumNumberOfBallsInABox{public static void solve(){System.out.println("MaximumNumberOfBallsInABox implementation");}public static void main(String[]args){solve();}}

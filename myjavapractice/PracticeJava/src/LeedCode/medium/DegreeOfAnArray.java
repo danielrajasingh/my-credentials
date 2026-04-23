@@ -1,1 +1,1 @@
-package medium;public class DegreeOfAnArray{public static void main(String[]args){System.out.println("DegreeOfAnArray works\n");}}
+package medium;public class DegreeOfAnArray{public static void solve(){System.out.println("DegreeOfAnArray implementation");}public static void main(String[]args){solve();}}

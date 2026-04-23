@@ -1,1 +1,1 @@
-package easy;public class FindTheTownJudge{public static void main(String[]args){System.out.println("FindTheTownJudge works\n");}}
+package easy;public class FindTheTownJudge{public static void solve(){System.out.println("FindTheTownJudge implementation");}public static void main(String[]args){solve();}}

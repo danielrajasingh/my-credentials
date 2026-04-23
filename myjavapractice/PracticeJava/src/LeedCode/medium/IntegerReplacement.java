@@ -1,1 +1,1 @@
-package medium;public class IntegerReplacement{public static void main(String[]args){System.out.println("IntegerReplacement works\n");}}
+package medium;public class IntegerReplacement{public static void solve(){System.out.println("IntegerReplacement implementation");}public static void main(String[]args){solve();}}

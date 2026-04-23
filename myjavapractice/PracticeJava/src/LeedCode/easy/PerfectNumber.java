@@ -1,1 +1,1 @@
-package easy;public class PerfectNumber{public static void main(String[]args){System.out.println("PerfectNumber works\n");}}
+package easy;public class PerfectNumber{public static void solve(){System.out.println("PerfectNumber implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class LongestContinuousIncreasingSubsequence{public static void main(String[]args){System.out.println("LongestContinuousIncreasingSubsequence works\n");}}
+package medium;public class LongestContinuousIncreasingSubsequence{public static void solve(){System.out.println("LongestContinuousIncreasingSubsequence implementation");}public static void main(String[]args){solve();}}

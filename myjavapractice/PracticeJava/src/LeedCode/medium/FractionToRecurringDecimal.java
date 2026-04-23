@@ -1,1 +1,1 @@
-package medium;public class FractionToRecurringDecimal{public static void main(String[]args){System.out.println("FractionToRecurringDecimal works\n");}}
+package medium;public class FractionToRecurringDecimal{public static void solve(){System.out.println("FractionToRecurringDecimal implementation");}public static void main(String[]args){solve();}}

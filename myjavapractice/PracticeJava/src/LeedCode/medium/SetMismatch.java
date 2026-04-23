@@ -1,1 +1,1 @@
-package medium;public class SetMismatch{public static void main(String[]args){System.out.println("SetMismatch works\n");}}
+package medium;public class SetMismatch{public static void solve(){System.out.println("SetMismatch implementation");}public static void main(String[]args){solve();}}

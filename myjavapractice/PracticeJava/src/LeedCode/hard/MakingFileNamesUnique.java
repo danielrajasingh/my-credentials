@@ -1,1 +1,1 @@
-package hard;public class MakingFileNamesUnique{public static void main(String[]args){System.out.println("MakingFileNamesUnique works\n");}}
+package hard;public class MakingFileNamesUnique{public static void solve(){System.out.println("MakingFileNamesUnique implementation");}public static void main(String[]args){solve();}}

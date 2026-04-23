@@ -1,1 +1,1 @@
-package hard;public class TimeNeededToBuyTickets{public static void main(String[]args){System.out.println("TimeNeededToBuyTickets works\n");}}
+package hard;public class TimeNeededToBuyTickets{public static void solve(){System.out.println("TimeNeededToBuyTickets implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class LogicalOrOfTwoBinaryGridsRepresentedAsQuadTrees{public static void main(String[]args){System.out.println("LogicalOrOfTwoBinaryGridsRepresentedAsQuadTrees works\n");}}
+package hard;public class LogicalOrOfTwoBinaryGridsRepresentedAsQuadTrees{public static void solve(){System.out.println("LogicalOrOfTwoBinaryGridsRepresentedAsQuadTrees implementation");}public static void main(String[]args){solve();}}

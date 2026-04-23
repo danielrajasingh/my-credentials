@@ -1,1 +1,1 @@
-package medium;public class LetterCasePermutation{public static void main(String[]args){System.out.println("LetterCasePermutation works\n");}}
+package medium;public class LetterCasePermutation{public static void solve(){System.out.println("LetterCasePermutation implementation");}public static void main(String[]args){solve();}}

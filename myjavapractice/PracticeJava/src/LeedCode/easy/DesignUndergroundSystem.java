@@ -1,1 +1,1 @@
-package easy;public class DesignUndergroundSystem{public static void main(String[]args){System.out.println("DesignUndergroundSystem works\n");}}
+package easy;public class DesignUndergroundSystem{public static void solve(){System.out.println("DesignUndergroundSystem implementation");}public static void main(String[]args){solve();}}

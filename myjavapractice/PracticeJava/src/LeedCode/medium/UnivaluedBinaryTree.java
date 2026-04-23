@@ -1,1 +1,1 @@
-package medium;public class UnivaluedBinaryTree{public static void main(String[]args){System.out.println("UnivaluedBinaryTree works\n");}}
+package medium;public class UnivaluedBinaryTree{public static void solve(){System.out.println("UnivaluedBinaryTree implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class FancySequence{public static void main(String[]args){System.out.println("FancySequence works\n");}}
+package medium;public class FancySequence{public static void solve(){System.out.println("FancySequence implementation");}public static void main(String[]args){solve();}}

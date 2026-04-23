@@ -1,1 +1,1 @@
-package hard;public class StringMatchingInAnArray{public static void main(String[]args){System.out.println("StringMatchingInAnArray works\n");}}
+package hard;public class StringMatchingInAnArray{public static void solve(){System.out.println("StringMatchingInAnArray implementation");}public static void main(String[]args){solve();}}

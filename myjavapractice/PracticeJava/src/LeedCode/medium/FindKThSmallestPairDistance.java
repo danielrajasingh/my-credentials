@@ -1,1 +1,1 @@
-package medium;public class FindKThSmallestPairDistance{public static void main(String[]args){System.out.println("FindKThSmallestPairDistance works\n");}}
+package medium;public class FindKThSmallestPairDistance{public static void solve(){System.out.println("FindKThSmallestPairDistance implementation");}public static void main(String[]args){solve();}}

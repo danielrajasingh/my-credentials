@@ -1,1 +1,1 @@
-package medium;public class MinimumSidewayJumps{public static void main(String[]args){System.out.println("MinimumSidewayJumps works\n");}}
+package medium;public class MinimumSidewayJumps{public static void solve(){System.out.println("MinimumSidewayJumps implementation");}public static void main(String[]args){solve();}}

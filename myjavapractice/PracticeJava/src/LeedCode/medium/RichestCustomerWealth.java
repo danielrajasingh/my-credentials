@@ -1,1 +1,1 @@
-package medium;public class RichestCustomerWealth{public static void main(String[]args){System.out.println("RichestCustomerWealth works\n");}}
+package medium;public class RichestCustomerWealth{public static void solve(){System.out.println("RichestCustomerWealth implementation");}public static void main(String[]args){solve();}}

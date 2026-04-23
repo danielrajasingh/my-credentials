@@ -1,1 +1,1 @@
-package hard;public class SuperWashingMachines{public static void main(String[]args){System.out.println("SuperWashingMachines works\n");}}
+package hard;public class SuperWashingMachines{public static void solve(){System.out.println("SuperWashingMachines implementation");}public static void main(String[]args){solve();}}

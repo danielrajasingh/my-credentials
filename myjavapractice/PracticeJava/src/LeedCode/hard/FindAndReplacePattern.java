@@ -1,1 +1,1 @@
-package hard;public class FindAndReplacePattern{public static void main(String[]args){System.out.println("FindAndReplacePattern works\n");}}
+package hard;public class FindAndReplacePattern{public static void solve(){System.out.println("FindAndReplacePattern implementation");}public static void main(String[]args){solve();}}

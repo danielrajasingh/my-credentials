@@ -1,1 +1,1 @@
-package hard;public class KThSmallestPrimeFraction{public static void main(String[]args){System.out.println("KThSmallestPrimeFraction works\n");}}
+package hard;public class KThSmallestPrimeFraction{public static void solve(){System.out.println("KThSmallestPrimeFraction implementation");}public static void main(String[]args){solve();}}

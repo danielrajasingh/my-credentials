@@ -1,1 +1,1 @@
-package medium;public class ANumberAfterADoubleReversal{public static void main(String[]args){System.out.println("ANumberAfterADoubleReversal works\n");}}
+package medium;public class ANumberAfterADoubleReversal{public static void solve(){System.out.println("ANumberAfterADoubleReversal implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class GetTheMaximumScore{public static void main(String[]args){System.out.println("GetTheMaximumScore works\n");}}
+package medium;public class GetTheMaximumScore{public static void solve(){System.out.println("GetTheMaximumScore implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class SortingTheSentence{public static void main(String[]args){System.out.println("SortingTheSentence works\n");}}
+package easy;public class SortingTheSentence{public static void solve(){System.out.println("SortingTheSentence implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class ArithmeticSlicesIiSubsequence{public static void main(String[]args){System.out.println("ArithmeticSlicesIiSubsequence works\n");}}
+package medium;public class ArithmeticSlicesIiSubsequence{public static void solve(){System.out.println("ArithmeticSlicesIiSubsequence implementation");}public static void main(String[]args){solve();}}

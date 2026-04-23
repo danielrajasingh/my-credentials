@@ -1,1 +1,1 @@
-package medium;public class GoatLatin{public static void main(String[]args){System.out.println("GoatLatin works\n");}}
+package medium;public class GoatLatin{public static void solve(){System.out.println("GoatLatin implementation");}public static void main(String[]args){solve();}}

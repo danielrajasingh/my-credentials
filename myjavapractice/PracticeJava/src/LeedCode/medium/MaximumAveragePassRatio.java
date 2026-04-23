@@ -1,1 +1,1 @@
-package medium;public class MaximumAveragePassRatio{public static void main(String[]args){System.out.println("MaximumAveragePassRatio works\n");}}
+package medium;public class MaximumAveragePassRatio{public static void solve(){System.out.println("MaximumAveragePassRatio implementation");}public static void main(String[]args){solve();}}

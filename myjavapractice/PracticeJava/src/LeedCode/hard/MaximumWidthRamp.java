@@ -1,1 +1,1 @@
-package hard;public class MaximumWidthRamp{public static void main(String[]args){System.out.println("MaximumWidthRamp works\n");}}
+package hard;public class MaximumWidthRamp{public static void solve(){System.out.println("MaximumWidthRamp implementation");}public static void main(String[]args){solve();}}

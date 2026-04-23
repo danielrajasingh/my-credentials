@@ -1,1 +1,1 @@
-package hard;public class RandomPickWithBlacklist{public static void main(String[]args){System.out.println("RandomPickWithBlacklist works\n");}}
+package hard;public class RandomPickWithBlacklist{public static void solve(){System.out.println("RandomPickWithBlacklist implementation");}public static void main(String[]args){solve();}}

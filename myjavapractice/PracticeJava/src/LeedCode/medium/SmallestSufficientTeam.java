@@ -1,1 +1,1 @@
-package medium;public class SmallestSufficientTeam{public static void main(String[]args){System.out.println("SmallestSufficientTeam works\n");}}
+package medium;public class SmallestSufficientTeam{public static void solve(){System.out.println("SmallestSufficientTeam implementation");}public static void main(String[]args){solve();}}

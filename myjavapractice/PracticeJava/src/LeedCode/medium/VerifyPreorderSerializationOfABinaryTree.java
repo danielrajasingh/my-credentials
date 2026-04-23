@@ -1,1 +1,1 @@
-package medium;public class VerifyPreorderSerializationOfABinaryTree{public static void main(String[]args){System.out.println("VerifyPreorderSerializationOfABinaryTree works\n");}}
+package medium;public class VerifyPreorderSerializationOfABinaryTree{public static void solve(){System.out.println("VerifyPreorderSerializationOfABinaryTree implementation");}public static void main(String[]args){solve();}}

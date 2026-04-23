@@ -1,1 +1,1 @@
-package hard;public class ChangeMinimumCharactersToSatisfyOneOfThreeConditions{public static void main(String[]args){System.out.println("ChangeMinimumCharactersToSatisfyOneOfThreeConditions works\n");}}
+package hard;public class ChangeMinimumCharactersToSatisfyOneOfThreeConditions{public static void solve(){System.out.println("ChangeMinimumCharactersToSatisfyOneOfThreeConditions implementation");}public static void main(String[]args){solve();}}

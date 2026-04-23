@@ -1,1 +1,1 @@
-package medium;public class BeautifulArray{public static void main(String[]args){System.out.println("BeautifulArray works\n");}}
+package medium;public class BeautifulArray{public static void solve(){System.out.println("BeautifulArray implementation");}public static void main(String[]args){solve();}}

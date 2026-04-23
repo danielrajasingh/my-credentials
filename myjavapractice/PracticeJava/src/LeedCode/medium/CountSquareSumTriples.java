@@ -1,1 +1,1 @@
-package medium;public class CountSquareSumTriples{public static void main(String[]args){System.out.println("CountSquareSumTriples works\n");}}
+package medium;public class CountSquareSumTriples{public static void solve(){System.out.println("CountSquareSumTriples implementation");}public static void main(String[]args){solve();}}

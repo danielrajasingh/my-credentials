@@ -1,1 +1,1 @@
-package hard;public class NQueensIi{public static void main(String[]args){System.out.println("NQueensIi works\n");}}
+package hard;public class NQueensIi{public static void solve(){System.out.println("NQueensIi implementation");}public static void main(String[]args){solve();}}

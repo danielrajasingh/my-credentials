@@ -1,1 +1,1 @@
-package easy;public class BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons{public static void main(String[]args){System.out.println("BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons works\n");}}
+package easy;public class BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons{public static void solve(){System.out.println("BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons implementation");}public static void main(String[]args){solve();}}

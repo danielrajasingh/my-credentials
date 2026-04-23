@@ -1,1 +1,1 @@
-package medium;public class AvoidFloodInTheCity{public static void main(String[]args){System.out.println("AvoidFloodInTheCity works\n");}}
+package medium;public class AvoidFloodInTheCity{public static void solve(){System.out.println("AvoidFloodInTheCity implementation");}public static void main(String[]args){solve();}}

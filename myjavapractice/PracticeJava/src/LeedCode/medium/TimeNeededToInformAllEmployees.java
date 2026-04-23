@@ -1,1 +1,1 @@
-package medium;public class TimeNeededToInformAllEmployees{public static void main(String[]args){System.out.println("TimeNeededToInformAllEmployees works\n");}}
+package medium;public class TimeNeededToInformAllEmployees{public static void solve(){System.out.println("TimeNeededToInformAllEmployees implementation");}public static void main(String[]args){solve();}}

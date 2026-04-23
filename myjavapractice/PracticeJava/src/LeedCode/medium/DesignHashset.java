@@ -1,1 +1,1 @@
-package medium;public class DesignHashset{public static void main(String[]args){System.out.println("DesignHashset works\n");}}
+package medium;public class DesignHashset{public static void solve(){System.out.println("DesignHashset implementation");}public static void main(String[]args){solve();}}

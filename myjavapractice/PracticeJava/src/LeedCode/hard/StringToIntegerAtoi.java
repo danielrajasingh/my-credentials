@@ -1,1 +1,1 @@
-package hard;public class StringToIntegerAtoi{public static void main(String[]args){System.out.println("StringToIntegerAtoi works\n");}}
+package hard;public class StringToIntegerAtoi{public static void solve(){System.out.println("StringToIntegerAtoi implementation");}public static void main(String[]args){solve();}}

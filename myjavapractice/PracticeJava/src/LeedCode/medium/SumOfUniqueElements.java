@@ -1,1 +1,1 @@
-package medium;public class SumOfUniqueElements{public static void main(String[]args){System.out.println("SumOfUniqueElements works\n");}}
+package medium;public class SumOfUniqueElements{public static void solve(){System.out.println("SumOfUniqueElements implementation");}public static void main(String[]args){solve();}}

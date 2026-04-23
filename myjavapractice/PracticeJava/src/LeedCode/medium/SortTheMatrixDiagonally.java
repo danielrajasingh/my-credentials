@@ -1,1 +1,1 @@
-package medium;public class SortTheMatrixDiagonally{public static void main(String[]args){System.out.println("SortTheMatrixDiagonally works\n");}}
+package medium;public class SortTheMatrixDiagonally{public static void solve(){System.out.println("SortTheMatrixDiagonally implementation");}public static void main(String[]args){solve();}}

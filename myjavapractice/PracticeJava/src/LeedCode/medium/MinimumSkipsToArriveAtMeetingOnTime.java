@@ -1,1 +1,1 @@
-package medium;public class MinimumSkipsToArriveAtMeetingOnTime{public static void main(String[]args){System.out.println("MinimumSkipsToArriveAtMeetingOnTime works\n");}}
+package medium;public class MinimumSkipsToArriveAtMeetingOnTime{public static void solve(){System.out.println("MinimumSkipsToArriveAtMeetingOnTime implementation");}public static void main(String[]args){solve();}}

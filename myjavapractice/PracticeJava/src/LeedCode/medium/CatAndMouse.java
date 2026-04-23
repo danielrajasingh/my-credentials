@@ -1,1 +1,1 @@
-package medium;public class CatAndMouse{public static void main(String[]args){System.out.println("CatAndMouse works\n");}}
+package medium;public class CatAndMouse{public static void solve(){System.out.println("CatAndMouse implementation");}public static void main(String[]args){solve();}}

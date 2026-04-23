@@ -1,1 +1,1 @@
-package medium;public class GreatestSumDivisibleByThree{public static void main(String[]args){System.out.println("GreatestSumDivisibleByThree works\n");}}
+package medium;public class GreatestSumDivisibleByThree{public static void solve(){System.out.println("GreatestSumDivisibleByThree implementation");}public static void main(String[]args){solve();}}

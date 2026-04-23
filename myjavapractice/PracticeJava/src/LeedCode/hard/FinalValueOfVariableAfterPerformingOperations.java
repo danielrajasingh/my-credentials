@@ -1,1 +1,1 @@
-package hard;public class FinalValueOfVariableAfterPerformingOperations{public static void main(String[]args){System.out.println("FinalValueOfVariableAfterPerformingOperations works\n");}}
+package hard;public class FinalValueOfVariableAfterPerformingOperations{public static void solve(){System.out.println("FinalValueOfVariableAfterPerformingOperations implementation");}public static void main(String[]args){solve();}}

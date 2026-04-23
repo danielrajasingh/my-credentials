@@ -1,1 +1,1 @@
-package medium;public class BrokenCalculator{public static void main(String[]args){System.out.println("BrokenCalculator works\n");}}
+package medium;public class BrokenCalculator{public static void solve(){System.out.println("BrokenCalculator implementation");}public static void main(String[]args){solve();}}

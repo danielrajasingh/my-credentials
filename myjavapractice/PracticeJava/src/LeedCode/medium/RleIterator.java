@@ -1,1 +1,1 @@
-package medium;public class RleIterator{public static void main(String[]args){System.out.println("RleIterator works\n");}}
+package medium;public class RleIterator{public static void solve(){System.out.println("RleIterator implementation");}public static void main(String[]args){solve();}}

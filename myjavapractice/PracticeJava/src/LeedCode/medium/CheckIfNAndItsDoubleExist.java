@@ -1,1 +1,1 @@
-package medium;public class CheckIfNAndItsDoubleExist{public static void main(String[]args){System.out.println("CheckIfNAndItsDoubleExist works\n");}}
+package medium;public class CheckIfNAndItsDoubleExist{public static void solve(){System.out.println("CheckIfNAndItsDoubleExist implementation");}public static void main(String[]args){solve();}}

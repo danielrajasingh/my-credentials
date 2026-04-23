@@ -1,1 +1,1 @@
-package medium;public class MinimumTimeVisitingAllPoints{public static void main(String[]args){System.out.println("MinimumTimeVisitingAllPoints works\n");}}
+package medium;public class MinimumTimeVisitingAllPoints{public static void solve(){System.out.println("MinimumTimeVisitingAllPoints implementation");}public static void main(String[]args){solve();}}

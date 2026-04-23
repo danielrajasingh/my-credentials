@@ -1,1 +1,1 @@
-package medium;public class CompareStringsByFrequencyOfTheSmallestCharacter{public static void main(String[]args){System.out.println("CompareStringsByFrequencyOfTheSmallestCharacter works\n");}}
+package medium;public class CompareStringsByFrequencyOfTheSmallestCharacter{public static void solve(){System.out.println("CompareStringsByFrequencyOfTheSmallestCharacter implementation");}public static void main(String[]args){solve();}}

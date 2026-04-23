@@ -1,1 +1,1 @@
-package hard;public class DetonateTheMaximumBombs{public static void main(String[]args){System.out.println("DetonateTheMaximumBombs works\n");}}
+package hard;public class DetonateTheMaximumBombs{public static void solve(){System.out.println("DetonateTheMaximumBombs implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class CountServersThatCommunicate{public static void main(String[]args){System.out.println("CountServersThatCommunicate works\n");}}
+package medium;public class CountServersThatCommunicate{public static void solve(){System.out.println("CountServersThatCommunicate implementation");}public static void main(String[]args){solve();}}

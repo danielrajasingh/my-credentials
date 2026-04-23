@@ -1,1 +1,1 @@
-package medium;public class TheKthFactorOfN{public static void main(String[]args){System.out.println("TheKthFactorOfN works\n");}}
+package medium;public class TheKthFactorOfN{public static void solve(){System.out.println("TheKthFactorOfN implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class UniquePathsIii{public static void main(String[]args){System.out.println("UniquePathsIii works\n");}}
+package medium;public class UniquePathsIii{public static void solve(){System.out.println("UniquePathsIii implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class KthSmallestNumberInMultiplicationTable{public static void main(String[]args){System.out.println("KthSmallestNumberInMultiplicationTable works\n");}}
+package hard;public class KthSmallestNumberInMultiplicationTable{public static void solve(){System.out.println("KthSmallestNumberInMultiplicationTable implementation");}public static void main(String[]args){solve();}}

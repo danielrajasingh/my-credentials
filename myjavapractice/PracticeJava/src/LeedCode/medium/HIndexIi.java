@@ -1,1 +1,1 @@
-package medium;public class HIndexIi{public static void main(String[]args){System.out.println("HIndexIi works\n");}}
+package medium;public class HIndexIi{public static void solve(){System.out.println("HIndexIi implementation");}public static void main(String[]args){solve();}}

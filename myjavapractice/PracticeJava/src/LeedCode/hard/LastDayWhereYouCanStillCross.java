@@ -1,1 +1,1 @@
-package hard;public class LastDayWhereYouCanStillCross{public static void main(String[]args){System.out.println("LastDayWhereYouCanStillCross works\n");}}
+package hard;public class LastDayWhereYouCanStillCross{public static void solve(){System.out.println("LastDayWhereYouCanStillCross implementation");}public static void main(String[]args){solve();}}

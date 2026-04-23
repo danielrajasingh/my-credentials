@@ -1,1 +1,1 @@
-package medium;public class CousinsInBinaryTree{public static void main(String[]args){System.out.println("CousinsInBinaryTree works\n");}}
+package medium;public class CousinsInBinaryTree{public static void solve(){System.out.println("CousinsInBinaryTree implementation");}public static void main(String[]args){solve();}}

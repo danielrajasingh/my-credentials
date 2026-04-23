@@ -1,1 +1,1 @@
-package medium;public class DiagonalTraverse{public static void main(String[]args){System.out.println("DiagonalTraverse works\n");}}
+package medium;public class DiagonalTraverse{public static void solve(){System.out.println("DiagonalTraverse implementation");}public static void main(String[]args){solve();}}

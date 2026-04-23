@@ -1,1 +1,1 @@
-package medium;public class LargestOddNumberInString{public static void main(String[]args){System.out.println("LargestOddNumberInString works\n");}}
+package medium;public class LargestOddNumberInString{public static void solve(){System.out.println("LargestOddNumberInString implementation");}public static void main(String[]args){solve();}}

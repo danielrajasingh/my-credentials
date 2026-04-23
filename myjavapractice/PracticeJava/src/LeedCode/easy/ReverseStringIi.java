@@ -1,1 +1,1 @@
-package easy;public class ReverseStringIi{public static void main(String[]args){System.out.println("ReverseStringIi works\n");}}
+package easy;public class ReverseStringIi{public static void solve(){System.out.println("ReverseStringIi implementation");}public static void main(String[]args){solve();}}

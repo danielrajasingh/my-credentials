@@ -1,1 +1,1 @@
-package medium;public class MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold{public static void main(String[]args){System.out.println("MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold works\n");}}
+package medium;public class MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold{public static void solve(){System.out.println("MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class TheNumberOfTheSmallestUnoccupiedChair{public static void main(String[]args){System.out.println("TheNumberOfTheSmallestUnoccupiedChair works\n");}}
+package medium;public class TheNumberOfTheSmallestUnoccupiedChair{public static void solve(){System.out.println("TheNumberOfTheSmallestUnoccupiedChair implementation");}public static void main(String[]args){solve();}}

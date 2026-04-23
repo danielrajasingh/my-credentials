@@ -1,1 +1,1 @@
-package medium;public class CountGoodTriplets{public static void main(String[]args){System.out.println("CountGoodTriplets works\n");}}
+package medium;public class CountGoodTriplets{public static void solve(){System.out.println("CountGoodTriplets implementation");}public static void main(String[]args){solve();}}

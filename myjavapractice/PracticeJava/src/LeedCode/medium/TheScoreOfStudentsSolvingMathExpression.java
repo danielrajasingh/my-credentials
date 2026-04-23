@@ -1,1 +1,1 @@
-package medium;public class TheScoreOfStudentsSolvingMathExpression{public static void main(String[]args){System.out.println("TheScoreOfStudentsSolvingMathExpression works\n");}}
+package medium;public class TheScoreOfStudentsSolvingMathExpression{public static void solve(){System.out.println("TheScoreOfStudentsSolvingMathExpression implementation");}public static void main(String[]args){solve();}}

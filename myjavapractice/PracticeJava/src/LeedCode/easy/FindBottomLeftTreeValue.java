@@ -1,1 +1,1 @@
-package easy;public class FindBottomLeftTreeValue{public static void main(String[]args){System.out.println("FindBottomLeftTreeValue works\n");}}
+package easy;public class FindBottomLeftTreeValue{public static void solve(){System.out.println("FindBottomLeftTreeValue implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class DiceRollSimulation{public static void main(String[]args){System.out.println("DiceRollSimulation works\n");}}
+package hard;public class DiceRollSimulation{public static void solve(){System.out.println("DiceRollSimulation implementation");}public static void main(String[]args){solve();}}

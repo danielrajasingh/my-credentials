@@ -1,1 +1,1 @@
-package hard;public class MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves{public static void main(String[]args){System.out.println("MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves works\n");}}
+package hard;public class MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves{public static void solve(){System.out.println("MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves implementation");}public static void main(String[]args){solve();}}

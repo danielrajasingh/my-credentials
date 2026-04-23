@@ -1,1 +1,1 @@
-package medium;public class CountNumberOfNiceSubarrays{public static void main(String[]args){System.out.println("CountNumberOfNiceSubarrays works\n");}}
+package medium;public class CountNumberOfNiceSubarrays{public static void solve(){System.out.println("CountNumberOfNiceSubarrays implementation");}public static void main(String[]args){solve();}}

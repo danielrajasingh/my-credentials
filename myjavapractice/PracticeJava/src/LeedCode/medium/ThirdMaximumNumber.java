@@ -1,1 +1,1 @@
-package medium;public class ThirdMaximumNumber{public static void main(String[]args){System.out.println("ThirdMaximumNumber works\n");}}
+package medium;public class ThirdMaximumNumber{public static void solve(){System.out.println("ThirdMaximumNumber implementation");}public static void main(String[]args){solve();}}

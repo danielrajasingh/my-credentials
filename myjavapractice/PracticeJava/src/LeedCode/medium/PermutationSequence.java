@@ -1,1 +1,1 @@
-package medium;public class PermutationSequence{public static void main(String[]args){System.out.println("PermutationSequence works\n");}}
+package medium;public class PermutationSequence{public static void solve(){System.out.println("PermutationSequence implementation");}public static void main(String[]args){solve();}}

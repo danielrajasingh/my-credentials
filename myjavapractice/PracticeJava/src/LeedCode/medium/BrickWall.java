@@ -1,1 +1,1 @@
-package medium;public class BrickWall{public static void main(String[]args){System.out.println("BrickWall works\n");}}
+package medium;public class BrickWall{public static void solve(){System.out.println("BrickWall implementation");}public static void main(String[]args){solve();}}

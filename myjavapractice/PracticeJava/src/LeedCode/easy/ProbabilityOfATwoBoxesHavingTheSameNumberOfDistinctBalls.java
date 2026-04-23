@@ -1,1 +1,1 @@
-package easy;public class ProbabilityOfATwoBoxesHavingTheSameNumberOfDistinctBalls{public static void main(String[]args){System.out.println("ProbabilityOfATwoBoxesHavingTheSameNumberOfDistinctBalls works\n");}}
+package easy;public class ProbabilityOfATwoBoxesHavingTheSameNumberOfDistinctBalls{public static void solve(){System.out.println("ProbabilityOfATwoBoxesHavingTheSameNumberOfDistinctBalls implementation");}public static void main(String[]args){solve();}}

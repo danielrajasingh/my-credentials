@@ -1,1 +1,1 @@
-package medium;public class ClosestDessertCost{public static void main(String[]args){System.out.println("ClosestDessertCost works\n");}}
+package medium;public class ClosestDessertCost{public static void solve(){System.out.println("ClosestDessertCost implementation");}public static void main(String[]args){solve();}}

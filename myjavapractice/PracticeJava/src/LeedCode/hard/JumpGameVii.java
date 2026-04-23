@@ -1,1 +1,1 @@
-package hard;public class JumpGameVii{public static void main(String[]args){System.out.println("JumpGameVii works\n");}}
+package hard;public class JumpGameVii{public static void solve(){System.out.println("JumpGameVii implementation");}public static void main(String[]args){solve();}}

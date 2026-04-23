@@ -1,1 +1,1 @@
-package medium;public class ImplementQueueUsingStacks{public static void main(String[]args){System.out.println("ImplementQueueUsingStacks works\n");}}
+package medium;public class ImplementQueueUsingStacks{public static void solve(){System.out.println("ImplementQueueUsingStacks implementation");}public static void main(String[]args){solve();}}

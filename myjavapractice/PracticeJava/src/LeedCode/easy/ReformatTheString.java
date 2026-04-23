@@ -1,1 +1,1 @@
-package easy;public class ReformatTheString{public static void main(String[]args){System.out.println("ReformatTheString works\n");}}
+package easy;public class ReformatTheString{public static void solve(){System.out.println("ReformatTheString implementation");}public static void main(String[]args){solve();}}

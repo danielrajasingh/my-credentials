@@ -1,1 +1,1 @@
-package medium;public class EvaluateTheBracketPairsOfAString{public static void main(String[]args){System.out.println("EvaluateTheBracketPairsOfAString works\n");}}
+package medium;public class EvaluateTheBracketPairsOfAString{public static void solve(){System.out.println("EvaluateTheBracketPairsOfAString implementation");}public static void main(String[]args){solve();}}

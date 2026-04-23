@@ -1,1 +1,1 @@
-package easy;public class AllElementsInTwoBinarySearchTrees{public static void main(String[]args){System.out.println("AllElementsInTwoBinarySearchTrees works\n");}}
+package easy;public class AllElementsInTwoBinarySearchTrees{public static void solve(){System.out.println("AllElementsInTwoBinarySearchTrees implementation");}public static void main(String[]args){solve();}}

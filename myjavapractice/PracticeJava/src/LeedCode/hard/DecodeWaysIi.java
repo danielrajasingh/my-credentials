@@ -1,1 +1,1 @@
-package hard;public class DecodeWaysIi{public static void main(String[]args){System.out.println("DecodeWaysIi works\n");}}
+package hard;public class DecodeWaysIi{public static void solve(){System.out.println("DecodeWaysIi implementation");}public static void main(String[]args){solve();}}

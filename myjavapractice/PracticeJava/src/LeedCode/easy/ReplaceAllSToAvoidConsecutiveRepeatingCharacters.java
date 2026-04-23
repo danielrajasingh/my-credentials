@@ -1,1 +1,1 @@
-package easy;public class ReplaceAllSToAvoidConsecutiveRepeatingCharacters{public static void main(String[]args){System.out.println("ReplaceAllSToAvoidConsecutiveRepeatingCharacters works\n");}}
+package easy;public class ReplaceAllSToAvoidConsecutiveRepeatingCharacters{public static void solve(){System.out.println("ReplaceAllSToAvoidConsecutiveRepeatingCharacters implementation");}public static void main(String[]args){solve();}}

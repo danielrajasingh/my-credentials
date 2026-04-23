@@ -1,1 +1,1 @@
-package easy;public class StoneGameViii{public static void main(String[]args){System.out.println("StoneGameViii works\n");}}
+package easy;public class StoneGameViii{public static void solve(){System.out.println("StoneGameViii implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class ClosestDivisors{public static void main(String[]args){System.out.println("ClosestDivisors works\n");}}
+package medium;public class ClosestDivisors{public static void solve(){System.out.println("ClosestDivisors implementation");}public static void main(String[]args){solve();}}

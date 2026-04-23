@@ -1,1 +1,1 @@
-package medium;public class ThreeEqualParts{public static void main(String[]args){System.out.println("ThreeEqualParts works\n");}}
+package medium;public class ThreeEqualParts{public static void solve(){System.out.println("ThreeEqualParts implementation");}public static void main(String[]args){solve();}}

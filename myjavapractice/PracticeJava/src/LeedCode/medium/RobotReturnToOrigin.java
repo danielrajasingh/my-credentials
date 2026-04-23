@@ -1,1 +1,1 @@
-package medium;public class RobotReturnToOrigin{public static void main(String[]args){System.out.println("RobotReturnToOrigin works\n");}}
+package medium;public class RobotReturnToOrigin{public static void solve(){System.out.println("RobotReturnToOrigin implementation");}public static void main(String[]args){solve();}}

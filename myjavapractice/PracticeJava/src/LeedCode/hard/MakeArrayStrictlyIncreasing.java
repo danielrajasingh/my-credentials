@@ -1,1 +1,1 @@
-package hard;public class MakeArrayStrictlyIncreasing{public static void main(String[]args){System.out.println("MakeArrayStrictlyIncreasing works\n");}}
+package hard;public class MakeArrayStrictlyIncreasing{public static void solve(){System.out.println("MakeArrayStrictlyIncreasing implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class RemoveComments{public static void main(String[]args){System.out.println("RemoveComments works\n");}}
+package hard;public class RemoveComments{public static void solve(){System.out.println("RemoveComments implementation");}public static void main(String[]args){solve();}}

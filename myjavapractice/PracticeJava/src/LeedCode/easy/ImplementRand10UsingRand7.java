@@ -1,1 +1,1 @@
-package easy;public class ImplementRand10UsingRand7{public static void main(String[]args){System.out.println("ImplementRand10UsingRand7 works\n");}}
+package easy;public class ImplementRand10UsingRand7{public static void solve(){System.out.println("ImplementRand10UsingRand7 implementation");}public static void main(String[]args){solve();}}

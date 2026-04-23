@@ -1,1 +1,1 @@
-package medium;public class SubstringsOfSizeThreeWithDistinctCharacters{public static void main(String[]args){System.out.println("SubstringsOfSizeThreeWithDistinctCharacters works\n");}}
+package medium;public class SubstringsOfSizeThreeWithDistinctCharacters{public static void solve(){System.out.println("SubstringsOfSizeThreeWithDistinctCharacters implementation");}public static void main(String[]args){solve();}}

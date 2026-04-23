@@ -1,1 +1,1 @@
-package medium;public class AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod{public static void main(String[]args){System.out.println("AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod works\n");}}
+package medium;public class AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod{public static void solve(){System.out.println("AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod implementation");}public static void main(String[]args){solve();}}

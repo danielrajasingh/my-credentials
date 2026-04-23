@@ -1,1 +1,1 @@
-package medium;public class MergeStringsAlternately{public static void main(String[]args){System.out.println("MergeStringsAlternately works\n");}}
+package medium;public class MergeStringsAlternately{public static void solve(){System.out.println("MergeStringsAlternately implementation");}public static void main(String[]args){solve();}}

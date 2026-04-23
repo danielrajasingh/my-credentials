@@ -1,1 +1,1 @@
-package hard;public class ArithmeticSubarrays{public static void main(String[]args){System.out.println("ArithmeticSubarrays works\n");}}
+package hard;public class ArithmeticSubarrays{public static void solve(){System.out.println("ArithmeticSubarrays implementation");}public static void main(String[]args){solve();}}

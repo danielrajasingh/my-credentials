@@ -1,1 +1,1 @@
-package medium;public class MaximumCandiesYouCanGetFromBoxes{public static void main(String[]args){System.out.println("MaximumCandiesYouCanGetFromBoxes works\n");}}
+package medium;public class MaximumCandiesYouCanGetFromBoxes{public static void solve(){System.out.println("MaximumCandiesYouCanGetFromBoxes implementation");}public static void main(String[]args){solve();}}

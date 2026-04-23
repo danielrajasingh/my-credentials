@@ -1,1 +1,1 @@
-package hard;public class HtmlEntityParser{public static void main(String[]args){System.out.println("HtmlEntityParser works\n");}}
+package hard;public class HtmlEntityParser{public static void solve(){System.out.println("HtmlEntityParser implementation");}public static void main(String[]args){solve();}}

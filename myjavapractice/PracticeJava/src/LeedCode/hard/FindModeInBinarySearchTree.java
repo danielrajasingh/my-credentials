@@ -1,1 +1,1 @@
-package hard;public class FindModeInBinarySearchTree{public static void main(String[]args){System.out.println("FindModeInBinarySearchTree works\n");}}
+package hard;public class FindModeInBinarySearchTree{public static void solve(){System.out.println("FindModeInBinarySearchTree implementation");}public static void main(String[]args){solve();}}

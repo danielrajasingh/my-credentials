@@ -1,1 +1,1 @@
-package medium;public class MinimumFallingPathSum{public static void main(String[]args){System.out.println("MinimumFallingPathSum works\n");}}
+package medium;public class MinimumFallingPathSum{public static void solve(){System.out.println("MinimumFallingPathSum implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class CircularPermutationInBinaryRepresentation{public static void main(String[]args){System.out.println("CircularPermutationInBinaryRepresentation works\n");}}
+package medium;public class CircularPermutationInBinaryRepresentation{public static void solve(){System.out.println("CircularPermutationInBinaryRepresentation implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class KidsWithTheGreatestNumberOfCandies{public static void main(String[]args){System.out.println("KidsWithTheGreatestNumberOfCandies works\n");}}
+package easy;public class KidsWithTheGreatestNumberOfCandies{public static void solve(){System.out.println("KidsWithTheGreatestNumberOfCandies implementation");}public static void main(String[]args){solve();}}

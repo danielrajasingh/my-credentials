@@ -1,1 +1,1 @@
-package hard;public class MaximumRepeatingSubstring{public static void main(String[]args){System.out.println("MaximumRepeatingSubstring works\n");}}
+package hard;public class MaximumRepeatingSubstring{public static void solve(){System.out.println("MaximumRepeatingSubstring implementation");}public static void main(String[]args){solve();}}

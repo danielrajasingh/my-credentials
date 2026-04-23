@@ -1,1 +1,1 @@
-package medium;public class NumberOfSubmatricesThatSumToTarget{public static void main(String[]args){System.out.println("NumberOfSubmatricesThatSumToTarget works\n");}}
+package medium;public class NumberOfSubmatricesThatSumToTarget{public static void solve(){System.out.println("NumberOfSubmatricesThatSumToTarget implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class MatchsticksToSquare{public static void main(String[]args){System.out.println("MatchsticksToSquare works\n");}}
+package medium;public class MatchsticksToSquare{public static void solve(){System.out.println("MatchsticksToSquare implementation");}public static void main(String[]args){solve();}}

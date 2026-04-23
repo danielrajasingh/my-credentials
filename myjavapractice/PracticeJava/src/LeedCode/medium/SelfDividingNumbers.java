@@ -1,1 +1,1 @@
-package medium;public class SelfDividingNumbers{public static void main(String[]args){System.out.println("SelfDividingNumbers works\n");}}
+package medium;public class SelfDividingNumbers{public static void solve(){System.out.println("SelfDividingNumbers implementation");}public static void main(String[]args){solve();}}

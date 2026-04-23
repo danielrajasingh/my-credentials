@@ -1,1 +1,1 @@
-package easy;public class OperationsOnTree{public static void main(String[]args){System.out.println("OperationsOnTree works\n");}}
+package easy;public class OperationsOnTree{public static void solve(){System.out.println("OperationsOnTree implementation");}public static void main(String[]args){solve();}}

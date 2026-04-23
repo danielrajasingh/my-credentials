@@ -1,1 +1,1 @@
-package easy;public class AssignCookies{public static void main(String[]args){System.out.println("AssignCookies works\n");}}
+package easy;public class AssignCookies{public static void solve(){System.out.println("AssignCookies implementation");}public static void main(String[]args){solve();}}

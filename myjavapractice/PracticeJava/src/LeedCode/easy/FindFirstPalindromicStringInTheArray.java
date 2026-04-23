@@ -1,1 +1,1 @@
-package easy;public class FindFirstPalindromicStringInTheArray{public static void main(String[]args){System.out.println("FindFirstPalindromicStringInTheArray works\n");}}
+package easy;public class FindFirstPalindromicStringInTheArray{public static void solve(){System.out.println("FindFirstPalindromicStringInTheArray implementation");}public static void main(String[]args){solve();}}

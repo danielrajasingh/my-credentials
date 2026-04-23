@@ -1,1 +1,1 @@
-package medium;public class DeleteTheMiddleNodeOfALinkedList{public static void main(String[]args){System.out.println("DeleteTheMiddleNodeOfALinkedList works\n");}}
+package medium;public class DeleteTheMiddleNodeOfALinkedList{public static void solve(){System.out.println("DeleteTheMiddleNodeOfALinkedList implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class SnapshotArray{public static void main(String[]args){System.out.println("SnapshotArray works\n");}}
+package medium;public class SnapshotArray{public static void solve(){System.out.println("SnapshotArray implementation");}public static void main(String[]args){solve();}}

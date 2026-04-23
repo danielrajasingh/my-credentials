@@ -1,1 +1,1 @@
-package medium;public class MagicalString{public static void main(String[]args){System.out.println("MagicalString works\n");}}
+package medium;public class MagicalString{public static void solve(){System.out.println("MagicalString implementation");}public static void main(String[]args){solve();}}

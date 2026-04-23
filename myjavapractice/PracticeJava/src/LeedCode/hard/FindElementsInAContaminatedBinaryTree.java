@@ -1,1 +1,1 @@
-package hard;public class FindElementsInAContaminatedBinaryTree{public static void main(String[]args){System.out.println("FindElementsInAContaminatedBinaryTree works\n");}}
+package hard;public class FindElementsInAContaminatedBinaryTree{public static void solve(){System.out.println("FindElementsInAContaminatedBinaryTree implementation");}public static void main(String[]args){solve();}}

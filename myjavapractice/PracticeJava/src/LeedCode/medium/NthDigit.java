@@ -1,1 +1,1 @@
-package medium;public class NthDigit{public static void main(String[]args){System.out.println("NthDigit works\n");}}
+package medium;public class NthDigit{public static void solve(){System.out.println("NthDigit implementation");}public static void main(String[]args){solve();}}

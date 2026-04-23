@@ -1,1 +1,1 @@
-package medium;public class CheckIfBinaryStringHasAtMostOneSegmentOfOnes{public static void main(String[]args){System.out.println("CheckIfBinaryStringHasAtMostOneSegmentOfOnes works\n");}}
+package medium;public class CheckIfBinaryStringHasAtMostOneSegmentOfOnes{public static void solve(){System.out.println("CheckIfBinaryStringHasAtMostOneSegmentOfOnes implementation");}public static void main(String[]args){solve();}}

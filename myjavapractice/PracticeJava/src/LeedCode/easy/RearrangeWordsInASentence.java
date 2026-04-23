@@ -1,1 +1,1 @@
-package easy;public class RearrangeWordsInASentence{public static void main(String[]args){System.out.println("RearrangeWordsInASentence works\n");}}
+package easy;public class RearrangeWordsInASentence{public static void solve(){System.out.println("RearrangeWordsInASentence implementation");}public static void main(String[]args){solve();}}

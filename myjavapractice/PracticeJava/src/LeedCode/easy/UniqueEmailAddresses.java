@@ -1,1 +1,1 @@
-package easy;public class UniqueEmailAddresses{public static void main(String[]args){System.out.println("UniqueEmailAddresses works\n");}}
+package easy;public class UniqueEmailAddresses{public static void solve(){System.out.println("UniqueEmailAddresses implementation");}public static void main(String[]args){solve();}}

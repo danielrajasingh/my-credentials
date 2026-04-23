@@ -1,1 +1,1 @@
-package medium;public class RandomPointInNonOverlappingRectangles{public static void main(String[]args){System.out.println("RandomPointInNonOverlappingRectangles works\n");}}
+package medium;public class RandomPointInNonOverlappingRectangles{public static void solve(){System.out.println("RandomPointInNonOverlappingRectangles implementation");}public static void main(String[]args){solve();}}

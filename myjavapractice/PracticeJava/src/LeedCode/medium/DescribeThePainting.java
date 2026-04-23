@@ -1,1 +1,1 @@
-package medium;public class DescribeThePainting{public static void main(String[]args){System.out.println("DescribeThePainting works\n");}}
+package medium;public class DescribeThePainting{public static void solve(){System.out.println("DescribeThePainting implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class MaximumNumberOfDartsInsideOfACircularDartboard{public static void main(String[]args){System.out.println("MaximumNumberOfDartsInsideOfACircularDartboard works\n");}}
+package medium;public class MaximumNumberOfDartsInsideOfACircularDartboard{public static void solve(){System.out.println("MaximumNumberOfDartsInsideOfACircularDartboard implementation");}public static void main(String[]args){solve();}}

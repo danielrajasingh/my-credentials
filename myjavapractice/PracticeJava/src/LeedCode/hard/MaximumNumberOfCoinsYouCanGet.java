@@ -1,1 +1,1 @@
-package hard;public class MaximumNumberOfCoinsYouCanGet{public static void main(String[]args){System.out.println("MaximumNumberOfCoinsYouCanGet works\n");}}
+package hard;public class MaximumNumberOfCoinsYouCanGet{public static void solve(){System.out.println("MaximumNumberOfCoinsYouCanGet implementation");}public static void main(String[]args){solve();}}

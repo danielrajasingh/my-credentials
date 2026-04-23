@@ -1,1 +1,1 @@
-package medium;public class MinimumOperationsToMakeAUniValueGrid{public static void main(String[]args){System.out.println("MinimumOperationsToMakeAUniValueGrid works\n");}}
+package medium;public class MinimumOperationsToMakeAUniValueGrid{public static void solve(){System.out.println("MinimumOperationsToMakeAUniValueGrid implementation");}public static void main(String[]args){solve();}}

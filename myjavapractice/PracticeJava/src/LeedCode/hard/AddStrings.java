@@ -1,1 +1,1 @@
-package hard;public class AddStrings{public static void main(String[]args){System.out.println("AddStrings works\n");}}
+package hard;public class AddStrings{public static void solve(){System.out.println("AddStrings implementation");}public static void main(String[]args){solve();}}

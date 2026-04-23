@@ -1,1 +1,1 @@
-package medium;public class FindTheWinnerOfTheCircularGame{public static void main(String[]args){System.out.println("FindTheWinnerOfTheCircularGame works\n");}}
+package medium;public class FindTheWinnerOfTheCircularGame{public static void solve(){System.out.println("FindTheWinnerOfTheCircularGame implementation");}public static void main(String[]args){solve();}}

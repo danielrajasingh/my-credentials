@@ -1,1 +1,1 @@
-package easy;public class MaximumErasureValue{public static void main(String[]args){System.out.println("MaximumErasureValue works\n");}}
+package easy;public class MaximumErasureValue{public static void solve(){System.out.println("MaximumErasureValue implementation");}public static void main(String[]args){solve();}}

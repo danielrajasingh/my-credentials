@@ -1,1 +1,1 @@
-package medium;public class LinkedListRandomNode{public static void main(String[]args){System.out.println("LinkedListRandomNode works\n");}}
+package medium;public class LinkedListRandomNode{public static void solve(){System.out.println("LinkedListRandomNode implementation");}public static void main(String[]args){solve();}}

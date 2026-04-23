@@ -1,1 +1,1 @@
-package medium;public class ReverseOnlyLetters{public static void main(String[]args){System.out.println("ReverseOnlyLetters works\n");}}
+package medium;public class ReverseOnlyLetters{public static void solve(){System.out.println("ReverseOnlyLetters implementation");}public static void main(String[]args){solve();}}

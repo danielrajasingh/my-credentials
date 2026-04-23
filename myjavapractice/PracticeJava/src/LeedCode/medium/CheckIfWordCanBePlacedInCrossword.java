@@ -1,1 +1,1 @@
-package medium;public class CheckIfWordCanBePlacedInCrossword{public static void main(String[]args){System.out.println("CheckIfWordCanBePlacedInCrossword works\n");}}
+package medium;public class CheckIfWordCanBePlacedInCrossword{public static void solve(){System.out.println("CheckIfWordCanBePlacedInCrossword implementation");}public static void main(String[]args){solve();}}

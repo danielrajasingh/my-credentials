@@ -1,1 +1,1 @@
-package medium;public class LoudAndRich{public static void main(String[]args){System.out.println("LoudAndRich works\n");}}
+package medium;public class LoudAndRich{public static void solve(){System.out.println("LoudAndRich implementation");}public static void main(String[]args){solve();}}

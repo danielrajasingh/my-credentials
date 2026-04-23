@@ -1,1 +1,1 @@
-package easy;public class ReachingPoints{public static void main(String[]args){System.out.println("ReachingPoints works\n");}}
+package easy;public class ReachingPoints{public static void solve(){System.out.println("ReachingPoints implementation");}public static void main(String[]args){solve();}}

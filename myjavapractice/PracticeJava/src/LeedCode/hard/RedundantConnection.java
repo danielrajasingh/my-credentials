@@ -1,1 +1,1 @@
-package hard;public class RedundantConnection{public static void main(String[]args){System.out.println("RedundantConnection works\n");}}
+package hard;public class RedundantConnection{public static void solve(){System.out.println("RedundantConnection implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class MaximumGap{public static void main(String[]args){System.out.println("MaximumGap works\n");}}
+package medium;public class MaximumGap{public static void solve(){System.out.println("MaximumGap implementation");}public static void main(String[]args){solve();}}

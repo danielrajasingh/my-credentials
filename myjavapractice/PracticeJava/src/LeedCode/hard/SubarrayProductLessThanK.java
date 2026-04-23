@@ -1,1 +1,1 @@
-package hard;public class SubarrayProductLessThanK{public static void main(String[]args){System.out.println("SubarrayProductLessThanK works\n");}}
+package hard;public class SubarrayProductLessThanK{public static void solve(){System.out.println("SubarrayProductLessThanK implementation");}public static void main(String[]args){solve();}}

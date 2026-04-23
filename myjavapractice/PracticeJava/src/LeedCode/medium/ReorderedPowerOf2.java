@@ -1,1 +1,1 @@
-package medium;public class ReorderedPowerOf2{public static void main(String[]args){System.out.println("ReorderedPowerOf2 works\n");}}
+package medium;public class ReorderedPowerOf2{public static void solve(){System.out.println("ReorderedPowerOf2 implementation");}public static void main(String[]args){solve();}}

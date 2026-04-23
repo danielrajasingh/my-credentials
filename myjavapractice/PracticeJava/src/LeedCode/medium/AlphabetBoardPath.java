@@ -1,1 +1,1 @@
-package medium;public class AlphabetBoardPath{public static void main(String[]args){System.out.println("AlphabetBoardPath works\n");}}
+package medium;public class AlphabetBoardPath{public static void solve(){System.out.println("AlphabetBoardPath implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class ThousandSeparator{public static void main(String[]args){System.out.println("ThousandSeparator works\n");}}
+package medium;public class ThousandSeparator{public static void solve(){System.out.println("ThousandSeparator implementation");}public static void main(String[]args){solve();}}

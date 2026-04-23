@@ -1,1 +1,1 @@
-package easy;public class MaximumAbsoluteSumOfAnySubarray{public static void main(String[]args){System.out.println("MaximumAbsoluteSumOfAnySubarray works\n");}}
+package easy;public class MaximumAbsoluteSumOfAnySubarray{public static void solve(){System.out.println("MaximumAbsoluteSumOfAnySubarray implementation");}public static void main(String[]args){solve();}}

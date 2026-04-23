@@ -1,1 +1,1 @@
-package medium;public class DefuseTheBomb{public static void main(String[]args){System.out.println("DefuseTheBomb works\n");}}
+package medium;public class DefuseTheBomb{public static void solve(){System.out.println("DefuseTheBomb implementation");}public static void main(String[]args){solve();}}

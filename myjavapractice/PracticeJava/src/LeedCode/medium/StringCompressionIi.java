@@ -1,1 +1,1 @@
-package medium;public class StringCompressionIi{public static void main(String[]args){System.out.println("StringCompressionIi works\n");}}
+package medium;public class StringCompressionIi{public static void solve(){System.out.println("StringCompressionIi implementation");}public static void main(String[]args){solve();}}

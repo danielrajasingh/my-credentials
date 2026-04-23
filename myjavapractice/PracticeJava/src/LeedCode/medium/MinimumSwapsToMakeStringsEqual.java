@@ -1,1 +1,1 @@
-package medium;public class MinimumSwapsToMakeStringsEqual{public static void main(String[]args){System.out.println("MinimumSwapsToMakeStringsEqual works\n");}}
+package medium;public class MinimumSwapsToMakeStringsEqual{public static void solve(){System.out.println("MinimumSwapsToMakeStringsEqual implementation");}public static void main(String[]args){solve();}}

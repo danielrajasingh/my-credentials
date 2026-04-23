@@ -1,1 +1,1 @@
-package medium;public class RobotBoundedInCircle{public static void main(String[]args){System.out.println("RobotBoundedInCircle works\n");}}
+package medium;public class RobotBoundedInCircle{public static void solve(){System.out.println("RobotBoundedInCircle implementation");}public static void main(String[]args){solve();}}

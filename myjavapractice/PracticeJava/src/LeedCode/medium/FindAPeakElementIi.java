@@ -1,1 +1,1 @@
-package medium;public class FindAPeakElementIi{public static void main(String[]args){System.out.println("FindAPeakElementIi works\n");}}
+package medium;public class FindAPeakElementIi{public static void solve(){System.out.println("FindAPeakElementIi implementation");}public static void main(String[]args){solve();}}

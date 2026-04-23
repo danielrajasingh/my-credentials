@@ -1,1 +1,1 @@
-package medium;public class NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold{public static void main(String[]args){System.out.println("NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold works\n");}}
+package medium;public class NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold{public static void solve(){System.out.println("NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class PalindromePartitioningIii{public static void main(String[]args){System.out.println("PalindromePartitioningIii works\n");}}
+package easy;public class PalindromePartitioningIii{public static void solve(){System.out.println("PalindromePartitioningIii implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class ShortEncodingOfWords{public static void main(String[]args){System.out.println("ShortEncodingOfWords works\n");}}
+package medium;public class ShortEncodingOfWords{public static void solve(){System.out.println("ShortEncodingOfWords implementation");}public static void main(String[]args){solve();}}

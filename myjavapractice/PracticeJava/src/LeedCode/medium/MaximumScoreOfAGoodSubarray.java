@@ -1,1 +1,1 @@
-package medium;public class MaximumScoreOfAGoodSubarray{public static void main(String[]args){System.out.println("MaximumScoreOfAGoodSubarray works\n");}}
+package medium;public class MaximumScoreOfAGoodSubarray{public static void solve(){System.out.println("MaximumScoreOfAGoodSubarray implementation");}public static void main(String[]args){solve();}}

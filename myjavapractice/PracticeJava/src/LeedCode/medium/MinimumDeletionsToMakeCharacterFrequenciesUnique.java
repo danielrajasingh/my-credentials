@@ -1,1 +1,1 @@
-package medium;public class MinimumDeletionsToMakeCharacterFrequenciesUnique{public static void main(String[]args){System.out.println("MinimumDeletionsToMakeCharacterFrequenciesUnique works\n");}}
+package medium;public class MinimumDeletionsToMakeCharacterFrequenciesUnique{public static void solve(){System.out.println("MinimumDeletionsToMakeCharacterFrequenciesUnique implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class ArithmeticSlices{public static void main(String[]args){System.out.println("ArithmeticSlices works\n");}}
+package easy;public class ArithmeticSlices{public static void solve(){System.out.println("ArithmeticSlices implementation");}public static void main(String[]args){solve();}}

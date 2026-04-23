@@ -1,1 +1,1 @@
-package easy;public class MaximumXorOfTwoNumbersInAnArray{public static void main(String[]args){System.out.println("MaximumXorOfTwoNumbersInAnArray works\n");}}
+package easy;public class MaximumXorOfTwoNumbersInAnArray{public static void solve(){System.out.println("MaximumXorOfTwoNumbersInAnArray implementation");}public static void main(String[]args){solve();}}

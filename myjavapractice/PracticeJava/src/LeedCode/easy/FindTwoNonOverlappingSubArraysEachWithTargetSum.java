@@ -1,1 +1,1 @@
-package easy;public class FindTwoNonOverlappingSubArraysEachWithTargetSum{public static void main(String[]args){System.out.println("FindTwoNonOverlappingSubArraysEachWithTargetSum works\n");}}
+package easy;public class FindTwoNonOverlappingSubArraysEachWithTargetSum{public static void solve(){System.out.println("FindTwoNonOverlappingSubArraysEachWithTargetSum implementation");}public static void main(String[]args){solve();}}

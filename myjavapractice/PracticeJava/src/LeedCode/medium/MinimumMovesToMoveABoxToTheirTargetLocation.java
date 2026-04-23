@@ -1,1 +1,1 @@
-package medium;public class MinimumMovesToMoveABoxToTheirTargetLocation{public static void main(String[]args){System.out.println("MinimumMovesToMoveABoxToTheirTargetLocation works\n");}}
+package medium;public class MinimumMovesToMoveABoxToTheirTargetLocation{public static void solve(){System.out.println("MinimumMovesToMoveABoxToTheirTargetLocation implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package hard;public class Finding3DigitEvenNumbers{public static void main(String[]args){System.out.println("Finding3DigitEvenNumbers works\n");}}
+package hard;public class Finding3DigitEvenNumbers{public static void solve(){System.out.println("Finding3DigitEvenNumbers implementation");}public static void main(String[]args){solve();}}

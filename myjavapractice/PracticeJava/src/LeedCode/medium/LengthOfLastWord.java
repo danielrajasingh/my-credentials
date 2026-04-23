@@ -1,1 +1,1 @@
-package medium;public class LengthOfLastWord{public static void main(String[]args){System.out.println("LengthOfLastWord works\n");}}
+package medium;public class LengthOfLastWord{public static void solve(){System.out.println("LengthOfLastWord implementation");}public static void main(String[]args){solve();}}

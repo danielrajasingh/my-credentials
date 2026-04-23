@@ -1,1 +1,1 @@
-package medium;public class CountNumberOfHomogenousSubstrings{public static void main(String[]args){System.out.println("CountNumberOfHomogenousSubstrings works\n");}}
+package medium;public class CountNumberOfHomogenousSubstrings{public static void solve(){System.out.println("CountNumberOfHomogenousSubstrings implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class NumberOfMusicPlaylists{public static void main(String[]args){System.out.println("NumberOfMusicPlaylists works\n");}}
+package medium;public class NumberOfMusicPlaylists{public static void solve(){System.out.println("NumberOfMusicPlaylists implementation");}public static void main(String[]args){solve();}}

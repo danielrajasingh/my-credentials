@@ -1,1 +1,1 @@
-package hard;public class SpecialPositionsInABinaryMatrix{public static void main(String[]args){System.out.println("SpecialPositionsInABinaryMatrix works\n");}}
+package hard;public class SpecialPositionsInABinaryMatrix{public static void solve(){System.out.println("SpecialPositionsInABinaryMatrix implementation");}public static void main(String[]args){solve();}}

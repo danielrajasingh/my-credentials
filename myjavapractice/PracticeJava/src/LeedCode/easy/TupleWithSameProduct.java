@@ -1,1 +1,1 @@
-package easy;public class TupleWithSameProduct{public static void main(String[]args){System.out.println("TupleWithSameProduct works\n");}}
+package easy;public class TupleWithSameProduct{public static void solve(){System.out.println("TupleWithSameProduct implementation");}public static void main(String[]args){solve();}}

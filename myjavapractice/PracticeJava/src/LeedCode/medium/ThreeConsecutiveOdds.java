@@ -1,1 +1,1 @@
-package medium;public class ThreeConsecutiveOdds{public static void main(String[]args){System.out.println("ThreeConsecutiveOdds works\n");}}
+package medium;public class ThreeConsecutiveOdds{public static void solve(){System.out.println("ThreeConsecutiveOdds implementation");}public static void main(String[]args){solve();}}

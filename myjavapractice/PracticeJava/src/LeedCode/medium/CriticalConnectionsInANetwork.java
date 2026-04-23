@@ -1,1 +1,1 @@
-package medium;public class CriticalConnectionsInANetwork{public static void main(String[]args){System.out.println("CriticalConnectionsInANetwork works\n");}}
+package medium;public class CriticalConnectionsInANetwork{public static void solve(){System.out.println("CriticalConnectionsInANetwork implementation");}public static void main(String[]args){solve();}}

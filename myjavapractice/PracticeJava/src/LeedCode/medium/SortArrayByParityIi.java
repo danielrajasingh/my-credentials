@@ -1,1 +1,1 @@
-package medium;public class SortArrayByParityIi{public static void main(String[]args){System.out.println("SortArrayByParityIi works\n");}}
+package medium;public class SortArrayByParityIi{public static void solve(){System.out.println("SortArrayByParityIi implementation");}public static void main(String[]args){solve();}}

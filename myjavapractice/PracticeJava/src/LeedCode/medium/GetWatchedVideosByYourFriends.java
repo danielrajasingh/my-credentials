@@ -1,1 +1,1 @@
-package medium;public class GetWatchedVideosByYourFriends{public static void main(String[]args){System.out.println("GetWatchedVideosByYourFriends works\n");}}
+package medium;public class GetWatchedVideosByYourFriends{public static void solve(){System.out.println("GetWatchedVideosByYourFriends implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class LongestTurbulentSubarray{public static void main(String[]args){System.out.println("LongestTurbulentSubarray works\n");}}
+package medium;public class LongestTurbulentSubarray{public static void solve(){System.out.println("LongestTurbulentSubarray implementation");}public static void main(String[]args){solve();}}

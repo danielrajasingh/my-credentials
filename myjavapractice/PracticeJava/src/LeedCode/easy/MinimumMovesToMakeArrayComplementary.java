@@ -1,1 +1,1 @@
-package easy;public class MinimumMovesToMakeArrayComplementary{public static void main(String[]args){System.out.println("MinimumMovesToMakeArrayComplementary works\n");}}
+package easy;public class MinimumMovesToMakeArrayComplementary{public static void solve(){System.out.println("MinimumMovesToMakeArrayComplementary implementation");}public static void main(String[]args){solve();}}

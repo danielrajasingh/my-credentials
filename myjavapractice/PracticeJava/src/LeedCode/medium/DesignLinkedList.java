@@ -1,1 +1,1 @@
-package medium;public class DesignLinkedList{public static void main(String[]args){System.out.println("DesignLinkedList works\n");}}
+package medium;public class DesignLinkedList{public static void solve(){System.out.println("DesignLinkedList implementation");}public static void main(String[]args){solve();}}

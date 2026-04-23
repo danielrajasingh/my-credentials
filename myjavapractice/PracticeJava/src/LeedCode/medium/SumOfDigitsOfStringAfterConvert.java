@@ -1,1 +1,1 @@
-package medium;public class SumOfDigitsOfStringAfterConvert{public static void main(String[]args){System.out.println("SumOfDigitsOfStringAfterConvert works\n");}}
+package medium;public class SumOfDigitsOfStringAfterConvert{public static void solve(){System.out.println("SumOfDigitsOfStringAfterConvert implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package easy;public class DeepestLeavesSum{public static void main(String[]args){System.out.println("DeepestLeavesSum works\n");}}
+package easy;public class DeepestLeavesSum{public static void solve(){System.out.println("DeepestLeavesSum implementation");}public static void main(String[]args){solve();}}

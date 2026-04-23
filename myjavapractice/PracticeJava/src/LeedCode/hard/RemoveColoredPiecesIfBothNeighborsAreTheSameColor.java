@@ -1,1 +1,1 @@
-package hard;public class RemoveColoredPiecesIfBothNeighborsAreTheSameColor{public static void main(String[]args){System.out.println("RemoveColoredPiecesIfBothNeighborsAreTheSameColor works\n");}}
+package hard;public class RemoveColoredPiecesIfBothNeighborsAreTheSameColor{public static void solve(){System.out.println("RemoveColoredPiecesIfBothNeighborsAreTheSameColor implementation");}public static void main(String[]args){solve();}}

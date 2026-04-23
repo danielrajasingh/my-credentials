@@ -1,1 +1,1 @@
-package medium;public class RemoveAllOccurrencesOfASubstring{public static void main(String[]args){System.out.println("RemoveAllOccurrencesOfASubstring works\n");}}
+package medium;public class RemoveAllOccurrencesOfASubstring{public static void solve(){System.out.println("RemoveAllOccurrencesOfASubstring implementation");}public static void main(String[]args){solve();}}

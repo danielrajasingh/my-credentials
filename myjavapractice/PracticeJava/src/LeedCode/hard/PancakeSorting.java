@@ -1,1 +1,1 @@
-package hard;public class PancakeSorting{public static void main(String[]args){System.out.println("PancakeSorting works\n");}}
+package hard;public class PancakeSorting{public static void solve(){System.out.println("PancakeSorting implementation");}public static void main(String[]args){solve();}}

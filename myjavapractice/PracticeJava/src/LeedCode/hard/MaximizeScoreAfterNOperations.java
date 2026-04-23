@@ -1,1 +1,1 @@
-package hard;public class MaximizeScoreAfterNOperations{public static void main(String[]args){System.out.println("MaximizeScoreAfterNOperations works\n");}}
+package hard;public class MaximizeScoreAfterNOperations{public static void solve(){System.out.println("MaximizeScoreAfterNOperations implementation");}public static void main(String[]args){solve();}}

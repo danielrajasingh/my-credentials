@@ -1,1 +1,1 @@
-package medium;public class MinimumSpaceWastedFromPackaging{public static void main(String[]args){System.out.println("MinimumSpaceWastedFromPackaging works\n");}}
+package medium;public class MinimumSpaceWastedFromPackaging{public static void solve(){System.out.println("MinimumSpaceWastedFromPackaging implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class PathWithMinimumEffort{public static void main(String[]args){System.out.println("PathWithMinimumEffort works\n");}}
+package medium;public class PathWithMinimumEffort{public static void solve(){System.out.println("PathWithMinimumEffort implementation");}public static void main(String[]args){solve();}}

@@ -1,1 +1,1 @@
-package medium;public class NumbersAtMostNGivenDigitSet{public static void main(String[]args){System.out.println("NumbersAtMostNGivenDigitSet works\n");}}
+package medium;public class NumbersAtMostNGivenDigitSet{public static void solve(){System.out.println("NumbersAtMostNGivenDigitSet implementation");}public static void main(String[]args){solve();}}
