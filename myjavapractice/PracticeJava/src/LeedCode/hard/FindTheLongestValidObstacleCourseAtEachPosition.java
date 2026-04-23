@@ -1,0 +1,1 @@
+package hard;public class FindTheLongestValidObstacleCourseAtEachPosition{public static void main(String[]args){System.out.println("FindTheLongestValidObstacleCourseAtEachPosition works\n");}}

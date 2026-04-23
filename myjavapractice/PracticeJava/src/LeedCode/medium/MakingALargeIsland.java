@@ -1,0 +1,1 @@
+package medium;public class MakingALargeIsland{public static void main(String[]args){System.out.println("MakingALargeIsland works\n");}}

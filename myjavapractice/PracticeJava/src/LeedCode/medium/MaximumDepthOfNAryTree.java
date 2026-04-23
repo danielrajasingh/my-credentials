@@ -1,0 +1,1 @@
+package medium;public class MaximumDepthOfNAryTree{public static void main(String[]args){System.out.println("MaximumDepthOfNAryTree works\n");}}

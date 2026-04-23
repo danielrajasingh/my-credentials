@@ -1,0 +1,1 @@
+package medium;public class FindAllNumbersDisappearedInAnArray{public static void main(String[]args){System.out.println("FindAllNumbersDisappearedInAnArray works\n");}}

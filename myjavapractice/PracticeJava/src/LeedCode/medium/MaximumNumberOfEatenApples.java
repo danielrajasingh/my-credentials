@@ -1,0 +1,1 @@
+package medium;public class MaximumNumberOfEatenApples{public static void main(String[]args){System.out.println("MaximumNumberOfEatenApples works\n");}}

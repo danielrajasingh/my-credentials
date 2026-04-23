@@ -1,0 +1,1 @@
+package medium;public class MaximumPerformanceOfATeam{public static void main(String[]args){System.out.println("MaximumPerformanceOfATeam works\n");}}

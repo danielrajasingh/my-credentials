@@ -1,0 +1,1 @@
+package hard;public class CheckIfAll1sAreAtLeastLengthKPlacesAway{public static void main(String[]args){System.out.println("CheckIfAll1sAreAtLeastLengthKPlacesAway works\n");}}

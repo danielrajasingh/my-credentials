@@ -1,0 +1,1 @@
+package easy;public class PrintBinaryTree{public static void main(String[]args){System.out.println("PrintBinaryTree works\n");}}

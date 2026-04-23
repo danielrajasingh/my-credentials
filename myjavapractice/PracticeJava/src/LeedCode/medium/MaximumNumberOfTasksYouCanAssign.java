@@ -1,0 +1,1 @@
+package medium;public class MaximumNumberOfTasksYouCanAssign{public static void main(String[]args){System.out.println("MaximumNumberOfTasksYouCanAssign works\n");}}

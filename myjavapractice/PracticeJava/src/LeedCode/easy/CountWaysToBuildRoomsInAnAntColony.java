@@ -1,0 +1,1 @@
+package easy;public class CountWaysToBuildRoomsInAnAntColony{public static void main(String[]args){System.out.println("CountWaysToBuildRoomsInAnAntColony works\n");}}

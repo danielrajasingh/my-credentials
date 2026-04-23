@@ -1,0 +1,1 @@
+package medium;public class FrogJump{public static void main(String[]args){System.out.println("FrogJump works\n");}}

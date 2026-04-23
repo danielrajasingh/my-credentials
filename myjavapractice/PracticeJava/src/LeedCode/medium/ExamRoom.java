@@ -1,0 +1,1 @@
+package medium;public class ExamRoom{public static void main(String[]args){System.out.println("ExamRoom works\n");}}

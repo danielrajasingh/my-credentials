@@ -1,0 +1,1 @@
+package medium;public class MinimumCostForTickets{public static void main(String[]args){System.out.println("MinimumCostForTickets works\n");}}

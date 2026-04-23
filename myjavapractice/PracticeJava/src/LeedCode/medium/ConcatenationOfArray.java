@@ -1,0 +1,1 @@
+package medium;public class ConcatenationOfArray{public static void main(String[]args){System.out.println("ConcatenationOfArray works\n");}}

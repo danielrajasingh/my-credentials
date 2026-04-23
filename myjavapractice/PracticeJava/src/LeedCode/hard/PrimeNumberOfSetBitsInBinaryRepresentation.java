@@ -1,0 +1,1 @@
+package hard;public class PrimeNumberOfSetBitsInBinaryRepresentation{public static void main(String[]args){System.out.println("PrimeNumberOfSetBitsInBinaryRepresentation works\n");}}

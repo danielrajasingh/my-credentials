@@ -1,0 +1,1 @@
+package medium;public class AdditiveNumber{public static void main(String[]args){System.out.println("AdditiveNumber works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class TallestBillboard{public static void main(String[]args){System.out.println("TallestBillboard works\n");}}

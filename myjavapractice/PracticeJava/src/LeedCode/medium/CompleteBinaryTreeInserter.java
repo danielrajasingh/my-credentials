@@ -1,0 +1,1 @@
+package medium;public class CompleteBinaryTreeInserter{public static void main(String[]args){System.out.println("CompleteBinaryTreeInserter works\n");}}

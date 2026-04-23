@@ -1,0 +1,1 @@
+package medium;public class ReplaceWords{public static void main(String[]args){System.out.println("ReplaceWords works\n");}}

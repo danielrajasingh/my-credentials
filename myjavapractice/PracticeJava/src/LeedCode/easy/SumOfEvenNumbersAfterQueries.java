@@ -1,0 +1,1 @@
+package easy;public class SumOfEvenNumbersAfterQueries{public static void main(String[]args){System.out.println("SumOfEvenNumbersAfterQueries works\n");}}

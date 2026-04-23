@@ -1,0 +1,1 @@
+package medium;public class NumberOfWaysToSplitAString{public static void main(String[]args){System.out.println("NumberOfWaysToSplitAString works\n");}}

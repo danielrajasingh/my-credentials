@@ -1,0 +1,1 @@
+package medium;public class ClosestSubsequenceSum{public static void main(String[]args){System.out.println("ClosestSubsequenceSum works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class MinimumValueToGetPositiveStepByStepSum{public static void main(String[]args){System.out.println("MinimumValueToGetPositiveStepByStepSum works\n");}}

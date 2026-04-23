@@ -1,0 +1,1 @@
+package medium;public class CheckIfTwoStringArraysAreEquivalent{public static void main(String[]args){System.out.println("CheckIfTwoStringArraysAreEquivalent works\n");}}

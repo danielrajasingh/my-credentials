@@ -1,0 +1,1 @@
+package easy;public class RemoveOutermostParentheses{public static void main(String[]args){System.out.println("RemoveOutermostParentheses works\n");}}

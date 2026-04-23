@@ -1,0 +1,1 @@
+package hard;public class ReplaceElementsWithGreatestElementOnRightSide{public static void main(String[]args){System.out.println("ReplaceElementsWithGreatestElementOnRightSide works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class PartitionArrayIntoTwoArraysToMinimizeSumDifference{public static void main(String[]args){System.out.println("PartitionArrayIntoTwoArraysToMinimizeSumDifference works\n");}}

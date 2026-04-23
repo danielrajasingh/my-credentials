@@ -1,0 +1,1 @@
+package easy;public class SearchInABinarySearchTree{public static void main(String[]args){System.out.println("SearchInABinarySearchTree works\n");}}

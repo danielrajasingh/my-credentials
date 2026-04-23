@@ -1,0 +1,1 @@
+package medium;public class RevealCardsInIncreasingOrder{public static void main(String[]args){System.out.println("RevealCardsInIncreasingOrder works\n");}}

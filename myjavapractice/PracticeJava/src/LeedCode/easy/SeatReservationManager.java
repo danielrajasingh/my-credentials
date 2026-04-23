@@ -1,0 +1,1 @@
+package easy;public class SeatReservationManager{public static void main(String[]args){System.out.println("SeatReservationManager works\n");}}

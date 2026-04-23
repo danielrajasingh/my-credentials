@@ -1,0 +1,1 @@
+package hard;public class BestPositionForAServiceCentre{public static void main(String[]args){System.out.println("BestPositionForAServiceCentre works\n");}}

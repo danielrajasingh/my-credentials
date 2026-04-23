@@ -1,0 +1,1 @@
+package medium;public class MinimumIncompatibility{public static void main(String[]args){System.out.println("MinimumIncompatibility works\n");}}

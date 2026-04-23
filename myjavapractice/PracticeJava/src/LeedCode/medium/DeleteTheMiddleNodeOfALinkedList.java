@@ -1,0 +1,1 @@
+package medium;public class DeleteTheMiddleNodeOfALinkedList{public static void main(String[]args){System.out.println("DeleteTheMiddleNodeOfALinkedList works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class CellsWithOddValuesInAMatrix{public static void main(String[]args){System.out.println("CellsWithOddValuesInAMatrix works\n");}}

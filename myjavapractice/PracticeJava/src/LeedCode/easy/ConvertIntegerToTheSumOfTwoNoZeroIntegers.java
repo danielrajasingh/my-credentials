@@ -1,0 +1,1 @@
+package easy;public class ConvertIntegerToTheSumOfTwoNoZeroIntegers{public static void main(String[]args){System.out.println("ConvertIntegerToTheSumOfTwoNoZeroIntegers works\n");}}

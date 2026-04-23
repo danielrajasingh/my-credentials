@@ -1,0 +1,1 @@
+package hard;public class EqualSumArraysWithMinimumNumberOfOperations{public static void main(String[]args){System.out.println("EqualSumArraysWithMinimumNumberOfOperations works\n");}}

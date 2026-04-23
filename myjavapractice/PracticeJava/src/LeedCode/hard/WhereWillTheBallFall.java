@@ -1,0 +1,1 @@
+package hard;public class WhereWillTheBallFall{public static void main(String[]args){System.out.println("WhereWillTheBallFall works\n");}}

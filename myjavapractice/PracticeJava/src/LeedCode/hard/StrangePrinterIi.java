@@ -1,0 +1,1 @@
+package hard;public class StrangePrinterIi{public static void main(String[]args){System.out.println("StrangePrinterIi works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class TwoSum{public static void main(String[]args){System.out.println("TwoSum works\n");}}

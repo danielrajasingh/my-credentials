@@ -1,0 +1,1 @@
+package easy;public class MinimumOperationsToReduceXToZero{public static void main(String[]args){System.out.println("MinimumOperationsToReduceXToZero works\n");}}

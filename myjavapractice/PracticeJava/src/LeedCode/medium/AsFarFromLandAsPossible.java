@@ -1,0 +1,1 @@
+package medium;public class AsFarFromLandAsPossible{public static void main(String[]args){System.out.println("AsFarFromLandAsPossible works\n");}}

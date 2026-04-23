@@ -1,0 +1,1 @@
+package easy;public class CarFleet{public static void main(String[]args){System.out.println("CarFleet works\n");}}

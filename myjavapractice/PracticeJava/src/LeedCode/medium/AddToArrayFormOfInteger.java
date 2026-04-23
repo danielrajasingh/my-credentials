@@ -1,0 +1,1 @@
+package medium;public class AddToArrayFormOfInteger{public static void main(String[]args){System.out.println("AddToArrayFormOfInteger works\n");}}

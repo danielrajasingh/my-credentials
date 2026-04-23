@@ -1,0 +1,1 @@
+package easy;public class TwoFurthestHousesWithDifferentColors{public static void main(String[]args){System.out.println("TwoFurthestHousesWithDifferentColors works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class AvailableCapturesForRook{public static void main(String[]args){System.out.println("AvailableCapturesForRook works\n");}}

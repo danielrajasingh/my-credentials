@@ -1,0 +1,1 @@
+package medium;public class TweetCountsPerFrequency{public static void main(String[]args){System.out.println("TweetCountsPerFrequency works\n");}}

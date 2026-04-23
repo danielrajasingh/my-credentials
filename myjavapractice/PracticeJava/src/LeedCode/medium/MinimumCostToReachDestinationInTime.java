@@ -1,0 +1,1 @@
+package medium;public class MinimumCostToReachDestinationInTime{public static void main(String[]args){System.out.println("MinimumCostToReachDestinationInTime works\n");}}

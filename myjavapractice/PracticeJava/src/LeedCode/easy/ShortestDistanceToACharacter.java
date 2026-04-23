@@ -1,0 +1,1 @@
+package easy;public class ShortestDistanceToACharacter{public static void main(String[]args){System.out.println("ShortestDistanceToACharacter works\n");}}

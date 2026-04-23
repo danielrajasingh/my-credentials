@@ -1,0 +1,1 @@
+package medium;public class CountNumberOfTeams{public static void main(String[]args){System.out.println("CountNumberOfTeams works\n");}}

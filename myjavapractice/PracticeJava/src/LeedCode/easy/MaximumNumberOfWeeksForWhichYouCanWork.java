@@ -1,0 +1,1 @@
+package easy;public class MaximumNumberOfWeeksForWhichYouCanWork{public static void main(String[]args){System.out.println("MaximumNumberOfWeeksForWhichYouCanWork works\n");}}

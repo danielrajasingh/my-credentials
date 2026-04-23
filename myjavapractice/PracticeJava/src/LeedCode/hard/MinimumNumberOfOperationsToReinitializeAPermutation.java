@@ -1,0 +1,1 @@
+package hard;public class MinimumNumberOfOperationsToReinitializeAPermutation{public static void main(String[]args){System.out.println("MinimumNumberOfOperationsToReinitializeAPermutation works\n");}}

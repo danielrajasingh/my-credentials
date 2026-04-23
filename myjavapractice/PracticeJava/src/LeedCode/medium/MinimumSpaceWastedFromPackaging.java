@@ -1,0 +1,1 @@
+package medium;public class MinimumSpaceWastedFromPackaging{public static void main(String[]args){System.out.println("MinimumSpaceWastedFromPackaging works\n");}}

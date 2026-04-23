@@ -1,0 +1,1 @@
+package easy;public class FlattenAMultilevelDoublyLinkedList{public static void main(String[]args){System.out.println("FlattenAMultilevelDoublyLinkedList works\n");}}

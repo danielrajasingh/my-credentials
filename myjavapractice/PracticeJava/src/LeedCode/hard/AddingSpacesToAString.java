@@ -1,0 +1,1 @@
+package hard;public class AddingSpacesToAString{public static void main(String[]args){System.out.println("AddingSpacesToAString works\n");}}

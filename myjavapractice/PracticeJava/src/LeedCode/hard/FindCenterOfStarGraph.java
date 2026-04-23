@@ -1,0 +1,1 @@
+package hard;public class FindCenterOfStarGraph{public static void main(String[]args){System.out.println("FindCenterOfStarGraph works\n");}}

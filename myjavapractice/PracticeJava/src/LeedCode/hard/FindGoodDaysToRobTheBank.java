@@ -1,0 +1,1 @@
+package hard;public class FindGoodDaysToRobTheBank{public static void main(String[]args){System.out.println("FindGoodDaysToRobTheBank works\n");}}

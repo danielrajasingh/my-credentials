@@ -1,0 +1,1 @@
+package medium;public class NumbersWithRepeatedDigits{public static void main(String[]args){System.out.println("NumbersWithRepeatedDigits works\n");}}

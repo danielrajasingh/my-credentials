@@ -1,0 +1,1 @@
+package easy;public class DecodeXoredArray{public static void main(String[]args){System.out.println("DecodeXoredArray works\n");}}

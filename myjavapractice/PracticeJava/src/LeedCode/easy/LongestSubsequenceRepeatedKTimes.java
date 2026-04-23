@@ -1,0 +1,1 @@
+package easy;public class LongestSubsequenceRepeatedKTimes{public static void main(String[]args){System.out.println("LongestSubsequenceRepeatedKTimes works\n");}}

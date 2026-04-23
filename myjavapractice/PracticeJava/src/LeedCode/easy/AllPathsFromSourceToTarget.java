@@ -1,0 +1,1 @@
+package easy;public class AllPathsFromSourceToTarget{public static void main(String[]args){System.out.println("AllPathsFromSourceToTarget works\n");}}

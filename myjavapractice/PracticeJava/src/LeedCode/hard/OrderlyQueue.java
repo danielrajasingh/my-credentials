@@ -1,0 +1,1 @@
+package hard;public class OrderlyQueue{public static void main(String[]args){System.out.println("OrderlyQueue works\n");}}

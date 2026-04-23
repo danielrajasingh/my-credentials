@@ -1,0 +1,1 @@
+package hard;public class MinimumDistanceToTheTargetElement{public static void main(String[]args){System.out.println("MinimumDistanceToTheTargetElement works\n");}}

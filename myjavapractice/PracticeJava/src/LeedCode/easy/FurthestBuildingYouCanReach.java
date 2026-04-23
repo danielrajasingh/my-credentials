@@ -1,0 +1,1 @@
+package easy;public class FurthestBuildingYouCanReach{public static void main(String[]args){System.out.println("FurthestBuildingYouCanReach works\n");}}

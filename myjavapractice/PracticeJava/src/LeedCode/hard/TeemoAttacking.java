@@ -1,0 +1,1 @@
+package hard;public class TeemoAttacking{public static void main(String[]args){System.out.println("TeemoAttacking works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class StudentAttendanceRecordI{public static void main(String[]args){System.out.println("StudentAttendanceRecordI works\n");}}

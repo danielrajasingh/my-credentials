@@ -1,0 +1,1 @@
+package medium;public class LinkedListInBinaryTree{public static void main(String[]args){System.out.println("LinkedListInBinaryTree works\n");}}

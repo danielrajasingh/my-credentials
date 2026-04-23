@@ -1,0 +1,1 @@
+package hard;public class WiggleSortIi{public static void main(String[]args){System.out.println("WiggleSortIi works\n");}}

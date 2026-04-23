@@ -1,0 +1,1 @@
+package medium;public class SubdomainVisitCount{public static void main(String[]args){System.out.println("SubdomainVisitCount works\n");}}

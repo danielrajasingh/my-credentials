@@ -1,0 +1,1 @@
+package hard;public class MaximumEqualFrequency{public static void main(String[]args){System.out.println("MaximumEqualFrequency works\n");}}

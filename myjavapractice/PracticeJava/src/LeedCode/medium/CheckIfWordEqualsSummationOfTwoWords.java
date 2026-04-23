@@ -1,0 +1,1 @@
+package medium;public class CheckIfWordEqualsSummationOfTwoWords{public static void main(String[]args){System.out.println("CheckIfWordEqualsSummationOfTwoWords works\n");}}

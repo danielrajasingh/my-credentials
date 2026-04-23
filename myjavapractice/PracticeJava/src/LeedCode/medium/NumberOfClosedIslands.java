@@ -1,0 +1,1 @@
+package medium;public class NumberOfClosedIslands{public static void main(String[]args){System.out.println("NumberOfClosedIslands works\n");}}

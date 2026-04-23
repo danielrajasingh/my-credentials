@@ -1,0 +1,1 @@
+package medium;public class NumberOfEnclaves{public static void main(String[]args){System.out.println("NumberOfEnclaves works\n");}}

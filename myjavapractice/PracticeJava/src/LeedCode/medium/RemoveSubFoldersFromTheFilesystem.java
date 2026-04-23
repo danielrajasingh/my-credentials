@@ -1,0 +1,1 @@
+package medium;public class RemoveSubFoldersFromTheFilesystem{public static void main(String[]args){System.out.println("RemoveSubFoldersFromTheFilesystem works\n");}}

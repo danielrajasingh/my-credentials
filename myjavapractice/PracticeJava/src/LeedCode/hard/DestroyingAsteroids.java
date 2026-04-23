@@ -1,0 +1,1 @@
+package hard;public class DestroyingAsteroids{public static void main(String[]args){System.out.println("DestroyingAsteroids works\n");}}

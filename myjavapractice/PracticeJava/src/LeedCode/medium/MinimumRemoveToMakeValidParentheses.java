@@ -1,0 +1,1 @@
+package medium;public class MinimumRemoveToMakeValidParentheses{public static void main(String[]args){System.out.println("MinimumRemoveToMakeValidParentheses works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class KthSmallestNumberInMultiplicationTable{public static void main(String[]args){System.out.println("KthSmallestNumberInMultiplicationTable works\n");}}

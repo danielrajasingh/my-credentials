@@ -1,0 +1,1 @@
+package medium;public class KthAncestorOfATreeNode{public static void main(String[]args){System.out.println("KthAncestorOfATreeNode works\n");}}

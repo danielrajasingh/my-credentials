@@ -1,0 +1,1 @@
+package medium;public class ImageSmoother{public static void main(String[]args){System.out.println("ImageSmoother works\n");}}

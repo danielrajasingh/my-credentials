@@ -1,0 +1,1 @@
+package medium;public class MaximumNumberOfEventsThatCanBeAttendedIi{public static void main(String[]args){System.out.println("MaximumNumberOfEventsThatCanBeAttendedIi works\n");}}

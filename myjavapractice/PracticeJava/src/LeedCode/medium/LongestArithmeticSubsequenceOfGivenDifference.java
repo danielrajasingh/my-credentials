@@ -1,0 +1,1 @@
+package medium;public class LongestArithmeticSubsequenceOfGivenDifference{public static void main(String[]args){System.out.println("LongestArithmeticSubsequenceOfGivenDifference works\n");}}

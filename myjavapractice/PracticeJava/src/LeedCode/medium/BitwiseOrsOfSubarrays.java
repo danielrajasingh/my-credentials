@@ -1,0 +1,1 @@
+package medium;public class BitwiseOrsOfSubarrays{public static void main(String[]args){System.out.println("BitwiseOrsOfSubarrays works\n");}}

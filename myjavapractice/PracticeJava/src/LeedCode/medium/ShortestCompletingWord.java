@@ -1,0 +1,1 @@
+package medium;public class ShortestCompletingWord{public static void main(String[]args){System.out.println("ShortestCompletingWord works\n");}}

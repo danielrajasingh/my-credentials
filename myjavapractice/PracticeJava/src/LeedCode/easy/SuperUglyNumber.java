@@ -1,0 +1,1 @@
+package easy;public class SuperUglyNumber{public static void main(String[]args){System.out.println("SuperUglyNumber works\n");}}

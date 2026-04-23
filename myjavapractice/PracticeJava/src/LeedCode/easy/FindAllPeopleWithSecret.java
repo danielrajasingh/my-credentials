@@ -1,0 +1,1 @@
+package easy;public class FindAllPeopleWithSecret{public static void main(String[]args){System.out.println("FindAllPeopleWithSecret works\n");}}

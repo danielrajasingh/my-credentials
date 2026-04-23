@@ -1,0 +1,1 @@
+package hard;public class CheckingExistenceOfEdgeLengthLimitedPaths{public static void main(String[]args){System.out.println("CheckingExistenceOfEdgeLengthLimitedPaths works\n");}}

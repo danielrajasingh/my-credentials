@@ -1,0 +1,1 @@
+package medium;public class HandOfStraights{public static void main(String[]args){System.out.println("HandOfStraights works\n");}}

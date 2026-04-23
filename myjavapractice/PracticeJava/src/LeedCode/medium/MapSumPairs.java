@@ -1,0 +1,1 @@
+package medium;public class MapSumPairs{public static void main(String[]args){System.out.println("MapSumPairs works\n");}}

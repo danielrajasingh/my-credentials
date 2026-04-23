@@ -1,0 +1,1 @@
+package medium;public class NthMagicalNumber{public static void main(String[]args){System.out.println("NthMagicalNumber works\n");}}

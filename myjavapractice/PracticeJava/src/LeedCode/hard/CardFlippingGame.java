@@ -1,0 +1,1 @@
+package hard;public class CardFlippingGame{public static void main(String[]args){System.out.println("CardFlippingGame works\n");}}

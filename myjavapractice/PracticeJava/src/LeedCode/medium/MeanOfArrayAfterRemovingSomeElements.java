@@ -1,0 +1,1 @@
+package medium;public class MeanOfArrayAfterRemovingSomeElements{public static void main(String[]args){System.out.println("MeanOfArrayAfterRemovingSomeElements works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class DetectCapital{public static void main(String[]args){System.out.println("DetectCapital works\n");}}

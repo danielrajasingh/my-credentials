@@ -1,0 +1,1 @@
+package medium;public class LeastOperatorsToExpressNumber{public static void main(String[]args){System.out.println("LeastOperatorsToExpressNumber works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class CountPairsOfNodes{public static void main(String[]args){System.out.println("CountPairsOfNodes works\n");}}

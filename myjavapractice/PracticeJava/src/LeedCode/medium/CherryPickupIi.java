@@ -1,0 +1,1 @@
+package medium;public class CherryPickupIi{public static void main(String[]args){System.out.println("CherryPickupIi works\n");}}

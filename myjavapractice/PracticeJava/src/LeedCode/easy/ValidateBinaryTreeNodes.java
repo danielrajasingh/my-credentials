@@ -1,0 +1,1 @@
+package easy;public class ValidateBinaryTreeNodes{public static void main(String[]args){System.out.println("ValidateBinaryTreeNodes works\n");}}

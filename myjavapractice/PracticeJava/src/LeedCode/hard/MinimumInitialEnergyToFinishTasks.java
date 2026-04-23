@@ -1,0 +1,1 @@
+package hard;public class MinimumInitialEnergyToFinishTasks{public static void main(String[]args){System.out.println("MinimumInitialEnergyToFinishTasks works\n");}}

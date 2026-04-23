@@ -1,0 +1,1 @@
+package easy;public class StampingTheSequence{public static void main(String[]args){System.out.println("StampingTheSequence works\n");}}

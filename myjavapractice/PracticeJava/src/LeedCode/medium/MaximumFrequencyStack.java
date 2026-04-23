@@ -1,0 +1,1 @@
+package medium;public class MaximumFrequencyStack{public static void main(String[]args){System.out.println("MaximumFrequencyStack works\n");}}

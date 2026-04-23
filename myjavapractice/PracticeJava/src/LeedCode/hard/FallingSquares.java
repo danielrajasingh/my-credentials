@@ -1,0 +1,1 @@
+package hard;public class FallingSquares{public static void main(String[]args){System.out.println("FallingSquares works\n");}}

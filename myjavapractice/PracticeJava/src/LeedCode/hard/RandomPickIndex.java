@@ -1,0 +1,1 @@
+package hard;public class RandomPickIndex{public static void main(String[]args){System.out.println("RandomPickIndex works\n");}}

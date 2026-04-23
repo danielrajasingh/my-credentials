@@ -1,0 +1,1 @@
+package easy;public class SimpleBankSystem{public static void main(String[]args){System.out.println("SimpleBankSystem works\n");}}

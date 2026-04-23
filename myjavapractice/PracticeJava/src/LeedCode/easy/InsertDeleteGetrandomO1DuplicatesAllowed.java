@@ -1,0 +1,1 @@
+package easy;public class InsertDeleteGetrandomO1DuplicatesAllowed{public static void main(String[]args){System.out.println("InsertDeleteGetrandomO1DuplicatesAllowed works\n");}}

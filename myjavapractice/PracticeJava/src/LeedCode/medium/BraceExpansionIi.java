@@ -1,0 +1,1 @@
+package medium;public class BraceExpansionIi{public static void main(String[]args){System.out.println("BraceExpansionIi works\n");}}

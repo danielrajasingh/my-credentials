@@ -1,0 +1,1 @@
+package hard;public class IncreasingSubsequences{public static void main(String[]args){System.out.println("IncreasingSubsequences works\n");}}

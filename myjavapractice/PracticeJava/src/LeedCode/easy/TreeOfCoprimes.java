@@ -1,0 +1,1 @@
+package easy;public class TreeOfCoprimes{public static void main(String[]args){System.out.println("TreeOfCoprimes works\n");}}

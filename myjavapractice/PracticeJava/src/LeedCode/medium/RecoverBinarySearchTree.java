@@ -1,0 +1,1 @@
+package medium;public class RecoverBinarySearchTree{public static void main(String[]args){System.out.println("RecoverBinarySearchTree works\n");}}

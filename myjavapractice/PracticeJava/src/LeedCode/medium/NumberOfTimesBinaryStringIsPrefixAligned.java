@@ -1,0 +1,1 @@
+package medium;public class NumberOfTimesBinaryStringIsPrefixAligned{public static void main(String[]args){System.out.println("NumberOfTimesBinaryStringIsPrefixAligned works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MergeBstsToCreateSingleBst{public static void main(String[]args){System.out.println("MergeBstsToCreateSingleBst works\n");}}

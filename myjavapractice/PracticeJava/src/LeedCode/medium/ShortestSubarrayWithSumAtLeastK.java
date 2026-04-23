@@ -1,0 +1,1 @@
+package medium;public class ShortestSubarrayWithSumAtLeastK{public static void main(String[]args){System.out.println("ShortestSubarrayWithSumAtLeastK works\n");}}

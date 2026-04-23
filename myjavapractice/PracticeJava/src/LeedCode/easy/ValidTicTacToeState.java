@@ -1,0 +1,1 @@
+package easy;public class ValidTicTacToeState{public static void main(String[]args){System.out.println("ValidTicTacToeState works\n");}}

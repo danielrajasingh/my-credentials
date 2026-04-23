@@ -1,0 +1,1 @@
+package easy;public class NextGreaterNodeInLinkedList{public static void main(String[]args){System.out.println("NextGreaterNodeInLinkedList works\n");}}

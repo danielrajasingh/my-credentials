@@ -1,0 +1,1 @@
+package medium;public class NumberOfVisiblePeopleInAQueue{public static void main(String[]args){System.out.println("NumberOfVisiblePeopleInAQueue works\n");}}

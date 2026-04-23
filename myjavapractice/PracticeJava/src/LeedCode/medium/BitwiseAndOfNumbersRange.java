@@ -1,0 +1,1 @@
+package medium;public class BitwiseAndOfNumbersRange{public static void main(String[]args){System.out.println("BitwiseAndOfNumbersRange works\n");}}

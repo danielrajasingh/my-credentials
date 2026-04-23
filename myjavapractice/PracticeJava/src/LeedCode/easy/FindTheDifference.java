@@ -1,0 +1,1 @@
+package easy;public class FindTheDifference{public static void main(String[]args){System.out.println("FindTheDifference works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class AllocateMailboxes{public static void main(String[]args){System.out.println("AllocateMailboxes works\n");}}

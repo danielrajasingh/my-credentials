@@ -1,0 +1,1 @@
+package medium;public class FrogPositionAfterTSeconds{public static void main(String[]args){System.out.println("FrogPositionAfterTSeconds works\n");}}

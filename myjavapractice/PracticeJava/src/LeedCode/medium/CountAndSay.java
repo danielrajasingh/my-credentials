@@ -1,0 +1,1 @@
+package medium;public class CountAndSay{public static void main(String[]args){System.out.println("CountAndSay works\n");}}

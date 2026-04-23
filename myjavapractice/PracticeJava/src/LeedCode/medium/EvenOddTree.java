@@ -1,0 +1,1 @@
+package medium;public class EvenOddTree{public static void main(String[]args){System.out.println("EvenOddTree works\n");}}

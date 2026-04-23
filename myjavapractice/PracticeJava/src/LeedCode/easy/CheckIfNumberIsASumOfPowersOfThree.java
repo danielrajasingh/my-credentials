@@ -1,0 +1,1 @@
+package easy;public class CheckIfNumberIsASumOfPowersOfThree{public static void main(String[]args){System.out.println("CheckIfNumberIsASumOfPowersOfThree works\n");}}

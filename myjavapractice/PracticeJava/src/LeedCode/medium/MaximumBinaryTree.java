@@ -1,0 +1,1 @@
+package medium;public class MaximumBinaryTree{public static void main(String[]args){System.out.println("MaximumBinaryTree works\n");}}

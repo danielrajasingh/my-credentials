@@ -1,0 +1,1 @@
+package medium;public class FindAllAnagramsInAString{public static void main(String[]args){System.out.println("FindAllAnagramsInAString works\n");}}

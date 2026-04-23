@@ -1,0 +1,1 @@
+package medium;public class AmbiguousCoordinates{public static void main(String[]args){System.out.println("AmbiguousCoordinates works\n");}}

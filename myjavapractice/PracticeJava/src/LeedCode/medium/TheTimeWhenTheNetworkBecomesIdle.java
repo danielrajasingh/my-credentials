@@ -1,0 +1,1 @@
+package medium;public class TheTimeWhenTheNetworkBecomesIdle{public static void main(String[]args){System.out.println("TheTimeWhenTheNetworkBecomesIdle works\n");}}

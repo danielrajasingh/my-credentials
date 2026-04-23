@@ -1,0 +1,1 @@
+package medium;public class MinimumMovesToEqualArrayElements{public static void main(String[]args){System.out.println("MinimumMovesToEqualArrayElements works\n");}}

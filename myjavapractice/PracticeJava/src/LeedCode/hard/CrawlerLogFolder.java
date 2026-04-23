@@ -1,0 +1,1 @@
+package hard;public class CrawlerLogFolder{public static void main(String[]args){System.out.println("CrawlerLogFolder works\n");}}

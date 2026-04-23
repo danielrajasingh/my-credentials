@@ -1,0 +1,1 @@
+package hard;public class MinimumIndexSumOfTwoLists{public static void main(String[]args){System.out.println("MinimumIndexSumOfTwoLists works\n");}}

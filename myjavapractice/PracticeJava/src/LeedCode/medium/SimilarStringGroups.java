@@ -1,0 +1,1 @@
+package medium;public class SimilarStringGroups{public static void main(String[]args){System.out.println("SimilarStringGroups works\n");}}

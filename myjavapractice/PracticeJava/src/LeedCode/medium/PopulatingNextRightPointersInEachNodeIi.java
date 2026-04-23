@@ -1,0 +1,1 @@
+package medium;public class PopulatingNextRightPointersInEachNodeIi{public static void main(String[]args){System.out.println("PopulatingNextRightPointersInEachNodeIi works\n");}}

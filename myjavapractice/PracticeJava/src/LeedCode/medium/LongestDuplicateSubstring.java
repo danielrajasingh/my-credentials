@@ -1,0 +1,1 @@
+package medium;public class LongestDuplicateSubstring{public static void main(String[]args){System.out.println("LongestDuplicateSubstring works\n");}}

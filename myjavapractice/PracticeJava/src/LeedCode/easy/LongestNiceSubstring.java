@@ -1,0 +1,1 @@
+package easy;public class LongestNiceSubstring{public static void main(String[]args){System.out.println("LongestNiceSubstring works\n");}}

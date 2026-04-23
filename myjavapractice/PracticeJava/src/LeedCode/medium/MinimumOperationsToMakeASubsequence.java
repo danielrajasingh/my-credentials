@@ -1,0 +1,1 @@
+package medium;public class MinimumOperationsToMakeASubsequence{public static void main(String[]args){System.out.println("MinimumOperationsToMakeASubsequence works\n");}}

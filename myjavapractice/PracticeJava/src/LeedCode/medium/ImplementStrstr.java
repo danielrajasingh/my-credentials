@@ -1,0 +1,1 @@
+package medium;public class ImplementStrstr{public static void main(String[]args){System.out.println("ImplementStrstr works\n");}}

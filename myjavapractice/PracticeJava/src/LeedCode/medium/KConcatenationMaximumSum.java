@@ -1,0 +1,1 @@
+package medium;public class KConcatenationMaximumSum{public static void main(String[]args){System.out.println("KConcatenationMaximumSum works\n");}}

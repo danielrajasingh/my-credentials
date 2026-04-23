@@ -1,0 +1,1 @@
+package medium;public class RelativeSortArray{public static void main(String[]args){System.out.println("RelativeSortArray works\n");}}

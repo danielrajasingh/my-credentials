@@ -1,0 +1,1 @@
+package medium;public class AccountsMerge{public static void main(String[]args){System.out.println("AccountsMerge works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class BackspaceStringCompare{public static void main(String[]args){System.out.println("BackspaceStringCompare works\n");}}

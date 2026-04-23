@@ -1,0 +1,1 @@
+package medium;public class NumberOfDifferentSubsequencesGcds{public static void main(String[]args){System.out.println("NumberOfDifferentSubsequencesGcds works\n");}}

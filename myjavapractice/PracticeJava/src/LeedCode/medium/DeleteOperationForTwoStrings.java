@@ -1,0 +1,1 @@
+package medium;public class DeleteOperationForTwoStrings{public static void main(String[]args){System.out.println("DeleteOperationForTwoStrings works\n");}}

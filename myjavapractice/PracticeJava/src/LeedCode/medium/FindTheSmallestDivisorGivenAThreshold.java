@@ -1,0 +1,1 @@
+package medium;public class FindTheSmallestDivisorGivenAThreshold{public static void main(String[]args){System.out.println("FindTheSmallestDivisorGivenAThreshold works\n");}}

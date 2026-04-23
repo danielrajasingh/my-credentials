@@ -1,0 +1,1 @@
+package hard;public class ConstructTheRectangle{public static void main(String[]args){System.out.println("ConstructTheRectangle works\n");}}

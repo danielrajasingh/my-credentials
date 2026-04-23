@@ -1,0 +1,1 @@
+package medium;public class AddTwoNumbersIi{public static void main(String[]args){System.out.println("AddTwoNumbersIi works\n");}}

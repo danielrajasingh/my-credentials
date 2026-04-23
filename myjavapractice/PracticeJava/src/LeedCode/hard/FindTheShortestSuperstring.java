@@ -1,0 +1,1 @@
+package hard;public class FindTheShortestSuperstring{public static void main(String[]args){System.out.println("FindTheShortestSuperstring works\n");}}

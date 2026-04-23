@@ -1,0 +1,1 @@
+package easy;public class RingsAndRods{public static void main(String[]args){System.out.println("RingsAndRods works\n");}}

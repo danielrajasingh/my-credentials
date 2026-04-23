@@ -1,0 +1,1 @@
+package easy;public class MaxDotProductOfTwoSubsequences{public static void main(String[]args){System.out.println("MaxDotProductOfTwoSubsequences works\n");}}

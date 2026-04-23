@@ -1,0 +1,1 @@
+package easy;public class ProcessRestrictedFriendRequests{public static void main(String[]args){System.out.println("ProcessRestrictedFriendRequests works\n");}}

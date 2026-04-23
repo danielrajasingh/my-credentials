@@ -1,0 +1,1 @@
+package hard;public class LetterTilePossibilities{public static void main(String[]args){System.out.println("LetterTilePossibilities works\n");}}

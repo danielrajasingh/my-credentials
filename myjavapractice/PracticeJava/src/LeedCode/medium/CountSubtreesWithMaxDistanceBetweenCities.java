@@ -1,0 +1,1 @@
+package medium;public class CountSubtreesWithMaxDistanceBetweenCities{public static void main(String[]args){System.out.println("CountSubtreesWithMaxDistanceBetweenCities works\n");}}

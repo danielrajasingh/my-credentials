@@ -1,0 +1,1 @@
+package easy;public class GcdSortOfAnArray{public static void main(String[]args){System.out.println("GcdSortOfAnArray works\n");}}

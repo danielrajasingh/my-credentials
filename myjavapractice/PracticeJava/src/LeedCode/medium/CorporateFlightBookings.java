@@ -1,0 +1,1 @@
+package medium;public class CorporateFlightBookings{public static void main(String[]args){System.out.println("CorporateFlightBookings works\n");}}

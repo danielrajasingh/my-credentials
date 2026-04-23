@@ -1,0 +1,1 @@
+package medium;public class IncreasingDecreasingString{public static void main(String[]args){System.out.println("IncreasingDecreasingString works\n");}}

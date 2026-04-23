@@ -1,0 +1,1 @@
+package hard;public class RandomPickWithWeight{public static void main(String[]args){System.out.println("RandomPickWithWeight works\n");}}

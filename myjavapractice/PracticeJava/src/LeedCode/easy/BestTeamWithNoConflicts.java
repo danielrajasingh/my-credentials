@@ -1,0 +1,1 @@
+package easy;public class BestTeamWithNoConflicts{public static void main(String[]args){System.out.println("BestTeamWithNoConflicts works\n");}}

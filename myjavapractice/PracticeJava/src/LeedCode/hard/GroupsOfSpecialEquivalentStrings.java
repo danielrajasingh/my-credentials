@@ -1,0 +1,1 @@
+package hard;public class GroupsOfSpecialEquivalentStrings{public static void main(String[]args){System.out.println("GroupsOfSpecialEquivalentStrings works\n");}}

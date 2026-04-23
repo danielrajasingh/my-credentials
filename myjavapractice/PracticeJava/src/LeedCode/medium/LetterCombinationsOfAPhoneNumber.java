@@ -1,0 +1,1 @@
+package medium;public class LetterCombinationsOfAPhoneNumber{public static void main(String[]args){System.out.println("LetterCombinationsOfAPhoneNumber works\n");}}

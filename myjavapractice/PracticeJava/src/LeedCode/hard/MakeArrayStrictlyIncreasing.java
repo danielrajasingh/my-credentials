@@ -1,0 +1,1 @@
+package hard;public class MakeArrayStrictlyIncreasing{public static void main(String[]args){System.out.println("MakeArrayStrictlyIncreasing works\n");}}

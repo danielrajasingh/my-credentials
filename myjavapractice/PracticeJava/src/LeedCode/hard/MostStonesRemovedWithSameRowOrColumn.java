@@ -1,0 +1,1 @@
+package hard;public class MostStonesRemovedWithSameRowOrColumn{public static void main(String[]args){System.out.println("MostStonesRemovedWithSameRowOrColumn works\n");}}

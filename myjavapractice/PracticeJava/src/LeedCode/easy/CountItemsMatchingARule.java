@@ -1,0 +1,1 @@
+package easy;public class CountItemsMatchingARule{public static void main(String[]args){System.out.println("CountItemsMatchingARule works\n");}}

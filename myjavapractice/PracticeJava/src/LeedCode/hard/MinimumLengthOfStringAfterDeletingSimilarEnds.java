@@ -1,0 +1,1 @@
+package hard;public class MinimumLengthOfStringAfterDeletingSimilarEnds{public static void main(String[]args){System.out.println("MinimumLengthOfStringAfterDeletingSimilarEnds works\n");}}

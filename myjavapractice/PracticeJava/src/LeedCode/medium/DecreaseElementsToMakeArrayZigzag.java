@@ -1,0 +1,1 @@
+package medium;public class DecreaseElementsToMakeArrayZigzag{public static void main(String[]args){System.out.println("DecreaseElementsToMakeArrayZigzag works\n");}}

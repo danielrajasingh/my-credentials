@@ -1,0 +1,1 @@
+package easy;public class FindAllGoodStrings{public static void main(String[]args){System.out.println("FindAllGoodStrings works\n");}}

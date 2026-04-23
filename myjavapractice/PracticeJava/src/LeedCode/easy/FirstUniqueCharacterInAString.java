@@ -1,0 +1,1 @@
+package easy;public class FirstUniqueCharacterInAString{public static void main(String[]args){System.out.println("FirstUniqueCharacterInAString works\n");}}

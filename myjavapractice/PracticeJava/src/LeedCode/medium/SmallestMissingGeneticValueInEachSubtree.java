@@ -1,0 +1,1 @@
+package medium;public class SmallestMissingGeneticValueInEachSubtree{public static void main(String[]args){System.out.println("SmallestMissingGeneticValueInEachSubtree works\n");}}

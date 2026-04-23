@@ -1,0 +1,1 @@
+package hard;public class CatAndMouseIi{public static void main(String[]args){System.out.println("CatAndMouseIi works\n");}}

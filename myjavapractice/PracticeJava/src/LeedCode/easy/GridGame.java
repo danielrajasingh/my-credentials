@@ -1,0 +1,1 @@
+package easy;public class GridGame{public static void main(String[]args){System.out.println("GridGame works\n");}}

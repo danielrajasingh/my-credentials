@@ -1,0 +1,1 @@
+package easy;public class SmallestRotationWithHighestScore{public static void main(String[]args){System.out.println("SmallestRotationWithHighestScore works\n");}}

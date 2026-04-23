@@ -1,0 +1,1 @@
+package medium;public class CountWaysToMakeArrayWithProduct{public static void main(String[]args){System.out.println("CountWaysToMakeArrayWithProduct works\n");}}

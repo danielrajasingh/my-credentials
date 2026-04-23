@@ -1,0 +1,1 @@
+package medium;public class CouplesHoldingHands{public static void main(String[]args){System.out.println("CouplesHoldingHands works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class DetermineIfTwoStringsAreClose{public static void main(String[]args){System.out.println("DetermineIfTwoStringsAreClose works\n");}}

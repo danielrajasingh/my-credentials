@@ -1,0 +1,1 @@
+package medium;public class ConstructStringFromBinaryTree{public static void main(String[]args){System.out.println("ConstructStringFromBinaryTree works\n");}}

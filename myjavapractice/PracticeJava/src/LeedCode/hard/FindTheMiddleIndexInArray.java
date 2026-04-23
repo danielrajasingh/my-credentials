@@ -1,0 +1,1 @@
+package hard;public class FindTheMiddleIndexInArray{public static void main(String[]args){System.out.println("FindTheMiddleIndexInArray works\n");}}

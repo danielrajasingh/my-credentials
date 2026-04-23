@@ -1,0 +1,1 @@
+package easy;public class RandomFlipMatrix{public static void main(String[]args){System.out.println("RandomFlipMatrix works\n");}}

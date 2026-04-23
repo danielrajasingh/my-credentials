@@ -1,0 +1,1 @@
+package hard;public class MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses{public static void main(String[]args){System.out.println("MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses works\n");}}

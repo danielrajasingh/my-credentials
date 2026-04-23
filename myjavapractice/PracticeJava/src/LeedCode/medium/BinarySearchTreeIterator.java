@@ -1,0 +1,1 @@
+package medium;public class BinarySearchTreeIterator{public static void main(String[]args){System.out.println("BinarySearchTreeIterator works\n");}}

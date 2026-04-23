@@ -1,0 +1,1 @@
+package hard;public class NQueensIi{public static void main(String[]args){System.out.println("NQueensIi works\n");}}

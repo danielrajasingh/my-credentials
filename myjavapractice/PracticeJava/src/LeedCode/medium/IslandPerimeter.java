@@ -1,0 +1,1 @@
+package medium;public class IslandPerimeter{public static void main(String[]args){System.out.println("IslandPerimeter works\n");}}

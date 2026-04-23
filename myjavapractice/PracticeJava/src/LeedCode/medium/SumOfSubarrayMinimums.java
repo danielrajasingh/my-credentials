@@ -1,0 +1,1 @@
+package medium;public class SumOfSubarrayMinimums{public static void main(String[]args){System.out.println("SumOfSubarrayMinimums works\n");}}

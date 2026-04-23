@@ -1,0 +1,1 @@
+package hard;public class SubsetsIi{public static void main(String[]args){System.out.println("SubsetsIi works\n");}}

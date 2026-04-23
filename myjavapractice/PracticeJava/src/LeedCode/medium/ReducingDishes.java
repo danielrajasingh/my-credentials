@@ -1,0 +1,1 @@
+package medium;public class ReducingDishes{public static void main(String[]args){System.out.println("ReducingDishes works\n");}}

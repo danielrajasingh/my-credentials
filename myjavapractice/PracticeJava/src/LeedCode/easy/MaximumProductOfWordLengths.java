@@ -1,0 +1,1 @@
+package easy;public class MaximumProductOfWordLengths{public static void main(String[]args){System.out.println("MaximumProductOfWordLengths works\n");}}

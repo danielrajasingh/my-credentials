@@ -1,0 +1,1 @@
+package medium;public class MaximumProductDifferenceBetweenTwoPairs{public static void main(String[]args){System.out.println("MaximumProductDifferenceBetweenTwoPairs works\n");}}

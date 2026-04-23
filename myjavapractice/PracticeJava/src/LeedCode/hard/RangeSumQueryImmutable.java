@@ -1,0 +1,1 @@
+package hard;public class RangeSumQueryImmutable{public static void main(String[]args){System.out.println("RangeSumQueryImmutable works\n");}}

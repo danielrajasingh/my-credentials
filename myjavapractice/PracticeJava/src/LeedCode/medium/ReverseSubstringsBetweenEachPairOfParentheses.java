@@ -1,0 +1,1 @@
+package medium;public class ReverseSubstringsBetweenEachPairOfParentheses{public static void main(String[]args){System.out.println("ReverseSubstringsBetweenEachPairOfParentheses works\n");}}

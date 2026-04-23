@@ -1,0 +1,1 @@
+package medium;public class SumOfNodesWithEvenValuedGrandparent{public static void main(String[]args){System.out.println("SumOfNodesWithEvenValuedGrandparent works\n");}}

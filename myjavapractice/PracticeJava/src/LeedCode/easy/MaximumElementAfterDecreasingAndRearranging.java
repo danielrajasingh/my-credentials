@@ -1,0 +1,1 @@
+package easy;public class MaximumElementAfterDecreasingAndRearranging{public static void main(String[]args){System.out.println("MaximumElementAfterDecreasingAndRearranging works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class LexicographicallySmallestStringAfterApplyingOperations{public static void main(String[]args){System.out.println("LexicographicallySmallestStringAfterApplyingOperations works\n");}}

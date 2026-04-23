@@ -1,0 +1,1 @@
+package medium;public class LargestTimeForGivenDigits{public static void main(String[]args){System.out.println("LargestTimeForGivenDigits works\n");}}

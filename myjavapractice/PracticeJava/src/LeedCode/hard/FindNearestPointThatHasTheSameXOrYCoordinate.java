@@ -1,0 +1,1 @@
+package hard;public class FindNearestPointThatHasTheSameXOrYCoordinate{public static void main(String[]args){System.out.println("FindNearestPointThatHasTheSameXOrYCoordinate works\n");}}

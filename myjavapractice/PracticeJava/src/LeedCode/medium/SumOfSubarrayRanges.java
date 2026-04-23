@@ -1,0 +1,1 @@
+package medium;public class SumOfSubarrayRanges{public static void main(String[]args){System.out.println("SumOfSubarrayRanges works\n");}}

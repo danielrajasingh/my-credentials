@@ -1,0 +1,1 @@
+package medium;public class BinaryTreesWithFactors{public static void main(String[]args){System.out.println("BinaryTreesWithFactors works\n");}}

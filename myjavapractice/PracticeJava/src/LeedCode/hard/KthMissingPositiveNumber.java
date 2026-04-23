@@ -1,0 +1,1 @@
+package hard;public class KthMissingPositiveNumber{public static void main(String[]args){System.out.println("KthMissingPositiveNumber works\n");}}

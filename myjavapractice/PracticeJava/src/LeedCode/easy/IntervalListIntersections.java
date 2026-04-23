@@ -1,0 +1,1 @@
+package easy;public class IntervalListIntersections{public static void main(String[]args){System.out.println("IntervalListIntersections works\n");}}

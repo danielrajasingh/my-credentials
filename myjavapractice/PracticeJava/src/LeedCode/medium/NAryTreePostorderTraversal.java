@@ -1,0 +1,1 @@
+package medium;public class NAryTreePostorderTraversal{public static void main(String[]args){System.out.println("NAryTreePostorderTraversal works\n");}}

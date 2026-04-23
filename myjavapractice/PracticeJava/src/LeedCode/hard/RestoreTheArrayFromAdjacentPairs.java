@@ -1,0 +1,1 @@
+package hard;public class RestoreTheArrayFromAdjacentPairs{public static void main(String[]args){System.out.println("RestoreTheArrayFromAdjacentPairs works\n");}}

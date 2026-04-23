@@ -1,0 +1,1 @@
+package medium;public class CountSquareSubmatricesWithAllOnes{public static void main(String[]args){System.out.println("CountSquareSubmatricesWithAllOnes works\n");}}

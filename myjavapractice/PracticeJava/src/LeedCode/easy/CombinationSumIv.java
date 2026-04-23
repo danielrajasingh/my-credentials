@@ -1,0 +1,1 @@
+package easy;public class CombinationSumIv{public static void main(String[]args){System.out.println("CombinationSumIv works\n");}}

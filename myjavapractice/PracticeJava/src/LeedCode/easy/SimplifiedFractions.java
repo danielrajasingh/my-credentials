@@ -1,0 +1,1 @@
+package easy;public class SimplifiedFractions{public static void main(String[]args){System.out.println("SimplifiedFractions works\n");}}

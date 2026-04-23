@@ -1,0 +1,1 @@
+package hard;public class MaximumBinaryStringAfterChange{public static void main(String[]args){System.out.println("MaximumBinaryStringAfterChange works\n");}}

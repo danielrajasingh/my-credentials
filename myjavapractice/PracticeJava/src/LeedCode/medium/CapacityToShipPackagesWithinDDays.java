@@ -1,0 +1,1 @@
+package medium;public class CapacityToShipPackagesWithinDDays{public static void main(String[]args){System.out.println("CapacityToShipPackagesWithinDDays works\n");}}

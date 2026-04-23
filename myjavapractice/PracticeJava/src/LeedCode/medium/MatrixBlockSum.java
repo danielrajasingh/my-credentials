@@ -1,0 +1,1 @@
+package medium;public class MatrixBlockSum{public static void main(String[]args){System.out.println("MatrixBlockSum works\n");}}

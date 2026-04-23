@@ -1,0 +1,1 @@
+package medium;public class ShortestSubarrayToBeRemovedToMakeArraySorted{public static void main(String[]args){System.out.println("ShortestSubarrayToBeRemovedToMakeArraySorted works\n");}}

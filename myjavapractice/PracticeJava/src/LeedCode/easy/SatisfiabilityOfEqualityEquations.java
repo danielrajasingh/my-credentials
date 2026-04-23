@@ -1,0 +1,1 @@
+package easy;public class SatisfiabilityOfEqualityEquations{public static void main(String[]args){System.out.println("SatisfiabilityOfEqualityEquations works\n");}}

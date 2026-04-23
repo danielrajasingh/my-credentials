@@ -1,0 +1,1 @@
+package hard;public class MaximizeScoreAfterNOperations{public static void main(String[]args){System.out.println("MaximizeScoreAfterNOperations works\n");}}

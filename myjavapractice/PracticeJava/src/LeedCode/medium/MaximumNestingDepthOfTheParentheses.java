@@ -1,0 +1,1 @@
+package medium;public class MaximumNestingDepthOfTheParentheses{public static void main(String[]args){System.out.println("MaximumNestingDepthOfTheParentheses works\n");}}

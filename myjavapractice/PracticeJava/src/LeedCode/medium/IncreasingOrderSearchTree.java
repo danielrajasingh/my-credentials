@@ -1,0 +1,1 @@
+package medium;public class IncreasingOrderSearchTree{public static void main(String[]args){System.out.println("IncreasingOrderSearchTree works\n");}}

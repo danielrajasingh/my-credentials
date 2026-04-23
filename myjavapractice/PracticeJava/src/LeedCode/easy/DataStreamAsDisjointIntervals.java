@@ -1,0 +1,1 @@
+package easy;public class DataStreamAsDisjointIntervals{public static void main(String[]args){System.out.println("DataStreamAsDisjointIntervals works\n");}}

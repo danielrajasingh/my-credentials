@@ -1,0 +1,1 @@
+package easy;public class MinimumInsertionsToBalanceAParenthesesString{public static void main(String[]args){System.out.println("MinimumInsertionsToBalanceAParenthesesString works\n");}}

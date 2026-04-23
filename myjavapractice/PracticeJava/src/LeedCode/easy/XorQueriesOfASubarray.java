@@ -1,0 +1,1 @@
+package easy;public class XorQueriesOfASubarray{public static void main(String[]args){System.out.println("XorQueriesOfASubarray works\n");}}

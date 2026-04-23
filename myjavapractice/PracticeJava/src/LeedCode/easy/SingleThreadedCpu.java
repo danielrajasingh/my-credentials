@@ -1,0 +1,1 @@
+package easy;public class SingleThreadedCpu{public static void main(String[]args){System.out.println("SingleThreadedCpu works\n");}}

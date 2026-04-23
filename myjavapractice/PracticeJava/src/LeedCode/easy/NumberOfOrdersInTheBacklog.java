@@ -1,0 +1,1 @@
+package easy;public class NumberOfOrdersInTheBacklog{public static void main(String[]args){System.out.println("NumberOfOrdersInTheBacklog works\n");}}

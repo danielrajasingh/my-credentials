@@ -1,0 +1,1 @@
+package hard;public class RemoveColoredPiecesIfBothNeighborsAreTheSameColor{public static void main(String[]args){System.out.println("RemoveColoredPiecesIfBothNeighborsAreTheSameColor works\n");}}

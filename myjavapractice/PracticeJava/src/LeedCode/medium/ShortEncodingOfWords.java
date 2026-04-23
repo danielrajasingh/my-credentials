@@ -1,0 +1,1 @@
+package medium;public class ShortEncodingOfWords{public static void main(String[]args){System.out.println("ShortEncodingOfWords works\n");}}

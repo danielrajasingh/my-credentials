@@ -1,0 +1,1 @@
+package easy;public class MaximumUnitsOnATruck{public static void main(String[]args){System.out.println("MaximumUnitsOnATruck works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class MergeTripletsToFormTargetTriplet{public static void main(String[]args){System.out.println("MergeTripletsToFormTargetTriplet works\n");}}

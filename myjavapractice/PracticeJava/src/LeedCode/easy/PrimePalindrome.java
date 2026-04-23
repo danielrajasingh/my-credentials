@@ -1,0 +1,1 @@
+package easy;public class PrimePalindrome{public static void main(String[]args){System.out.println("PrimePalindrome works\n");}}

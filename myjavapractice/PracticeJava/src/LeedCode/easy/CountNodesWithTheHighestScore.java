@@ -1,0 +1,1 @@
+package easy;public class CountNodesWithTheHighestScore{public static void main(String[]args){System.out.println("CountNodesWithTheHighestScore works\n");}}

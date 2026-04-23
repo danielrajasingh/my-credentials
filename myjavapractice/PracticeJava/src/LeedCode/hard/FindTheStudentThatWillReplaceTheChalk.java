@@ -1,0 +1,1 @@
+package hard;public class FindTheStudentThatWillReplaceTheChalk{public static void main(String[]args){System.out.println("FindTheStudentThatWillReplaceTheChalk works\n");}}

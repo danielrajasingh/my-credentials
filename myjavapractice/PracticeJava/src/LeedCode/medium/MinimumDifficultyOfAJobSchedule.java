@@ -1,0 +1,1 @@
+package medium;public class MinimumDifficultyOfAJobSchedule{public static void main(String[]args){System.out.println("MinimumDifficultyOfAJobSchedule works\n");}}

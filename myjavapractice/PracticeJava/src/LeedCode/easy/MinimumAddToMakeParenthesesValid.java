@@ -1,0 +1,1 @@
+package easy;public class MinimumAddToMakeParenthesesValid{public static void main(String[]args){System.out.println("MinimumAddToMakeParenthesesValid works\n");}}

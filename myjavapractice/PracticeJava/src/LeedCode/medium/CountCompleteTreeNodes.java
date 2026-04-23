@@ -1,0 +1,1 @@
+package medium;public class CountCompleteTreeNodes{public static void main(String[]args){System.out.println("CountCompleteTreeNodes works\n");}}

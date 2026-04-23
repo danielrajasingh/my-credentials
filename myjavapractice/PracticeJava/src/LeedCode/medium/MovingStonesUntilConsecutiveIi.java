@@ -1,0 +1,1 @@
+package medium;public class MovingStonesUntilConsecutiveIi{public static void main(String[]args){System.out.println("MovingStonesUntilConsecutiveIi works\n");}}

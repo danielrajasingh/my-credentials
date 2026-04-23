@@ -1,0 +1,1 @@
+package easy;public class MinimumOperationsToMakeTheArrayKIncreasing{public static void main(String[]args){System.out.println("MinimumOperationsToMakeTheArrayKIncreasing works\n");}}

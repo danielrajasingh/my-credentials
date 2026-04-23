@@ -1,0 +1,1 @@
+package medium;public class SwimInRisingWater{public static void main(String[]args){System.out.println("SwimInRisingWater works\n");}}

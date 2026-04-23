@@ -1,0 +1,1 @@
+package medium;public class MaximumNumberOfConsecutiveValuesYouCanMake{public static void main(String[]args){System.out.println("MaximumNumberOfConsecutiveValuesYouCanMake works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class SameTree{static class TreeNode{int val;TreeNode l,r;TreeNode(int v){val=v;}}public static boolean isSameTree(TreeNode p,TreeNode q){if(p==null&&q==null)return true;if(p==null||q==null||p.val!=q.val)return false;return isSameTree(p.l,q.l)&&isSameTree(p.r,q.r);}public static void main(String[]args){System.out.println("Same tree works\n");}}

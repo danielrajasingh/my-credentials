@@ -1,0 +1,1 @@
+package medium;public class InvalidTransactions{public static void main(String[]args){System.out.println("InvalidTransactions works\n");}}

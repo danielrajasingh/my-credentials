@@ -1,0 +1,1 @@
+package hard;public class CountNicePairsInAnArray{public static void main(String[]args){System.out.println("CountNicePairsInAnArray works\n");}}

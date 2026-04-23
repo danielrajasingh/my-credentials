@@ -1,0 +1,1 @@
+package medium;public class NumberOfWaysToSeparateNumbers{public static void main(String[]args){System.out.println("NumberOfWaysToSeparateNumbers works\n");}}

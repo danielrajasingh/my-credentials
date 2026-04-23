@@ -1,0 +1,1 @@
+package easy;public class SortArrayByIncreasingFrequency{public static void main(String[]args){System.out.println("SortArrayByIncreasingFrequency works\n");}}

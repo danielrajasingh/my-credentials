@@ -1,0 +1,1 @@
+package medium;public class MatchsticksToSquare{public static void main(String[]args){System.out.println("MatchsticksToSquare works\n");}}

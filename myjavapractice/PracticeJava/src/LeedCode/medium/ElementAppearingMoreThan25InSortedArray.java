@@ -1,0 +1,1 @@
+package medium;public class ElementAppearingMoreThan25InSortedArray{public static void main(String[]args){System.out.println("ElementAppearingMoreThan25InSortedArray works\n");}}

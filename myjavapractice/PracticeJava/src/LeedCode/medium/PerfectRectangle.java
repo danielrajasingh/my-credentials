@@ -1,0 +1,1 @@
+package medium;public class PerfectRectangle{public static void main(String[]args){System.out.println("PerfectRectangle works\n");}}

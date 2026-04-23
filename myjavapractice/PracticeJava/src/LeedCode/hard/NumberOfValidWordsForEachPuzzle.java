@@ -1,0 +1,1 @@
+package hard;public class NumberOfValidWordsForEachPuzzle{public static void main(String[]args){System.out.println("NumberOfValidWordsForEachPuzzle works\n");}}

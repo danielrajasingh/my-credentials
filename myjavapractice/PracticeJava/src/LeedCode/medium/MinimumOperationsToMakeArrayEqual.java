@@ -1,0 +1,1 @@
+package medium;public class MinimumOperationsToMakeArrayEqual{public static void main(String[]args){System.out.println("MinimumOperationsToMakeArrayEqual works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class ApplyDiscountEveryNOrders{public static void main(String[]args){System.out.println("ApplyDiscountEveryNOrders works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class MostFrequentSubtreeSum{public static void main(String[]args){System.out.println("MostFrequentSubtreeSum works\n");}}

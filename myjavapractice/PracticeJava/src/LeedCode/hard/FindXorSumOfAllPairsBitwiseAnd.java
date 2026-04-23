@@ -1,0 +1,1 @@
+package hard;public class FindXorSumOfAllPairsBitwiseAnd{public static void main(String[]args){System.out.println("FindXorSumOfAllPairsBitwiseAnd works\n");}}

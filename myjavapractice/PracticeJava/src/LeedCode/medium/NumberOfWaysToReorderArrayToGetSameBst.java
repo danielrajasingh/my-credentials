@@ -1,0 +1,1 @@
+package medium;public class NumberOfWaysToReorderArrayToGetSameBst{public static void main(String[]args){System.out.println("NumberOfWaysToReorderArrayToGetSameBst works\n");}}

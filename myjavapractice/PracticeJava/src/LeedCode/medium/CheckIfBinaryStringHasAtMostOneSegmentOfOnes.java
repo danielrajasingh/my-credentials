@@ -1,0 +1,1 @@
+package medium;public class CheckIfBinaryStringHasAtMostOneSegmentOfOnes{public static void main(String[]args){System.out.println("CheckIfBinaryStringHasAtMostOneSegmentOfOnes works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class FindAllPossibleRecipesFromGivenSupplies{public static void main(String[]args){System.out.println("FindAllPossibleRecipesFromGivenSupplies works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class KSimilarStrings{public static void main(String[]args){System.out.println("KSimilarStrings works\n");}}

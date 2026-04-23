@@ -1,0 +1,1 @@
+package easy;public class MonotonicArray{public static void main(String[]args){System.out.println("MonotonicArray works\n");}}

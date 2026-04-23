@@ -1,0 +1,1 @@
+package medium;public class CountPairsWithXorInARange{public static void main(String[]args){System.out.println("CountPairsWithXorInARange works\n");}}

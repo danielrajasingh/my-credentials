@@ -1,0 +1,1 @@
+package hard;public class WordPattern{public static void main(String[]args){System.out.println("WordPattern works\n");}}

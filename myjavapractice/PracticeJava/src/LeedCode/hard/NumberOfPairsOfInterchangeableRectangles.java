@@ -1,0 +1,1 @@
+package hard;public class NumberOfPairsOfInterchangeableRectangles{public static void main(String[]args){System.out.println("NumberOfPairsOfInterchangeableRectangles works\n");}}

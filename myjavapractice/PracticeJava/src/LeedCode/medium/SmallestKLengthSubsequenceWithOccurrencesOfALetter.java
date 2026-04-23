@@ -1,0 +1,1 @@
+package medium;public class SmallestKLengthSubsequenceWithOccurrencesOfALetter{public static void main(String[]args){System.out.println("SmallestKLengthSubsequenceWithOccurrencesOfALetter works\n");}}

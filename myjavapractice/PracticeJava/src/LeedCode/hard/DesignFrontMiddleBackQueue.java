@@ -1,0 +1,1 @@
+package hard;public class DesignFrontMiddleBackQueue{public static void main(String[]args){System.out.println("DesignFrontMiddleBackQueue works\n");}}

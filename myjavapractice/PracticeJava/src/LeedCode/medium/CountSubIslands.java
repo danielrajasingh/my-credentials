@@ -1,0 +1,1 @@
+package medium;public class CountSubIslands{public static void main(String[]args){System.out.println("CountSubIslands works\n");}}

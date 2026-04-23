@@ -1,0 +1,1 @@
+package medium;public class DistributeCoinsInBinaryTree{public static void main(String[]args){System.out.println("DistributeCoinsInBinaryTree works\n");}}

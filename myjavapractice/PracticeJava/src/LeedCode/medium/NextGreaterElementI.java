@@ -1,0 +1,1 @@
+package medium;public class NextGreaterElementI{public static void main(String[]args){System.out.println("NextGreaterElementI works\n");}}

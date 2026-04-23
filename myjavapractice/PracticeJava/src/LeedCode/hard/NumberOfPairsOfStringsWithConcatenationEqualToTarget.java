@@ -1,0 +1,1 @@
+package hard;public class NumberOfPairsOfStringsWithConcatenationEqualToTarget{public static void main(String[]args){System.out.println("NumberOfPairsOfStringsWithConcatenationEqualToTarget works\n");}}

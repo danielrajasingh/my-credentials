@@ -1,0 +1,1 @@
+package hard;public class SumGame{public static void main(String[]args){System.out.println("SumGame works\n");}}

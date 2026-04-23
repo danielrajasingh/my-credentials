@@ -1,0 +1,1 @@
+package medium;public class NumberOfDifferentIntegersInAString{public static void main(String[]args){System.out.println("NumberOfDifferentIntegersInAString works\n");}}

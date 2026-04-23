@@ -1,0 +1,1 @@
+package hard;public class ProjectionAreaOf3dShapes{public static void main(String[]args){System.out.println("ProjectionAreaOf3dShapes works\n");}}

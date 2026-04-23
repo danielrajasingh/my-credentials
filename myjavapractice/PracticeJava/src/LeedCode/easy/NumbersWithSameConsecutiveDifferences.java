@@ -1,0 +1,1 @@
+package easy;public class NumbersWithSameConsecutiveDifferences{public static void main(String[]args){System.out.println("NumbersWithSameConsecutiveDifferences works\n");}}

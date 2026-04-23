@@ -1,0 +1,1 @@
+package hard;public class SpecialBinaryString{public static void main(String[]args){System.out.println("SpecialBinaryString works\n");}}

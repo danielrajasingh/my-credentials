@@ -1,0 +1,1 @@
+package medium;public class RichestCustomerWealth{public static void main(String[]args){System.out.println("RichestCustomerWealth works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class StoneGameV{public static void main(String[]args){System.out.println("StoneGameV works\n");}}

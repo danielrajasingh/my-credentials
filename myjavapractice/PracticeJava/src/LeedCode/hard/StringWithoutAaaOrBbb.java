@@ -1,0 +1,1 @@
+package hard;public class StringWithoutAaaOrBbb{public static void main(String[]args){System.out.println("StringWithoutAaaOrBbb works\n");}}

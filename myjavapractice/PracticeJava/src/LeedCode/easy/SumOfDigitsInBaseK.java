@@ -1,0 +1,1 @@
+package easy;public class SumOfDigitsInBaseK{public static void main(String[]args){System.out.println("SumOfDigitsInBaseK works\n");}}

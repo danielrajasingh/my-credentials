@@ -1,0 +1,1 @@
+package medium;public class PowerfulIntegers{public static void main(String[]args){System.out.println("PowerfulIntegers works\n");}}

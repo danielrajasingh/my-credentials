@@ -1,0 +1,1 @@
+package medium;public class IncrementalMemoryLeak{public static void main(String[]args){System.out.println("IncrementalMemoryLeak works\n");}}

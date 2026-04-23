@@ -1,0 +1,1 @@
+package hard;public class ConcatenationOfConsecutiveBinaryNumbers{public static void main(String[]args){System.out.println("ConcatenationOfConsecutiveBinaryNumbers works\n");}}

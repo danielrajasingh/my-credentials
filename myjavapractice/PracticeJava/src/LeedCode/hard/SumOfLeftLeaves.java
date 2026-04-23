@@ -1,0 +1,1 @@
+package hard;public class SumOfLeftLeaves{public static void main(String[]args){System.out.println("SumOfLeftLeaves works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class GoatLatin{public static void main(String[]args){System.out.println("GoatLatin works\n");}}

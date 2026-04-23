@@ -1,0 +1,1 @@
+package hard;public class UniqueBinarySearchTrees{public static void main(String[]args){System.out.println("UniqueBinarySearchTrees works\n");}}

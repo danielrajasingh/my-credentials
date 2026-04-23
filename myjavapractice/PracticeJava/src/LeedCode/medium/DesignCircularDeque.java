@@ -1,0 +1,1 @@
+package medium;public class DesignCircularDeque{public static void main(String[]args){System.out.println("DesignCircularDeque works\n");}}

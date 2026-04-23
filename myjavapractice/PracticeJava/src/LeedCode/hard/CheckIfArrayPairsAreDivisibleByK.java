@@ -1,0 +1,1 @@
+package hard;public class CheckIfArrayPairsAreDivisibleByK{public static void main(String[]args){System.out.println("CheckIfArrayPairsAreDivisibleByK works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MinimumTimeToCollectAllApplesInATree{public static void main(String[]args){System.out.println("MinimumTimeToCollectAllApplesInATree works\n");}}

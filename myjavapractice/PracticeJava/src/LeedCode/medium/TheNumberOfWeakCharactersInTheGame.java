@@ -1,0 +1,1 @@
+package medium;public class TheNumberOfWeakCharactersInTheGame{public static void main(String[]args){System.out.println("TheNumberOfWeakCharactersInTheGame works\n");}}

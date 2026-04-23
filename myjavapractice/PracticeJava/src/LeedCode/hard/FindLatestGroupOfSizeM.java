@@ -1,0 +1,1 @@
+package hard;public class FindLatestGroupOfSizeM{public static void main(String[]args){System.out.println("FindLatestGroupOfSizeM works\n");}}

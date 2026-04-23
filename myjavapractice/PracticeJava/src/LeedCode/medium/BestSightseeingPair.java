@@ -1,0 +1,1 @@
+package medium;public class BestSightseeingPair{public static void main(String[]args){System.out.println("BestSightseeingPair works\n");}}

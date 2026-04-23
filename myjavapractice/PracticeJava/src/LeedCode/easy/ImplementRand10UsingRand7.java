@@ -1,0 +1,1 @@
+package easy;public class ImplementRand10UsingRand7{public static void main(String[]args){System.out.println("ImplementRand10UsingRand7 works\n");}}

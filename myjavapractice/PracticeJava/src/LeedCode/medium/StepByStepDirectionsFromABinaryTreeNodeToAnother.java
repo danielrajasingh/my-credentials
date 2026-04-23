@@ -1,0 +1,1 @@
+package medium;public class StepByStepDirectionsFromABinaryTreeNodeToAnother{public static void main(String[]args){System.out.println("StepByStepDirectionsFromABinaryTreeNodeToAnother works\n");}}

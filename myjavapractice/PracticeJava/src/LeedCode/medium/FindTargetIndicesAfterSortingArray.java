@@ -1,0 +1,1 @@
+package medium;public class FindTargetIndicesAfterSortingArray{public static void main(String[]args){System.out.println("FindTargetIndicesAfterSortingArray works\n");}}

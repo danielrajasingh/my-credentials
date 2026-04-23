@@ -1,0 +1,1 @@
+package easy;public class CourseScheduleIv{public static void main(String[]args){System.out.println("CourseScheduleIv works\n");}}

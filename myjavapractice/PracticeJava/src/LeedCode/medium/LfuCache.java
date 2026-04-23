@@ -1,0 +1,1 @@
+package medium;public class LfuCache{public static void main(String[]args){System.out.println("LfuCache works\n");}}

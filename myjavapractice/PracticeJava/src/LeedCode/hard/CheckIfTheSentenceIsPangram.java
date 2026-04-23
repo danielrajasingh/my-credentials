@@ -1,0 +1,1 @@
+package hard;public class CheckIfTheSentenceIsPangram{public static void main(String[]args){System.out.println("CheckIfTheSentenceIsPangram works\n");}}

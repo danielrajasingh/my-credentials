@@ -1,0 +1,1 @@
+package medium;public class ExpressiveWords{public static void main(String[]args){System.out.println("ExpressiveWords works\n");}}

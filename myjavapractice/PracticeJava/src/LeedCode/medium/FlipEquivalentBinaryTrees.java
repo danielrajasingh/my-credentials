@@ -1,0 +1,1 @@
+package medium;public class FlipEquivalentBinaryTrees{public static void main(String[]args){System.out.println("FlipEquivalentBinaryTrees works\n");}}

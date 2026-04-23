@@ -1,0 +1,1 @@
+package hard;public class DetonateTheMaximumBombs{public static void main(String[]args){System.out.println("DetonateTheMaximumBombs works\n");}}

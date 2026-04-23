@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfOperationsToMoveAllBallsToEachBox{public static void main(String[]args){System.out.println("MinimumNumberOfOperationsToMoveAllBallsToEachBox works\n");}}

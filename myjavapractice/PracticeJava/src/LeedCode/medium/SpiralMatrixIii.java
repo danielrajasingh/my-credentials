@@ -1,0 +1,1 @@
+package medium;public class SpiralMatrixIii{public static void main(String[]args){System.out.println("SpiralMatrixIii works\n");}}

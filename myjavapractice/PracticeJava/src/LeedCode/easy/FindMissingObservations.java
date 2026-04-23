@@ -1,0 +1,1 @@
+package easy;public class FindMissingObservations{public static void main(String[]args){System.out.println("FindMissingObservations works\n");}}

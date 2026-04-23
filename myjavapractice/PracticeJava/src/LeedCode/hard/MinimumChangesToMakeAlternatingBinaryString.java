@@ -1,0 +1,1 @@
+package hard;public class MinimumChangesToMakeAlternatingBinaryString{public static void main(String[]args){System.out.println("MinimumChangesToMakeAlternatingBinaryString works\n");}}

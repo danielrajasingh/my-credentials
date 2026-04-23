@@ -1,0 +1,1 @@
+package medium;public class FreedomTrail{public static void main(String[]args){System.out.println("FreedomTrail works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class NumberOfSmoothDescentPeriodsOfAStock{public static void main(String[]args){System.out.println("NumberOfSmoothDescentPeriodsOfAStock works\n");}}

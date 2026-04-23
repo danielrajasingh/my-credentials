@@ -1,0 +1,1 @@
+package hard;public class MaximumScoreFromPerformingMultiplicationOperations{public static void main(String[]args){System.out.println("MaximumScoreFromPerformingMultiplicationOperations works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class DistinctSubsequences{public static void main(String[]args){System.out.println("DistinctSubsequences works\n");}}

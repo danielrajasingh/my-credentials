@@ -1,0 +1,1 @@
+package hard;public class PyramidTransitionMatrix{public static void main(String[]args){System.out.println("PyramidTransitionMatrix works\n");}}

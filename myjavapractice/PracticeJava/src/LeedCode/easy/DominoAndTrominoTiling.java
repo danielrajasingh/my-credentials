@@ -1,0 +1,1 @@
+package easy;public class DominoAndTrominoTiling{public static void main(String[]args){System.out.println("DominoAndTrominoTiling works\n");}}

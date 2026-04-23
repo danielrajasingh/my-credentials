@@ -1,0 +1,1 @@
+package medium;public class SoupServings{public static void main(String[]args){System.out.println("SoupServings works\n");}}

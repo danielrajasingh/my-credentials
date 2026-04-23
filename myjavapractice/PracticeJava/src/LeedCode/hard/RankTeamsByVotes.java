@@ -1,0 +1,1 @@
+package hard;public class RankTeamsByVotes{public static void main(String[]args){System.out.println("RankTeamsByVotes works\n");}}

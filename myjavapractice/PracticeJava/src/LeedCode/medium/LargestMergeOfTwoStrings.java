@@ -1,0 +1,1 @@
+package medium;public class LargestMergeOfTwoStrings{public static void main(String[]args){System.out.println("LargestMergeOfTwoStrings works\n");}}

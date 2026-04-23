@@ -1,0 +1,1 @@
+package medium;public class MinimumMovesToConvertString{public static void main(String[]args){System.out.println("MinimumMovesToConvertString works\n");}}

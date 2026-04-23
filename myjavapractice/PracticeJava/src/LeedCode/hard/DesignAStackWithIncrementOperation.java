@@ -1,0 +1,1 @@
+package hard;public class DesignAStackWithIncrementOperation{public static void main(String[]args){System.out.println("DesignAStackWithIncrementOperation works\n");}}

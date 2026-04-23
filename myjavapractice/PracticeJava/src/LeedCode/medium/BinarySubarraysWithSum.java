@@ -1,0 +1,1 @@
+package medium;public class BinarySubarraysWithSum{public static void main(String[]args){System.out.println("BinarySubarraysWithSum works\n");}}

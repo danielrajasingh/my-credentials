@@ -1,0 +1,1 @@
+package medium;public class SquaresOfASortedArray{public static void main(String[]args){System.out.println("SquaresOfASortedArray works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class CountOfMatchesInTournament{public static void main(String[]args){System.out.println("CountOfMatchesInTournament works\n");}}

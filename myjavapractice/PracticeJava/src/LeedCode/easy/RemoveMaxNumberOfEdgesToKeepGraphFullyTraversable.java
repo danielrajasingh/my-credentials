@@ -1,0 +1,1 @@
+package easy;public class RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable{public static void main(String[]args){System.out.println("RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable works\n");}}

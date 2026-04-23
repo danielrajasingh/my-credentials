@@ -1,0 +1,1 @@
+package medium;public class SortArrayByParity{public static void main(String[]args){System.out.println("SortArrayByParity works\n");}}

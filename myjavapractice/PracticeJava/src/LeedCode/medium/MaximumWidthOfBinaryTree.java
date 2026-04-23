@@ -1,0 +1,1 @@
+package medium;public class MaximumWidthOfBinaryTree{public static void main(String[]args){System.out.println("MaximumWidthOfBinaryTree works\n");}}

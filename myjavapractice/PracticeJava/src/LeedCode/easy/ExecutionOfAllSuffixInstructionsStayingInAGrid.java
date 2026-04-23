@@ -1,0 +1,1 @@
+package easy;public class ExecutionOfAllSuffixInstructionsStayingInAGrid{public static void main(String[]args){System.out.println("ExecutionOfAllSuffixInstructionsStayingInAGrid works\n");}}

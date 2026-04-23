@@ -1,0 +1,1 @@
+package medium;public class WaysToSplitArrayIntoThreeSubarrays{public static void main(String[]args){System.out.println("WaysToSplitArrayIntoThreeSubarrays works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class ConstructBinarySearchTreeFromPreorderTraversal{public static void main(String[]args){System.out.println("ConstructBinarySearchTreeFromPreorderTraversal works\n");}}

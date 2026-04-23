@@ -1,0 +1,1 @@
+package easy;public class MaximumErasureValue{public static void main(String[]args){System.out.println("MaximumErasureValue works\n");}}

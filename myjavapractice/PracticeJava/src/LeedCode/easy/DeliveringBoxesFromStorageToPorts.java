@@ -1,0 +1,1 @@
+package easy;public class DeliveringBoxesFromStorageToPorts{public static void main(String[]args){System.out.println("DeliveringBoxesFromStorageToPorts works\n");}}

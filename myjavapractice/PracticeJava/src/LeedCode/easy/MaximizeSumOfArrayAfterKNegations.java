@@ -1,0 +1,1 @@
+package easy;public class MaximizeSumOfArrayAfterKNegations{public static void main(String[]args){System.out.println("MaximizeSumOfArrayAfterKNegations works\n");}}

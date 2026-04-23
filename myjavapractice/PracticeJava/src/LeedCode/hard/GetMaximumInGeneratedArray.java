@@ -1,0 +1,1 @@
+package hard;public class GetMaximumInGeneratedArray{public static void main(String[]args){System.out.println("GetMaximumInGeneratedArray works\n");}}

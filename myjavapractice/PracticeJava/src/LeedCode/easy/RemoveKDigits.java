@@ -1,0 +1,1 @@
+package easy;public class RemoveKDigits{public static void main(String[]args){System.out.println("RemoveKDigits works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class BuildingBoxes{public static void main(String[]args){System.out.println("BuildingBoxes works\n");}}

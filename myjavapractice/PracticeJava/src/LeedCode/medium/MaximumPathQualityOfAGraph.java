@@ -1,0 +1,1 @@
+package medium;public class MaximumPathQualityOfAGraph{public static void main(String[]args){System.out.println("MaximumPathQualityOfAGraph works\n");}}

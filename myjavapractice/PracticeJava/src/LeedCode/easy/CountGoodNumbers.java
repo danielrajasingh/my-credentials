@@ -1,0 +1,1 @@
+package easy;public class CountGoodNumbers{public static void main(String[]args){System.out.println("CountGoodNumbers works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class CheckIfAWordOccursAsAPrefixOfAnyWordInASentence{public static void main(String[]args){System.out.println("CheckIfAWordOccursAsAPrefixOfAnyWordInASentence works\n");}}

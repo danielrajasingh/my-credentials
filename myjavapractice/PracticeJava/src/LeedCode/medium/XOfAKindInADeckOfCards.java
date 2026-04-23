@@ -1,0 +1,1 @@
+package medium;public class XOfAKindInADeckOfCards{public static void main(String[]args){System.out.println("XOfAKindInADeckOfCards works\n");}}

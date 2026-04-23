@@ -1,0 +1,1 @@
+package easy;public class MakeSumDivisibleByP{public static void main(String[]args){System.out.println("MakeSumDivisibleByP works\n");}}

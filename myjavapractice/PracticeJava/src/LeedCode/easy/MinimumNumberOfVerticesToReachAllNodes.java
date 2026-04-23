@@ -1,0 +1,1 @@
+package easy;public class MinimumNumberOfVerticesToReachAllNodes{public static void main(String[]args){System.out.println("MinimumNumberOfVerticesToReachAllNodes works\n");}}

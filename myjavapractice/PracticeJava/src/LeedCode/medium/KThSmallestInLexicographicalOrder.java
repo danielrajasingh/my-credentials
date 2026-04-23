@@ -1,0 +1,1 @@
+package medium;public class KThSmallestInLexicographicalOrder{public static void main(String[]args){System.out.println("KThSmallestInLexicographicalOrder works\n");}}

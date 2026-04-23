@@ -1,0 +1,1 @@
+package hard;public class MinimizeTheDifferenceBetweenTargetAndChosenElements{public static void main(String[]args){System.out.println("MinimizeTheDifferenceBetweenTargetAndChosenElements works\n");}}

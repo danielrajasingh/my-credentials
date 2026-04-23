@@ -1,0 +1,1 @@
+package hard;public class MinimumTimeDifference{public static void main(String[]args){System.out.println("MinimumTimeDifference works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class ReversePairs{public static void main(String[]args){System.out.println("ReversePairs works\n");}}

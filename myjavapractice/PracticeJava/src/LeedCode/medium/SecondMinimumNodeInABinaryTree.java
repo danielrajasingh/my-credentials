@@ -1,0 +1,1 @@
+package medium;public class SecondMinimumNodeInABinaryTree{public static void main(String[]args){System.out.println("SecondMinimumNodeInABinaryTree works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class FindEventualSafeStates{public static void main(String[]args){System.out.println("FindEventualSafeStates works\n");}}

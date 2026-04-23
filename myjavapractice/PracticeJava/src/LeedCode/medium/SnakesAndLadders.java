@@ -1,0 +1,1 @@
+package medium;public class SnakesAndLadders{public static void main(String[]args){System.out.println("SnakesAndLadders works\n");}}

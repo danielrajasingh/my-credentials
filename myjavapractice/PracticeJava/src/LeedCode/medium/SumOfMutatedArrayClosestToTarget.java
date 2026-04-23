@@ -1,0 +1,1 @@
+package medium;public class SumOfMutatedArrayClosestToTarget{public static void main(String[]args){System.out.println("SumOfMutatedArrayClosestToTarget works\n");}}

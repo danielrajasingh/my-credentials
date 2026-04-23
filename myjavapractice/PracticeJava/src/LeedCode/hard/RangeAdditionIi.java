@@ -1,0 +1,1 @@
+package hard;public class RangeAdditionIi{public static void main(String[]args){System.out.println("RangeAdditionIi works\n");}}

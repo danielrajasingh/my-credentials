@@ -1,0 +1,1 @@
+package hard;public class WalkingRobotSimulationIi{public static void main(String[]args){System.out.println("WalkingRobotSimulationIi works\n");}}

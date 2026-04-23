@@ -1,0 +1,1 @@
+package medium;public class OpenTheLock{public static void main(String[]args){System.out.println("OpenTheLock works\n");}}

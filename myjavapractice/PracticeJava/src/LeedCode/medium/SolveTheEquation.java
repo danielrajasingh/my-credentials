@@ -1,0 +1,1 @@
+package medium;public class SolveTheEquation{public static void main(String[]args){System.out.println("SolveTheEquation works\n");}}

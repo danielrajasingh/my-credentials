@@ -1,0 +1,1 @@
+package medium;public class ClosestDessertCost{public static void main(String[]args){System.out.println("ClosestDessertCost works\n");}}

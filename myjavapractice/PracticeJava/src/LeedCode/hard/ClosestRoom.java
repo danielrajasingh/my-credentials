@@ -1,0 +1,1 @@
+package hard;public class ClosestRoom{public static void main(String[]args){System.out.println("ClosestRoom works\n");}}

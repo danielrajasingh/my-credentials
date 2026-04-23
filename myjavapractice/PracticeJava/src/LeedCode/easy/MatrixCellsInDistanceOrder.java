@@ -1,0 +1,1 @@
+package easy;public class MatrixCellsInDistanceOrder{public static void main(String[]args){System.out.println("MatrixCellsInDistanceOrder works\n");}}

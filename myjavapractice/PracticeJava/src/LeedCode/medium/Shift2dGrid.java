@@ -1,0 +1,1 @@
+package medium;public class Shift2dGrid{public static void main(String[]args){System.out.println("Shift2dGrid works\n");}}

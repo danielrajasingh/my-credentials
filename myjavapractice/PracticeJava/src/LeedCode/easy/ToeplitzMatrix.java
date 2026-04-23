@@ -1,0 +1,1 @@
+package easy;public class ToeplitzMatrix{public static void main(String[]args){System.out.println("ToeplitzMatrix works\n");}}

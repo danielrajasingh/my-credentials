@@ -1,0 +1,1 @@
+package medium;public class StoneGameIi{public static void main(String[]args){System.out.println("StoneGameIi works\n");}}

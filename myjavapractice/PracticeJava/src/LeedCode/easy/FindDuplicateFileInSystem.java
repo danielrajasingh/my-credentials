@@ -1,0 +1,1 @@
+package easy;public class FindDuplicateFileInSystem{public static void main(String[]args){System.out.println("FindDuplicateFileInSystem works\n");}}

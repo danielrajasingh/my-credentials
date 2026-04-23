@@ -1,0 +1,1 @@
+package medium;public class MaximumCompatibilityScoreSum{public static void main(String[]args){System.out.println("MaximumCompatibilityScoreSum works\n");}}

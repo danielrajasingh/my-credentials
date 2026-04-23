@@ -1,0 +1,1 @@
+package easy;public class MaximumIceCreamBars{public static void main(String[]args){System.out.println("MaximumIceCreamBars works\n");}}

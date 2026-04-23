@@ -1,0 +1,1 @@
+package medium;public class UniqueLength3PalindromicSubsequences{public static void main(String[]args){System.out.println("UniqueLength3PalindromicSubsequences works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class NumberOfOperationsToMakeNetworkConnected{public static void main(String[]args){System.out.println("NumberOfOperationsToMakeNetworkConnected works\n");}}

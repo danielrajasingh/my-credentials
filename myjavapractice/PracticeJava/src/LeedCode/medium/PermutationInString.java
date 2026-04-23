@@ -1,0 +1,1 @@
+package medium;public class PermutationInString{public static void main(String[]args){System.out.println("PermutationInString works\n");}}

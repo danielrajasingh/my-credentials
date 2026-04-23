@@ -1,0 +1,1 @@
+package hard;public class ErectTheFence{public static void main(String[]args){System.out.println("ErectTheFence works\n");}}

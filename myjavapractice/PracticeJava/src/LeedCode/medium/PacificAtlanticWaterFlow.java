@@ -1,0 +1,1 @@
+package medium;public class PacificAtlanticWaterFlow{public static void main(String[]args){System.out.println("PacificAtlanticWaterFlow works\n");}}

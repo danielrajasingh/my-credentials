@@ -1,0 +1,1 @@
+package medium;public class ScoreOfParentheses{public static void main(String[]args){System.out.println("ScoreOfParentheses works\n");}}

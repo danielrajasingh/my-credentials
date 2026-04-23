@@ -1,0 +1,1 @@
+package easy;public class ValidPermutationsForDiSequence{public static void main(String[]args){System.out.println("ValidPermutationsForDiSequence works\n");}}

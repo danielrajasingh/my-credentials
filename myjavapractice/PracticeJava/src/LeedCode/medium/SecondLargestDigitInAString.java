@@ -1,0 +1,1 @@
+package medium;public class SecondLargestDigitInAString{public static void main(String[]args){System.out.println("SecondLargestDigitInAString works\n");}}

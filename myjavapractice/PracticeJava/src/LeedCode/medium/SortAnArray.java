@@ -1,0 +1,1 @@
+package medium;public class SortAnArray{public static void main(String[]args){System.out.println("SortAnArray works\n");}}

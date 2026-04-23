@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfFlipsToMakeTheBinaryStringAlternating{public static void main(String[]args){System.out.println("MinimumNumberOfFlipsToMakeTheBinaryStringAlternating works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class IteratorForCombination{public static void main(String[]args){System.out.println("IteratorForCombination works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class XorOperationInAnArray{public static void main(String[]args){System.out.println("XorOperationInAnArray works\n");}}

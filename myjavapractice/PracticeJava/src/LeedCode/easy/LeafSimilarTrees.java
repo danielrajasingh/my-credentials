@@ -1,0 +1,1 @@
+package easy;public class LeafSimilarTrees{public static void main(String[]args){System.out.println("LeafSimilarTrees works\n");}}

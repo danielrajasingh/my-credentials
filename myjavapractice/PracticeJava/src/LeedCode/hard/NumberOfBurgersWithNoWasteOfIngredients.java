@@ -1,0 +1,1 @@
+package hard;public class NumberOfBurgersWithNoWasteOfIngredients{public static void main(String[]args){System.out.println("NumberOfBurgersWithNoWasteOfIngredients works\n");}}

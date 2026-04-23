@@ -1,0 +1,1 @@
+package medium;public class LastStoneWeightIi{public static void main(String[]args){System.out.println("LastStoneWeightIi works\n");}}

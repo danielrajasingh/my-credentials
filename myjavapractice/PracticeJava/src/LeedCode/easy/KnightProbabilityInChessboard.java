@@ -1,0 +1,1 @@
+package easy;public class KnightProbabilityInChessboard{public static void main(String[]args){System.out.println("KnightProbabilityInChessboard works\n");}}

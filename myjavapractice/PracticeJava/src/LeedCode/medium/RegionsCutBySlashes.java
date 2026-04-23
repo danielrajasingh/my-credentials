@@ -1,0 +1,1 @@
+package medium;public class RegionsCutBySlashes{public static void main(String[]args){System.out.println("RegionsCutBySlashes works\n");}}

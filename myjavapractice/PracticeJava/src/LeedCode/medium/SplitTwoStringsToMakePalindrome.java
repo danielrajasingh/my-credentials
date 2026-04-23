@@ -1,0 +1,1 @@
+package medium;public class SplitTwoStringsToMakePalindrome{public static void main(String[]args){System.out.println("SplitTwoStringsToMakePalindrome works\n");}}

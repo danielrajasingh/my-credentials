@@ -1,0 +1,1 @@
+package medium;public class DistributeCandiesToPeople{public static void main(String[]args){System.out.println("DistributeCandiesToPeople works\n");}}

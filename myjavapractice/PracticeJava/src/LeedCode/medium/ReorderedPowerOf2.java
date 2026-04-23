@@ -1,0 +1,1 @@
+package medium;public class ReorderedPowerOf2{public static void main(String[]args){System.out.println("ReorderedPowerOf2 works\n");}}

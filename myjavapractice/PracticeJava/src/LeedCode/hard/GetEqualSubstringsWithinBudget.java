@@ -1,0 +1,1 @@
+package hard;public class GetEqualSubstringsWithinBudget{public static void main(String[]args){System.out.println("GetEqualSubstringsWithinBudget works\n");}}

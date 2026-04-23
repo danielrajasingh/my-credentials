@@ -1,0 +1,1 @@
+package easy;public class NetworkDelayTime{public static void main(String[]args){System.out.println("NetworkDelayTime works\n");}}

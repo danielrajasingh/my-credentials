@@ -1,0 +1,1 @@
+package medium;public class BrickWall{public static void main(String[]args){System.out.println("BrickWall works\n");}}

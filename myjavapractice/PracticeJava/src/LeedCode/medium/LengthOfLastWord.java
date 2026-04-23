@@ -1,0 +1,1 @@
+package medium;public class LengthOfLastWord{public static void main(String[]args){System.out.println("LengthOfLastWord works\n");}}

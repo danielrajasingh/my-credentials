@@ -1,0 +1,1 @@
+package medium;public class SequentialDigits{public static void main(String[]args){System.out.println("SequentialDigits works\n");}}

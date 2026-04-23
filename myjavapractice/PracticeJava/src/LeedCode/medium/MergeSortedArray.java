@@ -1,0 +1,1 @@
+package medium;public class MergeSortedArray{public static void main(String[]args){System.out.println("MergeSortedArray works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class CriticalConnectionsInANetwork{public static void main(String[]args){System.out.println("CriticalConnectionsInANetwork works\n");}}

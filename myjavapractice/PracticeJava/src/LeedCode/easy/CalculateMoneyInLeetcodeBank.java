@@ -1,0 +1,1 @@
+package easy;public class CalculateMoneyInLeetcodeBank{public static void main(String[]args){System.out.println("CalculateMoneyInLeetcodeBank works\n");}}

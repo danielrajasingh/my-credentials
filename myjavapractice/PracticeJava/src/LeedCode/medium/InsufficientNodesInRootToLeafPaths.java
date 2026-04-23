@@ -1,0 +1,1 @@
+package medium;public class InsufficientNodesInRootToLeafPaths{public static void main(String[]args){System.out.println("InsufficientNodesInRootToLeafPaths works\n");}}

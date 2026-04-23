@@ -1,0 +1,1 @@
+package easy;public class DeleteNodeInALinkedList{public static void main(String[]args){System.out.println("DeleteNodeInALinkedList works\n");}}

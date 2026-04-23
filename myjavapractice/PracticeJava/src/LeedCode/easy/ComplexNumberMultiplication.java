@@ -1,0 +1,1 @@
+package easy;public class ComplexNumberMultiplication{public static void main(String[]args){System.out.println("ComplexNumberMultiplication works\n");}}

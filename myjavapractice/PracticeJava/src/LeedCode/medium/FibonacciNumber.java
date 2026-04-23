@@ -1,0 +1,1 @@
+package medium;public class FibonacciNumber{public static void main(String[]args){System.out.println("FibonacciNumber works\n");}}

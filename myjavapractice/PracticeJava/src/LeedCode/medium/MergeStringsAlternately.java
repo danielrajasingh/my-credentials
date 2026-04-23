@@ -1,0 +1,1 @@
+package medium;public class MergeStringsAlternately{public static void main(String[]args){System.out.println("MergeStringsAlternately works\n");}}

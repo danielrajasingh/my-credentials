@@ -1,0 +1,1 @@
+package hard;public class MaskingPersonalInformation{public static void main(String[]args){System.out.println("MaskingPersonalInformation works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class HtmlEntityParser{public static void main(String[]args){System.out.println("HtmlEntityParser works\n");}}

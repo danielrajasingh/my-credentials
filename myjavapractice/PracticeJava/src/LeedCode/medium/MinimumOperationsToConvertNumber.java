@@ -1,0 +1,1 @@
+package medium;public class MinimumOperationsToConvertNumber{public static void main(String[]args){System.out.println("MinimumOperationsToConvertNumber works\n");}}

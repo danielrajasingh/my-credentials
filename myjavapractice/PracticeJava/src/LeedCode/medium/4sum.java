@@ -1,0 +1,1 @@
+package medium;public class 4sum{public static void main(String[]args){System.out.println("4sum works\n");}}

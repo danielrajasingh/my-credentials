@@ -1,0 +1,1 @@
+package medium;public class AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod{public static void main(String[]args){System.out.println("AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class ReductionOperationsToMakeTheArrayElementsEqual{public static void main(String[]args){System.out.println("ReductionOperationsToMakeTheArrayElementsEqual works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class NumberComplement{public static void main(String[]args){System.out.println("NumberComplement works\n");}}

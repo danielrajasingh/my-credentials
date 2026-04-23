@@ -1,0 +1,1 @@
+package medium;public class AvoidFloodInTheCity{public static void main(String[]args){System.out.println("AvoidFloodInTheCity works\n");}}

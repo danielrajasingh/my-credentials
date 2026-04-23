@@ -1,0 +1,1 @@
+package easy;public class FindTheMostCompetitiveSubsequence{public static void main(String[]args){System.out.println("FindTheMostCompetitiveSubsequence works\n");}}

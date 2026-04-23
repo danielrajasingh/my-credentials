@@ -1,0 +1,1 @@
+package easy;public class ZigzagConversion{public static void main(String[]args){System.out.println("ZigzagConversion works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class IntervalsBetweenIdenticalElements{public static void main(String[]args){System.out.println("IntervalsBetweenIdenticalElements works\n");}}

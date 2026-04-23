@@ -1,0 +1,1 @@
+package hard;public class CheckIfItIsAStraightLine{public static void main(String[]args){System.out.println("CheckIfItIsAStraightLine works\n");}}

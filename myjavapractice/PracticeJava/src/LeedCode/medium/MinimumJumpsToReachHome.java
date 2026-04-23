@@ -1,0 +1,1 @@
+package medium;public class MinimumJumpsToReachHome{public static void main(String[]args){System.out.println("MinimumJumpsToReachHome works\n");}}

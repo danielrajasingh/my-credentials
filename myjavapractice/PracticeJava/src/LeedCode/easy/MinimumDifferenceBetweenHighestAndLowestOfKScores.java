@@ -1,0 +1,1 @@
+package easy;public class MinimumDifferenceBetweenHighestAndLowestOfKScores{public static void main(String[]args){System.out.println("MinimumDifferenceBetweenHighestAndLowestOfKScores works\n");}}

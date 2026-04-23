@@ -1,0 +1,1 @@
+package medium;public class ShortestPalindrome{public static void main(String[]args){System.out.println("ShortestPalindrome works\n");}}

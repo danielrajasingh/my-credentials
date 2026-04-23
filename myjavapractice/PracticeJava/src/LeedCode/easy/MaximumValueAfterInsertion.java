@@ -1,0 +1,1 @@
+package easy;public class MaximumValueAfterInsertion{public static void main(String[]args){System.out.println("MaximumValueAfterInsertion works\n");}}

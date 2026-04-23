@@ -1,0 +1,1 @@
+package medium;public class ConsecutiveCharacters{public static void main(String[]args){System.out.println("ConsecutiveCharacters works\n");}}

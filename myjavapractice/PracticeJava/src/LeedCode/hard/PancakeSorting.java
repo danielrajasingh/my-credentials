@@ -1,0 +1,1 @@
+package hard;public class PancakeSorting{public static void main(String[]args){System.out.println("PancakeSorting works\n");}}

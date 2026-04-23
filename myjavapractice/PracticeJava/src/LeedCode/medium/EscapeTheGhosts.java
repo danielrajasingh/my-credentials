@@ -1,0 +1,1 @@
+package medium;public class EscapeTheGhosts{public static void main(String[]args){System.out.println("EscapeTheGhosts works\n");}}

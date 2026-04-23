@@ -1,0 +1,1 @@
+package hard;public class MinimizedMaximumOfProductsDistributedToAnyStore{public static void main(String[]args){System.out.println("MinimizedMaximumOfProductsDistributedToAnyStore works\n");}}

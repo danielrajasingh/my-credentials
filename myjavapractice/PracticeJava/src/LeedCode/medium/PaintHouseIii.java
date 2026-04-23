@@ -1,0 +1,1 @@
+package medium;public class PaintHouseIii{public static void main(String[]args){System.out.println("PaintHouseIii works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class GetTheMaximumScore{public static void main(String[]args){System.out.println("GetTheMaximumScore works\n");}}

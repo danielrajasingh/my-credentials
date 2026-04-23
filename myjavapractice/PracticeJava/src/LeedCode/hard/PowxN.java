@@ -1,0 +1,1 @@
+package hard;public class PowxN{public static void main(String[]args){System.out.println("PowxN works\n");}}

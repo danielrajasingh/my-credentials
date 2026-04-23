@@ -1,0 +1,1 @@
+package hard;public class MaximumEmployeesToBeInvitedToAMeeting{public static void main(String[]args){System.out.println("MaximumEmployeesToBeInvitedToAMeeting works\n");}}

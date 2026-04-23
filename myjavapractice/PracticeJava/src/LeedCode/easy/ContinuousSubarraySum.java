@@ -1,0 +1,1 @@
+package easy;public class ContinuousSubarraySum{public static void main(String[]args){System.out.println("ContinuousSubarraySum works\n");}}

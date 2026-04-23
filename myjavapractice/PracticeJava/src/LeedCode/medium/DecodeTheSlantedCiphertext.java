@@ -1,0 +1,1 @@
+package medium;public class DecodeTheSlantedCiphertext{public static void main(String[]args){System.out.println("DecodeTheSlantedCiphertext works\n");}}

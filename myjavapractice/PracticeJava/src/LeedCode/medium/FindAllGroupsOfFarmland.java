@@ -1,0 +1,1 @@
+package medium;public class FindAllGroupsOfFarmland{public static void main(String[]args){System.out.println("FindAllGroupsOfFarmland works\n");}}

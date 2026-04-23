@@ -1,0 +1,1 @@
+package medium;public class NumberOfGoodLeafNodesPairs{public static void main(String[]args){System.out.println("NumberOfGoodLeafNodesPairs works\n");}}

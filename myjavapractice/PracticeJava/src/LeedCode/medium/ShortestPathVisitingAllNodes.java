@@ -1,0 +1,1 @@
+package medium;public class ShortestPathVisitingAllNodes{public static void main(String[]args){System.out.println("ShortestPathVisitingAllNodes works\n");}}

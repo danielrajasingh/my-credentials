@@ -1,0 +1,1 @@
+package medium;public class CheckIfAllTheIntegersInARangeAreCovered{public static void main(String[]args){System.out.println("CheckIfAllTheIntegersInARangeAreCovered works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class SimplifyPath{public static void main(String[]args){System.out.println("SimplifyPath works\n");}}

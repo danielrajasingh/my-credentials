@@ -1,0 +1,1 @@
+package medium;public class ConvertANumberToHexadecimal{public static void main(String[]args){System.out.println("ConvertANumberToHexadecimal works\n");}}

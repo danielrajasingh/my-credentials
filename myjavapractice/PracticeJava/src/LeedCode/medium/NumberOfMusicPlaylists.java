@@ -1,0 +1,1 @@
+package medium;public class NumberOfMusicPlaylists{public static void main(String[]args){System.out.println("NumberOfMusicPlaylists works\n");}}

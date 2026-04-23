@@ -1,0 +1,1 @@
+package medium;public class FrequencyOfTheMostFrequentElement{public static void main(String[]args){System.out.println("FrequencyOfTheMostFrequentElement works\n");}}

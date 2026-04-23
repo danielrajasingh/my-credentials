@@ -1,0 +1,1 @@
+package easy;public class NThTribonacciNumber{public static void main(String[]args){System.out.println("NThTribonacciNumber works\n");}}

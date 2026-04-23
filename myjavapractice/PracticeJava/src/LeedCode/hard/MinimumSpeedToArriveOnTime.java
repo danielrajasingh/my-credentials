@@ -1,0 +1,1 @@
+package hard;public class MinimumSpeedToArriveOnTime{public static void main(String[]args){System.out.println("MinimumSpeedToArriveOnTime works\n");}}

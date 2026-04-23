@@ -1,0 +1,1 @@
+package medium;public class DesignAnOrderedStream{public static void main(String[]args){System.out.println("DesignAnOrderedStream works\n");}}

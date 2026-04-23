@@ -1,0 +1,1 @@
+package medium;public class BattleshipsInABoard{public static void main(String[]args){System.out.println("BattleshipsInABoard works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class RangeModule{public static void main(String[]args){System.out.println("RangeModule works\n");}}

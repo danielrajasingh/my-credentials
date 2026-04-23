@@ -1,0 +1,1 @@
+package hard;public class KThSmallestPrimeFraction{public static void main(String[]args){System.out.println("KThSmallestPrimeFraction works\n");}}

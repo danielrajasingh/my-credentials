@@ -1,0 +1,1 @@
+package hard;public class CountAllPossibleRoutes{public static void main(String[]args){System.out.println("CountAllPossibleRoutes works\n");}}

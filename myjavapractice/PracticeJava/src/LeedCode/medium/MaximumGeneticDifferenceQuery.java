@@ -1,0 +1,1 @@
+package medium;public class MaximumGeneticDifferenceQuery{public static void main(String[]args){System.out.println("MaximumGeneticDifferenceQuery works\n");}}

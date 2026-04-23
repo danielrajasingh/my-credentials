@@ -1,0 +1,1 @@
+package medium;public class FindKClosestElements{public static void main(String[]args){System.out.println("FindKClosestElements works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class ConstructTargetArrayWithMultipleSums{public static void main(String[]args){System.out.println("ConstructTargetArrayWithMultipleSums works\n");}}

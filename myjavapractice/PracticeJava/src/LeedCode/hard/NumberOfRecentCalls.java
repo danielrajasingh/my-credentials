@@ -1,0 +1,1 @@
+package hard;public class NumberOfRecentCalls{public static void main(String[]args){System.out.println("NumberOfRecentCalls works\n");}}

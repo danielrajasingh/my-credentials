@@ -1,0 +1,1 @@
+package medium;public class NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers{public static void main(String[]args){System.out.println("NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers works\n");}}

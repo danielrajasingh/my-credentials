@@ -1,0 +1,1 @@
+package hard;public class TwoCityScheduling{public static void main(String[]args){System.out.println("TwoCityScheduling works\n");}}

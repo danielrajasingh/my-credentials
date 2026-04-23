@@ -1,0 +1,1 @@
+package hard;public class CheckIfAnOriginalStringExistsGivenTwoEncodedStrings{public static void main(String[]args){System.out.println("CheckIfAnOriginalStringExistsGivenTwoEncodedStrings works\n");}}

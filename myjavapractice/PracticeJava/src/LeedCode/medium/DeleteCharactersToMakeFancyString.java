@@ -1,0 +1,1 @@
+package medium;public class DeleteCharactersToMakeFancyString{public static void main(String[]args){System.out.println("DeleteCharactersToMakeFancyString works\n");}}

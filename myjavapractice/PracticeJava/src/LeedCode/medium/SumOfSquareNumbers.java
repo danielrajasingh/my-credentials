@@ -1,0 +1,1 @@
+package medium;public class SumOfSquareNumbers{public static void main(String[]args){System.out.println("SumOfSquareNumbers works\n");}}

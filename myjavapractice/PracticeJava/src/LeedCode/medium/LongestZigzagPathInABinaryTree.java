@@ -1,0 +1,1 @@
+package medium;public class LongestZigzagPathInABinaryTree{public static void main(String[]args){System.out.println("LongestZigzagPathInABinaryTree works\n");}}

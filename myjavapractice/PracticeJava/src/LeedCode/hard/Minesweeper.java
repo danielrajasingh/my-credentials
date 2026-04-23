@@ -1,0 +1,1 @@
+package hard;public class Minesweeper{public static void main(String[]args){System.out.println("Minesweeper works\n");}}

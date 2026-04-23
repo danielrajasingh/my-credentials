@@ -1,0 +1,1 @@
+package medium;public class FilterRestaurantsByVeganFriendlyPriceAndDistance{public static void main(String[]args){System.out.println("FilterRestaurantsByVeganFriendlyPriceAndDistance works\n");}}

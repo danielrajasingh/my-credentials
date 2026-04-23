@@ -1,0 +1,1 @@
+package hard;public class DeleteColumnsToMakeSorted{public static void main(String[]args){System.out.println("DeleteColumnsToMakeSorted works\n");}}

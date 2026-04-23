@@ -1,0 +1,1 @@
+package medium;public class FindNumbersWithEvenNumberOfDigits{public static void main(String[]args){System.out.println("FindNumbersWithEvenNumberOfDigits works\n");}}

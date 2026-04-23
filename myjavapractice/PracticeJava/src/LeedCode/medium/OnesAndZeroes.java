@@ -1,0 +1,1 @@
+package medium;public class OnesAndZeroes{public static void main(String[]args){System.out.println("OnesAndZeroes works\n");}}

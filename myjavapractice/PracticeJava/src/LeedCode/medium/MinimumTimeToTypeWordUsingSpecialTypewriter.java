@@ -1,0 +1,1 @@
+package medium;public class MinimumTimeToTypeWordUsingSpecialTypewriter{public static void main(String[]args){System.out.println("MinimumTimeToTypeWordUsingSpecialTypewriter works\n");}}

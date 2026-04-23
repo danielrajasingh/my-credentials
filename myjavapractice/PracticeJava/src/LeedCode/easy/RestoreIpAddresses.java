@@ -1,0 +1,1 @@
+package easy;public class RestoreIpAddresses{public static void main(String[]args){System.out.println("RestoreIpAddresses works\n");}}

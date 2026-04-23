@@ -1,0 +1,1 @@
+package hard;public class LongestSubarrayOf1sAfterDeletingOneElement{public static void main(String[]args){System.out.println("LongestSubarrayOf1sAfterDeletingOneElement works\n");}}

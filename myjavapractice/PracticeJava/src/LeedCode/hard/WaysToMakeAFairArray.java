@@ -1,0 +1,1 @@
+package hard;public class WaysToMakeAFairArray{public static void main(String[]args){System.out.println("WaysToMakeAFairArray works\n");}}

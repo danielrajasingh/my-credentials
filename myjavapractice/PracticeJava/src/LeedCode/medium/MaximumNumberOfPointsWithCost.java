@@ -1,0 +1,1 @@
+package medium;public class MaximumNumberOfPointsWithCost{public static void main(String[]args){System.out.println("MaximumNumberOfPointsWithCost works\n");}}

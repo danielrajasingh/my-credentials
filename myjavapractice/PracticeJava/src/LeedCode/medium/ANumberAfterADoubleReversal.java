@@ -1,0 +1,1 @@
+package medium;public class ANumberAfterADoubleReversal{public static void main(String[]args){System.out.println("ANumberAfterADoubleReversal works\n");}}

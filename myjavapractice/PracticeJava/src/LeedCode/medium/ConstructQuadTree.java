@@ -1,0 +1,1 @@
+package medium;public class ConstructQuadTree{public static void main(String[]args){System.out.println("ConstructQuadTree works\n");}}

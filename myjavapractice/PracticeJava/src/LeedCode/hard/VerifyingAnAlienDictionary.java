@@ -1,0 +1,1 @@
+package hard;public class VerifyingAnAlienDictionary{public static void main(String[]args){System.out.println("VerifyingAnAlienDictionary works\n");}}

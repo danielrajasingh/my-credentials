@@ -1,0 +1,1 @@
+package hard;public class SpecialArrayWithXElementsGreaterThanOrEqualX{public static void main(String[]args){System.out.println("SpecialArrayWithXElementsGreaterThanOrEqualX works\n");}}

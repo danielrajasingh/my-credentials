@@ -1,0 +1,1 @@
+package medium;public class LargestValuesFromLabels{public static void main(String[]args){System.out.println("LargestValuesFromLabels works\n");}}

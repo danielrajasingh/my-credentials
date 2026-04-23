@@ -1,0 +1,1 @@
+package hard;public class MaximumPointsYouCanObtainFromCards{public static void main(String[]args){System.out.println("MaximumPointsYouCanObtainFromCards works\n");}}

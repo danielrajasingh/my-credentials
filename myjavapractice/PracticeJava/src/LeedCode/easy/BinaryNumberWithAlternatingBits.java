@@ -1,0 +1,1 @@
+package easy;public class BinaryNumberWithAlternatingBits{public static void main(String[]args){System.out.println("BinaryNumberWithAlternatingBits works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MinimumNumberOfDaysToEatNOranges{public static void main(String[]args){System.out.println("MinimumNumberOfDaysToEatNOranges works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class SelfDividingNumbers{public static void main(String[]args){System.out.println("SelfDividingNumbers works\n");}}

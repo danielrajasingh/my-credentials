@@ -1,0 +1,1 @@
+package easy;public class LargestMagicSquare{public static void main(String[]args){System.out.println("LargestMagicSquare works\n");}}

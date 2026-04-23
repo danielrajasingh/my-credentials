@@ -1,0 +1,1 @@
+package easy;public class ArrangingCoins{public static void main(String[]args){System.out.println("ArrangingCoins works\n");}}

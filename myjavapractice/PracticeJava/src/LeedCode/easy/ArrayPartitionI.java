@@ -1,0 +1,1 @@
+package easy;public class ArrayPartitionI{public static void main(String[]args){System.out.println("ArrayPartitionI works\n");}}

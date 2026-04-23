@@ -1,0 +1,1 @@
+package medium;public class MaximizeTheConfusionOfAnExam{public static void main(String[]args){System.out.println("MaximizeTheConfusionOfAnExam works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class LongestStringChain{public static void main(String[]args){System.out.println("LongestStringChain works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class DivideTwoIntegers{public static void main(String[]args){System.out.println("DivideTwoIntegers works\n");}}

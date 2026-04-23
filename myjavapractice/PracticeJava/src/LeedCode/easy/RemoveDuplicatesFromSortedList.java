@@ -1,0 +1,1 @@
+package easy;public class RemoveDuplicatesFromSortedList{public static void main(String[]args){System.out.println("RemoveDuplicatesFromSortedList works\n");}}

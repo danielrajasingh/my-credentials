@@ -1,0 +1,1 @@
+package medium;public class MaximumScoreWordsFormedByLetters{public static void main(String[]args){System.out.println("MaximumScoreWordsFormedByLetters works\n");}}

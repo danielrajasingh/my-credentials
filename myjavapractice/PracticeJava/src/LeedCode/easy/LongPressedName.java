@@ -1,0 +1,1 @@
+package easy;public class LongPressedName{public static void main(String[]args){System.out.println("LongPressedName works\n");}}

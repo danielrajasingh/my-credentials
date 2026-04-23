@@ -1,0 +1,1 @@
+package hard;public class MaximizeGridHappiness{public static void main(String[]args){System.out.println("MaximizeGridHappiness works\n");}}

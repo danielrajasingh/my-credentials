@@ -1,0 +1,1 @@
+package easy;public class MirrorReflection{public static void main(String[]args){System.out.println("MirrorReflection works\n");}}

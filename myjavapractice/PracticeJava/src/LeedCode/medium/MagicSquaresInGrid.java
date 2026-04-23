@@ -1,0 +1,1 @@
+package medium;public class MagicSquaresInGrid{public static void main(String[]args){System.out.println("MagicSquaresInGrid works\n");}}

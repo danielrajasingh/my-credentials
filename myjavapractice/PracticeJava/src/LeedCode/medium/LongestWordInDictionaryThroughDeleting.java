@@ -1,0 +1,1 @@
+package medium;public class LongestWordInDictionaryThroughDeleting{public static void main(String[]args){System.out.println("LongestWordInDictionaryThroughDeleting works\n");}}

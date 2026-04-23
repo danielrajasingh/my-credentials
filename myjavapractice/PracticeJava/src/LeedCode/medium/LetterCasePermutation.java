@@ -1,0 +1,1 @@
+package medium;public class LetterCasePermutation{public static void main(String[]args){System.out.println("LetterCasePermutation works\n");}}

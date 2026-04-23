@@ -1,0 +1,1 @@
+package hard;public class MinimumDistanceBetweenBstNodes{public static void main(String[]args){System.out.println("MinimumDistanceBetweenBstNodes works\n");}}

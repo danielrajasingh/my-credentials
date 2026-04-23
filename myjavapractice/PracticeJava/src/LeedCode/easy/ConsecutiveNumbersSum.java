@@ -1,0 +1,1 @@
+package easy;public class ConsecutiveNumbersSum{public static void main(String[]args){System.out.println("ConsecutiveNumbersSum works\n");}}

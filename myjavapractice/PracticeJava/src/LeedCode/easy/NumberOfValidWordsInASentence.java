@@ -1,0 +1,1 @@
+package easy;public class NumberOfValidWordsInASentence{public static void main(String[]args){System.out.println("NumberOfValidWordsInASentence works\n");}}

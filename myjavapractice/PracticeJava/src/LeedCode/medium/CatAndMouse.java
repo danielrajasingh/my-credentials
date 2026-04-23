@@ -1,0 +1,1 @@
+package medium;public class CatAndMouse{public static void main(String[]args){System.out.println("CatAndMouse works\n");}}

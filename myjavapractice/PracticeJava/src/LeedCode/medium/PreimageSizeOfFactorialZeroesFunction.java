@@ -1,0 +1,1 @@
+package medium;public class PreimageSizeOfFactorialZeroesFunction{public static void main(String[]args){System.out.println("PreimageSizeOfFactorialZeroesFunction works\n");}}

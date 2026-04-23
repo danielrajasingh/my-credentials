@@ -1,0 +1,1 @@
+package easy;public class MinimumCostToConnectTwoGroupsOfPoints{public static void main(String[]args){System.out.println("MinimumCostToConnectTwoGroupsOfPoints works\n");}}

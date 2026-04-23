@@ -1,0 +1,1 @@
+package easy;public class FindLuckyIntegerInAnArray{public static void main(String[]args){System.out.println("FindLuckyIntegerInAnArray works\n");}}

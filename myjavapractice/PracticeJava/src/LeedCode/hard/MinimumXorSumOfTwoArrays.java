@@ -1,0 +1,1 @@
+package hard;public class MinimumXorSumOfTwoArrays{public static void main(String[]args){System.out.println("MinimumXorSumOfTwoArrays works\n");}}

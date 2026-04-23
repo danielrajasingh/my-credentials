@@ -1,0 +1,1 @@
+package medium;public class MaximumFruitsHarvestedAfterAtMostKSteps{public static void main(String[]args){System.out.println("MaximumFruitsHarvestedAfterAtMostKSteps works\n");}}

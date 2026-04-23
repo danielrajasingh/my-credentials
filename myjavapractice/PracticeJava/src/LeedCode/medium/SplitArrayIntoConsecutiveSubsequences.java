@@ -1,0 +1,1 @@
+package medium;public class SplitArrayIntoConsecutiveSubsequences{public static void main(String[]args){System.out.println("SplitArrayIntoConsecutiveSubsequences works\n");}}

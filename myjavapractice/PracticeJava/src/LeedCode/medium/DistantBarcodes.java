@@ -1,0 +1,1 @@
+package medium;public class DistantBarcodes{public static void main(String[]args){System.out.println("DistantBarcodes works\n");}}

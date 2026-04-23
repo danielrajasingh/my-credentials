@@ -1,0 +1,1 @@
+package hard;public class WiggleSubsequence{public static void main(String[]args){System.out.println("WiggleSubsequence works\n");}}

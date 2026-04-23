@@ -1,0 +1,1 @@
+package medium;public class RecoverATreeFromPreorderTraversal{public static void main(String[]args){System.out.println("RecoverATreeFromPreorderTraversal works\n");}}

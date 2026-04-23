@@ -1,0 +1,1 @@
+package easy;public class SubtractTheProductAndSumOfDigitsOfAnInteger{public static void main(String[]args){System.out.println("SubtractTheProductAndSumOfDigitsOfAnInteger works\n");}}

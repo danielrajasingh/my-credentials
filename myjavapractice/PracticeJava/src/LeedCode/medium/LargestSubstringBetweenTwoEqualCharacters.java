@@ -1,0 +1,1 @@
+package medium;public class LargestSubstringBetweenTwoEqualCharacters{public static void main(String[]args){System.out.println("LargestSubstringBetweenTwoEqualCharacters works\n");}}

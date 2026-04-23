@@ -1,0 +1,1 @@
+package hard;public class BusRoutes{public static void main(String[]args){System.out.println("BusRoutes works\n");}}

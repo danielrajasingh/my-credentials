@@ -1,0 +1,1 @@
+package hard;public class StudentAttendanceRecordIi{public static void main(String[]args){System.out.println("StudentAttendanceRecordIi works\n");}}

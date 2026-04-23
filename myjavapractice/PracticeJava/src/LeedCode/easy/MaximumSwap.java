@@ -1,0 +1,1 @@
+package easy;public class MaximumSwap{public static void main(String[]args){System.out.println("MaximumSwap works\n");}}

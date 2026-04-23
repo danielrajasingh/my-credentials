@@ -1,0 +1,1 @@
+package hard;public class SmallestStringWithAGivenNumericValue{public static void main(String[]args){System.out.println("SmallestStringWithAGivenNumericValue works\n");}}

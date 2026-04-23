@@ -1,0 +1,1 @@
+package hard;public class MinimumIntervalToIncludeEachQuery{public static void main(String[]args){System.out.println("MinimumIntervalToIncludeEachQuery works\n");}}

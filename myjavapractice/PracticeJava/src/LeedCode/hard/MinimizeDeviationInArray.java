@@ -1,0 +1,1 @@
+package hard;public class MinimizeDeviationInArray{public static void main(String[]args){System.out.println("MinimizeDeviationInArray works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class MaximumXorForEachQuery{public static void main(String[]args){System.out.println("MaximumXorForEachQuery works\n");}}

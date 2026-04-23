@@ -1,0 +1,1 @@
+package medium;public class CarPooling{public static void main(String[]args){System.out.println("CarPooling works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class LexicographicalNumbers{public static void main(String[]args){System.out.println("LexicographicalNumbers works\n");}}

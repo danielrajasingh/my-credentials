@@ -1,0 +1,1 @@
+package medium;public class EliminationGame{public static void main(String[]args){System.out.println("EliminationGame works\n");}}

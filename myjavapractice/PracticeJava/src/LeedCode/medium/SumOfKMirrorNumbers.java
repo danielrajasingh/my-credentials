@@ -1,0 +1,1 @@
+package medium;public class SumOfKMirrorNumbers{public static void main(String[]args){System.out.println("SumOfKMirrorNumbers works\n");}}

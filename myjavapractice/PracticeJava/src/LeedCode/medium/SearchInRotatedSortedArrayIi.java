@@ -1,0 +1,1 @@
+package medium;public class SearchInRotatedSortedArrayIi{public static void main(String[]args){System.out.println("SearchInRotatedSortedArrayIi works\n");}}

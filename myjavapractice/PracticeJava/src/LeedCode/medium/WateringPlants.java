@@ -1,0 +1,1 @@
+package medium;public class WateringPlants{public static void main(String[]args){System.out.println("WateringPlants works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class DeleteDuplicateFoldersInSystem{public static void main(String[]args){System.out.println("DeleteDuplicateFoldersInSystem works\n");}}

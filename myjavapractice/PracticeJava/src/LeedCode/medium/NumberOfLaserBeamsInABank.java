@@ -1,0 +1,1 @@
+package medium;public class NumberOfLaserBeamsInABank{public static void main(String[]args){System.out.println("NumberOfLaserBeamsInABank works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class FindPeakElement{public static int findPeakElement(int[]n){int l=0,r=n.length-1;while(l<r){int m=l+(r-l)/2;if(n[m]<n[m+1])l=m+1;else r=m;}return l;}public static void main(String[]args){System.out.println("Peak: "+findPeakElement(new int[]{1,2,3,1}));}}

@@ -1,0 +1,1 @@
+package medium;public class MaximumSumOf3NonOverlappingSubarrays{public static void main(String[]args){System.out.println("MaximumSumOf3NonOverlappingSubarrays works\n");}}

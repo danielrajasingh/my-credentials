@@ -1,0 +1,1 @@
+package easy;public class ValidMountainArray{public static void main(String[]args){System.out.println("ValidMountainArray works\n");}}

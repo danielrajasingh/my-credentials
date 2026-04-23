@@ -1,0 +1,1 @@
+package medium;public class SmallestIntegerDivisibleByK{public static void main(String[]args){System.out.println("SmallestIntegerDivisibleByK works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class BinaryTreePaths{public static void main(String[]args){System.out.println("BinaryTreePaths works\n");}}

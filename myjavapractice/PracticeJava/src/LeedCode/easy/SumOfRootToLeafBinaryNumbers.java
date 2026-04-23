@@ -1,0 +1,1 @@
+package easy;public class SumOfRootToLeafBinaryNumbers{public static void main(String[]args){System.out.println("SumOfRootToLeafBinaryNumbers works\n");}}

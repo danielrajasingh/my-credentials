@@ -1,0 +1,1 @@
+package medium;public class SwappingNodesInALinkedList{public static void main(String[]args){System.out.println("SwappingNodesInALinkedList works\n");}}

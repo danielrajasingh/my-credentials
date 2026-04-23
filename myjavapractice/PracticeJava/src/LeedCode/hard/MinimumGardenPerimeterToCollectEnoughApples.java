@@ -1,0 +1,1 @@
+package hard;public class MinimumGardenPerimeterToCollectEnoughApples{public static void main(String[]args){System.out.println("MinimumGardenPerimeterToCollectEnoughApples works\n");}}

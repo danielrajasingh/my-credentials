@@ -1,0 +1,1 @@
+package medium;public class Dota2Senate{public static void main(String[]args){System.out.println("Dota2Senate works\n");}}

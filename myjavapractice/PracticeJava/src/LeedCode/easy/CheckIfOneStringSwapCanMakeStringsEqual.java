@@ -1,0 +1,1 @@
+package easy;public class CheckIfOneStringSwapCanMakeStringsEqual{public static void main(String[]args){System.out.println("CheckIfOneStringSwapCanMakeStringsEqual works\n");}}

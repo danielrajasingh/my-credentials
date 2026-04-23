@@ -1,0 +1,1 @@
+package easy;public class LowestCommonAncestorOfDeepestLeaves{public static void main(String[]args){System.out.println("LowestCommonAncestorOfDeepestLeaves works\n");}}

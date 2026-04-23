@@ -1,0 +1,1 @@
+package hard;public class NumberOfLinesToWriteString{public static void main(String[]args){System.out.println("NumberOfLinesToWriteString works\n");}}

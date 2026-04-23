@@ -1,0 +1,1 @@
+package hard;public class KthSmallestInstructions{public static void main(String[]args){System.out.println("KthSmallestInstructions works\n");}}

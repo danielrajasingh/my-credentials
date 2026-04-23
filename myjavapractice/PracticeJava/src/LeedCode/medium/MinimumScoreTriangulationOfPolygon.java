@@ -1,0 +1,1 @@
+package medium;public class MinimumScoreTriangulationOfPolygon{public static void main(String[]args){System.out.println("MinimumScoreTriangulationOfPolygon works\n");}}

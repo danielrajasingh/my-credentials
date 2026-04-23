@@ -1,0 +1,1 @@
+package hard;public class Largest1BorderedSquare{public static void main(String[]args){System.out.println("Largest1BorderedSquare works\n");}}

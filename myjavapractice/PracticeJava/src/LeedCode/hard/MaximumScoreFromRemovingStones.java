@@ -1,0 +1,1 @@
+package hard;public class MaximumScoreFromRemovingStones{public static void main(String[]args){System.out.println("MaximumScoreFromRemovingStones works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class OnlineStockSpan{public static void main(String[]args){System.out.println("OnlineStockSpan works\n");}}

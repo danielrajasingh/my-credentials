@@ -1,0 +1,1 @@
+package easy;public class PrisonCellsAfterNDays{public static void main(String[]args){System.out.println("PrisonCellsAfterNDays works\n");}}

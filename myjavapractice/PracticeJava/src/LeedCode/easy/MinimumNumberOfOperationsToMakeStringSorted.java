@@ -1,0 +1,1 @@
+package easy;public class MinimumNumberOfOperationsToMakeStringSorted{public static void main(String[]args){System.out.println("MinimumNumberOfOperationsToMakeStringSorted works\n");}}

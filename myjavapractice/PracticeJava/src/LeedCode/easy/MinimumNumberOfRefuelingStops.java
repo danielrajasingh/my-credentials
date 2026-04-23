@@ -1,0 +1,1 @@
+package easy;public class MinimumNumberOfRefuelingStops{public static void main(String[]args){System.out.println("MinimumNumberOfRefuelingStops works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class LongestRepeatingCharacterReplacement{public static void main(String[]args){System.out.println("LongestRepeatingCharacterReplacement works\n");}}

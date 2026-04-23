@@ -1,0 +1,1 @@
+package medium;public class UglyNumberIi{public static void main(String[]args){System.out.println("UglyNumberIi works\n");}}

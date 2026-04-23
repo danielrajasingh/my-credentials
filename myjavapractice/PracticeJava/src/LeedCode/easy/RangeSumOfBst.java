@@ -1,0 +1,1 @@
+package easy;public class RangeSumOfBst{public static void main(String[]args){System.out.println("RangeSumOfBst works\n");}}

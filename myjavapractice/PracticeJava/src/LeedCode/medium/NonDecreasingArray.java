@@ -1,0 +1,1 @@
+package medium;public class NonDecreasingArray{public static void main(String[]args){System.out.println("NonDecreasingArray works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class Utf8Validation{public static void main(String[]args){System.out.println("Utf8Validation works\n");}}

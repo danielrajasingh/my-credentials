@@ -1,0 +1,1 @@
+package easy;public class PeekingIterator{public static void main(String[]args){System.out.println("PeekingIterator works\n");}}

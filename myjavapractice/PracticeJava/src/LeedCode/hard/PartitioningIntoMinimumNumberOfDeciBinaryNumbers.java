@@ -1,0 +1,1 @@
+package hard;public class PartitioningIntoMinimumNumberOfDeciBinaryNumbers{public static void main(String[]args){System.out.println("PartitioningIntoMinimumNumberOfDeciBinaryNumbers works\n");}}

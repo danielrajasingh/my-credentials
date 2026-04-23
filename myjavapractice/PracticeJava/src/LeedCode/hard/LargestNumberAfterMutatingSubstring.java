@@ -1,0 +1,1 @@
+package hard;public class LargestNumberAfterMutatingSubstring{public static void main(String[]args){System.out.println("LargestNumberAfterMutatingSubstring works\n");}}

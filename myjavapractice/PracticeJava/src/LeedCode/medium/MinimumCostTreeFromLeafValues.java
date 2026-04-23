@@ -1,0 +1,1 @@
+package medium;public class MinimumCostTreeFromLeafValues{public static void main(String[]args){System.out.println("MinimumCostTreeFromLeafValues works\n");}}

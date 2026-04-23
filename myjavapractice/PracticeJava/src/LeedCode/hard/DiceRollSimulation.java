@@ -1,0 +1,1 @@
+package hard;public class DiceRollSimulation{public static void main(String[]args){System.out.println("DiceRollSimulation works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits{public static void main(String[]args){System.out.println("MinimumPossibleIntegerAfterAtMostKAdjacentSwapsOnDigits works\n");}}

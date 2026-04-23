@@ -1,0 +1,1 @@
+package medium;public class DifferentWaysToAddParentheses{public static void main(String[]args){System.out.println("DifferentWaysToAddParentheses works\n");}}

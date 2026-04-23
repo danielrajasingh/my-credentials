@@ -1,0 +1,1 @@
+package hard;public class LuckyNumbersInAMatrix{public static void main(String[]args){System.out.println("LuckyNumbersInAMatrix works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class ShortestCommonSupersequence{public static void main(String[]args){System.out.println("ShortestCommonSupersequence works\n");}}

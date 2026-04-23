@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfPeopleToTeach{public static void main(String[]args){System.out.println("MinimumNumberOfPeopleToTeach works\n");}}

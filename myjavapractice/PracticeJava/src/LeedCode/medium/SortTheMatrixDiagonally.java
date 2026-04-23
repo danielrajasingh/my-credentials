@@ -1,0 +1,1 @@
+package medium;public class SortTheMatrixDiagonally{public static void main(String[]args){System.out.println("SortTheMatrixDiagonally works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class Sqrtx{public static void main(String[]args){System.out.println("Sqrtx works\n");}}

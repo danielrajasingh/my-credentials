@@ -1,0 +1,1 @@
+package hard;public class NumberOfGoodWaysToSplitAString{public static void main(String[]args){System.out.println("NumberOfGoodWaysToSplitAString works\n");}}

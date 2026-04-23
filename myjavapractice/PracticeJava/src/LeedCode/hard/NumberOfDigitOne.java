@@ -1,0 +1,1 @@
+package hard;public class NumberOfDigitOne{public static void main(String[]args){System.out.println("NumberOfDigitOne works\n");}}

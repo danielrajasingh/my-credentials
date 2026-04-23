@@ -1,0 +1,1 @@
+package medium;public class LongestSubstringOfAllVowelsInOrder{public static void main(String[]args){System.out.println("LongestSubstringOfAllVowelsInOrder works\n");}}

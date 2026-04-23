@@ -1,0 +1,1 @@
+package easy;public class PermutationsIi{public static void main(String[]args){System.out.println("PermutationsIi works\n");}}

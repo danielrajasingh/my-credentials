@@ -1,0 +1,1 @@
+package hard;public class TimeNeededToBuyTickets{public static void main(String[]args){System.out.println("TimeNeededToBuyTickets works\n");}}

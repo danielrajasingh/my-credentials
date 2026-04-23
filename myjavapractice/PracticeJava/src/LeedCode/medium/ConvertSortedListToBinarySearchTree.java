@@ -1,0 +1,1 @@
+package medium;public class ConvertSortedListToBinarySearchTree{public static void main(String[]args){System.out.println("ConvertSortedListToBinarySearchTree works\n");}}

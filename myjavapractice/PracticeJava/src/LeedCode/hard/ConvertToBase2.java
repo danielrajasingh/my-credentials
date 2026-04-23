@@ -1,0 +1,1 @@
+package hard;public class ConvertToBase2{public static void main(String[]args){System.out.println("ConvertToBase2 works\n");}}

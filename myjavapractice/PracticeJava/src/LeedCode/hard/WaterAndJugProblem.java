@@ -1,0 +1,1 @@
+package hard;public class WaterAndJugProblem{public static void main(String[]args){System.out.println("WaterAndJugProblem works\n");}}

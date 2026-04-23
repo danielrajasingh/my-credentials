@@ -1,0 +1,1 @@
+package easy;public class SortCharactersByFrequency{public static void main(String[]args){System.out.println("SortCharactersByFrequency works\n");}}

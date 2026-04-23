@@ -1,0 +1,1 @@
+package medium;public class RangeSumQuery2dImmutable{public static void main(String[]args){System.out.println("RangeSumQuery2dImmutable works\n");}}

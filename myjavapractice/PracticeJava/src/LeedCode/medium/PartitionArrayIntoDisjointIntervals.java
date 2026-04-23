@@ -1,0 +1,1 @@
+package medium;public class PartitionArrayIntoDisjointIntervals{public static void main(String[]args){System.out.println("PartitionArrayIntoDisjointIntervals works\n");}}

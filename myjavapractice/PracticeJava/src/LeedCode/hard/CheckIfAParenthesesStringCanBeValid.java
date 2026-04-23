@@ -1,0 +1,1 @@
+package hard;public class CheckIfAParenthesesStringCanBeValid{public static void main(String[]args){System.out.println("CheckIfAParenthesesStringCanBeValid works\n");}}

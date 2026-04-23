@@ -1,0 +1,1 @@
+package medium;public class WordBreakIi{public static void main(String[]args){System.out.println("WordBreakIi works\n");}}

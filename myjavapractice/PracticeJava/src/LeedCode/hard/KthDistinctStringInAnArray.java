@@ -1,0 +1,1 @@
+package hard;public class KthDistinctStringInAnArray{public static void main(String[]args){System.out.println("KthDistinctStringInAnArray works\n");}}

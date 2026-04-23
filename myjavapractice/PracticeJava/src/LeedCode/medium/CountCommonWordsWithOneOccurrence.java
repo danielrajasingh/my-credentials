@@ -1,0 +1,1 @@
+package medium;public class CountCommonWordsWithOneOccurrence{public static void main(String[]args){System.out.println("CountCommonWordsWithOneOccurrence works\n");}}

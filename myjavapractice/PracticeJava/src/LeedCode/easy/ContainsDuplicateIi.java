@@ -1,0 +1,1 @@
+package easy;public class ContainsDuplicateIi{public static void main(String[]args){System.out.println("ContainsDuplicateIi works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class UniquePathsIii{public static void main(String[]args){System.out.println("UniquePathsIii works\n");}}

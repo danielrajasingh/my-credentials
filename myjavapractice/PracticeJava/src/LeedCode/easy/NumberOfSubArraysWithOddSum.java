@@ -1,0 +1,1 @@
+package easy;public class NumberOfSubArraysWithOddSum{public static void main(String[]args){System.out.println("NumberOfSubArraysWithOddSum works\n");}}

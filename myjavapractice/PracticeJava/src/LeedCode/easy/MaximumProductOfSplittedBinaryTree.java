@@ -1,0 +1,1 @@
+package easy;public class MaximumProductOfSplittedBinaryTree{public static void main(String[]args){System.out.println("MaximumProductOfSplittedBinaryTree works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class NumberOfWaysToReconstructATree{public static void main(String[]args){System.out.println("NumberOfWaysToReconstructATree works\n");}}

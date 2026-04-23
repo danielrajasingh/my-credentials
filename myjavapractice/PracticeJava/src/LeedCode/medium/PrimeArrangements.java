@@ -1,0 +1,1 @@
+package medium;public class PrimeArrangements{public static void main(String[]args){System.out.println("PrimeArrangements works\n");}}

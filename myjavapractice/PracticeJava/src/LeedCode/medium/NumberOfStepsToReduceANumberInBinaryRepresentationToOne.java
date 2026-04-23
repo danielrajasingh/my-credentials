@@ -1,0 +1,1 @@
+package medium;public class NumberOfStepsToReduceANumberInBinaryRepresentationToOne{public static void main(String[]args){System.out.println("NumberOfStepsToReduceANumberInBinaryRepresentationToOne works\n");}}

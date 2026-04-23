@@ -1,0 +1,1 @@
+package easy;public class WordSubsets{public static void main(String[]args){System.out.println("WordSubsets works\n");}}

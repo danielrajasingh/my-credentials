@@ -1,0 +1,1 @@
+package hard;public class ThroneInheritance{public static void main(String[]args){System.out.println("ThroneInheritance works\n");}}

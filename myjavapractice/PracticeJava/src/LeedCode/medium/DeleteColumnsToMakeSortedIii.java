@@ -1,0 +1,1 @@
+package medium;public class DeleteColumnsToMakeSortedIii{public static void main(String[]args){System.out.println("DeleteColumnsToMakeSortedIii works\n");}}

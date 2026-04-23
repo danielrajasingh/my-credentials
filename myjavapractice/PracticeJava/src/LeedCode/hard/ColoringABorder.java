@@ -1,0 +1,1 @@
+package hard;public class ColoringABorder{public static void main(String[]args){System.out.println("ColoringABorder works\n");}}

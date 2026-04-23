@@ -1,0 +1,1 @@
+package medium;public class DetectCyclesIn2dGrid{public static void main(String[]args){System.out.println("DetectCyclesIn2dGrid works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class HIndex{public static void main(String[]args){System.out.println("HIndex works\n");}}

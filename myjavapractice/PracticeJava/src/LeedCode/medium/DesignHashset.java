@@ -1,0 +1,1 @@
+package medium;public class DesignHashset{public static void main(String[]args){System.out.println("DesignHashset works\n");}}

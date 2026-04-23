@@ -1,0 +1,1 @@
+package medium;public class FlipStringToMonotoneIncreasing{public static void main(String[]args){System.out.println("FlipStringToMonotoneIncreasing works\n");}}

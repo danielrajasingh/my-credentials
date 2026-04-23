@@ -1,0 +1,1 @@
+package medium;public class HappyNumber{public static void main(String[]args){System.out.println("HappyNumber works\n");}}

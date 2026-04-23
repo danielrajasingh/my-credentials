@@ -1,0 +1,1 @@
+package easy;public class TextJustification{public static void main(String[]args){System.out.println("TextJustification works\n");}}

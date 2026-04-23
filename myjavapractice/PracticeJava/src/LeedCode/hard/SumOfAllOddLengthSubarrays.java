@@ -1,0 +1,1 @@
+package hard;public class SumOfAllOddLengthSubarrays{public static void main(String[]args){System.out.println("SumOfAllOddLengthSubarrays works\n");}}

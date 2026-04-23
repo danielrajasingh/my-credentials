@@ -1,0 +1,1 @@
+package hard;public class NumberOfAtoms{public static void main(String[]args){System.out.println("NumberOfAtoms works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class SumOfBeautyOfAllSubstrings{public static void main(String[]args){System.out.println("SumOfBeautyOfAllSubstrings works\n");}}

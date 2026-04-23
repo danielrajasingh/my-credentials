@@ -1,0 +1,1 @@
+package medium;public class VerifyPreorderSerializationOfABinaryTree{public static void main(String[]args){System.out.println("VerifyPreorderSerializationOfABinaryTree works\n");}}

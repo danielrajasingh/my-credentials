@@ -1,0 +1,1 @@
+package hard;public class LastDayWhereYouCanStillCross{public static void main(String[]args){System.out.println("LastDayWhereYouCanStillCross works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class TwoSumIiInputArrayIsSorted{public static void main(String[]args){System.out.println("TwoSumIiInputArrayIsSorted works\n");}}

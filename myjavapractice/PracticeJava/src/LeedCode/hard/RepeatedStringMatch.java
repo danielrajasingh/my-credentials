@@ -1,0 +1,1 @@
+package hard;public class RepeatedStringMatch{public static void main(String[]args){System.out.println("RepeatedStringMatch works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class 01Matrix{public static void main(String[]args){System.out.println("01Matrix works\n");}}

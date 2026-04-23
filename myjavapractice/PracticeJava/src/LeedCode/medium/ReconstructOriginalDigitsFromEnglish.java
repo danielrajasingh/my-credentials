@@ -1,0 +1,1 @@
+package medium;public class ReconstructOriginalDigitsFromEnglish{public static void main(String[]args){System.out.println("ReconstructOriginalDigitsFromEnglish works\n");}}

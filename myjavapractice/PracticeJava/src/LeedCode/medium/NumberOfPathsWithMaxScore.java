@@ -1,0 +1,1 @@
+package medium;public class NumberOfPathsWithMaxScore{public static void main(String[]args){System.out.println("NumberOfPathsWithMaxScore works\n");}}

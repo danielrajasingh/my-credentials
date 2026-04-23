@@ -1,0 +1,1 @@
+package medium;public class DestinationCity{public static void main(String[]args){System.out.println("DestinationCity works\n");}}

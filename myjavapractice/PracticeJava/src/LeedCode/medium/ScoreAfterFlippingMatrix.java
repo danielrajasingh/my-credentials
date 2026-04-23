@@ -1,0 +1,1 @@
+package medium;public class ScoreAfterFlippingMatrix{public static void main(String[]args){System.out.println("ScoreAfterFlippingMatrix works\n");}}

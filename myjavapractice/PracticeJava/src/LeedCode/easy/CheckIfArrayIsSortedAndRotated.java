@@ -1,0 +1,1 @@
+package easy;public class CheckIfArrayIsSortedAndRotated{public static void main(String[]args){System.out.println("CheckIfArrayIsSortedAndRotated works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class NumberOfSubarraysWithBoundedMaximum{public static void main(String[]args){System.out.println("NumberOfSubarraysWithBoundedMaximum works\n");}}

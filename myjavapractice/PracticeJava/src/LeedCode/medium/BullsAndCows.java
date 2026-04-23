@@ -1,0 +1,1 @@
+package medium;public class BullsAndCows{public static void main(String[]args){System.out.println("BullsAndCows works\n");}}

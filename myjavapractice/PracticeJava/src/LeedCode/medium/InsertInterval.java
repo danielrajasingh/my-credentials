@@ -1,0 +1,1 @@
+package medium;public class InsertInterval{public static void main(String[]args){System.out.println("InsertInterval works\n");}}

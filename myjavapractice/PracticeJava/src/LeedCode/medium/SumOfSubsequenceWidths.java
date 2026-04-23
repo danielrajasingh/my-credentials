@@ -1,0 +1,1 @@
+package medium;public class SumOfSubsequenceWidths{public static void main(String[]args){System.out.println("SumOfSubsequenceWidths works\n");}}

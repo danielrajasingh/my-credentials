@@ -1,0 +1,1 @@
+package hard;public class RangeSumOfSortedSubarraySums{public static void main(String[]args){System.out.println("RangeSumOfSortedSubarraySums works\n");}}

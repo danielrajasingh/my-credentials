@@ -1,0 +1,1 @@
+package medium;public class OptimalDivision{public static void main(String[]args){System.out.println("OptimalDivision works\n");}}

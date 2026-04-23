@@ -1,0 +1,1 @@
+package hard;public class CountOfRangeSum{public static void main(String[]args){System.out.println("CountOfRangeSum works\n");}}

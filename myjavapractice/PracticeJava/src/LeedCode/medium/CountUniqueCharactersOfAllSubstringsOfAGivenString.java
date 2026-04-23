@@ -1,0 +1,1 @@
+package medium;public class CountUniqueCharactersOfAllSubstringsOfAGivenString{public static void main(String[]args){System.out.println("CountUniqueCharactersOfAllSubstringsOfAGivenString works\n");}}

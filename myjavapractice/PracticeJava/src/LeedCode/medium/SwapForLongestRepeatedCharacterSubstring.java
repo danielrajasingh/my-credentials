@@ -1,0 +1,1 @@
+package medium;public class SwapForLongestRepeatedCharacterSubstring{public static void main(String[]args){System.out.println("SwapForLongestRepeatedCharacterSubstring works\n");}}

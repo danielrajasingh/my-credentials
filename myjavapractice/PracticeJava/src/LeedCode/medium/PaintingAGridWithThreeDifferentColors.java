@@ -1,0 +1,1 @@
+package medium;public class PaintingAGridWithThreeDifferentColors{public static void main(String[]args){System.out.println("PaintingAGridWithThreeDifferentColors works\n");}}

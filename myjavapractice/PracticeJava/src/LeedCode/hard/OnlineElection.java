@@ -1,0 +1,1 @@
+package hard;public class OnlineElection{public static void main(String[]args){System.out.println("OnlineElection works\n");}}

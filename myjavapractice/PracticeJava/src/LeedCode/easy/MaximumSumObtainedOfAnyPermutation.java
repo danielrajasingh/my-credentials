@@ -1,0 +1,1 @@
+package easy;public class MaximumSumObtainedOfAnyPermutation{public static void main(String[]args){System.out.println("MaximumSumObtainedOfAnyPermutation works\n");}}

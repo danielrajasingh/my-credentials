@@ -1,0 +1,1 @@
+package medium;public class FindTheHighestAltitude{public static void main(String[]args){System.out.println("FindTheHighestAltitude works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MaximumDistanceBetweenAPairOfValues{public static void main(String[]args){System.out.println("MaximumDistanceBetweenAPairOfValues works\n");}}

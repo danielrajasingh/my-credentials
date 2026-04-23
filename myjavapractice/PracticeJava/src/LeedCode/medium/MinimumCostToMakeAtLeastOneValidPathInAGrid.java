@@ -1,0 +1,1 @@
+package medium;public class MinimumCostToMakeAtLeastOneValidPathInAGrid{public static void main(String[]args){System.out.println("MinimumCostToMakeAtLeastOneValidPathInAGrid works\n");}}

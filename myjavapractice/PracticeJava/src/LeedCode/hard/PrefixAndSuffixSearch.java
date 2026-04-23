@@ -1,0 +1,1 @@
+package hard;public class PrefixAndSuffixSearch{public static void main(String[]args){System.out.println("PrefixAndSuffixSearch works\n");}}

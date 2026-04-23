@@ -1,0 +1,1 @@
+package hard;public class ProductOfTheLastKNumbers{public static void main(String[]args){System.out.println("ProductOfTheLastKNumbers works\n");}}

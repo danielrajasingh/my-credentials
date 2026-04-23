@@ -1,0 +1,1 @@
+package easy;public class CheckIfThereIsAValidPathInAGrid{public static void main(String[]args){System.out.println("CheckIfThereIsAValidPathInAGrid works\n");}}

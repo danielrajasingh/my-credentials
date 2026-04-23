@@ -1,0 +1,1 @@
+package medium;public class LargestTriangleArea{public static void main(String[]args){System.out.println("LargestTriangleArea works\n");}}

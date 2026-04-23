@@ -1,0 +1,1 @@
+package easy;public class ValidateStackSequences{public static void main(String[]args){System.out.println("ValidateStackSequences works\n");}}

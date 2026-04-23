@@ -1,0 +1,1 @@
+package medium;public class SentenceSimilarityIii{public static void main(String[]args){System.out.println("SentenceSimilarityIii works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class CountTheRepetitions{public static void main(String[]args){System.out.println("CountTheRepetitions works\n");}}

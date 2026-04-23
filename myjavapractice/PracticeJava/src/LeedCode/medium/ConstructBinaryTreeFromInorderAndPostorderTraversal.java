@@ -1,0 +1,1 @@
+package medium;public class ConstructBinaryTreeFromInorderAndPostorderTraversal{public static void main(String[]args){System.out.println("ConstructBinaryTreeFromInorderAndPostorderTraversal works\n");}}

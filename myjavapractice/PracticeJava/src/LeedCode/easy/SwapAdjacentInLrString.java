@@ -1,0 +1,1 @@
+package easy;public class SwapAdjacentInLrString{public static void main(String[]args){System.out.println("SwapAdjacentInLrString works\n");}}

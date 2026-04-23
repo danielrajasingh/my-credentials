@@ -1,0 +1,1 @@
+package medium;public class ArithmeticSlicesIiSubsequence{public static void main(String[]args){System.out.println("ArithmeticSlicesIiSubsequence works\n");}}

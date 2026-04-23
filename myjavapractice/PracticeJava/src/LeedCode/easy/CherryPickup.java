@@ -1,0 +1,1 @@
+package easy;public class CherryPickup{public static void main(String[]args){System.out.println("CherryPickup works\n");}}

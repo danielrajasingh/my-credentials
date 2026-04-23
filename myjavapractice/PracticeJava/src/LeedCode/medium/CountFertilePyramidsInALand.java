@@ -1,0 +1,1 @@
+package medium;public class CountFertilePyramidsInALand{public static void main(String[]args){System.out.println("CountFertilePyramidsInALand works\n");}}

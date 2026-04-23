@@ -1,0 +1,1 @@
+package easy;public class CountNumberOfMaximumBitwiseOrSubsets{public static void main(String[]args){System.out.println("CountNumberOfMaximumBitwiseOrSubsets works\n");}}

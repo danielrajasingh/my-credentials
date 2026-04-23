@@ -1,0 +1,1 @@
+package hard;public class MinimumAdjacentSwapsForKConsecutiveOnes{public static void main(String[]args){System.out.println("MinimumAdjacentSwapsForKConsecutiveOnes works\n");}}

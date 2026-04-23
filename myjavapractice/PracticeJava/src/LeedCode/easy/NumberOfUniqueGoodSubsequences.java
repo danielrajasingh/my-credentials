@@ -1,0 +1,1 @@
+package easy;public class NumberOfUniqueGoodSubsequences{public static void main(String[]args){System.out.println("NumberOfUniqueGoodSubsequences works\n");}}

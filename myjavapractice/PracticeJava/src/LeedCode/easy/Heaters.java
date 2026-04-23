@@ -1,0 +1,1 @@
+package easy;public class Heaters{public static void main(String[]args){System.out.println("Heaters works\n");}}

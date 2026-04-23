@@ -1,0 +1,1 @@
+package easy;public class FindPositiveIntegerSolutionForAGivenEquation{public static void main(String[]args){System.out.println("FindPositiveIntegerSolutionForAGivenEquation works\n");}}

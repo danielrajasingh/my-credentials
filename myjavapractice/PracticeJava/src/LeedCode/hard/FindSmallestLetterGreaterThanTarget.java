@@ -1,0 +1,1 @@
+package hard;public class FindSmallestLetterGreaterThanTarget{public static void main(String[]args){System.out.println("FindSmallestLetterGreaterThanTarget works\n");}}

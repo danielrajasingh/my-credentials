@@ -1,0 +1,1 @@
+package hard;public class RotatedDigits{public static void main(String[]args){System.out.println("RotatedDigits works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class FriendsOfAppropriateAges{public static void main(String[]args){System.out.println("FriendsOfAppropriateAges works\n");}}

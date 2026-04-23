@@ -1,0 +1,1 @@
+package medium;public class AverageSalaryExcludingTheMinimumAndMaximumSalary{public static void main(String[]args){System.out.println("AverageSalaryExcludingTheMinimumAndMaximumSalary works\n");}}

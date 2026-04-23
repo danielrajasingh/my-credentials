@@ -1,0 +1,1 @@
+package easy;public class LeastNumberOfUniqueIntegersAfterKRemovals{public static void main(String[]args){System.out.println("LeastNumberOfUniqueIntegersAfterKRemovals works\n");}}

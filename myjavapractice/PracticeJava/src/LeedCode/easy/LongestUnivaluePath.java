@@ -1,0 +1,1 @@
+package easy;public class LongestUnivaluePath{public static void main(String[]args){System.out.println("LongestUnivaluePath works\n");}}

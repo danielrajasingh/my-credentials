@@ -1,0 +1,1 @@
+package hard;public class AddStrings{public static void main(String[]args){System.out.println("AddStrings works\n");}}

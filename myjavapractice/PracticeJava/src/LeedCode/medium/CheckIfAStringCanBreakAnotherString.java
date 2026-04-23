@@ -1,0 +1,1 @@
+package medium;public class CheckIfAStringCanBreakAnotherString{public static void main(String[]args){System.out.println("CheckIfAStringCanBreakAnotherString works\n");}}

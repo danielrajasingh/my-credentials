@@ -1,0 +1,1 @@
+package easy;public class NAryTreeLevelOrderTraversal{public static void main(String[]args){System.out.println("NAryTreeLevelOrderTraversal works\n");}}

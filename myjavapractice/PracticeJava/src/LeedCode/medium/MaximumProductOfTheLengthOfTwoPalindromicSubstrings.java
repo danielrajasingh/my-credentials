@@ -1,0 +1,1 @@
+package medium;public class MaximumProductOfTheLengthOfTwoPalindromicSubstrings{public static void main(String[]args){System.out.println("MaximumProductOfTheLengthOfTwoPalindromicSubstrings works\n");}}

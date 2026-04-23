@@ -1,0 +1,1 @@
+package easy;public class MultiplyStrings{public static void main(String[]args){System.out.println("MultiplyStrings works\n");}}

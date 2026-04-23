@@ -1,0 +1,1 @@
+package medium;public class VideoStitching{public static void main(String[]args){System.out.println("VideoStitching works\n");}}

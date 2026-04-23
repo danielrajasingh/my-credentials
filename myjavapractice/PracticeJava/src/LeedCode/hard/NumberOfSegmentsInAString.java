@@ -1,0 +1,1 @@
+package hard;public class NumberOfSegmentsInAString{public static void main(String[]args){System.out.println("NumberOfSegmentsInAString works\n");}}

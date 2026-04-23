@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfFrogsCroaking{public static void main(String[]args){System.out.println("MinimumNumberOfFrogsCroaking works\n");}}

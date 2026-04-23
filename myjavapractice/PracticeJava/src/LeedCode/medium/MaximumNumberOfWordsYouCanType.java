@@ -1,0 +1,1 @@
+package medium;public class MaximumNumberOfWordsYouCanType{public static void main(String[]args){System.out.println("MaximumNumberOfWordsYouCanType works\n");}}

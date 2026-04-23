@@ -1,0 +1,1 @@
+package medium;public class DiagonalTraverse{public static void main(String[]args){System.out.println("DiagonalTraverse works\n");}}

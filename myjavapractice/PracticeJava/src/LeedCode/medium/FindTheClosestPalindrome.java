@@ -1,0 +1,1 @@
+package medium;public class FindTheClosestPalindrome{public static void main(String[]args){System.out.println("FindTheClosestPalindrome works\n");}}

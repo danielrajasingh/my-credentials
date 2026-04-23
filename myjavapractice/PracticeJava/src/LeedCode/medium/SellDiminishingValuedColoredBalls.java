@@ -1,0 +1,1 @@
+package medium;public class SellDiminishingValuedColoredBalls{public static void main(String[]args){System.out.println("SellDiminishingValuedColoredBalls works\n");}}

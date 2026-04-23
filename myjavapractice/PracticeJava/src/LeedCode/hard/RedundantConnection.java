@@ -1,0 +1,1 @@
+package hard;public class RedundantConnection{public static void main(String[]args){System.out.println("RedundantConnection works\n");}}

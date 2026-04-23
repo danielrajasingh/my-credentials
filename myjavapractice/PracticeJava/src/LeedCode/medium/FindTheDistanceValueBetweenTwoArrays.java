@@ -1,0 +1,1 @@
+package medium;public class FindTheDistanceValueBetweenTwoArrays{public static void main(String[]args){System.out.println("FindTheDistanceValueBetweenTwoArrays works\n");}}

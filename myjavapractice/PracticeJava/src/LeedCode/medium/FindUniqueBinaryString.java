@@ -1,0 +1,1 @@
+package medium;public class FindUniqueBinaryString{public static void main(String[]args){System.out.println("FindUniqueBinaryString works\n");}}

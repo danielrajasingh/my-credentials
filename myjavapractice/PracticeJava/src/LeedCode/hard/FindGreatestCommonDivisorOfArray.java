@@ -1,0 +1,1 @@
+package hard;public class FindGreatestCommonDivisorOfArray{public static void main(String[]args){System.out.println("FindGreatestCommonDivisorOfArray works\n");}}

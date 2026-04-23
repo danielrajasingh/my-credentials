@@ -1,0 +1,1 @@
+package easy;public class InsertIntoABinarySearchTree{public static void main(String[]args){System.out.println("InsertIntoABinarySearchTree works\n");}}

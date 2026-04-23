@@ -1,0 +1,1 @@
+package hard;public class PredictTheWinner{public static void main(String[]args){System.out.println("PredictTheWinner works\n");}}

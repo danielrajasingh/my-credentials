@@ -1,0 +1,1 @@
+package easy;public class EvaluateReversePolishNotation{public static void main(String[]args){System.out.println("EvaluateReversePolishNotation works\n");}}

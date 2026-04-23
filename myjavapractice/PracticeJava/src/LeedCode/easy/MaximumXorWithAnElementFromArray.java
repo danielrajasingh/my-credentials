@@ -1,0 +1,1 @@
+package easy;public class MaximumXorWithAnElementFromArray{public static void main(String[]args){System.out.println("MaximumXorWithAnElementFromArray works\n");}}

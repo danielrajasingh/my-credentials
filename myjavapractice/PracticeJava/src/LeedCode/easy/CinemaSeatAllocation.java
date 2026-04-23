@@ -1,0 +1,1 @@
+package easy;public class CinemaSeatAllocation{public static void main(String[]args){System.out.println("CinemaSeatAllocation works\n");}}

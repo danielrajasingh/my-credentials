@@ -1,0 +1,1 @@
+package medium;public class BeautifulArrangement{public static void main(String[]args){System.out.println("BeautifulArrangement works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class RotatingTheBox{public static void main(String[]args){System.out.println("RotatingTheBox works\n");}}

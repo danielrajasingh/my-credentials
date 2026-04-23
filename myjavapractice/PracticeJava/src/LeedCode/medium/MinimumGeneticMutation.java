@@ -1,0 +1,1 @@
+package medium;public class MinimumGeneticMutation{public static void main(String[]args){System.out.println("MinimumGeneticMutation works\n");}}

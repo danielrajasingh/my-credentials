@@ -1,0 +1,1 @@
+package easy;public class FourDivisors{public static void main(String[]args){System.out.println("FourDivisors works\n");}}

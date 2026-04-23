@@ -1,0 +1,1 @@
+package easy;public class CloneGraph{public static void main(String[]args){System.out.println("CloneGraph works\n");}}

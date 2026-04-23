@@ -1,0 +1,1 @@
+package hard;public class MinimumSuffixFlips{public static void main(String[]args){System.out.println("MinimumSuffixFlips works\n");}}

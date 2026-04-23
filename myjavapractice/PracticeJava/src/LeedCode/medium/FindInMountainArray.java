@@ -1,0 +1,1 @@
+package medium;public class FindInMountainArray{public static void main(String[]args){System.out.println("FindInMountainArray works\n");}}

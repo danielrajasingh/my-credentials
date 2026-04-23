@@ -1,0 +1,1 @@
+package easy;public class MinimumLimitOfBallsInABag{public static void main(String[]args){System.out.println("MinimumLimitOfBallsInABag works\n");}}

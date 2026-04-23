@@ -1,0 +1,1 @@
+package easy;public class LargestColorValueInADirectedGraph{public static void main(String[]args){System.out.println("LargestColorValueInADirectedGraph works\n");}}

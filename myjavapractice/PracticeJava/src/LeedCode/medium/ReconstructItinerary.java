@@ -1,0 +1,1 @@
+package medium;public class ReconstructItinerary{public static void main(String[]args){System.out.println("ReconstructItinerary works\n");}}

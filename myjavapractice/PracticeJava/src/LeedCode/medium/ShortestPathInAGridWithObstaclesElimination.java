@@ -1,0 +1,1 @@
+package medium;public class ShortestPathInAGridWithObstaclesElimination{public static void main(String[]args){System.out.println("ShortestPathInAGridWithObstaclesElimination works\n");}}

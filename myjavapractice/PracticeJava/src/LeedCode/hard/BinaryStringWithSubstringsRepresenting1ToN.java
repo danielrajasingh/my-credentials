@@ -1,0 +1,1 @@
+package hard;public class BinaryStringWithSubstringsRepresenting1ToN{public static void main(String[]args){System.out.println("BinaryStringWithSubstringsRepresenting1ToN works\n");}}

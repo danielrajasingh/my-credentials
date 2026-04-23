@@ -1,0 +1,1 @@
+package easy;public class CheckIfAllCharactersHaveEqualNumberOfOccurrences{public static void main(String[]args){System.out.println("CheckIfAllCharactersHaveEqualNumberOfOccurrences works\n");}}

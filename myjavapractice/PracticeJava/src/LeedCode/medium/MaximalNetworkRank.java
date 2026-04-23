@@ -1,0 +1,1 @@
+package medium;public class MaximalNetworkRank{public static void main(String[]args){System.out.println("MaximalNetworkRank works\n");}}

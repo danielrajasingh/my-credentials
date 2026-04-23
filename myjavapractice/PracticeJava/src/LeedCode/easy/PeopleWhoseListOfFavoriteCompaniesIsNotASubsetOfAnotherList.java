@@ -1,0 +1,1 @@
+package easy;public class PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherList{public static void main(String[]args){System.out.println("PeopleWhoseListOfFavoriteCompaniesIsNotASubsetOfAnotherList works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class LongestArithmeticSubsequence{public static void main(String[]args){System.out.println("LongestArithmeticSubsequence works\n");}}

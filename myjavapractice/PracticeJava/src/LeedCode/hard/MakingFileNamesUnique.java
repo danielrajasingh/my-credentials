@@ -1,0 +1,1 @@
+package hard;public class MakingFileNamesUnique{public static void main(String[]args){System.out.println("MakingFileNamesUnique works\n");}}

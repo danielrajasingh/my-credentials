@@ -1,0 +1,1 @@
+package easy;public class ValidSquare{public static void main(String[]args){System.out.println("ValidSquare works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MakeTwoArraysEqualByReversingSubArrays{public static void main(String[]args){System.out.println("MakeTwoArraysEqualByReversingSubArrays works\n");}}

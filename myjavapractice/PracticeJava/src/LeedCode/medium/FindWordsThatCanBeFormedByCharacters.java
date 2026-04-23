@@ -1,0 +1,1 @@
+package medium;public class FindWordsThatCanBeFormedByCharacters{public static void main(String[]args){System.out.println("FindWordsThatCanBeFormedByCharacters works\n");}}

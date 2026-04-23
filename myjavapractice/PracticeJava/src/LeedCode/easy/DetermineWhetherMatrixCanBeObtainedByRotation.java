@@ -1,0 +1,1 @@
+package easy;public class DetermineWhetherMatrixCanBeObtainedByRotation{public static void main(String[]args){System.out.println("DetermineWhetherMatrixCanBeObtainedByRotation works\n");}}

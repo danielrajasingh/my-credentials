@@ -1,0 +1,1 @@
+package medium;public class RemoveZeroSumConsecutiveNodesFromLinkedList{public static void main(String[]args){System.out.println("RemoveZeroSumConsecutiveNodesFromLinkedList works\n");}}

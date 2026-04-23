@@ -1,0 +1,1 @@
+package medium;public class TheNumberOfTheSmallestUnoccupiedChair{public static void main(String[]args){System.out.println("TheNumberOfTheSmallestUnoccupiedChair works\n");}}

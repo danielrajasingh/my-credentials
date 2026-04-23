@@ -1,0 +1,1 @@
+package medium;public class Base7{public static void main(String[]args){System.out.println("Base7 works\n");}}

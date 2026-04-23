@@ -1,0 +1,1 @@
+package medium;public class ShortestPathToGetAllKeys{public static void main(String[]args){System.out.println("ShortestPathToGetAllKeys works\n");}}

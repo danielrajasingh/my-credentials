@@ -1,0 +1,1 @@
+package medium;public class MaximumDifferenceBetweenIncreasingElements{public static void main(String[]args){System.out.println("MaximumDifferenceBetweenIncreasingElements works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class LongestSubstringWithAtLeastKRepeatingCharacters{public static void main(String[]args){System.out.println("LongestSubstringWithAtLeastKRepeatingCharacters works\n");}}

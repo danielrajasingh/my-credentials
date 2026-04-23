@@ -1,0 +1,1 @@
+package hard;public class UncrossedLines{public static void main(String[]args){System.out.println("UncrossedLines works\n");}}

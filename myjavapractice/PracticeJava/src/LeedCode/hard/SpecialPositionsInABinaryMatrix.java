@@ -1,0 +1,1 @@
+package hard;public class SpecialPositionsInABinaryMatrix{public static void main(String[]args){System.out.println("SpecialPositionsInABinaryMatrix works\n");}}

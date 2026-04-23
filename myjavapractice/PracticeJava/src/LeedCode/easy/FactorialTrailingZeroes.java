@@ -1,0 +1,1 @@
+package easy;public class FactorialTrailingZeroes{public static void main(String[]args){System.out.println("FactorialTrailingZeroes works\n");}}

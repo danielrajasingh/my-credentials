@@ -1,0 +1,1 @@
+package medium;public class SearchSuggestionsSystem{public static void main(String[]args){System.out.println("SearchSuggestionsSystem works\n");}}

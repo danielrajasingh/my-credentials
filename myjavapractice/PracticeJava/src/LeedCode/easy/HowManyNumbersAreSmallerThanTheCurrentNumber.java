@@ -1,0 +1,1 @@
+package easy;public class HowManyNumbersAreSmallerThanTheCurrentNumber{public static void main(String[]args){System.out.println("HowManyNumbersAreSmallerThanTheCurrentNumber works\n");}}

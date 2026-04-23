@@ -1,0 +1,1 @@
+package hard;public class LowestCommonAncestorOfABinaryTree{public static void main(String[]args){System.out.println("LowestCommonAncestorOfABinaryTree works\n");}}

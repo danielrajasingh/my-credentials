@@ -1,0 +1,1 @@
+package hard;public class DayOfTheYear{public static void main(String[]args){System.out.println("DayOfTheYear works\n");}}

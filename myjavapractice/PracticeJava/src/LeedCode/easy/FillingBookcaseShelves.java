@@ -1,0 +1,1 @@
+package easy;public class FillingBookcaseShelves{public static void main(String[]args){System.out.println("FillingBookcaseShelves works\n");}}

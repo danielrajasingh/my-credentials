@@ -1,0 +1,1 @@
+package medium;public class MaximumLengthOfPairChain{public static void main(String[]args){System.out.println("MaximumLengthOfPairChain works\n");}}

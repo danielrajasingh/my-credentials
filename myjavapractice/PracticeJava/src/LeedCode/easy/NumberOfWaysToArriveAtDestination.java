@@ -1,0 +1,1 @@
+package easy;public class NumberOfWaysToArriveAtDestination{public static void main(String[]args){System.out.println("NumberOfWaysToArriveAtDestination works\n");}}

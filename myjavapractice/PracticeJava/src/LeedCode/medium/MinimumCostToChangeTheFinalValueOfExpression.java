@@ -1,0 +1,1 @@
+package medium;public class MinimumCostToChangeTheFinalValueOfExpression{public static void main(String[]args){System.out.println("MinimumCostToChangeTheFinalValueOfExpression works\n");}}

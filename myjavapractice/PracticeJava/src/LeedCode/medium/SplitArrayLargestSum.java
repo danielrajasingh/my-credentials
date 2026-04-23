@@ -1,0 +1,1 @@
+package medium;public class SplitArrayLargestSum{public static void main(String[]args){System.out.println("SplitArrayLargestSum works\n");}}

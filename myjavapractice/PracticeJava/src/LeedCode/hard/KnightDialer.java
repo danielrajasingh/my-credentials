@@ -1,0 +1,1 @@
+package hard;public class KnightDialer{public static void main(String[]args){System.out.println("KnightDialer works\n");}}

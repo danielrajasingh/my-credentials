@@ -1,0 +1,1 @@
+package easy;public class NonOverlappingIntervals{public static void main(String[]args){System.out.println("NonOverlappingIntervals works\n");}}

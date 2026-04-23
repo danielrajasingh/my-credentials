@@ -1,0 +1,1 @@
+package medium;public class NumberOfStudentsDoingHomeworkAtAGivenTime{public static void main(String[]args){System.out.println("NumberOfStudentsDoingHomeworkAtAGivenTime works\n");}}

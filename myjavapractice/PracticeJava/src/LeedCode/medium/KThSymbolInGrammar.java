@@ -1,0 +1,1 @@
+package medium;public class KThSymbolInGrammar{public static void main(String[]args){System.out.println("KThSymbolInGrammar works\n");}}

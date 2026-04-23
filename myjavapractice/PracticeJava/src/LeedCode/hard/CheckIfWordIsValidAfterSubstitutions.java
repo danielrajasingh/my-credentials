@@ -1,0 +1,1 @@
+package hard;public class CheckIfWordIsValidAfterSubstitutions{public static void main(String[]args){System.out.println("CheckIfWordIsValidAfterSubstitutions works\n");}}

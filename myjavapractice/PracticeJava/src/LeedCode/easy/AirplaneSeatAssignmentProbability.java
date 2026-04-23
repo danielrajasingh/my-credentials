@@ -1,0 +1,1 @@
+package easy;public class AirplaneSeatAssignmentProbability{public static void main(String[]args){System.out.println("AirplaneSeatAssignmentProbability works\n");}}

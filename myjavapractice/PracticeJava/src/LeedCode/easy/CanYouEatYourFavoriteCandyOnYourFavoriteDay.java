@@ -1,0 +1,1 @@
+package easy;public class CanYouEatYourFavoriteCandyOnYourFavoriteDay{public static void main(String[]args){System.out.println("CanYouEatYourFavoriteCandyOnYourFavoriteDay works\n");}}

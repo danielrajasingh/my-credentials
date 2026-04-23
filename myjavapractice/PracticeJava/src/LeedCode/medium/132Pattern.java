@@ -1,0 +1,1 @@
+package medium;public class 132Pattern{public static void main(String[]args){System.out.println("132Pattern works\n");}}

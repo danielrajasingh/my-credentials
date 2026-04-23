@@ -1,0 +1,1 @@
+package medium;public class TheNumberOfGoodSubsets{public static void main(String[]args){System.out.println("TheNumberOfGoodSubsets works\n");}}

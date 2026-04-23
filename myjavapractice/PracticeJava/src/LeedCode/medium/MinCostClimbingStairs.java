@@ -1,0 +1,1 @@
+package medium;public class MinCostClimbingStairs{public static int minCostClimbingStairs(int[]c){int n=c.length,a=c[0],b=c[1];for(int i=2;i<n;i++){int t=Math.min(a,b)+c[i];a=b;b=t;}return Math.min(a,b);}public static void main(String[]args){System.out.println("Min cost: "+minCostClimbingStairs(new int[]{10,15,20}));}}

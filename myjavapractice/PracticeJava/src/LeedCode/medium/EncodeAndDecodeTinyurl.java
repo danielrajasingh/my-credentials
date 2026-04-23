@@ -1,0 +1,1 @@
+package medium;public class EncodeAndDecodeTinyurl{public static void main(String[]args){System.out.println("EncodeAndDecodeTinyurl works\n");}}

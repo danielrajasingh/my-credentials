@@ -1,0 +1,1 @@
+package hard;public class RectangleAreaIi{public static void main(String[]args){System.out.println("RectangleAreaIi works\n");}}

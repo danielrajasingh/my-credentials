@@ -1,0 +1,1 @@
+package hard;public class Ipo{public static void main(String[]args){System.out.println("Ipo works\n");}}

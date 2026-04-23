@@ -1,0 +1,1 @@
+package medium;public class LinkedListRandomNode{public static void main(String[]args){System.out.println("LinkedListRandomNode works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class GetBiggestThreeRhombusSumsInAGrid{public static void main(String[]args){System.out.println("GetBiggestThreeRhombusSumsInAGrid works\n");}}

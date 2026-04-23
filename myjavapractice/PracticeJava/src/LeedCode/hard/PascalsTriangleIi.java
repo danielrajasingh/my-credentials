@@ -1,0 +1,1 @@
+package hard;public class PascalsTriangleIi{public static void main(String[]args){System.out.println("PascalsTriangleIi works\n");}}

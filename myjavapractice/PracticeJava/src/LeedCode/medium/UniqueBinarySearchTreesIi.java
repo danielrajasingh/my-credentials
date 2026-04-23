@@ -1,0 +1,1 @@
+package medium;public class UniqueBinarySearchTreesIi{public static void main(String[]args){System.out.println("UniqueBinarySearchTreesIi works\n");}}

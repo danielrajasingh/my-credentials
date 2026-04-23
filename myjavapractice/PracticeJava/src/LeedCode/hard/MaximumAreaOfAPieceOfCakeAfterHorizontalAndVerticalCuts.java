@@ -1,0 +1,1 @@
+package hard;public class MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts{public static void main(String[]args){System.out.println("MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts works\n");}}

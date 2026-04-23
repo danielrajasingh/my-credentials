@@ -1,0 +1,1 @@
+package medium;public class MaximumCandiesYouCanGetFromBoxes{public static void main(String[]args){System.out.println("MaximumCandiesYouCanGetFromBoxes works\n");}}

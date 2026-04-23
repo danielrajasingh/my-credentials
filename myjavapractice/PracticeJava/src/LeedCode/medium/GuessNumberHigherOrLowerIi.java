@@ -1,0 +1,1 @@
+package medium;public class GuessNumberHigherOrLowerIi{public static void main(String[]args){System.out.println("GuessNumberHigherOrLowerIi works\n");}}

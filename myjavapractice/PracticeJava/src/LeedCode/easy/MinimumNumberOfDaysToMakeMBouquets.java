@@ -1,0 +1,1 @@
+package easy;public class MinimumNumberOfDaysToMakeMBouquets{public static void main(String[]args){System.out.println("MinimumNumberOfDaysToMakeMBouquets works\n");}}

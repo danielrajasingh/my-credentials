@@ -1,0 +1,1 @@
+package hard;public class FindMinimumTimeToFinishAllJobs{public static void main(String[]args){System.out.println("FindMinimumTimeToFinishAllJobs works\n");}}

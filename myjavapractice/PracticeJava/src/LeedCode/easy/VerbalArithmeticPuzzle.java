@@ -1,0 +1,1 @@
+package easy;public class VerbalArithmeticPuzzle{public static void main(String[]args){System.out.println("VerbalArithmeticPuzzle works\n");}}

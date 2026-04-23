@@ -1,0 +1,1 @@
+package easy;public class PerfectNumber{public static void main(String[]args){System.out.println("PerfectNumber works\n");}}

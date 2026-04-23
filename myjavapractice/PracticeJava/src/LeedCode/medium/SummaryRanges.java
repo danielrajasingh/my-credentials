@@ -1,0 +1,1 @@
+package medium;public class SummaryRanges{public static void main(String[]args){System.out.println("SummaryRanges works\n");}}

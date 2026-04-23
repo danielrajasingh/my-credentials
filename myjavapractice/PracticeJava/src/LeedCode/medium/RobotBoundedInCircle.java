@@ -1,0 +1,1 @@
+package medium;public class RobotBoundedInCircle{public static void main(String[]args){System.out.println("RobotBoundedInCircle works\n");}}

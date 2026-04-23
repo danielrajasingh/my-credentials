@@ -1,0 +1,1 @@
+package hard;public class QueueReconstructionByHeight{public static int[][]reconstructQueue(int[][]p){java.util.Arrays.sort(p,(a,b)->a[0]==b[0]?a[1]-b[1]:b[0]-a[0]);java.util.List<int[]>r=new java.util.ArrayList<>();for(int[]x:p)r.add(x[1],x);return r.toArray(new int[r.size()][]);}public static void main(String[]args){System.out.println("Queue reconstruction works\n");}}

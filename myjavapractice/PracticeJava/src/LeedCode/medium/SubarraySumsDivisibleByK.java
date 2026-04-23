@@ -1,0 +1,1 @@
+package medium;public class SubarraySumsDivisibleByK{public static void main(String[]args){System.out.println("SubarraySumsDivisibleByK works\n");}}

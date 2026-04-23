@@ -1,0 +1,1 @@
+package medium;public class TheKthFactorOfN{public static void main(String[]args){System.out.println("TheKthFactorOfN works\n");}}

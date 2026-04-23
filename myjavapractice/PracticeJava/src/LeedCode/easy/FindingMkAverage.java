@@ -1,0 +1,1 @@
+package easy;public class FindingMkAverage{public static void main(String[]args){System.out.println("FindingMkAverage works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class NumberOfSubstringsWithOnly1s{public static void main(String[]args){System.out.println("NumberOfSubstringsWithOnly1s works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class BinaryTreeColoringGame{public static void main(String[]args){System.out.println("BinaryTreeColoringGame works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class Convert1dArrayInto2dArray{public static void main(String[]args){System.out.println("Convert1dArrayInto2dArray works\n");}}

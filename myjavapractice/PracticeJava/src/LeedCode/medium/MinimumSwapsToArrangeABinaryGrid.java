@@ -1,0 +1,1 @@
+package medium;public class MinimumSwapsToArrangeABinaryGrid{public static void main(String[]args){System.out.println("MinimumSwapsToArrangeABinaryGrid works\n");}}

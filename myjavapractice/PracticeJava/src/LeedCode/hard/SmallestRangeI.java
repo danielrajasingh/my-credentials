@@ -1,0 +1,1 @@
+package hard;public class SmallestRangeI{public static void main(String[]args){System.out.println("SmallestRangeI works\n");}}

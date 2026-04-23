@@ -1,0 +1,1 @@
+package easy;public class MissingNumber{public static int missingNumber(int[]n){int x=0,y=0;for(int i=0;i<n.length;i++){x^=n[i];y^=i+1;}return x^y;}public static void main(String[]args){System.out.println("Missing: "+missingNumber(new int[]{0,1,3}));}}

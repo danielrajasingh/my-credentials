@@ -1,0 +1,1 @@
+package easy;public class PathInZigzagLabelledBinaryTree{public static void main(String[]args){System.out.println("PathInZigzagLabelledBinaryTree works\n");}}

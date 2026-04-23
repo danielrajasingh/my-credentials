@@ -1,0 +1,1 @@
+package medium;public class LargestPalindromeProduct{public static void main(String[]args){System.out.println("LargestPalindromeProduct works\n");}}

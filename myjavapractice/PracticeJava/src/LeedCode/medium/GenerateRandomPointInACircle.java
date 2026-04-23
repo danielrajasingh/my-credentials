@@ -1,0 +1,1 @@
+package medium;public class GenerateRandomPointInACircle{public static void main(String[]args){System.out.println("GenerateRandomPointInACircle works\n");}}

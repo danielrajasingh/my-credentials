@@ -1,0 +1,1 @@
+package medium;public class SplitArrayIntoFibonacciSequence{public static void main(String[]args){System.out.println("SplitArrayIntoFibonacciSequence works\n");}}

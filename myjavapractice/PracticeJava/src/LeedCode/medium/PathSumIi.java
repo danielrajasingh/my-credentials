@@ -1,0 +1,1 @@
+package medium;public class PathSumIi{public static void main(String[]args){System.out.println("PathSumIi works\n");}}

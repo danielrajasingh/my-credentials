@@ -1,0 +1,1 @@
+package medium;public class SlowestKey{public static void main(String[]args){System.out.println("SlowestKey works\n");}}

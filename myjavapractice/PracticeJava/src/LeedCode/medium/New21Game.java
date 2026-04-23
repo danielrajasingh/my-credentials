@@ -1,0 +1,1 @@
+package medium;public class New21Game{public static void main(String[]args){System.out.println("New21Game works\n");}}

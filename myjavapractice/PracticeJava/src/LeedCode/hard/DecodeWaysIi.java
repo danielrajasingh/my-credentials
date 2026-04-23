@@ -1,0 +1,1 @@
+package hard;public class DecodeWaysIi{public static void main(String[]args){System.out.println("DecodeWaysIi works\n");}}

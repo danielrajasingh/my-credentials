@@ -1,0 +1,1 @@
+package medium;public class ImplementMagicDictionary{public static void main(String[]args){System.out.println("ImplementMagicDictionary works\n");}}

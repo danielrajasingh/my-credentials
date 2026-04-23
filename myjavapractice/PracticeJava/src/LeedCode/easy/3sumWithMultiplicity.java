@@ -1,0 +1,1 @@
+package easy;public class 3sumWithMultiplicity{public static void main(String[]args){System.out.println("3sumWithMultiplicity works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class AdvantageShuffle{public static void main(String[]args){System.out.println("AdvantageShuffle works\n");}}

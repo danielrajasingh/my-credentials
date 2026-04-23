@@ -1,0 +1,1 @@
+package hard;public class GuessNumberHigherOrLower{public static void main(String[]args){System.out.println("GuessNumberHigherOrLower works\n");}}

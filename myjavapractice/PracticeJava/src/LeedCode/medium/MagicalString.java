@@ -1,0 +1,1 @@
+package medium;public class MagicalString{public static void main(String[]args){System.out.println("MagicalString works\n");}}

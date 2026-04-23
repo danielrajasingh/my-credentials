@@ -1,0 +1,1 @@
+package medium;public class HouseRobber{public static void main(String[]args){System.out.println("HouseRobber works\n");}}

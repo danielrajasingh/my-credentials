@@ -1,0 +1,1 @@
+package medium;public class MinimumOperationsToMakeAUniValueGrid{public static void main(String[]args){System.out.println("MinimumOperationsToMakeAUniValueGrid works\n");}}

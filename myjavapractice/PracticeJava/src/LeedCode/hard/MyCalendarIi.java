@@ -1,0 +1,1 @@
+package hard;public class MyCalendarIi{public static void main(String[]args){System.out.println("MyCalendarIi works\n");}}

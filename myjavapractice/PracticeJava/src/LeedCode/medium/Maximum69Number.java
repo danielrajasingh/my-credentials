@@ -1,0 +1,1 @@
+package medium;public class Maximum69Number{public static void main(String[]args){System.out.println("Maximum69Number works\n");}}

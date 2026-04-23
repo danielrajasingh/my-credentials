@@ -1,0 +1,1 @@
+package easy;public class DecryptStringFromAlphabetToIntegerMapping{public static void main(String[]args){System.out.println("DecryptStringFromAlphabetToIntegerMapping works\n");}}

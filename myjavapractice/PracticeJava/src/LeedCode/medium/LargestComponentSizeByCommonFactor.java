@@ -1,0 +1,1 @@
+package medium;public class LargestComponentSizeByCommonFactor{public static void main(String[]args){System.out.println("LargestComponentSizeByCommonFactor works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class KthSmallestElementInABst{public static void main(String[]args){System.out.println("KthSmallestElementInABst works\n");}}

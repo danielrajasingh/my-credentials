@@ -1,0 +1,1 @@
+package easy;public class TotalHammingDistance{public static void main(String[]args){System.out.println("TotalHammingDistance works\n");}}

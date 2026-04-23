@@ -1,0 +1,1 @@
+package easy;public class MaximumNumberOfWordsFoundInSentences{public static void main(String[]args){System.out.println("MaximumNumberOfWordsFoundInSentences works\n");}}

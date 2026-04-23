@@ -1,0 +1,1 @@
+package hard;public class DesignMovieRentalSystem{public static void main(String[]args){System.out.println("DesignMovieRentalSystem works\n");}}

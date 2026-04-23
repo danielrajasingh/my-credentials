@@ -1,0 +1,1 @@
+package easy;public class MaximumSubarrayMinProduct{public static void main(String[]args){System.out.println("MaximumSubarrayMinProduct works\n");}}

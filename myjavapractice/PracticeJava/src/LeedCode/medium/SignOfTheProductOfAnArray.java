@@ -1,0 +1,1 @@
+package medium;public class SignOfTheProductOfAnArray{public static void main(String[]args){System.out.println("SignOfTheProductOfAnArray works\n");}}

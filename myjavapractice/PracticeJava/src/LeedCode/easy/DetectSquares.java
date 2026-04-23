@@ -1,0 +1,1 @@
+package easy;public class DetectSquares{public static void main(String[]args){System.out.println("DetectSquares works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class MaximumEarningsFromTaxi{public static void main(String[]args){System.out.println("MaximumEarningsFromTaxi works\n");}}

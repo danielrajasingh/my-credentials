@@ -1,0 +1,1 @@
+package medium;public class NumberOfWaysToRearrangeSticksWithKSticksVisible{public static void main(String[]args){System.out.println("NumberOfWaysToRearrangeSticksWithKSticksVisible works\n");}}

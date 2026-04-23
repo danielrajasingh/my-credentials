@@ -1,0 +1,1 @@
+package easy;public class ToLowerCase{public static void main(String[]args){System.out.println("ToLowerCase works\n");}}

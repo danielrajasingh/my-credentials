@@ -1,0 +1,1 @@
+package medium;public class SequentiallyOrdinalRankTracker{public static void main(String[]args){System.out.println("SequentiallyOrdinalRankTracker works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class LongestSubstringWithoutRepeatingCharacters{public static void main(String[]args){System.out.println("LongestSubstringWithoutRepeatingCharacters works\n");}}

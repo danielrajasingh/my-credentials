@@ -1,0 +1,1 @@
+package medium;public class DisplayTableOfFoodOrdersInARestaurant{public static void main(String[]args){System.out.println("DisplayTableOfFoodOrdersInARestaurant works\n");}}

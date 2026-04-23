@@ -1,0 +1,1 @@
+package medium;public class CountNumberOfSpecialSubsequences{public static void main(String[]args){System.out.println("CountNumberOfSpecialSubsequences works\n");}}

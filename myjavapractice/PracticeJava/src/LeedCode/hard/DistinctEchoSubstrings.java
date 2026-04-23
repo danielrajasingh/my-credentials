@@ -1,0 +1,1 @@
+package hard;public class DistinctEchoSubstrings{public static void main(String[]args){System.out.println("DistinctEchoSubstrings works\n");}}

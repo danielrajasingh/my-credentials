@@ -1,0 +1,1 @@
+package easy;public class MaximumNumberOfRemovableCharacters{public static void main(String[]args){System.out.println("MaximumNumberOfRemovableCharacters works\n");}}

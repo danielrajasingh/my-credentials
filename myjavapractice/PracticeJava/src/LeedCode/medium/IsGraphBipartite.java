@@ -1,0 +1,1 @@
+package medium;public class IsGraphBipartite{public static void main(String[]args){System.out.println("IsGraphBipartite works\n");}}

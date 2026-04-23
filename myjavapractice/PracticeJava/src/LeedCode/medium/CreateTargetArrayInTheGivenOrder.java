@@ -1,0 +1,1 @@
+package medium;public class CreateTargetArrayInTheGivenOrder{public static void main(String[]args){System.out.println("CreateTargetArrayInTheGivenOrder works\n");}}

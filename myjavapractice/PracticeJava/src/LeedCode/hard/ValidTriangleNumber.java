@@ -1,0 +1,1 @@
+package hard;public class ValidTriangleNumber{public static void main(String[]args){System.out.println("ValidTriangleNumber works\n");}}

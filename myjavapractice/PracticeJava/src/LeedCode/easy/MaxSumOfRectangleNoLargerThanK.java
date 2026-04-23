@@ -1,0 +1,1 @@
+package easy;public class MaxSumOfRectangleNoLargerThanK{public static void main(String[]args){System.out.println("MaxSumOfRectangleNoLargerThanK works\n");}}

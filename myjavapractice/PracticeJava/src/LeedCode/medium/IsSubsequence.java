@@ -1,0 +1,1 @@
+package medium;public class IsSubsequence{public static void main(String[]args){System.out.println("IsSubsequence works\n");}}

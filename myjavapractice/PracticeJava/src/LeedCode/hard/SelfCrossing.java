@@ -1,0 +1,1 @@
+package hard;public class SelfCrossing{public static void main(String[]args){System.out.println("SelfCrossing works\n");}}

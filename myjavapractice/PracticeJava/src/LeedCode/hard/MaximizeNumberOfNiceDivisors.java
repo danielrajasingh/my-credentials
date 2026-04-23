@@ -1,0 +1,1 @@
+package hard;public class MaximizeNumberOfNiceDivisors{public static void main(String[]args){System.out.println("MaximizeNumberOfNiceDivisors works\n");}}

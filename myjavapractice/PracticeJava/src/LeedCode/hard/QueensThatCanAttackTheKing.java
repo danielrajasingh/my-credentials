@@ -1,0 +1,1 @@
+package hard;public class QueensThatCanAttackTheKing{public static void main(String[]args){System.out.println("QueensThatCanAttackTheKing works\n");}}

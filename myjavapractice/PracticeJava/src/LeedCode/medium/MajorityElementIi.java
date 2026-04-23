@@ -1,0 +1,1 @@
+package medium;public class MajorityElementIi{public static void main(String[]args){System.out.println("MajorityElementIi works\n");}}

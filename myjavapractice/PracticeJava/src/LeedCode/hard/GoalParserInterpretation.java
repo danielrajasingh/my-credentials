@@ -1,0 +1,1 @@
+package hard;public class GoalParserInterpretation{public static void main(String[]args){System.out.println("GoalParserInterpretation works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class SortIntegersByThePowerValue{public static void main(String[]args){System.out.println("SortIntegersByThePowerValue works\n");}}

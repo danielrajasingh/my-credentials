@@ -1,0 +1,1 @@
+package medium;public class RleIterator{public static void main(String[]args){System.out.println("RleIterator works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class FindRightInterval{public static void main(String[]args){System.out.println("FindRightInterval works\n");}}

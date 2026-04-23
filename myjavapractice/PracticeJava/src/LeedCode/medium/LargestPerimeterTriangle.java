@@ -1,0 +1,1 @@
+package medium;public class LargestPerimeterTriangle{public static void main(String[]args){System.out.println("LargestPerimeterTriangle works\n");}}

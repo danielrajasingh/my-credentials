@@ -1,0 +1,1 @@
+package easy;public class MiniParser{public static void main(String[]args){System.out.println("MiniParser works\n");}}

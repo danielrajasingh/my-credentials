@@ -1,0 +1,1 @@
+package hard;public class FindAValueOfAMysteriousFunctionClosestToTarget{public static void main(String[]args){System.out.println("FindAValueOfAMysteriousFunctionClosestToTarget works\n");}}

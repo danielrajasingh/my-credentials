@@ -1,0 +1,1 @@
+package hard;public class RemoveComments{public static void main(String[]args){System.out.println("RemoveComments works\n");}}

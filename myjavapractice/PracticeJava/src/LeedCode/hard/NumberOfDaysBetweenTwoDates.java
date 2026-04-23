@@ -1,0 +1,1 @@
+package hard;public class NumberOfDaysBetweenTwoDates{public static void main(String[]args){System.out.println("NumberOfDaysBetweenTwoDates works\n");}}

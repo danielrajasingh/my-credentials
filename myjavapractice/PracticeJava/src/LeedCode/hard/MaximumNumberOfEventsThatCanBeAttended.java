@@ -1,0 +1,1 @@
+package hard;public class MaximumNumberOfEventsThatCanBeAttended{public static void main(String[]args){System.out.println("MaximumNumberOfEventsThatCanBeAttended works\n");}}

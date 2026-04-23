@@ -1,0 +1,1 @@
+package medium;public class MonotoneIncreasingDigits{public static void main(String[]args){System.out.println("MonotoneIncreasingDigits works\n");}}

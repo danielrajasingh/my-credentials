@@ -1,0 +1,1 @@
+package easy;public class RabbitsInForest{public static void main(String[]args){System.out.println("RabbitsInForest works\n");}}

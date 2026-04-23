@@ -1,0 +1,1 @@
+package medium;public class DistanceBetweenBusStops{public static void main(String[]args){System.out.println("DistanceBetweenBusStops works\n");}}

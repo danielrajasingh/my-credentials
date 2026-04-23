@@ -1,0 +1,1 @@
+package medium;public class LinkedListCycle{public static void main(String[]args){System.out.println("LinkedListCycle works\n");}}

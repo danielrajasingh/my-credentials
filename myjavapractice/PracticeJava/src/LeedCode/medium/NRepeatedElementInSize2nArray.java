@@ -1,0 +1,1 @@
+package medium;public class NRepeatedElementInSize2nArray{public static void main(String[]args){System.out.println("NRepeatedElementInSize2nArray works\n");}}

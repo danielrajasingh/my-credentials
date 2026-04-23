@@ -1,0 +1,1 @@
+package medium;public class StringCompressionIi{public static void main(String[]args){System.out.println("StringCompressionIi works\n");}}

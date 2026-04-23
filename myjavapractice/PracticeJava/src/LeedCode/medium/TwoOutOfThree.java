@@ -1,0 +1,1 @@
+package medium;public class TwoOutOfThree{public static void main(String[]args){System.out.println("TwoOutOfThree works\n");}}

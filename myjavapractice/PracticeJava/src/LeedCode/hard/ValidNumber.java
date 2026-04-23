@@ -1,0 +1,1 @@
+package hard;public class ValidNumber{public static void main(String[]args){System.out.println("ValidNumber works\n");}}

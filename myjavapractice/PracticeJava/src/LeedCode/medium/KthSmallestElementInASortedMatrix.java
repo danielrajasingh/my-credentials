@@ -1,0 +1,1 @@
+package medium;public class KthSmallestElementInASortedMatrix{public static void main(String[]args){System.out.println("KthSmallestElementInASortedMatrix works\n");}}

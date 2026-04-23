@@ -1,0 +1,1 @@
+package easy;public class ValidateIpAddress{public static void main(String[]args){System.out.println("ValidateIpAddress works\n");}}

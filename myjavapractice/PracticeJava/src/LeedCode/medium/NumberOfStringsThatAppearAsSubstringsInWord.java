@@ -1,0 +1,1 @@
+package medium;public class NumberOfStringsThatAppearAsSubstringsInWord{public static void main(String[]args){System.out.println("NumberOfStringsThatAppearAsSubstringsInWord works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class JumpGameIii{public static void main(String[]args){System.out.println("JumpGameIii works\n");}}

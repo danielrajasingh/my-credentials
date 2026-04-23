@@ -1,0 +1,1 @@
+package medium;public class TwoSumIvInputIsABst{public static void main(String[]args){System.out.println("TwoSumIvInputIsABst works\n");}}

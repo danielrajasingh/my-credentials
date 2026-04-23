@@ -1,0 +1,1 @@
+package easy;public class NumberOfProvinces{public static void main(String[]args){System.out.println("NumberOfProvinces works\n");}}

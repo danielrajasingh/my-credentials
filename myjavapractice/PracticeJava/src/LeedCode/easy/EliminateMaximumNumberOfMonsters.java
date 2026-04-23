@@ -1,0 +1,1 @@
+package easy;public class EliminateMaximumNumberOfMonsters{public static void main(String[]args){System.out.println("EliminateMaximumNumberOfMonsters works\n");}}

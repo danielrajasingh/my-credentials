@@ -1,0 +1,1 @@
+package hard;public class SuperWashingMachines{public static void main(String[]args){System.out.println("SuperWashingMachines works\n");}}

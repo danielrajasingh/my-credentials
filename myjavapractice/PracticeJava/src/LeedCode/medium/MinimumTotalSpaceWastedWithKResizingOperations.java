@@ -1,0 +1,1 @@
+package medium;public class MinimumTotalSpaceWastedWithKResizingOperations{public static void main(String[]args){System.out.println("MinimumTotalSpaceWastedWithKResizingOperations works\n");}}

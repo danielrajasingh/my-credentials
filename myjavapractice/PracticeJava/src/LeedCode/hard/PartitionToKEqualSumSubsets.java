@@ -1,0 +1,1 @@
+package hard;public class PartitionToKEqualSumSubsets{public static void main(String[]args){System.out.println("PartitionToKEqualSumSubsets works\n");}}

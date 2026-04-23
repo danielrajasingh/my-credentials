@@ -1,0 +1,1 @@
+package medium;public class GenerateAStringWithCharactersThatHaveOddCounts{public static void main(String[]args){System.out.println("GenerateAStringWithCharactersThatHaveOddCounts works\n");}}

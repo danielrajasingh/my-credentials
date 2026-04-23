@@ -1,0 +1,1 @@
+package easy;public class MapOfHighestPeak{public static void main(String[]args){System.out.println("MapOfHighestPeak works\n");}}

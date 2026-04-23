@@ -1,0 +1,1 @@
+package medium;public class KeysAndRooms{public static void main(String[]args){System.out.println("KeysAndRooms works\n");}}

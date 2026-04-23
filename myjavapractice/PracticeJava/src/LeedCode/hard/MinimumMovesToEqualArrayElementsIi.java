@@ -1,0 +1,1 @@
+package hard;public class MinimumMovesToEqualArrayElementsIi{public static void main(String[]args){System.out.println("MinimumMovesToEqualArrayElementsIi works\n");}}

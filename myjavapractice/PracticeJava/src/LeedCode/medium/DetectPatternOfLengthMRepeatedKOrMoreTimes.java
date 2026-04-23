@@ -1,0 +1,1 @@
+package medium;public class DetectPatternOfLengthMRepeatedKOrMoreTimes{public static void main(String[]args){System.out.println("DetectPatternOfLengthMRepeatedKOrMoreTimes works\n");}}

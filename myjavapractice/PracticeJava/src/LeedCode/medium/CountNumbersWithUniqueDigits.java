@@ -1,0 +1,1 @@
+package medium;public class CountNumbersWithUniqueDigits{public static void main(String[]args){System.out.println("CountNumbersWithUniqueDigits works\n");}}

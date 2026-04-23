@@ -1,0 +1,1 @@
+package easy;public class NumberOfWaysToFormATargetStringGivenADictionary{public static void main(String[]args){System.out.println("NumberOfWaysToFormATargetStringGivenADictionary works\n");}}

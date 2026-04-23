@@ -1,0 +1,1 @@
+package hard;public class EmployeeImportance{public static void main(String[]args){System.out.println("EmployeeImportance works\n");}}

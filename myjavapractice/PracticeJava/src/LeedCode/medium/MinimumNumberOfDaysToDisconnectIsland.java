@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfDaysToDisconnectIsland{public static void main(String[]args){System.out.println("MinimumNumberOfDaysToDisconnectIsland works\n");}}

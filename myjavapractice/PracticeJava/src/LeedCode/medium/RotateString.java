@@ -1,0 +1,1 @@
+package medium;public class RotateString{public static void main(String[]args){System.out.println("RotateString works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class RepeatedDnaSequences{public static void main(String[]args){System.out.println("RepeatedDnaSequences works\n");}}

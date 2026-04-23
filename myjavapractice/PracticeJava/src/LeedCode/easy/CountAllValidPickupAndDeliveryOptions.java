@@ -1,0 +1,1 @@
+package easy;public class CountAllValidPickupAndDeliveryOptions{public static void main(String[]args){System.out.println("CountAllValidPickupAndDeliveryOptions works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance{public static void main(String[]args){System.out.println("FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance works\n");}}

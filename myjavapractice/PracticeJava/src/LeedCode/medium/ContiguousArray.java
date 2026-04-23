@@ -1,0 +1,1 @@
+package medium;public class ContiguousArray{public static void main(String[]args){System.out.println("ContiguousArray works\n");}}

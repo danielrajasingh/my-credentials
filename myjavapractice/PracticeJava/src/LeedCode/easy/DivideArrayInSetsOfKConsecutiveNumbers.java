@@ -1,0 +1,1 @@
+package easy;public class DivideArrayInSetsOfKConsecutiveNumbers{public static void main(String[]args){System.out.println("DivideArrayInSetsOfKConsecutiveNumbers works\n");}}

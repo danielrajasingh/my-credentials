@@ -1,0 +1,1 @@
+package hard;public class FlipColumnsForMaximumNumberOfEqualRows{public static void main(String[]args){System.out.println("FlipColumnsForMaximumNumberOfEqualRows works\n");}}

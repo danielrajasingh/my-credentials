@@ -1,0 +1,1 @@
+package hard;public class ShortestPathInBinaryMatrix{public static void main(String[]args){System.out.println("ShortestPathInBinaryMatrix works\n");}}

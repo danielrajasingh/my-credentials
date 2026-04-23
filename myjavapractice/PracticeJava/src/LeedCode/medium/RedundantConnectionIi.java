@@ -1,0 +1,1 @@
+package medium;public class RedundantConnectionIi{public static void main(String[]args){System.out.println("RedundantConnectionIi works\n");}}

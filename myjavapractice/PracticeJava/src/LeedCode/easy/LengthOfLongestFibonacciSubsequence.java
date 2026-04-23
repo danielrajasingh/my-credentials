@@ -1,0 +1,1 @@
+package easy;public class LengthOfLongestFibonacciSubsequence{public static void main(String[]args){System.out.println("LengthOfLongestFibonacciSubsequence works\n");}}

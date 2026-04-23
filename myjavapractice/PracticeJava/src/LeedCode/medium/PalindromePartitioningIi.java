@@ -1,0 +1,1 @@
+package medium;public class PalindromePartitioningIi{public static void main(String[]args){System.out.println("PalindromePartitioningIi works\n");}}

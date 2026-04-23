@@ -1,0 +1,1 @@
+package medium;public class LastMomentBeforeAllAntsFallOutOfAPlank{public static void main(String[]args){System.out.println("LastMomentBeforeAllAntsFallOutOfAPlank works\n");}}

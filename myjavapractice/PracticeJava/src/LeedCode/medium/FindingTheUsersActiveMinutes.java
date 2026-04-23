@@ -1,0 +1,1 @@
+package medium;public class FindingTheUsersActiveMinutes{public static void main(String[]args){System.out.println("FindingTheUsersActiveMinutes works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class 3sumClosest{public static void main(String[]args){System.out.println("3sumClosest works\n");}}

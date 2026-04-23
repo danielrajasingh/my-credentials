@@ -1,0 +1,1 @@
+package hard;public class TriplesWithBitwiseAndEqualToZero{public static void main(String[]args){System.out.println("TriplesWithBitwiseAndEqualToZero works\n");}}

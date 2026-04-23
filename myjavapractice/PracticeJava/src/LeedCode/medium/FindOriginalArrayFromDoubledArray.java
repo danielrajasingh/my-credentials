@@ -1,0 +1,1 @@
+package medium;public class FindOriginalArrayFromDoubledArray{public static void main(String[]args){System.out.println("FindOriginalArrayFromDoubledArray works\n");}}

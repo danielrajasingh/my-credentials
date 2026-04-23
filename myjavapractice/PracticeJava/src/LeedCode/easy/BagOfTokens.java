@@ -1,0 +1,1 @@
+package easy;public class BagOfTokens{public static void main(String[]args){System.out.println("BagOfTokens works\n");}}

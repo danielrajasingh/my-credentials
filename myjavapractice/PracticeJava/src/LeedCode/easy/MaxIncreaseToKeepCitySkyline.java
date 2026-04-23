@@ -1,0 +1,1 @@
+package easy;public class MaxIncreaseToKeepCitySkyline{public static void main(String[]args){System.out.println("MaxIncreaseToKeepCitySkyline works\n");}}

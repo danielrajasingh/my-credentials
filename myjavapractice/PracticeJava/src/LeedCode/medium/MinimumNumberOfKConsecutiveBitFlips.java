@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfKConsecutiveBitFlips{public static void main(String[]args){System.out.println("MinimumNumberOfKConsecutiveBitFlips works\n");}}

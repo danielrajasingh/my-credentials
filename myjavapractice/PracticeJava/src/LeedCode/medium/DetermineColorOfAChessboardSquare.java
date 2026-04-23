@@ -1,0 +1,1 @@
+package medium;public class DetermineColorOfAChessboardSquare{public static void main(String[]args){System.out.println("DetermineColorOfAChessboardSquare works\n");}}

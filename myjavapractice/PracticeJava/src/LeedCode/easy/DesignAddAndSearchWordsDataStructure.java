@@ -1,0 +1,1 @@
+package easy;public class DesignAddAndSearchWordsDataStructure{public static void main(String[]args){System.out.println("DesignAddAndSearchWordsDataStructure works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class DefuseTheBomb{public static void main(String[]args){System.out.println("DefuseTheBomb works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MaximumNumberOfVisiblePoints{public static void main(String[]args){System.out.println("MaximumNumberOfVisiblePoints works\n");}}

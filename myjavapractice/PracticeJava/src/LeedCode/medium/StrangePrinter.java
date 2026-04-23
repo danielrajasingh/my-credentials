@@ -1,0 +1,1 @@
+package medium;public class StrangePrinter{public static void main(String[]args){System.out.println("StrangePrinter works\n");}}

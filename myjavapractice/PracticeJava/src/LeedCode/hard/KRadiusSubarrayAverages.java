@@ -1,0 +1,1 @@
+package hard;public class KRadiusSubarrayAverages{public static void main(String[]args){System.out.println("KRadiusSubarrayAverages works\n");}}

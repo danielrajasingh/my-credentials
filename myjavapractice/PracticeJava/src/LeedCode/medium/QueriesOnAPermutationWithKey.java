@@ -1,0 +1,1 @@
+package medium;public class QueriesOnAPermutationWithKey{public static void main(String[]args){System.out.println("QueriesOnAPermutationWithKey works\n");}}

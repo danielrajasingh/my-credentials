@@ -1,0 +1,1 @@
+package easy;public class CanMakePalindromeFromSubstring{public static void main(String[]args){System.out.println("CanMakePalindromeFromSubstring works\n");}}

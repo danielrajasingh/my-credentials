@@ -1,0 +1,1 @@
+package hard;public class LongestCommonSubpath{public static void main(String[]args){System.out.println("LongestCommonSubpath works\n");}}

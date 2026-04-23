@@ -1,0 +1,1 @@
+package medium;public class CreateSortedArrayThroughInstructions{public static void main(String[]args){System.out.println("CreateSortedArrayThroughInstructions works\n");}}

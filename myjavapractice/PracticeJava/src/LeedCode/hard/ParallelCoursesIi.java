@@ -1,0 +1,1 @@
+package hard;public class ParallelCoursesIi{public static void main(String[]args){System.out.println("ParallelCoursesIi works\n");}}

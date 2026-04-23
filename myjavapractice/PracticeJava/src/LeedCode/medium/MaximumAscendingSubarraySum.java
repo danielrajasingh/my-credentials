@@ -1,0 +1,1 @@
+package medium;public class MaximumAscendingSubarraySum{public static void main(String[]args){System.out.println("MaximumAscendingSubarraySum works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class ReplaceAllSToAvoidConsecutiveRepeatingCharacters{public static void main(String[]args){System.out.println("ReplaceAllSToAvoidConsecutiveRepeatingCharacters works\n");}}

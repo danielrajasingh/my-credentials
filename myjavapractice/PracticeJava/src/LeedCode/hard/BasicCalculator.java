@@ -1,0 +1,1 @@
+package hard;public class BasicCalculator{public static void main(String[]args){System.out.println("BasicCalculator works\n");}}

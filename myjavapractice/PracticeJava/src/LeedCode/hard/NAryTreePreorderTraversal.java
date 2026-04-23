@@ -1,0 +1,1 @@
+package hard;public class NAryTreePreorderTraversal{public static void main(String[]args){System.out.println("NAryTreePreorderTraversal works\n");}}

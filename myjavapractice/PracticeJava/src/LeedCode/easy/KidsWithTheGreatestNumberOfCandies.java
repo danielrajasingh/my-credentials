@@ -1,0 +1,1 @@
+package easy;public class KidsWithTheGreatestNumberOfCandies{public static void main(String[]args){System.out.println("KidsWithTheGreatestNumberOfCandies works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class MinimumSwapsToMakeSequencesIncreasing{public static void main(String[]args){System.out.println("MinimumSwapsToMakeSequencesIncreasing works\n");}}

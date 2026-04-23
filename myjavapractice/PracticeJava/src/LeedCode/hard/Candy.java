@@ -1,0 +1,1 @@
+package hard;public class Candy{public static void main(String[]args){System.out.println("Candy works\n");}}

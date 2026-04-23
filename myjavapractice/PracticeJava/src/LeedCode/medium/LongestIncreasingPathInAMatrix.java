@@ -1,0 +1,1 @@
+package medium;public class LongestIncreasingPathInAMatrix{public static void main(String[]args){System.out.println("LongestIncreasingPathInAMatrix works\n");}}

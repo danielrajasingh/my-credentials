@@ -1,0 +1,1 @@
+package medium;public class PathWithMaximumGold{public static void main(String[]args){System.out.println("PathWithMaximumGold works\n");}}

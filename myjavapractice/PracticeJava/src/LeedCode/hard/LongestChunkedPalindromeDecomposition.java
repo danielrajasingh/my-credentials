@@ -1,0 +1,1 @@
+package hard;public class LongestChunkedPalindromeDecomposition{public static void main(String[]args){System.out.println("LongestChunkedPalindromeDecomposition works\n");}}

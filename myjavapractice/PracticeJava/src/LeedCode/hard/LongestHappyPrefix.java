@@ -1,0 +1,1 @@
+package hard;public class LongestHappyPrefix{public static void main(String[]args){System.out.println("LongestHappyPrefix works\n");}}

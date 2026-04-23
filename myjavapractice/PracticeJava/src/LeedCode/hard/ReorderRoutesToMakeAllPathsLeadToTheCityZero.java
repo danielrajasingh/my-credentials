@@ -1,0 +1,1 @@
+package hard;public class ReorderRoutesToMakeAllPathsLeadToTheCityZero{public static void main(String[]args){System.out.println("ReorderRoutesToMakeAllPathsLeadToTheCityZero works\n");}}

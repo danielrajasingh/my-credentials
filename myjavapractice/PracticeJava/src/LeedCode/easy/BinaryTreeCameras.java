@@ -1,0 +1,1 @@
+package easy;public class BinaryTreeCameras{public static void main(String[]args){System.out.println("BinaryTreeCameras works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class NumberOfRestrictedPathsFromFirstToLastNode{public static void main(String[]args){System.out.println("NumberOfRestrictedPathsFromFirstToLastNode works\n");}}

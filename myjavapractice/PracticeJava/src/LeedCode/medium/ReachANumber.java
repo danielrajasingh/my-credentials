@@ -1,0 +1,1 @@
+package medium;public class ReachANumber{public static void main(String[]args){System.out.println("ReachANumber works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MinimizeMaximumPairSumInArray{public static void main(String[]args){System.out.println("MinimizeMaximumPairSumInArray works\n");}}

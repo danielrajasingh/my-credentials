@@ -1,0 +1,1 @@
+package hard;public class SumOfBeautyInTheArray{public static void main(String[]args){System.out.println("SumOfBeautyInTheArray works\n");}}

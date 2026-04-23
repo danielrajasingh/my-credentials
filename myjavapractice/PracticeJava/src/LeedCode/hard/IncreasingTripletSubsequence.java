@@ -1,0 +1,1 @@
+package hard;public class IncreasingTripletSubsequence{public static void main(String[]args){System.out.println("IncreasingTripletSubsequence works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class NumberOfEquivalentDominoPairs{public static void main(String[]args){System.out.println("NumberOfEquivalentDominoPairs works\n");}}

@@ -1,0 +1,1 @@
+package easy;public class MinimumCostToHireKWorkers{public static void main(String[]args){System.out.println("MinimumCostToHireKWorkers works\n");}}

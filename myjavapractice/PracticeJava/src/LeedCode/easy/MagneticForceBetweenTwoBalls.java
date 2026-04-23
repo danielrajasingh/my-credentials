@@ -1,0 +1,1 @@
+package easy;public class MagneticForceBetweenTwoBalls{public static void main(String[]args){System.out.println("MagneticForceBetweenTwoBalls works\n");}}

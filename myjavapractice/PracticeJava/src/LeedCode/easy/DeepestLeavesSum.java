@@ -1,0 +1,1 @@
+package easy;public class DeepestLeavesSum{public static void main(String[]args){System.out.println("DeepestLeavesSum works\n");}}

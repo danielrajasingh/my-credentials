@@ -1,0 +1,1 @@
+package medium;public class MinimumNumberOfArrowsToBurstBalloons{public static void main(String[]args){System.out.println("MinimumNumberOfArrowsToBurstBalloons works\n");}}

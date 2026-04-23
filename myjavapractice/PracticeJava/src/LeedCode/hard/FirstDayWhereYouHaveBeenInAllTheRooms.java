@@ -1,0 +1,1 @@
+package hard;public class FirstDayWhereYouHaveBeenInAllTheRooms{public static void main(String[]args){System.out.println("FirstDayWhereYouHaveBeenInAllTheRooms works\n");}}

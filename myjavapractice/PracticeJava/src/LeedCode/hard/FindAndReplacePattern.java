@@ -1,0 +1,1 @@
+package hard;public class FindAndReplacePattern{public static void main(String[]args){System.out.println("FindAndReplacePattern works\n");}}

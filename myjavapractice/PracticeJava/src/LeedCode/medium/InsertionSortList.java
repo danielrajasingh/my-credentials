@@ -1,0 +1,1 @@
+package medium;public class InsertionSortList{public static void main(String[]args){System.out.println("InsertionSortList works\n");}}

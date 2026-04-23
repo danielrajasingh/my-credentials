@@ -1,0 +1,1 @@
+package hard;public class ValidArrangementOfPairs{public static void main(String[]args){System.out.println("ValidArrangementOfPairs works\n");}}

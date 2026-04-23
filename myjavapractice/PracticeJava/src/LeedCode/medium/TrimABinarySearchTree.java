@@ -1,0 +1,1 @@
+package medium;public class TrimABinarySearchTree{public static void main(String[]args){System.out.println("TrimABinarySearchTree works\n");}}

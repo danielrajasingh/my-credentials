@@ -1,0 +1,1 @@
+package easy;public class TrappingRainWater{public static void main(String[]args){System.out.println("TrappingRainWater works\n");}}

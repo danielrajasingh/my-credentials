@@ -1,0 +1,1 @@
+package medium;public class CheckIfNAndItsDoubleExist{public static void main(String[]args){System.out.println("CheckIfNAndItsDoubleExist works\n");}}

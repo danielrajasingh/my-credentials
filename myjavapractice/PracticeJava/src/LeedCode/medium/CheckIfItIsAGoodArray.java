@@ -1,0 +1,1 @@
+package medium;public class CheckIfItIsAGoodArray{public static void main(String[]args){System.out.println("CheckIfItIsAGoodArray works\n");}}

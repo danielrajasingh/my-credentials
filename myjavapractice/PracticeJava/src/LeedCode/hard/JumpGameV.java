@@ -1,0 +1,1 @@
+package hard;public class JumpGameV{public static void main(String[]args){System.out.println("JumpGameV works\n");}}

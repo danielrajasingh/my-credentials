@@ -1,0 +1,1 @@
+package medium;public class DesignTwitter{public static void main(String[]args){System.out.println("DesignTwitter works\n");}}

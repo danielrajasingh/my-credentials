@@ -1,0 +1,1 @@
+package easy;public class RemoveElement{public static void main(String[]args){System.out.println("RemoveElement works\n");}}

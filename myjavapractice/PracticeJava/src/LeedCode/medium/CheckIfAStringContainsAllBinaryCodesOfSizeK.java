@@ -1,0 +1,1 @@
+package medium;public class CheckIfAStringContainsAllBinaryCodesOfSizeK{public static void main(String[]args){System.out.println("CheckIfAStringContainsAllBinaryCodesOfSizeK works\n");}}

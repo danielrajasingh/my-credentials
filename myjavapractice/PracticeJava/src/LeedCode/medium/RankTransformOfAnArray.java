@@ -1,0 +1,1 @@
+package medium;public class RankTransformOfAnArray{public static void main(String[]args){System.out.println("RankTransformOfAnArray works\n");}}

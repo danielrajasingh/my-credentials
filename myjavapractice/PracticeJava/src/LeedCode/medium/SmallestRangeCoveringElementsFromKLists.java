@@ -1,0 +1,1 @@
+package medium;public class SmallestRangeCoveringElementsFromKLists{public static void main(String[]args){System.out.println("SmallestRangeCoveringElementsFromKLists works\n");}}

@@ -1,0 +1,1 @@
+package hard;public class CountTheNumberOfConsistentStrings{public static void main(String[]args){System.out.println("CountTheNumberOfConsistentStrings works\n");}}

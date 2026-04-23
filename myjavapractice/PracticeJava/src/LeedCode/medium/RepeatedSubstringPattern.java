@@ -1,0 +1,1 @@
+package medium;public class RepeatedSubstringPattern{public static void main(String[]args){System.out.println("RepeatedSubstringPattern works\n");}}

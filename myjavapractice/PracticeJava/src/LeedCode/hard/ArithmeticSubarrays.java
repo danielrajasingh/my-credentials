@@ -1,0 +1,1 @@
+package hard;public class ArithmeticSubarrays{public static void main(String[]args){System.out.println("ArithmeticSubarrays works\n");}}

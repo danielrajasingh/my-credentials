@@ -1,0 +1,1 @@
+package hard;public class TruncateSentence{public static void main(String[]args){System.out.println("TruncateSentence works\n");}}

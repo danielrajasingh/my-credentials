@@ -1,0 +1,1 @@
+package medium;public class UnivaluedBinaryTree{public static void main(String[]args){System.out.println("UnivaluedBinaryTree works\n");}}

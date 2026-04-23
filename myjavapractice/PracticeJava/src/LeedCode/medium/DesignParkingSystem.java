@@ -1,0 +1,1 @@
+package medium;public class DesignParkingSystem{public static void main(String[]args){System.out.println("DesignParkingSystem works\n");}}

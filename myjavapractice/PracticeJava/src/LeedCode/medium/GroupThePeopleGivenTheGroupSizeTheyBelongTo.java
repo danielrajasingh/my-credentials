@@ -1,0 +1,1 @@
+package medium;public class GroupThePeopleGivenTheGroupSizeTheyBelongTo{public static void main(String[]args){System.out.println("GroupThePeopleGivenTheGroupSizeTheyBelongTo works\n");}}

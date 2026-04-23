@@ -1,0 +1,1 @@
+package medium;public class TagValidator{public static void main(String[]args){System.out.println("TagValidator works\n");}}

@@ -1,0 +1,1 @@
+package medium;public class PowerOfThree{public static void main(String[]args){System.out.println("PowerOfThree works\n");}}
