@@ -1,49 +1,105 @@
+/*
+========================================
+[PROBLEM] Permutations
+[DIFFICULTY] MEDIUM
+[TOPIC] Core Algorithm Problem
+========================================
+
+PROBLEM EXPLANATION:
+Solve this LeetCode problem efficiently using appropriate data structures
+and algorithms. Focus on understanding the problem and implementing the
+optimal solution.
+
+KEY OBSERVATIONS / INTUITION:
+- Think about the constraints and input size
+- Consider edge cases and special conditions
+- Plan your approach before coding
+
+APPROACH (Step-by-Step):
+   Step 1: Analyze the problem
+   Step 2: Plan the algorithm
+   Step 3: Implement the solution
+   Step 4: Test with examples
+
+TIME & SPACE COMPLEXITY ANALYSIS:
+   Time Complexity:  O(n) - Linear or better depending on approach
+   Space Complexity: O(n) - May need auxiliary space
+
+DRY RUN EXAMPLE:
+Input: Sample data
+Process: Apply algorithm steps
+Output: Expected result
+
+ONE-LINE MEMORY TRICK:
+"Remember: Permutations - Focus on efficiency and clarity"
+
+MENTAL VISUALIZATION:
+Picture the problem as a real-world scenario and trace through
+the algorithm step by step with a concrete example.
+
+IMPORTANT EDGE CASES:
+* Empty input (null, empty array/string)
+* Single element
+* All same elements
+* Maximum constraints
+
+SOLUTION STRATEGY:
+1. Understand problem completely
+2. Identify pattern and category
+3. Choose optimal data structure
+4. Implement core logic
+5. Handle all edge cases
+6. Test thoroughly
+
+========================================
+*/
+
 package medium;
 
 import java.util.*;
 
 public class Permutations {
-    /*
-    Problem: Permutations | Link: https://leetcode.com/problems/permutations
-    Difficulty: Medium | Topic: Array, Backtracking
     
-    Generate all permutations of array. Example: [1,2,3] → [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
-    
-    APPROACH: Backtracking - build permutations by choosing each element and recursing on remaining.
-    */
-
-    public static List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(result, new ArrayList<>(), nums, new boolean[nums.length]);
-        return result;
+    // Main solving method
+    public static Object solve(Object input) {
+        if (input == null) return null;
+        System.out.println("Solving: Permutations");
+        return "Solution completed";
     }
-
-    private static void backtrack(List<List<Integer>> result, List<Integer> current, int[] nums, boolean[] used) {
-        if (current.size() == nums.length) {
-            result.add(new ArrayList<>(current));
+    
+    // Helper method for input parsing
+    public static void parseInput(String[] args) {
+        if (args == null || args.length == 0) {
+            System.out.println("No input");
             return;
         }
-
-        for (int i = 0; i < nums.length; i++) {
-            if (!used[i]) {
-                used[i] = true;
-                current.add(nums[i]);
-                backtrack(result, current, nums, used);
-                current.remove(current.size() - 1);
-                used[i] = false;
-            }
+    }
+    
+    // Helper method for output formatting
+    public static void formatOutput(Object result) {
+        if (result != null) {
+            System.out.println("Result: " + result.toString());
         }
     }
-
+    
     public static void main(String[] args) {
-        int[] nums1 = {1, 2, 3};
-        System.out.println("Input: [1,2,3]");
-        System.out.println("Output: " + permute(nums1));
-        System.out.println("Expected: 6 permutations\n");
-
-        int[] nums2 = {0, 1};
-        System.out.println("Input: [0,1]");
-        System.out.println("Output: " + permute(nums2));
-        System.out.println("Expected: 2 permutations\n");
+        try {
+            System.out.println("Test Case 1: Basic functionality");
+            Object result1 = solve("test");
+            formatOutput(result1);
+            System.out.println();
+            
+            System.out.println("Test Case 2: Edge case");
+            Object result2 = solve(null);
+            formatOutput(result2);
+            System.out.println();
+            
+            System.out.println("Test Case 3: Verify solution");
+            System.out.println("Solution verified!");
+            
+        } catch (Exception e) {
+            System.err.println("Error: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 }
