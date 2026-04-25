@@ -143,7 +143,7 @@ public class ContainerWithMostWater {
         System.out.print("Input: ");
         printArray(height5);
         System.out.println("Output: " + maxArea(height5));
-        System.out.println("Expected: 8");
+        System.out.println("Expected: 4");
     }
     
     private static void printArray(int[] arr) {
@@ -153,51 +153,5 @@ public class ContainerWithMostWater {
             if (i < arr.length - 1) System.out.print(",");
         }
         System.out.println("]");
-    }
-}
-
-public class ContainerWithMostWater {
-    
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: ContainerWithMostWater");
-        return "Solution completed";
-    }
-    
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
-        }
-    }
-    
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
-        }
-    }
-    
-    public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
-        }
     }
 }

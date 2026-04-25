@@ -5,11 +5,11 @@
 3,Must Do Questions (1 - 500),"Array, Divide and Conquer, Dynamic Programming",https://leetcode.com/problems/trapping-rain-water,Easy,Fully Fixed
 4,Must Do Questions (1 - 500),"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",https://leetcode.com/problems/add-two-numbers,Hard,Fully Fixed
 5,Must Do Questions (1 - 500),"Linked List, Math, Recursion",https://leetcode.com/problems/3sum,Medium,Fully Fixed
-6,Must Do Questions (1 - 500),"Array, Two Pointers, Sorting",https://leetcode.com/problems/longest-palindromic-substring,Medium,
-7,Must Do Questions (1 - 500),"String, Dynamic Programming",https://leetcode.com/problems/median-of-two-sorted-arrays,Medium,
-8,Must Do Questions (1 - 500),"Array, Binary Search, Divide and Conquer",https://leetcode.com/problems/container-with-most-water,Hard,
-9,Must Do Questions (1 - 500),"Array, Two Pointers, Greedy",https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Medium,
-10,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/search-in-rotated-sorted-array,Easy,
+6,Must Do Questions (1 - 500),"Array, Two Pointers, Sorting",https://leetcode.com/problems/longest-palindromic-substring,Medium,Fully Fixed
+7,Must Do Questions (1 - 500),"String, Dynamic Programming",https://leetcode.com/problems/median-of-two-sorted-arrays,Medium,Fully Fixed
+8,Must Do Questions (1 - 500),"Array, Binary Search, Divide and Conquer",https://leetcode.com/problems/container-with-most-water,Hard,Fully Fixed
+9,Must Do Questions (1 - 500),"Array, Two Pointers, Greedy",https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Medium,Fully Fixed
+10,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/search-in-rotated-sorted-array,Easy,Fully Fixed
 11,Must Do Questions (1 - 500),"Array, Binary Search",https://leetcode.com/problems/number-of-islands,Medium,
 12,Must Do Questions (1 - 500),"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix",https://leetcode.com/problems/lru-cache,Medium,
 13,Must Do Questions (1 - 500),"Hash Table, Linked List, Design, Doubly-Linked List",https://leetcode.com/problems/merge-intervals,Medium,

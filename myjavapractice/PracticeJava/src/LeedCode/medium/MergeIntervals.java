@@ -1,55 +1,66 @@
 /*
 ========================================
-[PROBLEM] MergeIntervals
+[PROBLEM] Merge Intervals
 [DIFFICULTY] MEDIUM
-[TOPIC] Core Algorithm Problem
+[TOPIC] Array, Sorting
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+Given an array of intervals where intervals[i] = [starti, endi], 
+merge all overlapping intervals, and return an array of the non-overlapping 
+intervals that cover all the intervals in the input.
+
+Example 1:
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlap, merge them into [1,6].
+
+Example 2:
+Input: intervals = [[1,4],[4,5]]
+Output: [[1,5]]
+Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- Sort intervals by start time
+- Merge overlapping intervals
+- Current interval overlaps if start <= last.end
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Sort intervals by start time
+   Step 2: Add first interval to result
+   Step 3: For each interval, check if it overlaps with previous
+   Step 4: If overlap, merge by updating end
+   Step 5: If no overlap, add new interval
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(n log n) - Sorting dominates
+   Space Complexity: O(n) - For result list
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Process:
+  Sort: [[1,3],[2,6],[8,10],[15,18]]
+  result = [[1,3]]
+  i=1: [2,6] overlaps [1,3] -> merge to [1,6]
+  i=2: [8,10] doesn't overlap [1,6] -> add [8,10]
+  i=3: [15,18] doesn't overlap [8,10] -> add [15,18]
+Output: [[1,6],[8,10],[15,18]]
 
 ONE-LINE MEMORY TRICK:
-"Remember: MergeIntervals - Focus on efficiency and clarity"
+"Sort by start, merge overlapping intervals"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of merging overlapping time slots. Sort first, then merge contiguous intervals.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* No intervals -> return empty
+* Single interval -> return that interval
+* All overlapping -> return one interval
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Sort intervals by start time
+2. Iterate and merge overlapping intervals
+3. Update end time if current overlaps
 
 ========================================
 */
@@ -57,6 +68,84 @@ SOLUTION STRATEGY:
 package medium;
 
 import java.util.*;
+
+public class MergeIntervals {
+    
+    /**
+     * Merge overlapping intervals
+     */
+    public static int[][] merge(int[][] intervals) {
+        if (intervals == null || intervals.length == 0) {
+            return new int[0][];
+        }
+        
+        // Sort intervals by start time
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        
+        List<int[]> result = new ArrayList<>();
+        int[] current = intervals[0];
+        result.add(current);
+        
+        for (int i = 1; i < intervals.length; i++) {
+            if (intervals[i][0] <= current[1]) {
+                // Overlapping - merge
+                current[1] = Math.max(current[1], intervals[i][1]);
+            } else {
+                // Not overlapping - add new interval
+                current = intervals[i];
+                result.add(current);
+            }
+        }
+        
+        return result.toArray(new int[0][]);
+    }
+    
+    public static void main(String[] args) {
+        // Test Case 1
+        int[][] intervals1 = {{1, 3}, {2, 6}, {8, 10}, {15, 18}};
+        System.out.print("Input: ");
+        printIntervals(intervals1);
+        System.out.println("Output: " + Arrays.deepToString(merge(intervals1)));
+        System.out.println("Expected: [[1,6],[8,10],[15,18]]\n");
+        
+        // Test Case 2
+        int[][] intervals2 = {{1, 4}, {4, 5}};
+        System.out.print("Input: ");
+        printIntervals(intervals2);
+        System.out.println("Output: " + Arrays.deepToString(merge(intervals2)));
+        System.out.println("Expected: [[1,5]]\n");
+        
+        // Test Case 3
+        int[][] intervals3 = {{1, 4}, {0, 4}};
+        System.out.print("Input: ");
+        printIntervals(intervals3);
+        System.out.println("Output: " + Arrays.deepToString(merge(intervals3)));
+        System.out.println("Expected: [[0,4]]\n");
+        
+        // Test Case 4
+        int[][] intervals4 = {{1, 4}, {2, 3}};
+        System.out.print("Input: ");
+        printIntervals(intervals4);
+        System.out.println("Output: " + Arrays.deepToString(merge(intervals4)));
+        System.out.println("Expected: [[1,4]]\n");
+        
+        // Test Case 5
+        int[][] intervals5 = {{1, 4}, {0, 0}};
+        System.out.print("Input: ");
+        printIntervals(intervals5);
+        System.out.println("Output: " + Arrays.deepToString(merge(intervals5)));
+        System.out.println("Expected: [[0,0],[1,4]]");
+    }
+    
+    private static void printIntervals(int[][] intervals) {
+        System.out.print("[");
+        for (int i = 0; i < intervals.length; i++) {
+            System.out.print("[" + intervals[i][0] + "," + intervals[i][1] + "]");
+            if (i < intervals.length - 1) System.out.print(",");
+        }
+        System.out.println("]");
+    }
+}
 
 public class MergeIntervals {
     

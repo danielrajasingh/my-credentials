@@ -1,55 +1,61 @@
 /*
 ========================================
-[PROBLEM] GenerateParentheses
+[PROBLEM] Generate Parentheses
 [DIFFICULTY] MEDIUM
-[TOPIC] Core Algorithm Problem
+[TOPIC] String, Dynamic Programming, Backtracking
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+Given n pairs of parentheses, generate a list of all possible well-formed 
+parentheses.
+
+Example 1:
+Input: n = 3
+Output: ["((()))","(()())","(())()","()(())","()()()"]
+
+Example 2:
+Input: n = 1
+Output: ["()"]
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- Use backtracking to build valid combinations
+- At each step, can add '(' if open count < n
+- Can add ')' if close count < open count
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Use recursion with open and close counts
+   Step 2: Add '(' when open < n
+   Step 3: Add ')' when close < open
+   Step 4: Base case: when both counts reach n
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(4^n / n^(3/2)) - Catalan number
+   Space Complexity: O(n) - Recursion stack
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: n = 3
+Process:
+  generate(1,0,"(") -> generate(2,0,"((") -> generate(3,0,"(((")
+  generate(3,1,"((()") -> generate(3,2,"((())") -> generate(3,3,"((()))")
+  Backtrack and explore other paths
+Output: ["((()))","(()())","(())()","()(())","()()()"]
 
 ONE-LINE MEMORY TRICK:
-"Remember: GenerateParentheses - Focus on efficiency and clarity"
+"Backtrack - add '(' if open<n, add ')' if close<open"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of building parentheses by always maintaining valid state.
+Never add more closing than opening.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* n = 0 -> return empty
+* n = 1 -> return ["()"]
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use backtracking
+2. Track open and close count
+3. Add '(' when open < n
+4. Add ')' when close < open
 
 ========================================
 */
@@ -57,6 +63,65 @@ SOLUTION STRATEGY:
 package medium;
 
 import java.util.*;
+
+public class GenerateParentheses {
+    
+    /**
+     * Generate all valid parentheses combinations
+     */
+    public static List<String> generateParenthesis(int n) {
+        List<String> result = new ArrayList<>();
+        backtrack(result, "", 0, 0, n);
+        return result;
+    }
+    
+    private static void backtrack(List<String> result, String current, int open, int close, int n) {
+        if (current.length() == 2 * n) {
+            result.add(current);
+            return;
+        }
+        
+        if (open < n) {
+            backtrack(result, current + "(", open + 1, close, n);
+        }
+        
+        if (close < open) {
+            backtrack(result, current + ")", open, close + 1, n);
+        }
+    }
+    
+    public static void main(String[] args) {
+        // Test Case 1
+        int n1 = 3;
+        System.out.println("Input: n = " + n1);
+        System.out.println("Output: " + generateParenthesis(n1));
+        System.out.println("Expected: [\"((()))\",\"(()())\",\"(())\",\"()()\",\"()()()\"]\n");
+        
+        // Test Case 2
+        int n2 = 1;
+        System.out.println("Input: n = " + n2);
+        System.out.println("Output: " + generateParenthesis(n2));
+        System.out.println("Expected: [\"()\"]\n");
+        
+        // Test Case 3
+        int n3 = 2;
+        System.out.println("Input: n = " + n3);
+        System.out.println("Output: " + generateParenthesis(n3));
+        System.out.println("Expected: [\"()\",\"(())]\"\n");
+        
+        // Test Case 4
+        int n4 = 4;
+        System.out.println("Input: n = " + n4);
+        System.out.println("Output: " + generateParenthesis(n4));
+        System.out.println("Expected: 14 combinations\n");
+        
+        // Test Case 5
+        int n5 = 0;
+        System.out.println("Input: n = " + n5);
+        System.out.println("Output: " + generateParenthesis(n5));
+        System.out.println("Expected: []");
+    }
+}
 
 public class GenerateParentheses {
     
