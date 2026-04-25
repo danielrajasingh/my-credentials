@@ -1,25 +1,25 @@
-#,Sheet,Topic,Question,Difficulty
-#,Must Do Questions (1 - 500),Topic,https://leetcode.com/problems/two-sum,Difficulty
-1,Must Do Questions (1 - 500),"Array, Hash Table",https://leetcode.com/problems/longest-substring-without-repeating-characters,Easy
-2,Must Do Questions (1 - 500),"Hash Table, String, Sliding Window",https://leetcode.com/problems/maximum-subarray,Medium
-3,Must Do Questions (1 - 500),"Array, Divide and Conquer, Dynamic Programming",https://leetcode.com/problems/trapping-rain-water,Easy
-4,Must Do Questions (1 - 500),"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",https://leetcode.com/problems/add-two-numbers,Hard
-5,Must Do Questions (1 - 500),"Linked List, Math, Recursion",https://leetcode.com/problems/3sum,Medium
-6,Must Do Questions (1 - 500),"Array, Two Pointers, Sorting",https://leetcode.com/problems/longest-palindromic-substring,Medium
-7,Must Do Questions (1 - 500),"String, Dynamic Programming",https://leetcode.com/problems/median-of-two-sorted-arrays,Medium
-8,Must Do Questions (1 - 500),"Array, Binary Search, Divide and Conquer",https://leetcode.com/problems/container-with-most-water,Hard
-9,Must Do Questions (1 - 500),"Array, Two Pointers, Greedy",https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Medium
-10,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/search-in-rotated-sorted-array,Easy
-11,Must Do Questions (1 - 500),"Array, Binary Search",https://leetcode.com/problems/number-of-islands,Medium
-12,Must Do Questions (1 - 500),"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix",https://leetcode.com/problems/lru-cache,Medium
-13,Must Do Questions (1 - 500),"Hash Table, Linked List, Design, Doubly-Linked List",https://leetcode.com/problems/merge-intervals,Medium
-14,Must Do Questions (1 - 500),"Array, Sorting",https://leetcode.com/problems/generate-parentheses,Medium
-15,Must Do Questions (1 - 500),"String, Dynamic Programming, Backtracking",https://leetcode.com/problems/find-the-duplicate-number,Medium
-16,Must Do Questions (1 - 500),"Array, Two Pointers, Binary Search, Bit Manipulation",https://leetcode.com/problems/product-of-array-except-self,Medium
-17,Must Do Questions (1 - 500),"Array, Prefix Sum",https://leetcode.com/problems/valid-parentheses,Medium
-18,Must Do Questions (1 - 500),"String, Stack",https://leetcode.com/problems/subarray-sum-equals-k,Easy
-19,Must Do Questions (1 - 500),"Array, Hash Table, Prefix Sum",https://leetcode.com/problems/house-robber,Medium
-20,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/longest-increasing-subsequence,Medium
+#,Sheet,Topic,Question,Difficulty,Status
+#,Must Do Questions (1 - 500),Topic,https://leetcode.com/problems/two-sum,Difficulty,
+1,Must Do Questions (1 - 500),"Array, Hash Table",https://leetcode.com/problems/longest-substring-without-repeating-characters,Easy,Fully Fixed
+2,Must Do Questions (1 - 500),"Hash Table, String, Sliding Window",https://leetcode.com/problems/maximum-subarray,Medium,Fully Fixed
+3,Must Do Questions (1 - 500),"Array, Divide and Conquer, Dynamic Programming",https://leetcode.com/problems/trapping-rain-water,Easy,Fully Fixed
+4,Must Do Questions (1 - 500),"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",https://leetcode.com/problems/add-two-numbers,Hard,Fully Fixed
+5,Must Do Questions (1 - 500),"Linked List, Math, Recursion",https://leetcode.com/problems/3sum,Medium,Fully Fixed
+6,Must Do Questions (1 - 500),"Array, Two Pointers, Sorting",https://leetcode.com/problems/longest-palindromic-substring,Medium,
+7,Must Do Questions (1 - 500),"String, Dynamic Programming",https://leetcode.com/problems/median-of-two-sorted-arrays,Medium,
+8,Must Do Questions (1 - 500),"Array, Binary Search, Divide and Conquer",https://leetcode.com/problems/container-with-most-water,Hard,
+9,Must Do Questions (1 - 500),"Array, Two Pointers, Greedy",https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Medium,
+10,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/search-in-rotated-sorted-array,Easy,
+11,Must Do Questions (1 - 500),"Array, Binary Search",https://leetcode.com/problems/number-of-islands,Medium,
+12,Must Do Questions (1 - 500),"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix",https://leetcode.com/problems/lru-cache,Medium,
+13,Must Do Questions (1 - 500),"Hash Table, Linked List, Design, Doubly-Linked List",https://leetcode.com/problems/merge-intervals,Medium,
+14,Must Do Questions (1 - 500),"Array, Sorting",https://leetcode.com/problems/generate-parentheses,Medium,
+15,Must Do Questions (1 - 500),"String, Dynamic Programming, Backtracking",https://leetcode.com/problems/find-the-duplicate-number,Medium,
+16,Must Do Questions (1 - 500),"Array, Two Pointers, Binary Search, Bit Manipulation",https://leetcode.com/problems/product-of-array-except-self,Medium,
+17,Must Do Questions (1 - 500),"Array, Prefix Sum",https://leetcode.com/problems/valid-parentheses,Medium,
+18,Must Do Questions (1 - 500),"String, Stack",https://leetcode.com/problems/subarray-sum-equals-k,Easy,
+19,Must Do Questions (1 - 500),"Array, Hash Table, Prefix Sum",https://leetcode.com/problems/house-robber,Medium,
+20,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/longest-increasing-subsequence,Medium,
 21,Must Do Questions (1 - 500),"Array, Binary Search, Dynamic Programming",https://leetcode.com/problems/reverse-linked-list,Medium
 22,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/maximum-product-subarray,Easy
 23,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/merge-k-sorted-lists,Medium
