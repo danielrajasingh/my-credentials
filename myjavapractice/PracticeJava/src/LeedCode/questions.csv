@@ -26,9 +26,9 @@
 24,Must Do Questions (1 - 500),"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort",https://leetcode.com/problems/merge-two-sorted-lists,Hard,Fully Fixed
 25,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/climbing-stairs,Easy,Fully Fixed
 26,Must Do Questions (1 - 500),"Math, Dynamic Programming, Memoization",https://leetcode.com/problems/coin-change,Easy,Fully Fixed
-27,Must Do Questions (1 - 500),"Array, Dynamic Programming, Breadth-First Search",https://leetcode.com/problems/jump-game,Medium
-28,Must Do Questions (1 - 500),"Array, Dynamic Programming, Greedy",https://leetcode.com/problems/word-break,Medium
-29,Must Do Questions (1 - 500),"Hash Table, String, Dynamic Programming, Trie, Memoization",https://leetcode.com/problems/minimum-window-substring,Medium
+27,Must Do Questions (1 - 500),"Array, Dynamic Programming, Breadth-First Search",https://leetcode.com/problems/jump-game,Medium,Fully Fixed
+28,Must Do Questions (1 - 500),"Array, Dynamic Programming, Greedy",https://leetcode.com/problems/word-break,Medium,Fully Fixed
+29,Must Do Questions (1 - 500),"Hash Table, String, Dynamic Programming, Trie, Memoization",https://leetcode.com/problems/minimum-window-substring,Medium,Fully Fixed
 30,Must Do Questions (1 - 500),"Hash Table, String, Sliding Window",https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,Hard
 31,Must Do Questions (1 - 500),"Array, Binary Search",https://leetcode.com/problems/permutations,Medium
 32,Must Do Questions (1 - 500),"Array, Backtracking",https://leetcode.com/problems/combination-sum,Medium
