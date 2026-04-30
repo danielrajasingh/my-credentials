@@ -1,105 +1,140 @@
 /*
 ========================================
-[PROBLEM] HouseRobber
+[PROBLEM] House Robber
 [DIFFICULTY] MEDIUM
-[TOPIC] Core Algorithm Problem
+[TOPIC] Array, Dynamic Programming
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+You are a professional robber planning to rob houses along a street. 
+Each house has a certain amount of money stashed, the only constraint 
+stopping you from robbing each of them is that adjacent houses have 
+security systems connected and it will automatically contact the police 
+if two adjacent houses were broken into on the same night.
+
+Given an integer array nums representing the amount of money of each house, 
+return the maximum amount of money you can rob tonight without alerting the police.
+
+Example 1:
+Input: nums = [1,2,3,1]
+Output: 4
+Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+Total = 1 + 3 = 4
+
+Example 2:
+Input: nums = [2,7,9,3,1]
+Output: 12
+Explanation: Rob house 1 (money = 2), rob house 3 (money = 9) and rob house 5 (money = 1).
+Total = 2 + 9 + 1 = 12
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- At each house, decide to rob or skip
+- If rob, add current to max from 2 houses ago
+- If skip, take max from previous house
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Handle edge cases (empty, single element)
+   Step 2: Initialize dp[0] = nums[0], dp[1] = max(nums[0], nums[1])
+   Step 3: For each house i from 2 to n-1
+   Step 4: dp[i] = max(dp[i-1], dp[i-2] + nums[i])
+   Step 5: Return dp[n-1]
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(n) - Single pass
+   Space Complexity: O(1) - Can optimize to O(1)
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: nums = [2,7,9,3,1]
+Process:
+  dp[0] = 2
+  dp[1] = max(2,7) = 7
+  dp[2] = max(7, 2+9) = 11
+  dp[3] = max(11, 7+3) = 10
+  dp[4] = max(10, 11+1) = 12
+Output: 12
 
 ONE-LINE MEMORY TRICK:
-"Remember: HouseRobber - Focus on efficiency and clarity"
+"dp[i] = max(dp[i-1], dp[i-2] + nums[i])"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of deciding whether to rob each house. If you rob current house, you can't rob the previous one, so add current to max from 2 houses ago.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* Empty array -> return 0
+* Single house -> return that amount
+* Two houses -> return max of both
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use dynamic programming
+2. Track previous two states
+3. At each house, choose max of rob or skip
 
 ========================================
 */
 
 package medium;
 
-import java.util.*;
-
 public class HouseRobber {
     
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: HouseRobber");
-        return "Solution completed";
-    }
-    
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
+    public static int rob(int[] nums) {
+        if (nums == null || nums.length == 0) return 0;
+        if (nums.length == 1) return nums[0];
+        
+        int prev2 = nums[0];
+        int prev1 = Math.max(nums[0], nums[1]);
+        
+        for (int i = 2; i < nums.length; i++) {
+            int current = Math.max(prev1, prev2 + nums[i]);
+            prev2 = prev1;
+            prev1 = current;
         }
-    }
-    
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
-        }
+        
+        return prev1;
     }
     
     public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
+        // Test Case 1
+        int[] nums1 = {1, 2, 3, 1};
+        System.out.print("Input: ");
+        printArray(nums1);
+        System.out.println("Output: " + rob(nums1));
+        System.out.println("Expected: 4\n");
+        
+        // Test Case 2
+        int[] nums2 = {2, 7, 9, 3, 1};
+        System.out.print("Input: ");
+        printArray(nums2);
+        System.out.println("Output: " + rob(nums2));
+        System.out.println("Expected: 12\n");
+        
+        // Test Case 3
+        int[] nums3 = {2, 1, 1, 2};
+        System.out.print("Input: ");
+        printArray(nums3);
+        System.out.println("Output: " + rob(nums3));
+        System.out.println("Expected: 4\n");
+        
+        // Test Case 4
+        int[] nums4 = {1};
+        System.out.print("Input: ");
+        printArray(nums4);
+        System.out.println("Output: " + rob(nums4));
+        System.out.println("Expected: 1\n");
+        
+        // Test Case 5
+        int[] nums5 = {1, 2};
+        System.out.print("Input: ");
+        printArray(nums5);
+        System.out.println("Output: " + rob(nums5));
+        System.out.println("Expected: 2");
+    }
+    
+    private static void printArray(int[] arr) {
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]);
+            if (i < arr.length - 1) System.out.print(",");
         }
+        System.out.println("]");
     }
 }

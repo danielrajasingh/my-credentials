@@ -1,55 +1,62 @@
 /*
 ========================================
-[PROBLEM] SubarraySumEqualsK
-[DIFFICULTY] EASY
-[TOPIC] Core Algorithm Problem
+[PROBLEM] Subarray Sum Equals K
+[DIFFICULTY] MEDIUM
+[TOPIC] Array, Hash Table, Prefix Sum
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+Given an array of integers nums and an integer k, return the total number of 
+continuous subarrays whose sum equals to k.
+
+Example 1:
+Input: nums = [1,1,1], k = 2
+Output: 2
+Explanation: The subarrays are [1,1] and [1,1]
+
+Example 2:
+Input: nums = [1,2,3], k = 3
+Output: 2
+Explanation: [1,2] and [3]
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- Use prefix sum and hashmap
+- If prefixSum - k exists in map, there's a subarray with sum k
+- Count frequency of each prefix sum
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Calculate prefix sum at each position
+   Step 2: Use hashmap to count prefix sum frequencies
+   Step 3: For each prefix sum, check if prefixSum - k exists
+   Step 4: Add count to result
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(n) - Single pass
+   Space Complexity: O(n) - Hashmap for prefix sums
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: nums = [1,1,1], k = 2
+Process:
+  prefix=1: map={0:1,1:1}, prefix-k=-1 not found
+  prefix=2: map={0:1,1:1,2:1}, prefix-k=0 found, count+=1
+  prefix=3: map={0:1,1:1,2:1,3:1}, prefix-k=1 found, count+=1
+Output: 2
 
 ONE-LINE MEMORY TRICK:
-"Remember: SubarraySumEqualsK - Focus on efficiency and clarity"
+"Prefix sum - k exists in map = subarray with sum k"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of prefix sums as cumulative totals. If we need sum k from index i to j, then prefix[j] - prefix[i-1] = k, so prefix[i-1] = prefix[j] - k.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* Empty array -> return 0
+* Single element equals k -> return 1
+* No subarray found -> return 0
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use hashmap to store prefix sum frequencies
+2. Include initial prefix sum of 0 with count 1
+3. For each element, check if prefixSum - k exists
 
 ========================================
 */
@@ -60,46 +67,75 @@ import java.util.*;
 
 public class SubarraySumEqualsK {
     
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: SubarraySumEqualsK");
-        return "Solution completed";
-    }
-    
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
+    public static int subarraySum(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1);
+        
+        int count = 0;
+        int prefix = 0;
+        
+        for (int num : nums) {
+            prefix += num;
+            count += map.getOrDefault(prefix - k, 0);
+            map.put(prefix, map.getOrDefault(prefix, 0) + 1);
         }
-    }
-    
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
-        }
+        
+        return count;
     }
     
     public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
+        // Test Case 1
+        int[] nums1 = {1, 1, 1};
+        int k1 = 2;
+        System.out.print("Input: nums=");
+        printArray(nums1);
+        System.out.println(", k=" + k1);
+        System.out.println("Output: " + subarraySum(nums1, k1));
+        System.out.println("Expected: 2\n");
+        
+        // Test Case 2
+        int[] nums2 = {1, 2, 3};
+        int k2 = 3;
+        System.out.print("Input: nums=");
+        printArray(nums2);
+        System.out.println(", k=" + k2);
+        System.out.println("Output: " + subarraySum(nums2, k2));
+        System.out.println("Expected: 2\n");
+        
+        // Test Case 3
+        int[] nums3 = {1, 2, 3};
+        int k3 = 0;
+        System.out.print("Input: nums=");
+        printArray(nums3);
+        System.out.println(", k=" + k3);
+        System.out.println("Output: " + subarraySum(nums3, k3));
+        System.out.println("Expected: 0\n");
+        
+        // Test Case 4
+        int[] nums4 = {1, -1, 0};
+        int k4 = 0;
+        System.out.print("Input: nums=");
+        printArray(nums4);
+        System.out.println(", k=" + k4);
+        System.out.println("Output: " + subarraySum(nums4, k4));
+        System.out.println("Expected: 3\n");
+        
+        // Test Case 5
+        int[] nums5 = {1};
+        int k5 = 1;
+        System.out.print("Input: nums=");
+        printArray(nums5);
+        System.out.println(", k=" + k5);
+        System.out.println("Output: " + subarraySum(nums5, k5));
+        System.out.println("Expected: 1");
+    }
+    
+    private static void printArray(int[] arr) {
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]);
+            if (i < arr.length - 1) System.out.print(",");
         }
+        System.out.print("]");
     }
 }

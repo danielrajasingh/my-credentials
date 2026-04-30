@@ -1,55 +1,70 @@
 /*
 ========================================
-[PROBLEM] ValidParentheses
-[DIFFICULTY] MEDIUM
-[TOPIC] Core Algorithm Problem
+[PROBLEM] Valid Parentheses
+[DIFFICULTY] EASY
+[TOPIC] String, Stack
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', 
+determine if the input string is valid.
+
+An input string is valid if:
+1. Open brackets must be closed by the same type of brackets.
+2. Open brackets must be closed in the correct order.
+3. Every close bracket has a corresponding open bracket of the same type.
+
+Example 1:
+Input: s = "()"
+Output: true
+
+Example 2:
+Input: s = "()[]{}"
+Output: true
+
+Example 3:
+Input: s = "(]"
+Output: false
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- Use stack to track opening brackets
+- When closing bracket found, check if matches top of stack
+- Stack should be empty at end for valid string
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Create stack for tracking
+   Step 2: Iterate through each character
+   Step 3: If opening bracket, push to stack
+   Step 4: If closing bracket, check stack top for match
+   Step 5: At end, stack should be empty
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(n) - Single pass
+   Space Complexity: O(n) - Stack in worst case
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: s = "([)]"
+Process:
+  i=0: '(' push to stack
+  i=1: '[' push to stack
+  i=2: ')' - stack top='[' != ')', invalid
+Output: false
 
 ONE-LINE MEMORY TRICK:
-"Remember: ValidParentheses - Focus on efficiency and clarity"
+"Stack - push opening, pop and match closing"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of parentheses as nested boxes. Each opening must be closed by its matching closing in the correct order.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* Empty string -> true
+* Single character -> false
+* Unmatched closing -> false
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use stack to track opening brackets
+2. For each closing bracket, check top of stack
+3. Return true if stack is empty at end
 
 ========================================
 */
@@ -60,46 +75,56 @@ import java.util.*;
 
 public class ValidParentheses {
     
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: ValidParentheses");
-        return "Solution completed";
-    }
-    
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
+    public static boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '[' || c == '{') {
+                stack.push(c);
+            } else {
+                if (stack.isEmpty()) return false;
+                
+                char top = stack.pop();
+                if ((c == ')' && top != '(') ||
+                    (c == ']' && top != '[') ||
+                    (c == '}' && top != '{')) {
+                    return false;
+                }
+            }
         }
-    }
-    
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
-        }
+        
+        return stack.isEmpty();
     }
     
     public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
-        }
+        // Test Case 1
+        String s1 = "()";
+        System.out.println("Input: \"" + s1 + "\"");
+        System.out.println("Output: " + isValid(s1));
+        System.out.println("Expected: true\n");
+        
+        // Test Case 2
+        String s2 = "()[]{}";
+        System.out.println("Input: \"" + s2 + "\"");
+        System.out.println("Output: " + isValid(s2));
+        System.out.println("Expected: true\n");
+        
+        // Test Case 3
+        String s3 = "(]";
+        System.out.println("Input: \"" + s3 + "\"");
+        System.out.println("Output: " + isValid(s3));
+        System.out.println("Expected: false\n");
+        
+        // Test Case 4
+        String s4 = "([)]";
+        System.out.println("Input: \"" + s4 + "\"");
+        System.out.println("Output: " + isValid(s4));
+        System.out.println("Expected: false\n");
+        
+        // Test Case 5
+        String s5 = "{[]}";
+        System.out.println("Input: \"" + s5 + "\"");
+        System.out.println("Output: " + isValid(s5));
+        System.out.println("Expected: true");
     }
 }

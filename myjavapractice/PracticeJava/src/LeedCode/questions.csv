@@ -10,16 +10,16 @@
 8,Must Do Questions (1 - 500),"Array, Binary Search, Divide and Conquer",https://leetcode.com/problems/container-with-most-water,Hard,Fully Fixed
 9,Must Do Questions (1 - 500),"Array, Two Pointers, Greedy",https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Medium,Fully Fixed
 10,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/search-in-rotated-sorted-array,Easy,Fully Fixed
-11,Must Do Questions (1 - 500),"Array, Binary Search",https://leetcode.com/problems/number-of-islands,Medium,
-12,Must Do Questions (1 - 500),"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix",https://leetcode.com/problems/lru-cache,Medium,
-13,Must Do Questions (1 - 500),"Hash Table, Linked List, Design, Doubly-Linked List",https://leetcode.com/problems/merge-intervals,Medium,
-14,Must Do Questions (1 - 500),"Array, Sorting",https://leetcode.com/problems/generate-parentheses,Medium,
-15,Must Do Questions (1 - 500),"String, Dynamic Programming, Backtracking",https://leetcode.com/problems/find-the-duplicate-number,Medium,
-16,Must Do Questions (1 - 500),"Array, Two Pointers, Binary Search, Bit Manipulation",https://leetcode.com/problems/product-of-array-except-self,Medium,
-17,Must Do Questions (1 - 500),"Array, Prefix Sum",https://leetcode.com/problems/valid-parentheses,Medium,
-18,Must Do Questions (1 - 500),"String, Stack",https://leetcode.com/problems/subarray-sum-equals-k,Easy,
-19,Must Do Questions (1 - 500),"Array, Hash Table, Prefix Sum",https://leetcode.com/problems/house-robber,Medium,
-20,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/longest-increasing-subsequence,Medium,
+11,Must Do Questions (1 - 500),"Array, Binary Search",https://leetcode.com/problems/number-of-islands,Medium,Fully Fixed
+12,Must Do Questions (1 - 500),"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix",https://leetcode.com/problems/lru-cache,Medium,Fully Fixed
+13,Must Do Questions (1 - 500),"Hash Table, Linked List, Design, Doubly-Linked List",https://leetcode.com/problems/merge-intervals,Medium,Fully Fixed
+14,Must Do Questions (1 - 500),"Array, Sorting",https://leetcode.com/problems/generate-parentheses,Medium,Fully Fixed
+15,Must Do Questions (1 - 500),"String, Dynamic Programming, Backtracking",https://leetcode.com/problems/find-the-duplicate-number,Medium,Fully Fixed
+16,Must Do Questions (1 - 500),"Array, Two Pointers, Binary Search, Bit Manipulation",https://leetcode.com/problems/product-of-array-except-self,Medium,Fully Fixed
+17,Must Do Questions (1 - 500),"Array, Prefix Sum",https://leetcode.com/problems/valid-parentheses,Medium,Fully Fixed
+18,Must Do Questions (1 - 500),"String, Stack",https://leetcode.com/problems/subarray-sum-equals-k,Easy,Fully Fixed
+19,Must Do Questions (1 - 500),"Array, Hash Table, Prefix Sum",https://leetcode.com/problems/house-robber,Medium,Fully Fixed
+20,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/longest-increasing-subsequence,Medium,Fully Fixed
 21,Must Do Questions (1 - 500),"Array, Binary Search, Dynamic Programming",https://leetcode.com/problems/reverse-linked-list,Medium
 22,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/maximum-product-subarray,Easy
 23,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/merge-k-sorted-lists,Medium
