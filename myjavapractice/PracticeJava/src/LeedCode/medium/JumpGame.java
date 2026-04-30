@@ -1,105 +1,132 @@
 /*
 ========================================
-[PROBLEM] JumpGame
+[PROBLEM] Jump Game
 [DIFFICULTY] MEDIUM
-[TOPIC] Core Algorithm Problem
+[TOPIC] Array, Dynamic Programming, Breadth-First Search
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+Given an array of non-negative integers nums, you are initially positioned at the first index of the array.
+Each element in the array represents your maximum jump length at that position.
+Return true if you can reach the last index, or false otherwise.
+
+Example 1:
+Input: nums = [2,3,1,1,4]
+Output: true
+Explanation: Jump 1 step from index 0 to 1, then 3 steps to the last index.
+
+Example 2:
+Input: nums = [3,2,1,0,4]
+Output: false
+Explanation: You will always arrive at index 3 no matter what. Its maximum jump length is 0, so you can never reach it.
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- Greedy approach: track the farthest we can reach
+- At each position, update the farthest reachable index
+- If at any point current index > farthest reachable, we can't proceed
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Initialize maxReach = 0 (farthest reachable index)
+   Step 2: Iterate through each index
+   Step 3: If current index > maxReach, return false (can't reach this point)
+   Step 4: Update maxReach = max(maxReach, i + nums[i])
+   Step 5: If maxReach >= last index, return true
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(n) - Single pass
+   Space Complexity: O(1) - Constant space
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: nums = [2,3,1,1,4]
+Process:
+  i=0: maxReach = 0+2 = 2
+  i=1: maxReach = max(2, 1+3) = 4 >= 4 -> can reach end
+Output: true
 
 ONE-LINE MEMORY TRICK:
-"Remember: JumpGame - Focus on efficiency and clarity"
+"Track farthest reach - if current > farthest, stuck"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of it as tracking how far you can explore, like a flashlight that illuminates further as you move.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* Single element -> return true
+* First element is 0 -> return false (unless only one element)
+* Can directly reach end -> return true
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use greedy approach
+2. Track maximum reachable index
+3. Check if current position is reachable
+4. Return true if can reach or exceed last index
 
 ========================================
 */
 
 package medium;
 
-import java.util.*;
-
 public class JumpGame {
     
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: JumpGame");
-        return "Solution completed";
-    }
-    
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
+    public static boolean canJump(int[] nums) {
+        int maxReach = 0;
+        int n = nums.length;
+        
+        for (int i = 0; i < n; i++) {
+            if (i > maxReach) {
+                return false;
+            }
+            maxReach = Math.max(maxReach, i + nums[i]);
+            if (maxReach >= n - 1) {
+                return true;
+            }
         }
-    }
-    
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
-        }
+        
+        return true;
     }
     
     public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
+        // Test Case 1
+        int[] nums1 = {2, 3, 1, 1, 4};
+        System.out.print("Input: ");
+        printArray(nums1);
+        System.out.println("Output: " + canJump(nums1));
+        System.out.println("Expected: true\n");
+        
+        // Test Case 2
+        int[] nums2 = {3, 2, 1, 0, 4};
+        System.out.print("Input: ");
+        printArray(nums2);
+        System.out.println("Output: " + canJump(nums2));
+        System.out.println("Expected: false\n");
+        
+        // Test Case 3
+        int[] nums3 = {0};
+        System.out.print("Input: ");
+        printArray(nums3);
+        System.out.println("Output: " + canJump(nums3));
+        System.out.println("Expected: true\n");
+        
+        // Test Case 4
+        int[] nums4 = {1, 0, 2};
+        System.out.print("Input: ");
+        printArray(nums4);
+        System.out.println("Output: " + canJump(nums4));
+        System.out.println("Expected: false\n");
+        
+        // Test Case 5
+        int[] nums5 = {2, 0, 0};
+        System.out.print("Input: ");
+        printArray(nums5);
+        System.out.println("Output: " + canJump(nums5));
+        System.out.println("Expected: true");
+    }
+    
+    private static void printArray(int[] arr) {
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]);
+            if (i < arr.length - 1) System.out.print(",");
         }
+        System.out.println("]");
     }
 }
