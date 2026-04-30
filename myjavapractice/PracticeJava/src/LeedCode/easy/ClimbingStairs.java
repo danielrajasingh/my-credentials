@@ -1,105 +1,122 @@
 /*
 ========================================
-[PROBLEM] ClimbingStairs
+[PROBLEM] Climbing Stairs
 [DIFFICULTY] EASY
-[TOPIC] Core Algorithm Problem
+[TOPIC] Math, Dynamic Programming, Memoization
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+You are climbing a staircase. It takes n steps to reach the top.
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+Example 1:
+Input: n = 2
+Output: 2
+Explanation: There are two ways: (1+1) or (2)
+
+Example 2:
+Input: n = 3
+Output: 3
+Explanation: There are three ways: (1+1+1), (1+2), (2+1)
+
+Example 3:
+Input: n = 4
+Output: 5
+Explanation: There are five ways: (1+1+1+1), (1+1+2), (1+2+1), (2+1+1), (2+2)
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- This is the Fibonacci sequence!
+- ways(n) = ways(n-1) + ways(n-2)
+- Base cases: ways(1)=1, ways(2)=2
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Handle base cases (n=1 return 1, n=2 return 2)
+   Step 2: Use dynamic programming
+   Step 3: dp[i] = dp[i-1] + dp[i-2]
+   Step 4: Optimize to O(1) space by tracking only two variables
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(n) - Single pass
+   Space Complexity: O(1) - Only two variables
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: n = 5
+Process:
+  i=1: ways=1
+  i=2: ways=2
+  i=3: ways=3 (2+1)
+  i=4: ways=5 (3+2)
+  i=5: ways=8 (5+3)
+Output: 8
 
 ONE-LINE MEMORY TRICK:
-"Remember: ClimbingStairs - Focus on efficiency and clarity"
+"Fibonacci - add previous two ways"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of climbing as building up from the bottom, each step can come from 1 or 2 steps below.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* n=1 -> return 1
+* n=2 -> return 2
+* n=0 -> return 1 (empty path)
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use iterative DP with O(1) space
+2. Track prev1 (ways to reach current) and prev2 (ways to reach previous)
+3. At each step, newWays = prev1 + prev2
+4. Shift prev2 to prev1, and newWays to prev2
 
 ========================================
 */
 
 package easy;
 
-import java.util.*;
-
 public class ClimbingStairs {
     
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: ClimbingStairs");
-        return "Solution completed";
-    }
-    
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
+    public static int climbStairs(int n) {
+        if (n <= 2) return n;
+        
+        int prev2 = 1;  // ways to reach step 1
+        int prev1 = 2;  // ways to reach step 2
+        
+        for (int i = 3; i <= n; i++) {
+            int curr = prev1 + prev2;
+            prev2 = prev1;
+            prev1 = curr;
         }
-    }
-    
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
-        }
+        
+        return prev1;
     }
     
     public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
-        }
+        // Test Case 1
+        int n1 = 2;
+        System.out.println("Input: n=" + n1);
+        System.out.println("Output: " + climbStairs(n1));
+        System.out.println("Expected: 2\n");
+        
+        // Test Case 2
+        int n2 = 3;
+        System.out.println("Input: n=" + n2);
+        System.out.println("Output: " + climbStairs(n2));
+        System.out.println("Expected: 3\n");
+        
+        // Test Case 3
+        int n3 = 4;
+        System.out.println("Input: n=" + n3);
+        System.out.println("Output: " + climbStairs(n3));
+        System.out.println("Expected: 5\n");
+        
+        // Test Case 4
+        int n4 = 5;
+        System.out.println("Input: n=" + n4);
+        System.out.println("Output: " + climbStairs(n4));
+        System.out.println("Expected: 8\n");
+        
+        // Test Case 5
+        int n5 = 1;
+        System.out.println("Input: n=" + n5);
+        System.out.println("Output: " + climbStairs(n5));
+        System.out.println("Expected: 1");
     }
 }

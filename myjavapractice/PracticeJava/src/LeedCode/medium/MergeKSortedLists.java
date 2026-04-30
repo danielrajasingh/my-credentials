@@ -1,105 +1,182 @@
 /*
 ========================================
-[PROBLEM] MergeKSortedLists
+[PROBLEM] Merge K Sorted Lists
 [DIFFICULTY] MEDIUM
-[TOPIC] Core Algorithm Problem
+[TOPIC] Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort
 ========================================
 
 PROBLEM EXPLANATION:
-Solve this LeetCode problem efficiently using appropriate data structures
-and algorithms. Focus on understanding the problem and implementing the
-optimal solution.
+You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
+Merge all the linked-lists into one sorted linked-list and return it.
+
+Example 1:
+Input: lists = [[1,4,5],[1,3,4],[2,6]]
+Output: [1,1,2,3,4,4,5,6]
+
+Example 2:
+Input: lists = []
+Output: []
+
+Example 3:
+Input: lists = [[]]
+Output: []
 
 KEY OBSERVATIONS / INTUITION:
-- Think about the constraints and input size
-- Consider edge cases and special conditions
-- Plan your approach before coding
+- Use divide and conquer: merge pairs of lists
+- Use priority queue: insert all heads, extract min, add next
+- Divide and conquer is more efficient: O(N log k)
 
 APPROACH (Step-by-Step):
-   Step 1: Analyze the problem
-   Step 2: Plan the algorithm
-   Step 3: Implement the solution
-   Step 4: Test with examples
+   Step 1: Handle edge cases (empty array, null elements)
+   Step 2: Use divide and conquer - merge pairs recursively
+   Step 3: Base case: single list return as is
+   Step 4: Merge two sorted lists helper function
 
 TIME & SPACE COMPLEXITY ANALYSIS:
-   Time Complexity:  O(n) - Linear or better depending on approach
-   Space Complexity: O(n) - May need auxiliary space
+   Time Complexity:  O(N log k) - where N is total nodes, k is number of lists
+   Space Complexity: O(1) - excluding output
 
 DRY RUN EXAMPLE:
-Input: Sample data
-Process: Apply algorithm steps
-Output: Expected result
+Input: [[1,4,5],[1,3,4],[2,6]]
+Process:
+  Merge [1,4,5] and [1,3,4] -> [1,1,3,4,4,5]
+  Merge [1,1,3,4,4,5] and [2,6] -> [1,1,2,3,4,4,5,6]
+Output: [1,1,2,3,4,4,5,6]
 
 ONE-LINE MEMORY TRICK:
-"Remember: MergeKSortedLists - Focus on efficiency and clarity"
+"Divide and conquer - merge pairs recursively"
 
 MENTAL VISUALIZATION:
-Picture the problem as a real-world scenario and trace through
-the algorithm step by step with a concrete example.
+Think of merging sorted decks of cards by repeatedly merging pairs.
 
 IMPORTANT EDGE CASES:
-* Empty input (null, empty array/string)
-* Single element
-* All same elements
-* Maximum constraints
+* Empty array -> return null
+* Array with empty lists -> skip them
+* Single list -> return as is
 
 SOLUTION STRATEGY:
-1. Understand problem completely
-2. Identify pattern and category
-3. Choose optimal data structure
-4. Implement core logic
-5. Handle all edge cases
-6. Test thoroughly
+1. Use divide and conquer approach
+2. Merge lists in pairs until one remains
+3. Helper: merge two sorted lists
 
 ========================================
 */
 
 package medium;
 
-import java.util.*;
+class ListNode23 {
+    int val;
+    ListNode23 next;
+    ListNode23(int val) { this.val = val; }
+}
 
 public class MergeKSortedLists {
     
-    // Main solving method
-    public static Object solve(Object input) {
-        if (input == null) return null;
-        System.out.println("Solving: MergeKSortedLists");
-        return "Solution completed";
+    public static ListNode23 mergeKLists(ListNode23[] lists) {
+        if (lists == null || lists.length == 0) return null;
+        return merge(lists, 0, lists.length - 1);
     }
     
-    // Helper method for input parsing
-    public static void parseInput(String[] args) {
-        if (args == null || args.length == 0) {
-            System.out.println("No input");
-            return;
-        }
+    private static ListNode23 merge(ListNode23[] lists, int left, int right) {
+        if (left == right) return lists[left];
+        if (left > right) return null;
+        
+        int mid = left + (right - left) / 2;
+        ListNode23 l1 = merge(lists, left, mid);
+        ListNode23 l2 = merge(lists, mid + 1, right);
+        return mergeTwoLists(l1, l2);
     }
     
-    // Helper method for output formatting
-    public static void formatOutput(Object result) {
-        if (result != null) {
-            System.out.println("Result: " + result.toString());
+    private static ListNode23 mergeTwoLists(ListNode23 l1, ListNode23 l2) {
+        ListNode23 dummy = new ListNode23(0);
+        ListNode23 curr = dummy;
+        
+        while (l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                curr.next = l1;
+                l1 = l1.next;
+            } else {
+                curr.next = l2;
+                l2 = l2.next;
+            }
+            curr = curr.next;
         }
+        
+        if (l1 != null) curr.next = l1;
+        if (l2 != null) curr.next = l2;
+        
+        return dummy.next;
     }
     
     public static void main(String[] args) {
-        try {
-            System.out.println("Test Case 1: Basic functionality");
-            Object result1 = solve("test");
-            formatOutput(result1);
-            System.out.println();
-            
-            System.out.println("Test Case 2: Edge case");
-            Object result2 = solve(null);
-            formatOutput(result2);
-            System.out.println();
-            
-            System.out.println("Test Case 3: Verify solution");
-            System.out.println("Solution verified!");
-            
-        } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
+        // Test Case 1
+        ListNode23[] lists1 = {
+            createList(new int[]{1, 4, 5}),
+            createList(new int[]{1, 3, 4}),
+            createList(new int[]{2, 6})
+        };
+        System.out.println("Input: [[1,4,5],[1,3,4],[2,6]]");
+        ListNode23 result1 = mergeKLists(lists1);
+        System.out.print("Output: ");
+        printList(result1);
+        System.out.println("Expected: 1->1->2->3->4->4->5->6\n");
+        
+        // Test Case 2
+        ListNode23[] lists2 = {};
+        System.out.println("Input: []");
+        ListNode23 result2 = mergeKLists(lists2);
+        System.out.println("Output: null");
+        System.out.println("Expected: null\n");
+        
+        // Test Case 3
+        ListNode23[] lists3 = {null};
+        System.out.println("Input: [[]]");
+        ListNode23 result3 = mergeKLists(lists3);
+        System.out.println("Output: null");
+        System.out.println("Expected: null\n");
+        
+        // Test Case 4
+        ListNode23[] lists4 = {createList(new int[]{1})};
+        System.out.println("Input: [[1]]");
+        ListNode23 result4 = mergeKLists(lists4);
+        System.out.print("Output: ");
+        printList(result4);
+        System.out.println("Expected: 1\n");
+        
+        // Test Case 5
+        ListNode23[] lists5 = {
+            createList(new int[]{1, 2, 3}),
+            createList(new int[]{4, 5, 6})
+        };
+        System.out.println("Input: [[1,2,3],[4,5,6]]");
+        ListNode23 result5 = mergeKLists(lists5);
+        System.out.print("Output: ");
+        printList(result5);
+        System.out.println("Expected: 1->2->3->4->5->6");
+    }
+    
+    private static ListNode23 createList(int[] arr) {
+        if (arr == null || arr.length == 0) return null;
+        ListNode23 head = new ListNode23(arr[0]);
+        ListNode23 curr = head;
+        for (int i = 1; i < arr.length; i++) {
+            curr.next = new ListNode23(arr[i]);
+            curr = curr.next;
         }
+        return head;
+    }
+    
+    private static void printList(ListNode23 head) {
+        if (head == null) {
+            System.out.println("null");
+            return;
+        }
+        ListNode23 curr = head;
+        while (curr != null) {
+            System.out.print(curr.val);
+            if (curr.next != null) System.out.print("->");
+            curr = curr.next;
+        }
+        System.out.println();
     }
 }

@@ -20,12 +20,12 @@
 18,Must Do Questions (1 - 500),"String, Stack",https://leetcode.com/problems/subarray-sum-equals-k,Easy,Fully Fixed
 19,Must Do Questions (1 - 500),"Array, Hash Table, Prefix Sum",https://leetcode.com/problems/house-robber,Medium,Fully Fixed
 20,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/longest-increasing-subsequence,Medium,Fully Fixed
-21,Must Do Questions (1 - 500),"Array, Binary Search, Dynamic Programming",https://leetcode.com/problems/reverse-linked-list,Medium
-22,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/maximum-product-subarray,Easy
-23,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/merge-k-sorted-lists,Medium
-24,Must Do Questions (1 - 500),"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort",https://leetcode.com/problems/merge-two-sorted-lists,Hard
-25,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/climbing-stairs,Easy
-26,Must Do Questions (1 - 500),"Math, Dynamic Programming, Memoization",https://leetcode.com/problems/coin-change,Easy
+21,Must Do Questions (1 - 500),"Array, Binary Search, Dynamic Programming",https://leetcode.com/problems/reverse-linked-list,Medium,Fully Fixed
+22,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/maximum-product-subarray,Easy,Fully Fixed
+23,Must Do Questions (1 - 500),"Array, Dynamic Programming",https://leetcode.com/problems/merge-k-sorted-lists,Medium,Fully Fixed
+24,Must Do Questions (1 - 500),"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort",https://leetcode.com/problems/merge-two-sorted-lists,Hard,Fully Fixed
+25,Must Do Questions (1 - 500),"Linked List, Recursion",https://leetcode.com/problems/climbing-stairs,Easy,Fully Fixed
+26,Must Do Questions (1 - 500),"Math, Dynamic Programming, Memoization",https://leetcode.com/problems/coin-change,Easy,Fully Fixed
 27,Must Do Questions (1 - 500),"Array, Dynamic Programming, Breadth-First Search",https://leetcode.com/problems/jump-game,Medium
 28,Must Do Questions (1 - 500),"Array, Dynamic Programming, Greedy",https://leetcode.com/problems/word-break,Medium
 29,Must Do Questions (1 - 500),"Hash Table, String, Dynamic Programming, Trie, Memoization",https://leetcode.com/problems/minimum-window-substring,Medium

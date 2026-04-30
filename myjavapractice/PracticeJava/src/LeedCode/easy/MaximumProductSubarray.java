@@ -130,7 +130,7 @@ public class MaximumProductSubarray {
         System.out.print("Input: ");
         printArray(nums5);
         System.out.println("Output: " + maxProduct(nums5));
-        System.out.println("Expected: -1");
+        System.out.println("Expected: 3");
     }
     
     private static void printArray(int[] arr) {

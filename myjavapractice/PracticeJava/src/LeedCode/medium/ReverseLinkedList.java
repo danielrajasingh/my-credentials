@@ -151,8 +151,3 @@ public class ReverseLinkedList {
         System.out.println();
     }
 }
-            System.err.println("Error: " + e.getMessage());
-            e.printStackTrace();
-        }
-    }
-}
